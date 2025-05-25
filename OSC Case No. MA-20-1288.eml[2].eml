@@ -1,0 +1,262 @@
+Delivered-To: femamax@gmail.com
+Received: by 2002:a37:a20e:0:0:0:0:0 with SMTP id l14csp4605236qke;
+        Tue, 14 Apr 2020 07:16:21 -0700 (PDT)
+X-Google-Smtp-Source: APiQypJXNoyy6/c2wnqMHw2Tuf90e9JJljW4mFxg7eHCCsHRjhFZ6VsK0m+fPdopecrlAUc4IMpw
+X-Received: by 2002:a37:8385:: with SMTP id f127mr21789336qkd.266.1586873781311;
+        Tue, 14 Apr 2020 07:16:21 -0700 (PDT)
+ARC-Seal: i=2; a=rsa-sha256; t=1586873781; cv=pass;
+        d=google.com; s=arc-20160816;
+        b=xHuVDdUHXbB41reUb7jrtIjddv1nWS400/MPKwiD4jE+etMP33Lmb9PXsaS+g8U4qR
+         4yr+/R0gh3rcE5qqkT/eQnEfxLwYdzB0osdxX/IeQX4iHGS5hWuuGHIGnwC8yZOITUGn
+         g+VGw6lWmbBmb0No/lMMH3SO9Sx/F2fMeVK7a+7AJN9IiOUxKOJoIDJdXwBapJBqmFsM
+         sHbrgBh+4Yke/nFA1r+KOUHvvHFcJGBYtoY6BAhlyqux4lJ4RdZK6JvB39Ti7hXNNRju
+         0f7e9n3vbTFa4ernfbMGPXIGbI3E7S2HkuN8oSReCUMn8QI5OIPTSUijrQuJMgRRfcMo
+         QO8Q==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=mime-version:content-language:accept-language:message-id:date
+         :thread-index:thread-topic:subject:to:from:dkim-signature;
+        bh=cB1cZ1j/6JdQ7XknflPKyTtZrT/qTwChLp7p4jkMOZw=;
+        b=WlxHJCkxxWlm4fGrfz1N0vFXouQGtJKlFj3LlSax7kc/YRaGM+INsMrZBbzHvfOmR/
+         qrmL73kFaVc2h+oHLvut+EfwpoOoo2KGYY2suRkQbAmeBcyWHz9xZnjLZVHDY+kbiceP
+         ZB7Y/O1KvlPZSiFFEMVpxczmLunlyQ9P+inZt1pMmsJsSatRJ14Y/IBla6theUZ9HcP1
+         q1RqGqU/mEDYzmHhZ74OnIWGWG06fvuCYN0eTFt0IiBJDw++yYJfJNBbYEBPgHyHxupa
+         Ga7gPn1oPmqnw376RB4xOCm+183JKAu2qepDIJpu0r4U6cWzWoq58dO2txCl6au7unwo
+         LWQg==
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@osc.gov header.s=selector2 header.b=b5zfJu+J;
+       arc=pass (i=1 spf=pass spfdomain=osc.gov dkim=pass dkdomain=osc.gov dmarc=pass fromdomain=osc.gov);
+       spf=pass (google.com: domain of mcvijanovic@osc.gov designates 40.107.89.68 as permitted sender) smtp.mailfrom=MCvijanovic@osc.gov;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=osc.gov
+Return-Path: <MCvijanovic@osc.gov>
+Received: from GCC02-BL0-obe.outbound.protection.outlook.com (mail-bl2gcc02on2068.outbound.protection.outlook.com. [40.107.89.68])
+        by mx.google.com with ESMTPS id h15si7291855qvx.35.2020.04.14.07.16.21
+        for <femamax@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 14 Apr 2020 07:16:21 -0700 (PDT)
+Received-SPF: pass (google.com: domain of mcvijanovic@osc.gov designates 40.107.89.68 as permitted sender) client-ip=40.107.89.68;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@osc.gov header.s=selector2 header.b=b5zfJu+J;
+       arc=pass (i=1 spf=pass spfdomain=osc.gov dkim=pass dkdomain=osc.gov dmarc=pass fromdomain=osc.gov);
+       spf=pass (google.com: domain of mcvijanovic@osc.gov designates 40.107.89.68 as permitted sender) smtp.mailfrom=MCvijanovic@osc.gov;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=osc.gov
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=h4P4QYm506ksQ3VG//E7VvqLVFqlF3E/dBHZuMP5wDcpoS+gs7fopiUAElzZxlLBbmmGkzZQtuQbYKcU+6KezXhxVnGIVgQG8ikR3YGQFOJucvT8q9U9/KMQeV35pkvbwn8kz6ybaG6NDxnGOkmOunh7pQuNT0DvurcsErwGW8R0xOA9A9gxUG3qfo2SpYN2vBgVbuvjAyw5Y09TtT6tQWXQMRkzqk1CP7wA5dQtNlHkWO9HuqifHxEV5/c6ynUKescQMWxMgdkpqyWCllxlr4CW0zIxqghxrHCnBUPCGLi1s7V1H3kd6H2dYplRZWCNiwFIPVV+mrn6ubnBnbCRGQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=cB1cZ1j/6JdQ7XknflPKyTtZrT/qTwChLp7p4jkMOZw=;
+ b=Jz9FsSHBi1CKZMY+ITpgDSDVCWMt/t/RAHnMuqEF0TmWtJmoyjWuEcyT3M9Sp7rdg14oaFVwIQlsPUqKlHUxFiDXz0sYFimfL24CVO4e7wCsg8ixWHy07tBpD5h+QHM6NoLG5sVL9UOQ9hnOlChvCnn96/FXK5yu25Ly9iuMLUbfZ3Rfa9+h64Hzplr8FrOX2i/yo5kIFT6OBR1pX44ialshJ50uyCOeZigsfbp875/jlqSnPJw//3zYXaeXOhZKg9pgaXcYTrfsyjOpXn2I9E79BWyVN+cwtKA6p3yTUwkwbSP+VAjf93Kf5dxtpYMghX53K6TDcvCsNgvV5V8v+A==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=osc.gov; dmarc=pass action=none header.from=osc.gov; dkim=pass
+ header.d=osc.gov; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=osc.gov; s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=cB1cZ1j/6JdQ7XknflPKyTtZrT/qTwChLp7p4jkMOZw=;
+ b=b5zfJu+JpCq4TI6TBZeWBnOK3TguZQ0MoGMJJhcc1s3QhsEHeMkDmi55avNTGz5Hz6dmRYoAITz5hcT547Nd24WYKpA4Ve9+lsEBcMrxQS/hi/MvXvURdgaw/rQSUE1xE6up/GrXESHXauv5TWYIH6hWkdhECYuXRxfUJPkX858=
+Received: from DM6PR09MB4901.namprd09.prod.outlook.com (2603:10b6:5:266::24)
+ by DM6PR09MB5319.namprd09.prod.outlook.com (2603:10b6:5:26b::11) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2900.24; Tue, 14 Apr
+ 2020 14:16:19 +0000
+Received: from DM6PR09MB4901.namprd09.prod.outlook.com
+ ([fe80::b4c0:4543:77ef:a30]) by DM6PR09MB4901.namprd09.prod.outlook.com
+ ([fe80::b4c0:4543:77ef:a30%5]) with mapi id 15.20.2900.028; Tue, 14 Apr 2020
+ 14:16:19 +0000
+From: "Cvijanovic, Marko" <MCvijanovic@osc.gov>
+To: Max <femamax@gmail.com>
+Subject: OSC Case No. MA-20-1288
+Thread-Topic: OSC Case No. MA-20-1288
+Thread-Index: AdYSZ0OlS2e51hhySMabZjuQ4fkTsg==
+Date: Tue, 14 Apr 2020 14:16:19 +0000
+Message-ID: <DM6PR09MB4901D9ACDE5BA2424075C4F7B2DA0@DM6PR09MB4901.namprd09.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: spf=none (sender IP is )
+ smtp.mailfrom=MCvijanovic@osc.gov; 
+x-originating-ip: [38.100.29.78]
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 57ed7e1a-5e3e-4d42-8531-08d7e07e673e
+x-ms-traffictypediagnostic: DM6PR09MB5319:
+x-microsoft-antispam-prvs: <DM6PR09MB531919BA0A56489AD2CFBAE5B2DA0@DM6PR09MB5319.namprd09.prod.outlook.com>
+x-ms-oob-tlc-oobclassifiers: OLM:10000;
+x-forefront-prvs: 0373D94D15
+x-forefront-antispam-report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:DM6PR09MB4901.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFTY:;SFS:(10009020)(366004)(9686003)(55016002)(26005)(2906002)(8676002)(81156014)(8936002)(6506007)(7696005)(6916009)(66946007)(66476007)(66446008)(64756008)(33656002)(498600001)(76116006)(71200400001)(66556008)(186003)(86362001)(52536014)(5660300002);DIR:OUT;SFP:1101;
+received-spf: None (protection.outlook.com: osc.gov does not designate
+ permitted sender hosts)
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info: jKqXSwcBd2+G4nmJljf9gadw4ouyW8hHsEG5JPns0AjLVikV39kLCD1PDZemgzBS9fqAEx5p5zaPDTR+uGSoJQInMD49XYQB5Ln4w+gZTV/UNkQlVIXrb29Pu5t+CRXyywoG1d6qkxR4r13aTEXIRxtJpHqtuwd9jB5epFzEj7SghU4GVilv8HdCJTuDx5jLq25JwyyxBg2kxgIjk7y+OppWW33O8b7+hsanfCYydE80XOoxtQ6Yw2WvPhEJ6Js5BMOeDFMuCkEIIJKwG9G/sEkqbpBZ2LpChK41x+IgKu5PrNPdhw53yht0CiA8/gUpV6A6FpZQTjhsP4pVjkPnCQyJwsuLxCbfIM5I/TUyAOyRYqcehvSwpXAPXTyreX1tz+A+L6VkEv6kYsNFiqgd4xnsHIZhpHAFIddFMaXatJOZQtq4uABJvVBui5cPaKsf
+x-ms-exchange-antispam-messagedata: aP5XaLLwHAf903dxngs4ww1+MBg4D7vTywMvrXIG6wjyaWnCZvJkHJvSq2NVv8/Jn/iLxCnZVxEOsZmLIbQsy8V+QAoKCfB3SQEOHmJ4x81chgh1bcQfb5P53qZ1OhmpWNTUuffC6LuDd21MgmcmyA==
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/alternative;
+	boundary="_000_DM6PR09MB4901D9ACDE5BA2424075C4F7B2DA0DM6PR09MB4901namp_"
+X-OriginatorOrg: osc.gov
+X-MS-Exchange-CrossTenant-Network-Message-Id: 57ed7e1a-5e3e-4d42-8531-08d7e07e673e
+X-MS-Exchange-CrossTenant-originalarrivaltime: 14 Apr 2020 14:16:19.7442
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 39dcbe17-c069-4d7c-8ad7-efbbedb5fc55
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: BHc3iQxwVj6HBgpyVsiuX9VCF1xuxqqGH3Y9IggcFHkUnISoJ9W1x8bSzuQ+Aoh1yI9YdFxyeEwwYEs30v7/pQ==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM6PR09MB5319
+MIME-Version: 1.0
+
+--_000_DM6PR09MB4901D9ACDE5BA2424075C4F7B2DA0DM6PR09MB4901namp_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hello Mr. Meindl:
+
+
+
+As you are aware, I have been investigating the above referenced OSC compla=
+int in which you allege that you were retaliated against for filing an EEO =
+complaint to FEMA's Director of Civil Rights and the Department of Homeland=
+ Security's EEOC Office, and for e-mailing FEMA's Chief of Staff Sandra Coo=
+ley regarding issues you had with management's processing of your FMLA requ=
+est. Specifically, you were retaliated against by not being selected for a =
+position of Task Force Lead and were written up for copying and pasting a c=
+o-worker's written response and sending it to another co-worker.
+
+
+While discrimination based on handicapping conditions, as well as reprisal =
+for filing an EEO complaint, are prohibited personnel practices, OSC's regu=
+lation 5 C.F.R. =A7 1810.1 notes that it was not intended for OSC to duplic=
+ate or bypass the procedures established by the agencies and the Equal Empl=
+oyment Opportunity Commission for resolving such allegations. Therefore, it=
+ is the general policy of the Special Counsel not to take action on such al=
+legations as they are more appropriately resolved through the EEO process. =
+Because of these constraints, we have made a determination to close your ca=
+se. Please understand that we are not saying your circumstances have been e=
+asy, ideal or completely fair.
+
+
+
+Best,
+
+Marko Cvijanovic
+Attorney
+U.S. Office of Special Counsel
+Dallas Field Office
+
+NOTICE:  This message and any attachments may contain information that is s=
+ensitive, confidential, or legally privileged.  If you are not the intended=
+ recipient, please immediately notify the sender and delete this email from=
+ your system; you should not copy, use, or disclose its contents.  Thank yo=
+u for your cooperation.
+
+
+--_000_DM6PR09MB4901D9ACDE5BA2424075C4F7B2DA0DM6PR09MB4901namp_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+p.-PAGE-, li.-PAGE-, div.-PAGE-
+	{mso-style-name:"- PAGE -";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"-PAGE-"><span style=3D"font-size:12.0pt">Hello Mr. Meindl:<o:p>=
+</o:p></span></p>
+<p class=3D"-PAGE-"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"-PAGE-"><span style=3D"font-size:12.0pt">As you are aware, I ha=
+ve been investigating the above referenced OSC complaint in which you alleg=
+e that you were retaliated against for filing an EEO complaint to FEMA&#821=
+7;s Director of Civil Rights and the Department
+ of Homeland Security&#8217;s EEOC Office, and for e-mailing FEMA&#8217;s C=
+hief of Staff Sandra Cooley regarding issues you had with management&#8217;=
+s processing of your FMLA request. Specifically, you were retaliated agains=
+t by not being selected for a position of Task Force
+ Lead and were written up for copying and pasting a co-worker&#8217;s writt=
+en response and sending it to another co-worker.
+<o:p></o:p></span></p>
+<p class=3D"-PAGE-"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif">While discrimination based on handicapping condi=
+tions, as well as reprisal for filing an EEO complaint, are prohibited pers=
+onnel practices, OSC&#8217;s regulation 5 C.F.R. =A7 1810.1
+ notes that it was not intended for OSC to duplicate or bypass the procedur=
+es established by the agencies and the Equal Employment Opportunity Commiss=
+ion for resolving such allegations. Therefore, it is the general policy of =
+the Special Counsel not to take
+ action on such allegations as they are more appropriately resolved through=
+ the EEO process. Because of these constraints, we have made a determinatio=
+n to close your case. Please understand that we are not saying your circums=
+tances have been easy, ideal or
+ completely fair.<o:p></o:p></span></p>
+<p class=3D"-PAGE-"><span style=3D"font-size:12.0pt"><o:p>&nbsp;</o:p></spa=
+n></p>
+<p class=3D"-PAGE-"><span style=3D"font-size:12.0pt">Best,<o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif">Marko Cvijanovic<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif">Attorney<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif">U.S. Office of Special Counsel<o:p></o:p></span>=
+</p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif">Dallas Field Office
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;font-family:&quot;Ti=
+mes New Roman&quot;,serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><i><span style=3D"font-size:12.0pt;font-family:&quot=
+;Times New Roman&quot;,serif">NOTICE:&nbsp; This message and any attachment=
+s may contain information that is sensitive, confidential, or legally privi=
+leged.&nbsp; If you are not the intended recipient, please
+ immediately notify the sender and delete this email from your system; you =
+should not copy, use, or disclose its contents.&nbsp; Thank you for your co=
+operation.<o:p></o:p></span></i></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_DM6PR09MB4901D9ACDE5BA2424075C4F7B2DA0DM6PR09MB4901namp_--
