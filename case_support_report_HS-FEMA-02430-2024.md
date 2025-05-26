@@ -1,6 +1,6 @@
 # EEOC Case Support Analysis Report
 ## Case: HS-FEMA-02430-2024
-**Generated**: 2025-05-25 03:07:59
+**Generated**: 2025-05-25 21:29:09
 
 ## Executive Summary
 
@@ -11,13 +11,6 @@ This report provides cross-referenced supporting evidence from EEOC statistical 
 
 ## Case Documents Analyzed
 
-- **Election%20Letter%20-%20HS-FEMA-02430-2024.pdf** (election_letter)
-- **LOA%20HS-FEMA-02430-2024.pdf** (acceptance_letter)
-- **ROI%20HS-FEMA-02430-2024%20Part%201%20(1)-compressed.pdf** (investigation_report)
-- **ROI%20HS-FEMA-02430-2024%20Part%202-compressed.pdf** (investigation_report)
-- **eeoc%20complaint%20signed-rev1-min-bookmarked_compressed.pdf** (complaint)
-- **Form%20462%20Complaints%20Table%20List.docx** (complaint)
-- **Rebuttal%20to%20Affidavits%20of%20Witnesses.pdf** (rebuttal)
 
 ## Supporting Evidence by Claim Type
 
