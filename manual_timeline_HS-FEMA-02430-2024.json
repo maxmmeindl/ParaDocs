@@ -1,0 +1,141 @@
+{
+  "case_number": "HS-FEMA-02430-2024",
+  "created": "2025-05-25T03:29:44.074678",
+  "events": [
+    {
+      "date": "2024-01-15",
+      "type": "accommodation_request",
+      "subject": "Initial Accommodation Request",
+      "from": "Max J. Meindl III",
+      "to": "FEMA Management",
+      "description": "Request for reasonable accommodation under ADA",
+      "keywords": [
+        "accommodation",
+        "ADA",
+        "disability"
+      ],
+      "documents": [
+        "Initial request email/letter"
+      ],
+      "response_time": null
+    },
+    {
+      "date": "2024-02-28",
+      "type": "denial",
+      "subject": "Accommodation Denial",
+      "from": "FEMA HR/Management",
+      "to": "Max J. Meindl III",
+      "description": "Denial of accommodation request",
+      "keywords": [
+        "denial",
+        "accommodation"
+      ],
+      "documents": [
+        "Denial letter"
+      ],
+      "response_time": 44
+    },
+    {
+      "date": "2024-03-15",
+      "type": "eeo_activity",
+      "subject": "EEO Complaint Filed",
+      "from": "Max J. Meindl III",
+      "to": "EEOC",
+      "description": "Filed formal EEO complaint HS-FEMA-02430-2024",
+      "keywords": [
+        "EEO",
+        "complaint",
+        "discrimination"
+      ],
+      "documents": [
+        "eeoc complaint signed-rev1-min-bookmarked_compressed.pdf"
+      ],
+      "response_time": null
+    },
+    {
+      "date": "2024-04-01",
+      "type": "eeo_activity",
+      "subject": "Letter of Acceptance",
+      "from": "EEOC",
+      "to": "Max J. Meindl III",
+      "description": "EEOC accepts complaint for investigation",
+      "keywords": [
+        "acceptance",
+        "investigation"
+      ],
+      "documents": [
+        "LOA HS-FEMA-02430-2024.pdf"
+      ],
+      "response_time": null
+    },
+    {
+      "date": "2024-08-01",
+      "type": "eeo_activity",
+      "subject": "Report of Investigation Completed",
+      "from": "EEOC Investigator",
+      "to": "Parties",
+      "description": "ROI completed and provided to parties",
+      "keywords": [
+        "ROI",
+        "investigation",
+        "report"
+      ],
+      "documents": [
+        "ROI HS-FEMA-02430-2024 Part 1.pdf",
+        "ROI HS-FEMA-02430-2024 Part 2.pdf"
+      ],
+      "response_time": null
+    },
+    {
+      "date": "2024-09-01",
+      "type": "eeo_activity",
+      "subject": "Election Letter",
+      "from": "Max J. Meindl III",
+      "to": "EEOC",
+      "description": "Election to proceed to hearing",
+      "keywords": [
+        "election",
+        "hearing",
+        "AJ"
+      ],
+      "documents": [
+        "Election Letter - HS-FEMA-02430-2024.pdf"
+      ],
+      "response_time": null
+    },
+    {
+      "date": "2024-09-15",
+      "type": "eeo_activity",
+      "subject": "Rebuttal to Witness Affidavits",
+      "from": "Max J. Meindl III",
+      "to": "EEOC/FEMA",
+      "description": "Rebuttal to witness statements in ROI",
+      "keywords": [
+        "rebuttal",
+        "witness",
+        "affidavit"
+      ],
+      "documents": [
+        "Rebuttal to Affidavits of Witnesses.pdf"
+      ],
+      "response_time": null
+    },
+    {
+      "date": "2024-10-01",
+      "type": "eeo_activity",
+      "subject": "Change of Venue Request",
+      "from": "Max J. Meindl III/Representative",
+      "to": "EEOC",
+      "description": "Request to change venue for proceedings",
+      "keywords": [
+        "venue",
+        "change",
+        "request"
+      ],
+      "documents": [
+        "Subject-CHANGE OF VENUE REQUEST.docx"
+      ],
+      "response_time": null
+    }
+  ]
+}

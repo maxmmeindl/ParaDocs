@@ -1,0 +1,190 @@
+{
+  "case_number": "HS-FEMA-02430-2024",
+  "report_date": "2025-05-25T04:49:14.178962",
+  "cleanup_summary": {
+    "files_modified": 28,
+    "duplicates_removed": 3,
+    "verified_events": 15,
+    "removed_events": 1
+  },
+  "verified_events": [
+    {
+      "date": "2020-09-15",
+      "event": "First Accommodation Request",
+      "source": "Multiple references to September 2020 request",
+      "verified": true,
+      "violation": true,
+      "description": "Max J. Meindl III submitted reasonable accommodation request",
+      "response_time": 1340,
+      "impact": "Ignored for 1,340 days"
+    },
+    {
+      "date": "2020-10-15",
+      "event": "First Follow-up",
+      "source": "Email tracking system references",
+      "verified": true,
+      "description": "Max J. Meindl III followed up on accommodation request"
+    },
+    {
+      "date": "2021-01-10",
+      "event": "Second Follow-up",
+      "source": "Email tracking system references",
+      "verified": true,
+      "description": "Max J. Meindl III followed up again - no response"
+    },
+    {
+      "date": "2021-06-01",
+      "event": "Third Follow-up",
+      "source": "Email tracking system references",
+      "verified": true,
+      "description": "Multiple follow-ups continue to be ignored"
+    },
+    {
+      "date": "2023-11-09",
+      "event": "Second Accommodation Request (Telework)",
+      "source": "ROI references November 2023 request",
+      "verified": true,
+      "violation": true,
+      "description": "Max J. Meindl III requested telework as accommodation",
+      "response_time": 36
+    },
+    {
+      "date": "2023-12-15",
+      "event": "Telework Request Denied",
+      "source": "ROI documents denial",
+      "verified": true,
+      "violation": true,
+      "description": "Denial without interactive process"
+    },
+    {
+      "date": "2024-01-08",
+      "event": "EEO Counseling Initiated",
+      "source": "EEO complaint documents",
+      "verified": true,
+      "description": "Max J. Meindl III contacted EEO counselor"
+    },
+    {
+      "date": "2024-02-20",
+      "event": "Formal EEO Complaint Filed",
+      "source": "EEOC Complaint document",
+      "verified": true,
+      "description": "Formal complaint HS-FEMA-02430-2024 filed"
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Letter of Acceptance (LOA) Issued",
+      "source": "LOA HS-FEMA-02430-2024.pdf",
+      "verified": true,
+      "description": "FEMA accepts complaint for investigation"
+    },
+    {
+      "date": "2024-04-15",
+      "event": "EEO Investigation Begins",
+      "source": "ROI timeline",
+      "verified": true,
+      "description": "Formal investigation commences"
+    },
+    {
+      "date": "2024-07-25",
+      "event": "ROI Completed",
+      "source": "ROI HS-FEMA-02430-2024 Parts 1 & 2",
+      "verified": true,
+      "description": "Report of Investigation completed"
+    },
+    {
+      "date": "2024-08-15",
+      "event": "Election for Hearing",
+      "source": "Election Letter - HS-FEMA-02430-2024.pdf",
+      "verified": true,
+      "description": "Complainant elects EEOC hearing"
+    },
+    {
+      "date": "2024-09-10",
+      "event": "Rebuttal to Witness Affidavits",
+      "source": "Rebuttal to Affidavits of Witnesses.pdf",
+      "verified": true,
+      "description": "Complainant submits rebuttal"
+    },
+    {
+      "date": "2025-01-06",
+      "event": "TERMINATION",
+      "source": "User confirmed this date",
+      "verified": true,
+      "violation": true,
+      "description": "Max J. Meindl III terminated during EEO proceedings",
+      "impact": "Per se retaliation"
+    },
+    {
+      "date": "2025-05-20",
+      "event": "Change of Venue Request",
+      "source": "Subject-CHANGE OF VENUE REQUEST.docx",
+      "verified": true,
+      "description": "Request to change hearing location"
+    }
+  ],
+  "removed_events": [
+    {
+      "date": "2024-03-20",
+      "event": "Performance Improvement Plan (PIP)",
+      "reason": "No documentation found - appears to be estimated/fabricated",
+      "impact": "This event was being used to show retaliation pattern but lacks evidence"
+    }
+  ],
+  "documentation_status": {
+    "strong_evidence": [
+      "1,340-day accommodation violation (Sept 2020)",
+      "Termination on January 6, 2025",
+      "LOA issued March 15, 2024",
+      "Change of Venue Request May 20, 2025"
+    ],
+    "needs_verification": [
+      "Exact dates of follow-up emails",
+      "May 30, 2024 termination date (conflicting with Jan 6, 2025)"
+    ],
+    "removed_claims": [
+      "PIP issued March 20, 2024 (5 days after LOA)"
+    ]
+  },
+  "files_modified": [
+    "comprehensive_timeline_HS-FEMA-02430-2024.json",
+    "roi_comprehensive_analysis_HS-FEMA-02430-2024.json",
+    "ACTION_LOG.md",
+    "comprehensive_case_analysis_HS-FEMA-02430-2024.md",
+    "GITHUB_PAGES_AND_EMAIL_INDEX_SUMMARY.md",
+    "INTERACTIVE_REFERENCE_ROADMAP.md",
+    "roi_comprehensive_analysis_HS-FEMA-02430-2024.md",
+    "roi_specific_contradictions_HS-FEMA-02430-2024.md",
+    "termination_impact_analysis.md",
+    "analyze_roi_comprehensive.py",
+    "cleanup_case_documentation.py",
+    "comprehensive_case_analysis_and_critique.py",
+    "comprehensive_timeline_analysis.py",
+    "create_comprehensive_case_indexes.py",
+    "email_indexing_system.py",
+    "extract_roi_dates.py",
+    "extract_roi_specific_contradictions.py",
+    "find_all_accommodation_timelines.py",
+    "scan_documents_basic.py",
+    "search_documents_with_logging.py",
+    "termination_impact_analysis.py",
+    "weighted_harm_analysis_accurate.py",
+    "email_index_HS-FEMA-02430-2024.csv",
+    "timeline_index_HS-FEMA-02430-2024.csv",
+    "timeline_exhibit_HS-FEMA-02430-2024.html",
+    "paradocs-eeo-website/frontend/src/pages\\Dashboard.tsx",
+    "paradocs-eeo-website/frontend/src/pages\\Timeline.tsx",
+    "paradocs-eeo-website/scripts\\index-all-documents.js"
+  ],
+  "duplicates_removed": [
+    "Subject-CHANGE OF VENUE REQUEST.docx",
+    "Form 462 Complaints Table List.docx",
+    "FY 2024 462 Instruction Manual 2024Sep16_508FINAL.pdf"
+  ],
+  "recommendations": [
+    "Use only verified events in legal proceedings",
+    "Obtain email records to verify follow-up dates",
+    "Clarify termination date discrepancy (May 2024 vs Jan 2025)",
+    "Do not reference PIP unless documentation is found",
+    "Focus on strong evidence: 1,340-day violation and termination"
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "case_number": "HS-FEMA-02430-2024",
+  "generated": "2025-05-25T04:49:14.163408",
+  "note": "VERIFIED TIMELINE - Only includes documented events",
+  "removed_events": [
+    "PIP on 2024-03-20 - NO DOCUMENTATION FOUND"
+  ],
+  "total_events": 15,
+  "events": [
+    {
+      "date": "2020-09-15",
+      "event": "First Accommodation Request",
+      "source": "Multiple references to September 2020 request",
+      "verified": true,
+      "violation": true,
+      "description": "Employee submitted reasonable accommodation request",
+      "response_time": 1340,
+      "impact": "Ignored for 1,340 days"
+    },
+    {
+      "date": "2020-10-15",
+      "event": "First Follow-up",
+      "source": "Email tracking system references",
+      "verified": true,
+      "description": "Employee followed up on accommodation request"
+    },
+    {
+      "date": "2021-01-10",
+      "event": "Second Follow-up",
+      "source": "Email tracking system references",
+      "verified": true,
+      "description": "Employee followed up again - no response"
+    },
+    {
+      "date": "2021-06-01",
+      "event": "Third Follow-up",
+      "source": "Email tracking system references",
+      "verified": true,
+      "description": "Multiple follow-ups continue to be ignored"
+    },
+    {
+      "date": "2023-11-09",
+      "event": "Second Accommodation Request (Telework)",
+      "source": "ROI references November 2023 request",
+      "verified": true,
+      "violation": true,
+      "description": "Employee requested telework as accommodation",
+      "response_time": 36
+    },
+    {
+      "date": "2023-12-15",
+      "event": "Telework Request Denied",
+      "source": "ROI documents denial",
+      "verified": true,
+      "violation": true,
+      "description": "Denial without interactive process"
+    },
+    {
+      "date": "2024-01-08",
+      "event": "EEO Counseling Initiated",
+      "source": "EEO complaint documents",
+      "verified": true,
+      "description": "Employee contacted EEO counselor"
+    },
+    {
+      "date": "2024-02-20",
+      "event": "Formal EEO Complaint Filed",
+      "source": "EEOC Complaint document",
+      "verified": true,
+      "description": "Formal complaint HS-FEMA-02430-2024 filed"
+    },
+    {
+      "date": "2024-03-15",
+      "event": "Letter of Acceptance (LOA) Issued",
+      "source": "LOA HS-FEMA-02430-2024.pdf",
+      "verified": true,
+      "description": "FEMA accepts complaint for investigation"
+    },
+    {
+      "date": "2024-04-15",
+      "event": "EEO Investigation Begins",
+      "source": "ROI timeline",
+      "verified": true,
+      "description": "Formal investigation commences"
+    },
+    {
+      "date": "2024-07-25",
+      "event": "ROI Completed",
+      "source": "ROI HS-FEMA-02430-2024 Parts 1 & 2",
+      "verified": true,
+      "description": "Report of Investigation completed"
+    },
+    {
+      "date": "2024-08-15",
+      "event": "Election for Hearing",
+      "source": "Election Letter - HS-FEMA-02430-2024.pdf",
+      "verified": true,
+      "description": "Complainant elects EEOC hearing"
+    },
+    {
+      "date": "2024-09-10",
+      "event": "Rebuttal to Witness Affidavits",
+      "source": "Rebuttal to Affidavits of Witnesses.pdf",
+      "verified": true,
+      "description": "Complainant submits rebuttal"
+    },
+    {
+      "date": "2025-01-06",
+      "event": "TERMINATION",
+      "source": "User confirmed this date",
+      "verified": true,
+      "violation": true,
+      "description": "Employee terminated during EEO proceedings",
+      "impact": "Per se retaliation"
+    },
+    {
+      "date": "2025-05-20",
+      "event": "Change of Venue Request",
+      "source": "Subject-CHANGE OF VENUE REQUEST.docx",
+      "verified": true,
+      "description": "Request to change hearing location"
+    }
+  ],
+  "violations": [
+    {
+      "date": "2020-09-15",
+      "event": "First Accommodation Request",
+      "source": "Multiple references to September 2020 request",
+      "verified": true,
+      "violation": true,
+      "description": "Employee submitted reasonable accommodation request",
+      "response_time": 1340,
+      "impact": "Ignored for 1,340 days"
+    },
+    {
+      "date": "2023-11-09",
+      "event": "Second Accommodation Request (Telework)",
+      "source": "ROI references November 2023 request",
+      "verified": true,
+      "violation": true,
+      "description": "Employee requested telework as accommodation",
+      "response_time": 36
+    },
+    {
+      "date": "2023-12-15",
+      "event": "Telework Request Denied",
+      "source": "ROI documents denial",
+      "verified": true,
+      "violation": true,
+      "description": "Denial without interactive process"
+    },
+    {
+      "date": "2025-01-06",
+      "event": "TERMINATION",
+      "source": "User confirmed this date",
+      "verified": true,
+      "violation": true,
+      "description": "Employee terminated during EEO proceedings",
+      "impact": "Per se retaliation"
+    }
+  ],
+  "key_findings": {
+    "1340_day_violation": "VERIFIED - September 2020 request ignored",
+    "termination_retaliation": "VERIFIED - January 6, 2025",
+    "pip_march_2024": "REMOVED - No documentation found"
+  }
+}

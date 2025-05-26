@@ -1,0 +1,298 @@
+Delivered-To: femamax@gmail.com
+Received: by 2002:a05:7010:4212:b0:422:2a8f:9d38 with SMTP id c18csp4602493mde;
+        Mon, 23 Dec 2024 09:31:46 -0800 (PST)
+X-Google-Smtp-Source: AGHT+IFR3mUuSSnS6wt3gfI08vw9RCNsObt9UILExpz5QCWcyxZ6aFT6eDmPNeJGpO6psNTuv2a1
+X-Received: by 2002:a05:6820:22a8:b0:5f6:4ce2:fa59 with SMTP id 006d021491bc7-5f64ce2fcd7mr3492708eaf.4.1734975105916;
+        Mon, 23 Dec 2024 09:31:45 -0800 (PST)
+ARC-Seal: i=2; a=rsa-sha256; t=1734975105; cv=pass;
+        d=google.com; s=arc-20240605;
+        b=NoWefqy+kQWrh5fZSYIWhvtCr5DBfsW+fNt2QcUkpMPvgHoP9EtBX9ncCiDOjJNlLL
+         KKyzKePCtESZvSsI35cDGqjrn/B0dJ2Ek/KP3OwYWW2GF6Hy6vjvupIbrISARGfdox6s
+         vnBlmZhhS2khIMrfg8oR9j7vFVDm/OM+OzlMNNJxTeg/NwrW8txIIcXhZ8CxlB1hLtRw
+         idNGO0A0wmp3+C4bpsc2jkeCPw2/jibVYePCIvCXNMKuNj5QbqxrIg/0iCcYB/rYwHC2
+         1t169dDrDLa1EtlhUC8jjfnx4zL+kUHQaa1f26lteYVCCc/Mb9bLkoRMjY7rgALcH5P3
+         yZHg==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=mime-version:auto-submitted:in-reply-to:references:message-id:date
+         :thread-index:thread-topic:subject:to:from:dkim-signature;
+        bh=wFamhHywtv2erygkUfaAfcPHziU5arAkY/66pUHHVP4=;
+        fh=ElzKTr8L+XvZ7ezXfxionlJ09zOcWGqpWZhO2q7c9do=;
+        b=DS1ITz6D/u1PY5c5dEDkp8aFL7wgbPXIzfMKhld8ahLntFn037SlRUWk1qNcEIvRp2
+         h+gn658vyUxJduAVK71v1zCNgjr63rkD6RCnlSNAkGMml1TyQvzm/Ut7i4TfucVwU0aG
+         8LQkqgE71rQC5ZTmFWUUEamqsALcAbIaPo7Q7FiwswdQBsuwlolhB8ezaKaLHcWDZlA6
+         QI/xdPTxkD8R/24MW/RqmH1BY7tY6+0smBVXvJq6c/0gky4Pk9sJxncQSJkZVpDrs9rA
+         sb7WTK4GgqFtQcZAuef2B8Son50Mw6m6BZtKcvd9RErq2PddII9OC5UePbKsTP3BPvNI
+         rZzQ==;
+        dara=google.com
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@fema.dhs.gov header.s=select1 header.b="N/bs4yf2";
+       arc=pass (i=1 dkim=pass dkdomain=fema.dhs.gov dmarc=pass fromdomain=fema.dhs.gov);
+       spf=none (google.com: postmaster@mx0e-00376703.gpphosted.com does not designate permitted sender hosts) smtp.helo=mx0e-00376703.gpphosted.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=fema.dhs.gov
+Return-Path: <>
+Received: from mx0e-00376703.gpphosted.com (mx0e-00376703.gpphosted.com. [67.231.147.98])
+        by mx.google.com with ESMTPS id 006d021491bc7-5f4db843930si5994643eaf.73.2024.12.23.09.31.45
+        for <femamax@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 23 Dec 2024 09:31:45 -0800 (PST)
+Received-SPF: none (google.com: postmaster@mx0e-00376703.gpphosted.com does not designate permitted sender hosts) client-ip=67.231.147.98;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@fema.dhs.gov header.s=select1 header.b="N/bs4yf2";
+       arc=pass (i=1 dkim=pass dkdomain=fema.dhs.gov dmarc=pass fromdomain=fema.dhs.gov);
+       spf=none (google.com: postmaster@mx0e-00376703.gpphosted.com does not designate permitted sender hosts) smtp.helo=mx0e-00376703.gpphosted.com;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=fema.dhs.gov
+Received: from pps.filterd (m0190658.ppops.net [127.0.0.1])
+	by mx0e-00376703.gpphosted.com (8.18.1.2/8.18.1.2) with ESMTP id 4BNB0Dnq015055
+	for <femamax@gmail.com>; Mon, 23 Dec 2024 17:31:45 GMT
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=fema.dhs.gov; h=from : to : subject
+ : date : message-id : references : in-reply-to : content-type :
+ mime-version; s=select1; bh=wFamhHywtv2erygkUfaAfcPHziU5arAkY/66pUHHVP4=;
+ b=N/bs4yf2MtpBtga6X5VsWYcgi1PWGjdmx1ndJUauraGBCmDzadycZJcwdJBemFyAuOKH
+ y8yZMLqJde0fpwvCNePfh2a+rVzsezNJ6J1z27bAKUvDeBhkEg0kxvY7lIEy3cKRlGtJ
+ HYtUHCf5wd45aT7tjXyG4pA1EXQ4dd419Qv5eWYD+pqvU4ZDuS6FQVC4a0TQka7eh1K6
+ C83uMNbJK/GCFaexNYwJk4utSj9pMuk/7rrxj7KbXCo8nTno7fUgp/p8xJ5AhP+5glTD
+ zoQUggqX6Zrpn7cj6kHByTN0nR6rYK5V7r5BVFTs07bUBjvQsd12sOizOv4XmneY4VGV BQ== 
+Received: from bn8pr09cu001.outbound.protection.outlook.com (mail-eastus2azlp17012053.outbound.protection.outlook.com [40.93.12.53])
+	by mx0e-00376703.gpphosted.com (PPS) with ESMTPS id 43p7cuy8jm-1
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <femamax@gmail.com>; Mon, 23 Dec 2024 17:31:44 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=Goy1zaa/wIfscoIdEjKd3S5mkJmzA840PkPj1kKiI1qyCUfmKDO71tKajgq5PKUzeYIC/qbQjf7vUeaXPK8DwJzCmkMyGNE1PYRLX2Ou8X7es2RtGqxFSoINWSAnzEVmJ5Y8/QJSrI76WDzVLLUnXJICistjGA7xwvY6mWWytWLkbWnqgRUuyaQqHKu1koCX2QtL4q2ju35FTW9IyBEJ7iMTsnZ5iaHDVZlyjMV2pjmklzYt3c7k2U9VfL5xQ0HQyKV24wiwGf/FNOr8H94mr79s4DddaGsamcV4b+5fP3q4Cdyd8Oe0czFADjPcipWjIW6gQ9IH2hscw5HWY7giHw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=wFamhHywtv2erygkUfaAfcPHziU5arAkY/66pUHHVP4=;
+ b=ZR0UEk8cDTP3wiGNIl+oW0JopSQs3v0fJ+WymvFZmgx5ZulTV8XlWxt+RK3k0LMrGaT6wX9IIqWaR357Xmk/9IZfG7wGM08nahzI44zavzlSkV+JqOUzaUNE1ckD47RFg8EvaZ7j7esMZy0xQ1nQWcYM4pY+iWXB2C8ncGgnvTh6GB44Dd7gFel7Io+VhZURFzgH6yqDyF4KggE+URD3UJF63tJBpSMaD1c7Yshlb0ec9/ZRQFR1hNd4Zyb7aAxXoTxIXtZWiQpnoMuiipR+RTm9Xsn78gTLhUKBjTuGMkpYFzrbMNwg2dIpd7WhS1Dvfq4d3O1gRzSCjL0co/9l+w==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=pass
+ action=none header.from=fema.dhs.gov; dkim=pass header.d=fema.dhs.gov;
+ arc=none
+Received: from SA0PR09MB6379.namprd09.prod.outlook.com (2603:10b6:806:aa::23)
+ by MW4PR09MB9441.namprd09.prod.outlook.com (2603:10b6:303:1f4::21) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8272.20; Mon, 23 Dec
+ 2024 17:31:38 +0000
+Received: from SA0PR09MB6379.namprd09.prod.outlook.com ([::1]) by
+ SA0PR09MB6379.namprd09.prod.outlook.com ([fe80::c8cc:6dc:a4c:9425%7]) with
+ Microsoft SMTP Server id 15.20.8272.013; Mon, 23 Dec 2024 17:31:38 +0000
+From: "Meindl, Max" <max.meindl@fema.dhs.gov>
+To: Max <femamax@gmail.com>
+Subject: Automatic reply: eeo
+Thread-Topic: eeo
+Thread-Index: AQHbVWCFU6teBqxIYUO9GXAiPw2zT7L0FkpP
+Date: Mon, 23 Dec 2024 17:31:38 +0000
+Message-ID: <f2238b4c5eb840f78409466539bfd01d@SA0PR09MB6379.namprd09.prod.outlook.com>
+References: <CANK5+LnSFCfn+qYXMj=xGHKxsJK8Wfp6sYPc7t+Ogze1qsS3eg@mail.gmail.com>
+In-Reply-To: <CANK5+LnSFCfn+qYXMj=xGHKxsJK8Wfp6sYPc7t+Ogze1qsS3eg@mail.gmail.com>
+X-MS-Has-Attach:
+X-Auto-Response-Suppress: All
+X-MS-Exchange-Inbox-Rules-Loop: max.meindl@fema.dhs.gov
+X-MS-TNEF-Correlator:
+x-ms-exchange-parent-message-id: <CANK5+LnSFCfn+qYXMj=xGHKxsJK8Wfp6sYPc7t+Ogze1qsS3eg@mail.gmail.com>
+auto-submitted: auto-generated
+x-ms-exchange-generated-message-source: Mailbox Rules Agent
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: SA0PR09MB6379:EE_|MW4PR09MB9441:EE_
+x-ms-office365-filtering-correlation-id: 1c69fd9c-a83b-4b1d-02dc-08dd2377a85d
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;ARA:13230040|50650200027|10070799003|1800799024|366016|8096899003|80100003;
+x-microsoft-antispam-message-info: =?Windows-1252?Q?OyQjMA93vwr2Lyu+qfV9NPTYfjKj0UKz+eWRi1tBjR5UXrgVTdA2/Yn3?=
+ =?Windows-1252?Q?QATOzXWzniHFCiqHiaZg7Z5oCAd8ikNuJMfrZTaYdxfUm7atGxaZN812?=
+ =?Windows-1252?Q?Bg7Q9y/cFn56Ajmg8WIdT+Tgey5T/2Rbjr+M7DiRfgR0SLGPssaA8sDN?=
+ =?Windows-1252?Q?7c0MR5z0LqIcCnyBhXKYRFdMpC4aZazNqWEZFCAvOPcS0I/1LG4eT2je?=
+ =?Windows-1252?Q?ViLHJQzOfvCqdi2C6IxyDc9uV4GS1erA/OSluIx0huFziOud9xKQWybc?=
+ =?Windows-1252?Q?A/xkXFyFjPewQYTdHJW+OEKXTJtvwX/Cn/4ki8ek7G3inC2SY75UxnR2?=
+ =?Windows-1252?Q?1xTLg2G+5pKq28R11NFcn6UgnCRqMv3c8C5+HmLIql/WEScrZHjp1ZgN?=
+ =?Windows-1252?Q?d5qMQYPlL2dCnEc7VgNDd0WLhu5wWYzPdcNy2fRLhoxsTp6u9SEZXdQy?=
+ =?Windows-1252?Q?32dwoSdPHgZ6jtN7b4W1zCs0s92OB0azoRrPUMILERUaHx/yNO15JtP+?=
+ =?Windows-1252?Q?iiE6GSEv6d2dQsaSqLcrxFODrjWCMfL3h/wB5RR/bM08TK9o+suHEp1n?=
+ =?Windows-1252?Q?RElNaKOhhmgSf86kgRS40L7GnVxA2qBkBE6RxElD/po14+xr5nJQncVs?=
+ =?Windows-1252?Q?rOCrKp5qR6Vf3qaCEd630fP9Mc/d/AmKkSf5/cxgy0wa7DWemLGC0CZb?=
+ =?Windows-1252?Q?FwqrsbVIjDWesiTaZT0s05GzcsUVWfudkYC/YBRqVOF9BkZ+AhbesCVt?=
+ =?Windows-1252?Q?2hp/z+fbXMmh6gPSDTrx3k8MW3ocPuRwTr4ob9qMizsU5RHneBwTK+G8?=
+ =?Windows-1252?Q?SILlIABRsQKepRSJ8QZC14//8tGSXckret1srWLFRx92b1YH2xMmHeJM?=
+ =?Windows-1252?Q?S07GPn9ihJrL3oTouXY/tg/GBpYr4RNKIrvfqpx6p4Bv3ZMe0P43cN26?=
+ =?Windows-1252?Q?LGxrIVEqO618VqcyMzOAx4xX6nI8YZmbzcQ8l40DM4UgdMjt3VQdV5Li?=
+ =?Windows-1252?Q?RIx/rdGGI14/jcWr09MUh9qMJ1NeNEWM6QblKnZLDsupwweIiL/8SAfP?=
+ =?Windows-1252?Q?vjLeAKSUI/peHgdZPzhFVWGUnzGuuAt5O9OTZFGhKPmy34D+rkGDVFV2?=
+ =?Windows-1252?Q?+2FCUnZa0dPrEB7blFUaGrBuaVGNRmEnKndTZWjdXcT/w3bPjqLCWcpN?=
+ =?Windows-1252?Q?XkC7iMvZq733wZa8MsdyvaCP99PTzH0Laf3JNgd0ivTP6M/LDS0lt3fy?=
+ =?Windows-1252?Q?OL3h7Kgi2oBGKFEAqt7tmIp6k4oi7vjtVe4GsoSEOlz2aMdnjsOdbTT5?=
+ =?Windows-1252?Q?Yxarxaf79VmCbiBonfFijsNcjei+fWtL0ZBO2vUuB1d816hyokqpeDuJ?=
+ =?Windows-1252?Q?/+5G9PqBQRCbsfjOVYupsK7bzOl6gQcmN9/9Ha8BVVem5rTVZ6Kracr/?=
+ =?Windows-1252?Q?x+S7AF7f64LhmPqAK/o3VeY1Di5uBI+SauW4WTHFwSkvhUpTiv//P2C7?=
+ =?Windows-1252?Q?RGahto/C?=
+x-forefront-antispam-report: CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SA0PR09MB6379.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230040)(50650200027)(10070799003)(1800799024)(366016)(8096899003)(80100003);DIR:OUT;SFP:1501;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0: JtK+KMUWCwgreG/Mwo2HwKmO8GOqoueyoG75n8m+x3tahXZKc+kBn9toYD6w9u7NU4lrFuC8COYm9WVGGIki4dt6Zd0enMjqMn3XnFD8pc6K3Xq2rSijUqvAjboC6V3kJO5cgu2gqXVyuAitX4fo4gCLJP6PV6sCFbAMhmMnCaGDc7zs5e/4/cVYKrFES5/Y//CayNZvPY/GzjEQ4NcKSyb4QWLwQtBYldtABZtKKAq7DCSuqeWPuPyVStsbt/qZZaOCP7L/oMf62JbxmsZmZBpnvewvX1vMBbZ7F6XYfjC/YHm9W8b2yQJKJT8FzsFU
+Content-Type: multipart/alternative;
+	boundary="_000_f2238b4c5eb840f78409466539bfd01dSA0PR09MB6379namprd09pr_"
+X-OriginatorOrg: fema.dhs.gov
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: SA0PR09MB6379.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 1c69fd9c-a83b-4b1d-02dc-08dd2377a85d
+X-MS-Exchange-CrossTenant-originalarrivaltime: 23 Dec 2024 17:31:38.8922
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2863bcaf-4433-4a95-89dd-302e4b0159a1
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MW4PR09MB9441
+X-Proofpoint-GUID: XEBWZyGDxBQdtywPubgGdoIjvgfARn7k
+X-Proofpoint-ORIG-GUID: XEBWZyGDxBQdtywPubgGdoIjvgfARn7k
+X-Proofpoint-Virus-Version: vendor=baseguard
+ engine=ICAP:2.0.293,Aquarius:18.0.1057,Hydra:6.0.680,FMLib:17.12.68.34
+ definitions=2024-12-23_07,2024-12-23_01,2024-11-22_01
+X-Proofpoint-Spam-Details: rule=outbound_notspam policy=outbound score=0 malwarescore=0 phishscore=0
+ ndrscore=0 priorityscore=1501 adjustscore=0 mlxlogscore=776 suspectscore=0
+ impostorscore=0 spamscore=0 adultscore=0 bulkscore=0 clxscore=1031
+ lowpriorityscore=0 mlxscore=0 classifier=spam adjust=0 reason=mlx
+ scancount=1 engine=8.12.0-2411120000 definitions=main-2412230156
+MIME-Version: 1.0
+
+--_000_f2238b4c5eb840f78409466539bfd01dSA0PR09MB6379namprd09pr_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+I am out of the office and will return at 07:00 on 01/01/2025.
+
+Thank you for your assistance.
+___________________________________
+Max J Meindl, PMP
+Emergency Management Specialist | PDTFL
+DHS |FEMA | Regional Offices | Region Six | Recovery Division | Public Assi=
+stance Branch | Field Ops Team
+Duty Station: ROR| Region 6
+Mobile: 202-374-9426
+max.meindl@fema.dhs.gov<mailto:max.meindl@fema.dhs.gov>
+
+
+Federal Emergency Management Agency
+www.FEMA.gov<http://www.fema.gov/>
+
+
+WARNING: This email contains FOR OFFICIAL USE ONLY (FOUO) OR PRIVACY DATA.
+It may contain information exempt from public release under the Freedom of =
+Information Act (5 U.S.C. 552).
+The information contained herein must be controlled, stored, handled, trans=
+mitted, distributed, and disposed of in accordance with DHS policy relating=
+ to FOUO/PII information and is not to be released to the public or other p=
+ersonnel who do not have a valid =93need-to-know=94 without prior approval =
+of an authorized DHS official.
+
+
+
+--_000_f2238b4c5eb840f78409466539bfd01dSA0PR09MB6379namprd09pr_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"Calibri Light";
+	panose-1:2 15 3 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style>
+</head>
+<body lang=3D"EN-US" link=3D"#0563C1" vlink=3D"#954F72" style=3D"word-wrap:=
+break-word">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal" style=3D"margin-bottom:8.0pt;line-height:105%;text-a=
+utospace:none">
+I am out of the office and will return at 07:00 on 01/01/2025.&nbsp;<o:p></=
+o:p></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-fa=
+mily:&quot;Calibri Light&quot;,sans-serif;color:#1F4E79"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"color:#=
+1F3864">Thank you for your assistance.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"color:#=
+1F3864">___________________________________</span><i><span style=3D"font-si=
+ze:10.0pt;color:#1F497D"><o:p></o:p></span></i></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:10.0pt;font-family:&quot;Calibri Light&quot;,sans-serif;color:#1F3864">M=
+ax J Meindl, PMP<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:9.0pt;font-family:&quot;Calibri Light&quot;,sans-serif;color:#1F3864">Em=
+ergency Management Specialist | PDTFL<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:9.0pt;font-family:&quot;Calibri Light&quot;,sans-serif;color:#1F3864">DH=
+S |FEMA | Regional Offices | Region Six | Recovery Division | Public Assist=
+ance Branch | Field Ops Team<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:9.0pt;font-family:&quot;Calibri Light&quot;,sans-serif;color:#1F3864">Du=
+ty Station: ROR| Region 6<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:9.0pt;color:#2F5496">Mobile: 202-374-9426<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:9.0pt;color:#1F497D"><a href=3D"mailto:max.meindl@fema.dhs.gov"><span st=
+yle=3D"color:#0563C1">max.meindl@fema.dhs.gov</span></a><o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"color:#=
+1F497D"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"color:#=
+1F497D">Federal Emergency Management Agency
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"color:#=
+1F497D"><a href=3D"http://www.fema.gov/"><span style=3D"color:#0563C1">www.=
+FEMA.gov</span></a><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-fa=
+mily:&quot;Times New Roman&quot;,serif;color:#1F497D"><o:p>&nbsp;</o:p></sp=
+an></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-fa=
+mily:&quot;Times New Roman&quot;,serif;color:#1F497D"><o:p>&nbsp;</o:p></sp=
+an></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:red">WARNING</=
+span><span style=3D"font-size:7.0pt;font-family:&quot;Times New Roman&quot;=
+,serif;color:blue">: This email contains FOR OFFICIAL USE ONLY
+ (FOUO) OR PRIVACY DATA.&nbsp; <o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:blue">It may c=
+ontain information exempt from public release under the Freedom of Informat=
+ion Act (5 U.S.C. 552).&nbsp;
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:7.0pt;font-family:&quot;Times New Roman&quot;,serif;color:blue">The info=
+rmation contained herein must be controlled, stored, handled, transmitted, =
+distributed, and disposed of in accordance with
+ DHS policy relating to FOUO/PII information and is not to be released to t=
+he public or other personnel who do not have a valid =93need-to-know=94 wit=
+hout prior approval of an authorized DHS official.</span><span style=3D"fon=
+t-size:7.0pt;color:#1F3864"><o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"font-si=
+ze:12.0pt;font-family:&quot;Times New Roman&quot;,serif"><o:p>&nbsp;</o:p><=
+/span></p>
+<p class=3D"MsoNormal" style=3D"text-autospace:none"><span style=3D"color:#=
+2F5496"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+
+--_000_f2238b4c5eb840f78409466539bfd01dSA0PR09MB6379namprd09pr_--

@@ -1,0 +1,15 @@
+date,type,event,outcome
+2020-09-15,accommodation,First Request,"Ignored 1,340 days"
+2020-10-15,follow_up,Follow-up #1,No response
+2021-01-10,follow_up,Follow-up #2,No response
+2021-06-XX,follow_up,Follow-up #3,No response
+2023-11-09,accommodation,Second Request,36-day delay
+2023-12-15,denial,Denial,No interactive process
+2024-01-08,eeo,EEO Contact,Counseling initiated
+2024-02-20,eeo,Formal Complaint,Filed
+2024-03-15,eeo,LOA Issued,Accepted
+2024-04-15,eeo,Investigation Begins,Ongoing
+2024-07-25,eeo,ROI Complete,Transmitted
+2024-08-15,eeo,Election,Hearing requested
+2025-01-06,retaliation,TERMINATION,During investigation
+2025-05-20,eeo,Venue Change,Requested

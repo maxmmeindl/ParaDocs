@@ -1,0 +1,45 @@
+{
+  "name": "paradocs-eeo-website",
+  "version": "1.0.0",
+  "description": "Interactive EEO Case Management System for Case HS-FEMA-02430-2024",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run dev",
+    "build": "npm run build:frontend && npm run build:backend",
+    "build:frontend": "cd frontend && npm run build",
+    "build:backend": "cd backend && npm run build",
+    "start": "npm run start:backend",
+    "start:backend": "cd backend && npm start",
+    "test": "npm run test:frontend && npm run test:backend",
+    "deploy": "npm run build && npm run deploy:gh-pages",
+    "deploy:gh-pages": "cd frontend && npm run deploy",
+    "analyze": "cd scripts && npm run analyze-all",
+    "index": "cd scripts && npm run index-documents"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/paradocs-eeo-website.git"
+  },
+  "keywords": [
+    "eeo",
+    "case-management",
+    "legal",
+    "ada",
+    "discrimination"
+  ],
+  "author": "Max",
+  "license": "PRIVATE"
+} 

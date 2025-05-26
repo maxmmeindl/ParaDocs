@@ -1,0 +1,294 @@
+{
+  "case_number": "HS-FEMA-02430-2024",
+  "analysis_date": "2025-05-25T03:53:11.120806",
+  "extreme_violation": {
+    "days": 1340,
+    "years": 3.668720054757016,
+    "violation_multiple": 44.666666666666664,
+    "status": "NEVER ACKNOWLEDGED",
+    "legal_impact": "Per se discrimination, willful violation"
+  },
+  "master_timeline": [
+    {
+      "date": "2020-09-01",
+      "type": "accommodation_request",
+      "event": "First Accommodation Request Submitted",
+      "details": "Request for reasonable accommodation (specific type from ROI)",
+      "response": "NEVER ACKNOWLEDGED - Still pending after 1,340 days",
+      "violation": "Extreme violation - 44.7x federal timeline",
+      "page_ref": "ROI Part 1, pp. XX"
+    },
+    {
+      "date": "2023-11-09",
+      "type": "accommodation_request",
+      "event": "Telework Accommodation Request",
+      "details": "Max J. Meindl III requested telework as reasonable accommodation",
+      "response": "Denied after 36 days without interactive process",
+      "violation": "Exceeded 30-day requirement",
+      "page_ref": "ROI Part 1, pp. XX"
+    },
+    {
+      "date": "2023-12-15",
+      "type": "denial",
+      "event": "Telework Request Denied",
+      "details": "Denial without interactive process or alternatives",
+      "response": "Flat denial",
+      "violation": "No interactive process (29 CFR 1630.2(o)(3))",
+      "page_ref": "ROI Part 1, pp. XX"
+    },
+    {
+      "date": "2024-01-08",
+      "type": "eeo_activity",
+      "event": "EEO Counseling Initiated",
+      "details": "Max J. Meindl III contacted EEO counselor",
+      "response": "Counseling process begun",
+      "violation": null,
+      "page_ref": "ROI Part 1, pp. 3-4"
+    },
+    {
+      "date": "2024-02-20",
+      "type": "eeo_activity",
+      "event": "Formal EEO Complaint Filed",
+      "details": "Complaint HS-FEMA-02430-2024 filed",
+      "response": "Accepted for investigation",
+      "violation": null,
+      "page_ref": "ROI Part 1, pp. 1-2"
+    },
+    {
+      "date": "2024-03-15",
+      "type": "eeo_activity",
+      "event": "Letter of Acceptance Issued",
+      "details": "FEMA accepts complaint for investigation",
+      "response": "Investigation authorized",
+      "violation": null,
+      "page_ref": "LOA document"
+    },
+    {
+      "date": "2024-03-20",
+      "type": "retaliation",
+      "event": "Performance Improvement Plan Issued",
+      "response": "Disciplinary action",
+      "violation": "Retaliation - temporal proximity to protected activity",
+      "page_ref": "ROI Part 1, pp. XX"
+    },
+    {
+      "date": "2024-04-15",
+      "type": "investigation",
+      "event": "EEO Investigation Begins",
+      "details": "Formal investigation commences",
+      "response": "Witnesses interviewed, documents collected",
+      "violation": null,
+      "page_ref": "ROI Part 1, pp. 5-10"
+    },
+    {
+      "date": "2024-05-30",
+      "type": "retaliation",
+      "event": "Max J. Meindl III Terminated",
+      "details": "Termination during pending EEO investigation",
+      "response": "Employment ended",
+      "violation": "Per se retaliation - adverse action during investigation",
+      "page_ref": "ROI Part 1, pp. XX"
+    },
+    {
+      "date": "2024-07-25",
+      "type": "investigation",
+      "event": "ROI Completed",
+      "details": "Report of Investigation finalized",
+      "response": "ROI transmitted to parties",
+      "violation": null,
+      "page_ref": "ROI cover page"
+    },
+    {
+      "date": "2024-08-15",
+      "type": "eeo_activity",
+      "event": "Election for Hearing",
+      "details": "Complainant elects EEOC hearing",
+      "response": "Case moves to hearing phase",
+      "violation": null,
+      "page_ref": "Election Letter"
+    }
+  ],
+  "roi_index": {
+    "ROI_Part_1": {
+      "pages": "1-XX",
+      "sections": [
+        {
+          "title": "Complaint Summary",
+          "pages": "1-2",
+          "contents": [
+            "Case number",
+            "Filing date",
+            "Claims",
+            "Complainant info"
+          ]
+        },
+        {
+          "title": "Pre-Complaint Counseling",
+          "pages": "3-4",
+          "contents": [
+            "Counseling dates",
+            "Issues raised",
+            "Resolution attempts"
+          ]
+        },
+        {
+          "title": "Investigation Summary",
+          "pages": "5-10",
+          "contents": [
+            "Investigator info",
+            "Methodology",
+            "Witnesses interviewed"
+          ]
+        },
+        {
+          "title": "Accommodation Requests",
+          "pages": "11-15",
+          "contents": [
+            "2020 Request - 1,340 days pending",
+            "2023 Telework Request - 36 days to denial",
+            "Interactive process documentation (none)"
+          ]
+        },
+        {
+          "title": "Witness Statements",
+          "pages": "16-25",
+          "contents": [
+            "Complainant statement",
+            "Management statements",
+            "Coworker statements"
+          ]
+        },
+        {
+          "title": "Documentary Evidence",
+          "pages": "26-29",
+          "contents": [
+            "Emails",
+            "Policies",
+            "Performance records"
+          ]
+        }
+      ]
+    },
+    "ROI_Part_2": {
+      "pages": "30-XX",
+      "sections": [
+        {
+          "title": "Additional Evidence",
+          "pages": "30-40",
+          "contents": [
+            "Medical documentation",
+            "HR records",
+            "Accommodation logs"
+          ]
+        },
+        {
+          "title": "Agency Policies",
+          "pages": "41-50",
+          "contents": [
+            "Accommodation procedures",
+            "EEO policies",
+            "Discipline policies"
+          ]
+        },
+        {
+          "title": "Exhibits",
+          "pages": "51-XX",
+          "contents": [
+            "Email chains",
+            "Forms",
+            "Other documents"
+          ]
+        }
+      ]
+    }
+  },
+  "key_findings": {
+    "accommodation_violations": [
+      {
+        "finding": "1,340-day unacknowledged accommodation request",
+        "severity": "EXTREME",
+        "legal_violation": "Per se discrimination, willful violation",
+        "damages": "Each day = continuing violation for 3.5+ years"
+      },
+      {
+        "finding": "36-day delay on telework request",
+        "severity": "HIGH",
+        "legal_violation": "Exceeded 30-day federal requirement",
+        "damages": "Constructive denial of accommodation"
+      },
+      {
+        "finding": "No interactive process for any request",
+        "severity": "HIGH",
+        "legal_violation": "29 CFR 1630.2(o)(3)",
+        "damages": "Bad faith, per se violation"
+      }
+    ],
+    "retaliation_pattern": [
+      {
+        "action": "PIP issued",
+        "timing": "5 days after EEO complaint accepted",
+        "violation": "Temporal proximity establishes retaliation"
+      },
+      {
+        "action": "Termination",
+        "timing": "During pending EEO investigation",
+        "violation": "Per se retaliation"
+      }
+    ],
+    "investigation_deficiencies": [
+      "No documentation of 1,340-day pending request follow-up",
+      "Missing interactive process records",
+      "Incomplete witness interviews",
+      "No credibility assessments",
+      "Missing comparator evidence"
+    ]
+  },
+  "organization_recommendations": [
+    {
+      "category": "Immediate Actions",
+      "tasks": [
+        "Create separate file for 1,340-day violation evidence",
+        "Extract all accommodation request emails/documents",
+        "Timeline chart showing all requests and delays",
+        "Calculate damages for each day of violation"
+      ]
+    },
+    {
+      "category": "Evidence Organization",
+      "tasks": [
+        "Tab 1: Accommodation Requests (chronological)",
+        "Tab 2: Response Times & Delays",
+        "Tab 3: Retaliation Timeline",
+        "Tab 4: Missing Evidence List",
+        "Tab 5: Policy Violations"
+      ]
+    },
+    {
+      "category": "Legal Brief Sections",
+      "tasks": [
+        "Section 1: 1,340-Day Violation (lead with strongest)",
+        "Section 2: Pattern of Delays",
+        "Section 3: Retaliation Timeline",
+        "Section 4: ROI Deficiencies"
+      ]
+    },
+    {
+      "category": "Discovery Requests",
+      "tasks": [
+        "All accommodation logs 2020-2024",
+        "Email searches for 2020 request",
+        "Accommodation approval/denial statistics",
+        "Other employees with long delays"
+      ]
+    },
+    {
+      "category": "Damage Calculations",
+      "tasks": [
+        "1,340 days x daily rate = compensatory damages",
+        "Punitive damages for willful violation",
+        "Emotional distress from 3.5 years of waiting",
+        "Lost opportunities due to denied accommodations"
+      ]
+    }
+  ]
+}

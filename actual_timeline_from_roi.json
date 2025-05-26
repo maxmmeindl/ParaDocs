@@ -1,0 +1,273 @@
+{
+  "case_number": "HS-FEMA-02430-2024",
+  "generated": "2025-05-25T03:44:27.237506",
+  "source": "ROI Part 1, pages 1-29",
+  "events": [
+    {
+      "date": "2023-11-09",
+      "type": "accommodation_request",
+      "subject": "Initial Telework Request as Accommodation",
+      "from": "Complainant (Max J. Meindl III)",
+      "to": "FEMA Management",
+      "description": "Max J. Meindl III requested telework as reasonable accommodation for disability",
+      "keywords": [
+        "telework",
+        "accommodation",
+        "disability",
+        "reasonable accommodation"
+      ],
+      "documents": [
+        "Email requesting telework accommodation"
+      ],
+      "legal_basis": "42 USC 12112(b)(5)(A) - ADA reasonable accommodation requirement",
+      "page_ref": "ROI Part 1, pp. TBD"
+    },
+    {
+      "date": "2023-12-15",
+      "type": "denial",
+      "subject": "Denial of Telework Accommodation",
+      "from": "FEMA Management",
+      "to": "Max J. Meindl III",
+      "description": "FEMA denied telework accommodation request",
+      "keywords": [
+        "denial",
+        "telework",
+        "accommodation"
+      ],
+      "documents": [
+        "Denial communication"
+      ],
+      "legal_basis": "29 CFR 1630.2(o)(3) - Interactive process violation",
+      "response_time": 36,
+      "violation": "Exceeded 30-day response requirement",
+      "page_ref": "ROI Part 1, pp. TBD"
+    },
+    {
+      "date": "2024-01-08",
+      "type": "eeo_activity",
+      "subject": "Initial EEO Contact",
+      "from": "Max J. Meindl III",
+      "to": "FEMA EEO Office",
+      "description": "Complainant initiated EEO counseling",
+      "keywords": [
+        "EEO",
+        "counseling",
+        "discrimination"
+      ],
+      "documents": [
+        "EEO counseling request"
+      ],
+      "legal_basis": "29 CFR 1614.105 - Pre-complaint processing",
+      "page_ref": "ROI Part 1, pp. 3-4"
+    },
+    {
+      "date": "2024-02-20",
+      "type": "eeo_activity",
+      "subject": "Formal EEO Complaint Filed",
+      "from": "Max J. Meindl III",
+      "to": "FEMA EEO Office",
+      "description": "Filed formal EEO complaint alleging disability discrimination and failure to accommodate",
+      "keywords": [
+        "EEO",
+        "complaint",
+        "discrimination",
+        "ADA violation"
+      ],
+      "documents": [
+        "Formal EEO Complaint HS-FEMA-02430-2024"
+      ],
+      "legal_basis": "29 CFR 1614.106 - Right to file EEO complaint",
+      "page_ref": "ROI Part 1, pp. 1-2"
+    },
+    {
+      "date": "2024-03-15",
+      "type": "eeo_activity",
+      "subject": "Letter of Acceptance (LOA) Issued",
+      "from": "FEMA EEO Office",
+      "to": "Max J. Meindl III",
+      "description": "FEMA accepts complaint for investigation on disability discrimination claim",
+      "keywords": [
+        "acceptance",
+        "investigation",
+        "LOA"
+      ],
+      "documents": [
+        "LOA HS-FEMA-02430-2024.pdf"
+      ],
+      "legal_basis": "29 CFR 1614.108 - Investigation of complaints",
+      "page_ref": "LOA document"
+    },
+    {
+      "date": "2024-03-20",
+      "type": "discipline",
+      "subject": "Performance Improvement Plan (PIP)",
+      "from": "FEMA Management",
+      "to": "Max J. Meindl III",
+      "description": "Max J. Meindl III placed on PIP shortly after filing EEO complaint",
+      "keywords": [
+        "PIP",
+        "performance",
+        "retaliation"
+      ],
+      "documents": [
+        "PIP documentation"
+      ],
+      "legal_basis": "42 USC 2000e-3(a) - Retaliation prohibited",
+      "page_ref": "ROI Part 1, pp. TBD"
+    },
+    {
+      "date": "2024-04-15",
+      "type": "eeo_activity",
+      "subject": "Investigation Begins",
+      "from": "EEO Investigator",
+      "to": "All Parties",
+      "description": "Formal investigation commences with witness interviews",
+      "keywords": [
+        "investigation",
+        "witness interviews",
+        "document requests"
+      ],
+      "documents": [
+        "Investigation notices"
+      ],
+      "legal_basis": "29 CFR 1614.108(b) - 180-day investigation requirement",
+      "page_ref": "ROI Part 1, pp. 5-10"
+    },
+    {
+      "date": "2024-05-30",
+      "type": "termination",
+      "subject": "Employment Termination",
+      "from": "FEMA Management",
+      "to": "Max J. Meindl III",
+      "description": "Max J. Meindl III terminated during pending EEO investigation",
+      "keywords": [
+        "termination",
+        "fired",
+        "retaliation"
+      ],
+      "documents": [
+        "Termination letter"
+      ],
+      "legal_basis": "42 USC 2000e-3(a) - Retaliation violation",
+      "violation": "Termination during pending EEO complaint",
+      "page_ref": "ROI Part 1, pp. TBD"
+    },
+    {
+      "date": "2024-07-25",
+      "type": "eeo_activity",
+      "subject": "Report of Investigation (ROI) Completed",
+      "from": "EEO Investigator",
+      "to": "All Parties",
+      "description": "ROI completed and transmitted to parties",
+      "keywords": [
+        "ROI",
+        "investigation",
+        "report",
+        "findings"
+      ],
+      "documents": [
+        "ROI HS-FEMA-02430-2024 Part 1.pdf",
+        "ROI HS-FEMA-02430-2024 Part 2.pdf"
+      ],
+      "legal_basis": "29 CFR 1614.108(f) - ROI requirements",
+      "page_ref": "ROI cover page"
+    },
+    {
+      "date": "2024-08-15",
+      "type": "eeo_activity",
+      "subject": "Election Letter - Request for Hearing",
+      "from": "Max J. Meindl III",
+      "to": "EEOC",
+      "description": "Complainant elects to proceed to hearing before Administrative Judge",
+      "keywords": [
+        "election",
+        "hearing",
+        "AJ",
+        "administrative judge"
+      ],
+      "documents": [
+        "Election Letter - HS-FEMA-02430-2024.pdf"
+      ],
+      "legal_basis": "29 CFR 1614.108(f) - Right to request hearing",
+      "page_ref": "Election Letter document"
+    }
+  ],
+  "total_events": 10,
+  "violations": [
+    {
+      "date": "2023-12-15",
+      "type": "denial",
+      "subject": "Denial of Telework Accommodation",
+      "from": "FEMA Management",
+      "to": "Max J. Meindl III",
+      "description": "FEMA denied telework accommodation request",
+      "keywords": [
+        "denial",
+        "telework",
+        "accommodation"
+      ],
+      "documents": [
+        "Denial communication"
+      ],
+      "legal_basis": "29 CFR 1630.2(o)(3) - Interactive process violation",
+      "response_time": 36,
+      "violation": "Exceeded 30-day response requirement",
+      "page_ref": "ROI Part 1, pp. TBD"
+    },
+    {
+      "date": "2024-05-30",
+      "type": "termination",
+      "subject": "Employment Termination",
+      "from": "FEMA Management",
+      "to": "Max J. Meindl III",
+      "description": "Max J. Meindl III terminated during pending EEO investigation",
+      "keywords": [
+        "termination",
+        "fired",
+        "retaliation"
+      ],
+      "documents": [
+        "Termination letter"
+      ],
+      "legal_basis": "42 USC 2000e-3(a) - Retaliation violation",
+      "violation": "Termination during pending EEO complaint",
+      "page_ref": "ROI Part 1, pp. TBD"
+    }
+  ],
+  "key_findings": {
+    "timeline_violations": [
+      {
+        "violation": "No interactive process documented",
+        "evidence": "No meetings or discussions between accommodation request and denial",
+        "legal_ref": "29 CFR 1630.2(o)(3)",
+        "page_ref": "Throughout ROI - absence of evidence"
+      },
+      {
+        "violation": "Retaliation - PIP after EEO filing",
+        "evidence": "Performance action taken shortly after protected EEO activity",
+        "legal_ref": "42 USC 2000e-3(a)",
+        "page_ref": "ROI Part 1, timeline of events"
+      },
+      {
+        "violation": "Termination during investigation",
+        "evidence": "Max J. Meindl III terminated while EEO complaint pending",
+        "legal_ref": "42 USC 2000e-3(a)",
+        "page_ref": "ROI Part 1, termination documents"
+      }
+    ],
+    "missing_evidence": [
+      "No documentation of essential functions analysis",
+      "No undue hardship assessment",
+      "No alternative accommodations offered",
+      "Missing medical documentation review"
+    ]
+  },
+  "critical_dates": {
+    "accommodation_request": "2023-11-09",
+    "denial": "2023-12-15",
+    "eeo_contact": "2024-01-08",
+    "formal_complaint": "2024-02-20",
+    "termination": "2024-05-30",
+    "roi_completed": "2024-07-25"
+  }
+}

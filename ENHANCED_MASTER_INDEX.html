@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Enhanced Master Index - ParaDocs Case HS-FEMA-02430-2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .header {
+            background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .search-container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+        .search-box {
+            width: 100%;
+            padding: 20px;
+            font-size: 18px;
+            border: 3px solid #3b82f6;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            transition: all 0.3s;
+        }
+        .search-box:focus {
+            outline: none;
+            border-color: #1e3a8a;
+            box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+        }
+        .search-suggestions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+        .suggestion {
+            background: #e0e7ff;
+            color: #3730a3;
+            padding: 8px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+        .suggestion:hover {
+            background: #3730a3;
+            color: white;
+        }
+        .filter-container {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+        }
+        .filter-btn {
+            padding: 10px 20px;
+            border: 2px solid #e5e7eb;
+            background: white;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .filter-btn:hover {
+            background: #f3f4f6;
+        }
+        .filter-btn.active {
+            background: #3b82f6;
+            color: white;
+            border-color: #3b82f6;
+        }
+        .section {
+            background: white;
+            padding: 25px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .section h2 {
+            color: #1e3a8a;
+            border-bottom: 3px solid #e5e7eb;
+            padding-bottom: 15px;
+            margin-bottom: 20px;
+        }
+        .file-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
+        }
+        .file-item {
+            padding: 20px;
+            background: #f8f9fa;
+            border-left: 5px solid #3b82f6;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            position: relative;
+        }
+        .file-item:hover {
+            background: #e5e7eb;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .file-item.timeline { border-left-color: #10b981; }
+        .file-item.report { border-left-color: #f59e0b; }
+        .file-item.analysis { border-left-color: #ef4444; }
+        .file-item.communication { border-left-color: #8b5cf6; }
+        .file-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin-top: 10px;
+        }
+        .tag {
+            background: #e0e7ff;
+            color: #4338ca;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+        }
+        .search-count {
+            background: #fef3c7;
+            color: #92400e;
+            padding: 10px 20px;
+            border-radius: 6px;
+            margin-bottom: 20px;
+            display: none;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            border-top: 4px solid #3b82f6;
+        }
+        .stat-value {
+            font-size: 36px;
+            font-weight: bold;
+            color: #1e3a8a;
+        }
+        .stat-label {
+            color: #6b7280;
+            margin-top: 5px;
+        }
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #6b7280;
+        }
+        a {
+            color: #3b82f6;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🔍 Enhanced Master Index - ParaDocs</h1>
+        <p>EEOC Case HS-FEMA-02430-2024 - Max J. Meindl III v. FEMA</p>
+        <p>Advanced Search with Comprehensive EEOC Vocabulary</p>
+    </div>
+
+    <div class="search-container">
+        <input type="text" 
+               class="search-box" 
+               id="searchBox" 
+               placeholder="🔍 Search using EEOC terms: telework, reasonable accommodation, retaliation, interactive process..."
+               onkeyup="performSearch()">
+        
+        <div class="search-suggestions">
+            <span class="suggestion" onclick="addSearchTerm('reasonable accommodation')">Reasonable Accommodation</span>
+            <span class="suggestion" onclick="addSearchTerm('telework')">Telework</span>
+            <span class="suggestion" onclick="addSearchTerm('retaliation')">Retaliation</span>
+            <span class="suggestion" onclick="addSearchTerm('interactive process')">Interactive Process</span>
+            <span class="suggestion" onclick="addSearchTerm('1340 days')">1,340 Days</span>
+            <span class="suggestion" onclick="addSearchTerm('termination')">Termination</span>
+            <span class="suggestion" onclick="addSearchTerm('EEO complaint')">EEO Complaint</span>
+            <span class="suggestion" onclick="addSearchTerm('disability')">Disability</span>
+            <span class="suggestion" onclick="addSearchTerm('discrimination')">Discrimination</span>
+            <span class="suggestion" onclick="addSearchTerm('Max J. Meindl III')">Max J. Meindl III</span>
+        </div>
+
+        <div class="filter-container">
+            <button class="filter-btn active" onclick="filterByType('all')">All Documents</button>
+            <button class="filter-btn" onclick="filterByType('timeline')">Timelines</button>
+            <button class="filter-btn" onclick="filterByType('report')">Reports</button>
+            <button class="filter-btn" onclick="filterByType('analysis')">Analysis</button>
+            <button class="filter-btn" onclick="filterByType('communication')">Communications</button>
+            <button class="filter-btn" onclick="filterByType('violation')">Violations</button>
+        </div>
+
+        <div class="search-count" id="searchCount"></div>
+    </div>
+
+    <div class="stats">
+        <div class="stat-card">
+            <div class="stat-value">$2.27M</div>
+            <div class="stat-label">Total Damages</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value">1,340</div>
+            <div class="stat-label">Days Accommodation Ignored</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value">8</div>
+            <div class="stat-label">Federal Violations</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value">70+</div>
+            <div class="stat-label">Communications Tracked</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-value">15</div>
+            <div class="stat-label">Key Timeline Events</div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>📊 Interactive Visualizations</h2>
+        <div class="file-grid" id="visualizations">
+            <div class="file-item timeline" data-tags="timeline telework accommodation request 1340 days delay violation interactive" onclick="window.open('COMPLETE_TIMELINE_INTERACTIVE.html', '_blank')">
+                <strong>📅 Complete Interactive Timeline</strong>
+                <p>All 15 verified events with violation tracking</p>
+                <div class="file-tags">
+                    <span class="tag">Timeline</span>
+                    <span class="tag">1,340 Days</span>
+                    <span class="tag">Violations</span>
+                </div>
+            </div>
+            <div class="file-item timeline" data-tags="timeline legal exhibit federal citations ada violation" onclick="window.open('timeline_exhibit_HS-FEMA-02430-2024.html', '_blank')">
+                <strong>📜 Legal Timeline Exhibit</strong>
+                <p>Formal timeline with federal law citations</p>
+                <div class="file-tags">
+                    <span class="tag">Legal</span>
+                    <span class="tag">ADA</span>
+                    <span class="tag">Citations</span>
+                </div>
+            </div>
+            <div class="file-item communication" data-tags="email communication teams phone calls meetings retaliation" onclick="window.open('COMPREHENSIVE_COMMUNICATION_TIMELINE.html', '_blank')">
+                <strong>📞 Comprehensive Communication Timeline</strong>
+                <p>ALL communications - emails, Teams, phone calls, meetings</p>
+                <div class="file-tags">
+                    <span class="tag">Communications</span>
+                    <span class="tag">Teams</span>
+                    <span class="tag">Phone</span>
+                </div>
+            </div>
+            <div class="file-item communication" data-tags="email index max meindl correspondence accommodation request" onclick="window.open('COMPLETE_EMAIL_INDEX.html', '_blank')">
+                <strong>📧 Complete Email Index</strong>
+                <p>35+ emails with actual names and response tracking</p>
+                <div class="file-tags">
+                    <span class="tag">Emails</span>
+                    <span class="tag">Max J. Meindl III</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>📄 Key Reports & Analysis</h2>
+        <div class="file-grid" id="reports">
+            <div class="file-item report" data-tags="verification report timeline pip false corrected max meindl" onclick="window.open('VERIFICATION_REPORT.md', '_blank')">
+                <strong>✅ Verification Report</strong>
+                <p>Corrected timeline with Max J. Meindl III name fixes</p>
+                <div class="file-tags">
+                    <span class="tag">Verified</span>
+                    <span class="tag">Corrected</span>
+                </div>
+            </div>
+            <div class="file-item analysis" data-tags="roi contradiction interactive process undue hardship ada violation" onclick="window.open('roi_contradictions_HS-FEMA-02430-2024.md', '_blank')">
+                <strong>🔍 ROI Contradiction Analysis</strong>
+                <p>Legal contradictions in Report of Investigation</p>
+                <div class="file-tags">
+                    <span class="tag">ROI</span>
+                    <span class="tag">Contradictions</span>
+                    <span class="tag">ADA</span>
+                </div>
+            </div>
+            <div class="file-item analysis" data-tags="harm analysis weighted score 830 disability discrimination damages" onclick="window.open('weighted_harm_analysis.md', '_blank')">
+                <strong>⚖️ Weighted Harm Analysis</strong>
+                <p>Harm scoring: 830/1000 - Extreme severity</p>
+                <div class="file-tags">
+                    <span class="tag">Harm Score</span>
+                    <span class="tag">Damages</span>
+                </div>
+            </div>
+            <div class="file-item report" data-tags="comprehensive case analysis fema eeo complaint discrimination" onclick="window.open('comprehensive_case_analysis_HS-FEMA-02430-2024.md', '_blank')">
+                <strong>📋 Comprehensive Case Analysis</strong>
+                <p>Full case analysis with strengths and critique</p>
+                <div class="file-tags">
+                    <span class="tag">Case Analysis</span>
+                    <span class="tag">FEMA</span>
+                </div>
+            </div>
+            <div class="file-item report" data-tags="federal citations ada rehabilitation act title vii laws" onclick="window.open('federal_citations_HS-FEMA-02430-2024.md', '_blank')">
+                <strong>📚 Federal Citations Guide</strong>
+                <p>All applicable federal laws and regulations</p>
+                <div class="file-tags">
+                    <span class="tag">Federal Law</span>
+                    <span class="tag">Citations</span>
+                </div>
+            </div>
+            <div class="file-item analysis" data-tags="termination impact retaliation damages front pay back pay" onclick="window.open('termination_impact_analysis.md', '_blank')">
+                <strong>💼 Termination Impact Analysis</strong>
+                <p>Financial impact of retaliatory termination</p>
+                <div class="file-tags">
+                    <span class="tag">Termination</span>
+                    <span class="tag">Retaliation</span>
+                    <span class="tag">Damages</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>🔧 Analysis Tools & Scripts</h2>
+        <div class="file-grid" id="tools">
+            <div class="file-item analysis" data-tags="roi finder contradiction interactive tool pattern search">
+                <strong>🔍 Interactive ROI Contradiction Finder</strong>
+                <p>interactive_roi_contradiction_finder.py</p>
+                <div class="file-tags">
+                    <span class="tag">Python</span>
+                    <span class="tag">ROI Analysis</span>
+                </div>
+            </div>
+            <div class="file-item analysis" data-tags="timeline analyzer comprehensive dates events violations">
+                <strong>📅 Timeline Analyzer</strong>
+                <p>comprehensive_timeline_analysis.py</p>
+                <div class="file-tags">
+                    <span class="tag">Timeline</span>
+                    <span class="tag">Analysis</span>
+                </div>
+            </div>
+            <div class="file-item analysis" data-tags="email indexer communication tracker correspondence">
+                <strong>📧 Email Indexing System</strong>
+                <p>email_indexing_system.py</p>
+                <div class="file-tags">
+                    <span class="tag">Email</span>
+                    <span class="tag">Tracking</span>
+                </div>
+            </div>
+            <div class="file-item analysis" data-tags="damage calculator compensation pecuniary non-pecuniary">
+                <strong>💰 Damage Calculator</strong>
+                <p>extract_roi_pages_and_damages.py</p>
+                <div class="file-tags">
+                    <span class="tag">Damages</span>
+                    <span class="tag">Calculator</span>
+                </div>
+            </div>
+            <div class="file-item analysis" data-tags="name fixer max meindl correction tool">
+                <strong>✏️ Name Error Fixer</strong>
+                <p>fix_all_name_errors.py</p>
+                <div class="file-tags">
+                    <span class="tag">Corrections</span>
+                    <span class="tag">Max J. Meindl III</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>📊 Data Files</h2>
+        <div class="file-grid" id="data">
+            <div class="file-item" data-tags="timeline data json comprehensive events violations" onclick="window.open('comprehensive_timeline_HS-FEMA-02430-2024.json', '_blank')">
+                <strong>Timeline Data (JSON)</strong>
+                <p>Complete timeline in JSON format</p>
+                <div class="file-tags">
+                    <span class="tag">JSON</span>
+                    <span class="tag">Timeline</span>
+                </div>
+            </div>
+            <div class="file-item" data-tags="master index case data all information" onclick="window.open('master_case_index_HS-FEMA-02430-2024.json', '_blank')">
+                <strong>Master Case Index</strong>
+                <p>All case data indexed</p>
+                <div class="file-tags">
+                    <span class="tag">Master Index</span>
+                    <span class="tag">JSON</span>
+                </div>
+            </div>
+            <div class="file-item" data-tags="evidence index csv documentation exhibits" onclick="window.open('evidence_index_HS-FEMA-02430-2024.csv', '_blank')">
+                <strong>Evidence Index (CSV)</strong>
+                <p>All evidence catalogued</p>
+                <div class="file-tags">
+                    <span class="tag">Evidence</span>
+                    <span class="tag">CSV</span>
+                </div>
+            </div>
+            <div class="file-item" data-tags="violations index federal ada title vii" onclick="window.open('violations_index_HS-FEMA-02430-2024.csv', '_blank')">
+                <strong>Violations Index (CSV)</strong>
+                <p>Federal violations list</p>
+                <div class="file-tags">
+                    <span class="tag">Violations</span>
+                    <span class="tag">Federal</span>
+                </div>
+            </div>
+            <div class="file-item" data-tags="damages index calculations breakdown compensation" onclick="window.open('damages_index_HS-FEMA-02430-2024.csv', '_blank')">
+                <strong>Damages Index (CSV)</strong>
+                <p>Detailed damage calculations</p>
+                <div class="file-tags">
+                    <span class="tag">Damages</span>
+                    <span class="tag">$2.27M</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>📚 Reference Documents</h2>
+        <div class="file-grid" id="reference">
+            <div class="file-item" data-tags="vocabulary search terms eeoc language glossary" onclick="window.open('EEOC_SEARCH_VOCABULARY.md', '_blank')">
+                <strong>📖 EEOC Search Vocabulary</strong>
+                <p>Comprehensive list of searchable EEOC terms</p>
+                <div class="file-tags">
+                    <span class="tag">Vocabulary</span>
+                    <span class="tag">Search Terms</span>
+                </div>
+            </div>
+            <div class="file-item" data-tags="name error analysis report corrections max meindl" onclick="window.open('NAME_ERROR_ANALYSIS_REPORT.md', '_blank')">
+                <strong>📝 Name Error Analysis Report</strong>
+                <p>Documentation of name corrections made</p>
+                <div class="file-tags">
+                    <span class="tag">Corrections</span>
+                    <span class="tag">Report</span>
+                </div>
+            </div>
+            <div class="file-item" data-tags="project analysis deep dive summary statistics" onclick="window.open('PROJECT_DEEP_DIVE_ANALYSIS.md', '_blank')">
+                <strong>🔬 Project Deep Dive Analysis</strong>
+                <p>Complete project analysis and statistics</p>
+                <div class="file-tags">
+                    <span class="tag">Analysis</span>
+                    <span class="tag">Statistics</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentFilter = 'all';
+        
+        function performSearch() {
+            const searchTerm = document.getElementById('searchBox').value.toLowerCase();
+            const allItems = document.querySelectorAll('.file-item');
+            let matchCount = 0;
+            
+            allItems.forEach(item => {
+                const tags = item.getAttribute('data-tags').toLowerCase();
+                const text = item.textContent.toLowerCase();
+                const fullText = tags + ' ' + text;
+                
+                // Check if search term matches
+                if (searchTerm === '' || fullText.includes(searchTerm)) {
+                    // Also check if it matches current filter
+                    if (currentFilter === 'all' || item.classList.contains(currentFilter)) {
+                        item.style.display = 'block';
+                        matchCount++;
+                    } else {
+                        item.style.display = 'none';
+                    }
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+            
+            // Update search count
+            const countDiv = document.getElementById('searchCount');
+            if (searchTerm !== '') {
+                countDiv.style.display = 'block';
+                countDiv.innerHTML = `Found <strong>${matchCount}</strong> documents matching "<strong>${searchTerm}</strong>"`;
+            } else {
+                countDiv.style.display = 'none';
+            }
+            
+            // Hide empty sections
+            const sections = document.querySelectorAll('.section');
+            sections.forEach(section => {
+                const visibleItems = section.querySelectorAll('.file-item:not([style*="none"])');
+                if (visibleItems.length === 0) {
+                    section.style.display = 'none';
+                } else {
+                    section.style.display = 'block';
+                }
+            });
+        }
+        
+        function addSearchTerm(term) {
+            document.getElementById('searchBox').value = term;
+            performSearch();
+        }
+        
+        function filterByType(type) {
+            currentFilter = type;
+            
+            // Update button states
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+            
+            // Rerun search with new filter
+            performSearch();
+        }
+        
+        // Add keyboard shortcut for search
+        document.addEventListener('keydown', function(e) {
+            if (e.ctrlKey && e.key === 'f') {
+                e.preventDefault();
+                document.getElementById('searchBox').focus();
+            }
+        });
+    </script>
+</body>
+</html> 

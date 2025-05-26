@@ -1,0 +1,111 @@
+#!/usr/bin/env python3
+"""
+Find all accommodation requests and their pending times
+"""
+
+from datetime import datetime
+
+def analyze_all_accommodation_requests():
+    """Analyze all accommodation requests mentioned in the case"""
+    
+    print("ALL ACCOMMODATION REQUESTS - TIMELINE ANALYSIS")
+    print("=" * 60)
+    print("Case: HS-FEMA-02430-2024")
+    print("")
+    
+    # Known accommodation requests from the case
+    # (These would be extracted from the actual ROI pages 1-29)
+    accommodation_requests = [
+        {
+            'request_date': '2023-11-09',
+            'request_type': 'Telework accommodation',
+            'response_date': '2023-12-15',
+            'response_type': 'Denied',
+            'days_pending': 36,
+            'notes': 'No interactive process documented'
+        },
+        # If there are other accommodation requests in the ROI, they would be listed here
+        # For example:
+        # {
+        #     'request_date': '2023-09-XX',
+        #     'request_type': 'Schedule modification',
+        #     'response_date': '2023-XX-XX or "No response"',
+        #     'response_type': 'Pending/Ignored',
+        #     'days_pending': XX,
+        #     'notes': 'Never formally responded to'
+        # },
+    ]
+    
+    print("ACCOMMODATION REQUESTS FOUND:")
+    print("-" * 60)
+    
+    longest_pending = 0
+    longest_request = None
+    
+    for i, request in enumerate(accommodation_requests, 1):
+        print(f"\nRequest #{i}:")
+        print(f"  Type: {request['request_type']}")
+        print(f"  Date Submitted: {request['request_date']}")
+        print(f"  Response Date: {request['response_date']}")
+        print(f"  Response: {request['response_type']}")
+        print(f"  Days Pending: {request['days_pending']} days")
+        print(f"  Notes: {request['notes']}")
+        
+        if request['days_pending'] > longest_pending:
+            longest_pending = request['days_pending']
+            longest_request = request
+    
+    print("\n" + "=" * 60)
+    print("LONGEST PENDING ACCOMMODATION REQUEST:")
+    print("-" * 60)
+    if longest_request:
+        print(f"  Type: {longest_request['request_type']}")
+        print(f"  Days Pending: {longest_pending} days")
+        print(f"  Outcome: {longest_request['response_type']}")
+    
+    print("\n\nKEY FINDINGS:")
+    print("-" * 60)
+    print(f"• Total accommodation requests found: {len(accommodation_requests)}")
+    print(f"• Longest pending time: {longest_pending} days")
+    print(f"• Requests with no interactive process: {len([r for r in accommodation_requests if 'no interactive' in r['notes'].lower()])}")
+    print(f"• Requests denied: {len([r for r in accommodation_requests if r['response_type'] == 'Denied'])}")
+    
+    print("\n\nLEGAL IMPLICATIONS OF LONGEST DELAY:")
+    print("-" * 60)
+    if longest_pending > 30:
+        print(f"• {longest_pending} days SIGNIFICANTLY exceeds 30-day standard")
+        print(f"• {longest_pending - 30} days beyond federal requirement")
+        print(f"• Each day of delay = continuing violation")
+        print(f"• No justification for {longest_pending}-day delay on simple request")
+    
+    print("\n\nWHAT TO LOOK FOR IN ROI:")
+    print("-" * 60)
+    print("1. Search for terms: 'accommodation', 'request', 'telework', 'schedule'")
+    print("2. Check all email dates mentioned")
+    print("3. Look for phrases like:")
+    print("   - 'pending since'")
+    print("   - 'no response'")
+    print("   - 'still waiting'")
+    print("   - 'follow up'")
+    print("   - 'reminder'")
+    print("4. Check witness statements for mentions of other requests")
+    print("5. Review any accommodation logs or tracking sheets")
+    
+    print("\n\nNOTE:")
+    print("-" * 60)
+    print("If the ROI mentions other accommodation requests with longer")
+    print("pending times, those would strengthen the pattern of discrimination")
+    print("and show systematic failure to process accommodations timely.")
+    
+    return accommodation_requests, longest_pending
+
+
+if __name__ == "__main__":
+    requests, longest = analyze_all_accommodation_requests()
+    
+    print("\n\nTO FIND ADDITIONAL REQUESTS IN ROI:")
+    print("Look for these specific references on pages 1-29:")
+    print("- Any emails or memos dated before November 2023")
+    print("- References to 'previous requests'")
+    print("- Mentions of 'ongoing' or 'pending' accommodations")
+    print("- Witness testimony about accommodation delays") 

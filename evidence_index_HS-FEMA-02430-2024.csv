@@ -1,0 +1,16 @@
+ID,Date,Category,Document,Description,Legal_Significance,Response_Time,Exhibit_Number
+EV-001,2020-09-15,Accommodation Request,Initial RA Request Email,Request for telework accommodation due to COVID-19 concerns,Start of 1340-day violation,1340 days,Exhibit A-1
+EV-002,2020-10-15,Follow-Up,First Follow-up Email,Follow-up on accommodation request after 30 days no response,Shows agency had notice,N/A,Exhibit A-2
+EV-003,2021-01-10,Follow-Up,Second Follow-up Email,Urgent: Still awaiting accommodation response,Pattern of ignoring requests,N/A,Exhibit A-3
+EV-004,2021-03-15,Follow-Up,Third Follow-up Email,6 months - no response on accommodation request,Evidence of deliberate indifference,N/A,Exhibit A-4
+EV-005,2023-11-09,Accommodation Request,Renewed RA Request,Second formal request for telework accommodation,36-day delay violation,36 days,Exhibit B-1
+EV-006,2023-12-15,Denial,RA Denial Email,Denial without interactive process,No interactive process violation,N/A,Exhibit B-2
+EV-007,2024-01-08,EEO Activity,EEO Counseling Request,Request for EEO counseling on discrimination,Protected activity begins,1 day,Exhibit C-1
+EV-008,2024-02-22,Retaliation,Performance Improvement Plan,PIP issued 45 days after EEO contact,Clear retaliation - temporal proximity,N/A,Exhibit D-1
+EV-009,2024-03-15,Investigation,ROI Document Request,Request for complete ROI documents,Incomplete ROI violation,N/A,Exhibit E-1
+EV-010,2024-05-30,Retaliation,Termination Notice,Notice of termination during EEO investigation,Per se retaliation,N/A,Exhibit D-2
+EV-011,2024-07-10,Privacy Violation,HIPAA Breach Document,Medical records disclosed without authorization,HIPAA violation - $15000 damage,N/A,Exhibit F-1
+EV-012,2024-08-15,Timeline Analysis,Violation Summary Report,Analysis showing 1340-day accommodation delay,Core liability evidence,N/A,Exhibit G-1
+EV-013,2024-09-01,Damages,Lost Wages Calculation,Calculation of $300000+ in lost wages,Economic damages evidence,N/A,Exhibit H-1
+EV-014,2024-10-15,Pattern Evidence,Email Thread Analysis,35+ emails showing pattern of discrimination,Systemic discrimination,N/A,Exhibit I-1
+EV-015,2025-01-06,Legal Analysis,Federal Violation Report,8 federal law violations documented,Multiple statutory violations,N/A,Exhibit J-1 

@@ -1,0 +1,49 @@
+Date,Event,Names Involved,Violation Type,Laws Violated,Days Delayed,Supporting Documents,Damages Impact
+2018-08-23,Initial RA Request RAR001234 Submitted,"Luz Fernandez, Sandra Maddox Britt, Detra Terry",Reasonable Accommodation,"FEMA Instruction 256-022-01, Rehabilitation Act §501",-,RAR001234 form,Pattern of neglect begins
+2018-09-06,HR Confusion about Blank Form,"Sandra Maddox Britt, Foudiya Henri",Procedural Delay,MD-110 §IV.A,14,Email chain,Unnecessary delay
+2018-09-21,Harassment Complaint HS-FEMA-01876 Filed,FEMA Office of Equal Rights,EEO Violation,MD-110 §III.A,-,Complaint form,Closed without investigation
+2018-10-15,Harassment Complaint Closed,FEMA Office of Equal Rights,Investigation Failure,MD-110 §III.A,-,Closure notice,Pattern of indifference
+2018-12-12,Escalation to Leadership - 111 Days,"Jamie McAllister, Winston Brathwaite, Nicole Oke",Timeline Violation,"FEMA Instruction 256-022-01, ADEA",111,Escalation email,Extreme delay
+2019-02-12,Second Escalation - 172 Days,Nicole Oke,Timeline Violation,"FEMA Manual 1430.1, Rehabilitation Act",172,Follow-up email,Surgery postponed
+2019-03-06,Misunderstanding as Full Telework,Nicole Oke,Process Failure,MD-110 §VI.A,196,Email response,Miscommunication
+2019-03-08,RAR001234 Denied After 196 Days,"Jamie McAllister, Detra Terry",Denial Without Process,"Rehabilitation Act §501, ADEA",196,Denial letter,No interactive process
+2019-05-01,FMLA Approved for COPD/CAD,"Jacqueline Gause, Angela Agaiby, Brian Slie",Medical Documentation,None - Establishes need,-,FMLA approval,Validates medical condition
+2019-05-23,Intermittent FMLA Denied,Dennis Alexander,FMLA Violation,"FMLA 29 C.F.R. §825.202",-,Denial notice,Restricts health management
+2020-03-15,COVID-19 Remote Work Begins,FEMA Management,Context,None - Shows capability,-,Work records,38 months successful remote
+2020-09-15,COVID Accommodation Request,FEMA RA Staff,Reasonable Accommodation,"ADA, Rehabilitation Act",-,RA request,Start of 1340-day violation
+2020-10-15,First Follow-up - No Response,FEMA RA Staff,Timeline Violation,FEMA Instruction 256-022-01,30,Follow-up email,Pattern continues
+2021-01-10,Second Follow-up - Still Ignored,FEMA RA Staff,Timeline Violation,MD-110 §IV.D,117,Follow-up email,Deliberate indifference
+2021-03-15,Third Follow-up - No Action,FEMA RA Staff,Timeline Violation,"Rehabilitation Act, ADEA",181,Follow-up email,Systemic failure
+2021-10-27,VSS Issues Acknowledged,Karina Aguilo,System Failure,MD-110 §III.A,-,Email acknowledgment,No corrective action
+2021-10-28,RAR0023278 Vaccine Exemption,FEMA RA Staff,Reasonable Accommodation,"Religious Freedom, ADA",-,RAR form,Still open 1275+ days
+2022-01-06,RAR0023261 Vaccine Exemption,"FEMA RA Staff, Todd Callender",Reasonable Accommodation,"Religious Freedom, ADA",-,RAR form,Name misspelled 1205+ days
+2022-04-20,Heart Attack - Notifies Supervisor,Richard Cain,Medical Emergency,None - Context,-,Medical records,No RA expedited
+2022-08-04,RAR0042452 100% Telework Request,"Miriam Aybar-Morales, Demarque Underhill",Reasonable Accommodation,"ADA, Rehabilitation Act",-,RAR form with endorsement,Supervisor endorses
+2022-08-05,Medical Documentation Rejected,Miriam Aybar-Morales,Process Violation,MD-110 §VI.C,1,Rejection email,Despite valid docs
+2022-08-15,Procedural Disarray Acknowledged,"Karina Aguilo, Alfred Malbrough, Andrew O'Donovan",System Failure,MD-110 §III.A,11,Email admission,No action taken
+2023-05-15,Remote Work Ends After 38 Months,FEMA Management,Context,None,-,Work records,Proves virtual capability
+2023-11-09,Renewed RA Request,FEMA RA Staff,Reasonable Accommodation,"ADA, Rehabilitation Act",-,RA request,After 3+ years silence
+2023-12-15,Denial Without Interactive Process,FEMA RA Staff,Process Violation,"Rehabilitation Act §501, MD-110",36,Denial notice,No discussion
+2024-01-02,RAR0046767 Permanent Telework,Not assigned,Reasonable Accommodation,"ADA, Rehabilitation Act",-,RAR form,161 days to assign
+2024-02-23,RA Never Adjudicated Complaint,"Traci Brasher, Colleen Sciano",Leadership Failure,MD-110 §III.A,-,Email chain,No action by Brasher
+2024-05-17,Forced Response After 1340 Days,FEMA RA Staff,Extreme Violation,"All ADA regulations, ADEA",1340,Response letter,Only after EEO threat
+2024-05-29,Houston Deployment Overruled,"Anthony In, Unspecified Management",Accommodation Blocked,"Rehabilitation Act, ADEA",-,Email chain,9 minutes to overrule
+2024-07-08,Hurricane Beryl - $15K Damage,FEMA Region 6,Welfare Check Failure,"FEMA Directive 123-0-2-1, ADEA",-,Damage report,$15000 property damage
+2024-07-10,HIPAA Breach - Unencrypted Email,Shelia Clemons,Privacy Violation,"HIPAA 45 CFR §164.312, Privacy Act",-,Unencrypted email,PHI exposed
+2024-07-10,RAR0046767 Finally Assigned,"Shelia Clemons, Traci Brasher",Timeline Violation,FEMA Instruction 256-022-01,190,Assignment notice,After 190 days
+2024-07-31,No Hurricane Welfare Check,Traci Brasher,Duty of Care Failure,"FEMA Directive 123-0-2-1, ADEA",23,No documentation,Despite known conditions
+2024-08-05,RAR0046767 Denied,Anthony In,Denial Without Assessment,"Rehabilitation Act §501, EEOC Guidance",-,Denial letter,No virtual option explored
+2024-08-15,Appeal Denied - False Claims,"Jodi Hunter, Anna Myers",Misrepresentation,"Rehabilitation Act, MD-110",10,Appeal denial,Claims cannot leave house
+2024-08-16,Pressured to Admit Inability,"Anna Myers, Alejandro Ortiz",Coercion,"ADA, Rehabilitation Act",1,Email pressure,Forced admission attempt
+2024-08-22,Impact Statement - Feels Abused,Max Meindl,Harm Documentation,None - Evidence,6,Personal statement,Documents discrimination impact
+2024-09-03,EEO Counseling Initiated,EEO Counselor (Tara),Protected Activity,29 C.F.R. §1614.105,-,EEO intake,Retaliation clock starts
+2024-10-17,ADR Mediation Fails,"Don Simko, FEMA Legal",Failed Resolution,None,-,ADR records,FEMA resistance
+2024-10-30,No Virtual Roles Found,"Don Simko, FEMA HR",Reassignment Failure,"Rehabilitation Act, ADA",-,Search documentation,Despite virtual success
+2024-12-04,Another RA Complaint to Brasher,Traci Brasher,Leadership Failure,MD-110 §III.A,-,Email complaint,Still no action
+2024-12-20,Formal EEO Complaint Filed,"Angela McGonigal, Brent Smith",Protected Activity,"42 USC 2000e-3(a), 29 CFR 1614",-,HS-FEMA-02430-2024,Retaliation protection
+2025-01-06,RETALIATORY TERMINATION,"Traci Brasher, FEMA HR",Retaliation + Due Process,"5 USC §7513, 5 CFR 752, ADA, Title VII",17 days after EEO,Termination letter,No 30-day notice
+2025-04-08,Brasher Affidavit - Contradictions,Traci Brasher,False Testimony,18 USC §1001,-,Sworn affidavit,Denies termination knowledge
+2025-04-12,Clemons Affidavit - Downplays,Shelia Clemons,Misrepresentation,18 USC §1001,-,Sworn affidavit,Minimizes violations
+2025-04-14,Myers Affidavit - False Claims,Anna Myers,False Testimony,18 USC §1001,-,Sworn affidavit,Misrepresents engagement
+2025-04-14,Simko Affidavit - Deployment Lie,Donald J. Simko,False Testimony,18 USC §1001,-,Sworn affidavit,Claims refused deployment
+2025-04-25,Investigation Ongoing,EEOC,Current Status,None,-,Case file,Multiple violations confirmed 

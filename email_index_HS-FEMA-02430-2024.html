@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Index - Case HS-FEMA-02430-2024</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a237e;
+            --secondary: #283593;
+            --success: #2e7d32;
+            --danger: #c62828;
+            --warning: #f57c00;
+            --info: #0277bd;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+        
+        .header h1 {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        
+        .search-container {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            margin: -1rem auto 2rem;
+            max-width: 1400px;
+        }
+        
+        .search-input {
+            border: 2px solid #e0e0e0;
+            border-radius: 8px;
+            padding: 0.75rem 1rem;
+            font-size: 1rem;
+            width: 100%;
+            transition: border-color 0.3s ease;
+        }
+        
+        .search-input:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+        
+        .evidence-table {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            overflow: hidden;
+        }
+        
+        .evidence-table th {
+            background: var(--primary);
+            color: white;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.875rem;
+            letter-spacing: 0.5px;
+            padding: 1rem;
+            white-space: nowrap;
+        }
+        
+        .evidence-table td {
+            padding: 1rem;
+            vertical-align: middle;
+        }
+        
+        .category-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            white-space: nowrap;
+        }
+        
+        .category-accommodation { background: #e3f2fd; color: #1565c0; }
+        .category-follow-up { background: #fff3e0; color: #e65100; }
+        .category-denial { background: #ffebee; color: #c62828; }
+        .category-eeo { background: #e8f5e9; color: #2e7d32; }
+        .category-retaliation { background: #fce4ec; color: #c2185b; }
+        .category-investigation { background: #f3e5f5; color: #7b1fa2; }
+        .category-privacy { background: #ffecb3; color: #f57c00; }
+        .category-analysis { background: #e1f5fe; color: #0277bd; }
+        .category-damages { background: #fff8e1; color: #f9a825; }
+        .category-pattern { background: #efebe9; color: #5d4037; }
+        .category-legal { background: #e0f2f1; color: #00695c; }
+        
+        .response-time {
+            font-weight: 700;
+            color: var(--danger);
+        }
+        
+        .response-time.acceptable {
+            color: var(--success);
+        }
+        
+        .response-time.na {
+            color: #666;
+            font-weight: normal;
+        }
+        
+        .exhibit-number {
+            background: var(--info);
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        
+        tr:hover {
+            background: #f8f9fa;
+        }
+        
+        .stats-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+            max-width: 1400px;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0 1rem;
+        }
+        
+        .stat-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        
+        .stat-number {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 0.25rem;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        @media (max-width: 768px) {
+            .evidence-table {
+                font-size: 0.875rem;
+            }
+            
+            .evidence-table th,
+            .evidence-table td {
+                padding: 0.5rem;
+            }
+            
+            .category-badge {
+                font-size: 0.625rem;
+                padding: 0.125rem 0.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1>Email Index - Case HS-FEMA-02430-2024</h1>
+        <p class="mb-0">Comprehensive Evidence Documentation</p>
+    </header>
+
+    <div class="stats-container">
+        <div class="stat-card">
+            <div class="stat-number">15</div>
+            <div class="stat-label">Total Evidence Items</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">1,340</div>
+            <div class="stat-label">Days Violated</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">8</div>
+            <div class="stat-label">Federal Violations</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-number">$2.27M</div>
+            <div class="stat-label">Total Damages</div>
+        </div>
+    </div>
+
+    <div class="search-container">
+        <input type="text" class="search-input" placeholder="Search emails by any field..." id="searchInput">
+    </div>
+
+    <div class="container-fluid px-4">
+        <div class="evidence-table">
+            <table class="table table-hover mb-0" id="evidenceTable">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Date</th>
+                        <th>From</th>
+                        <th>To</th>
+                        <th>Subject</th>
+                        <th>Category</th>
+                        <th>Response Time</th>
+                        <th>Legal Significance</th>
+                        <th>Exhibit</th>
+                    </tr>
+                </thead>
+                <tbody id="evidenceBody">
+                    <!-- Table content will be populated by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // Evidence data
+        const evidenceData = [
+            {
+                id: "EM-001",
+                date: "2020-09-15",
+                from: "Complainant",
+                to: "HR Director",
+                subject: "Request for Reasonable Accommodation",
+                category: "Accommodation Requests",
+                responseTime: "1340 days",
+                significance: "Start of 1,340-day violation",
+                exhibit: "Exhibit A-1"
+            },
+            {
+                id: "EM-002",
+                date: "2020-10-15",
+                from: "Complainant",
+                to: "HR Director",
+                subject: "Follow-up: Accommodation Request",
+                category: "Follow-Ups",
+                responseTime: "N/A days",
+                significance: "Shows agency had notice",
+                exhibit: "Exhibit A-2"
+            },
+            {
+                id: "EM-003",
+                date: "2021-01-10",
+                from: "Complainant",
+                to: "HR Director, Supervisor",
+                subject: "Urgent: Still Awaiting Accommodation Response",
+                category: "Follow-Ups",
+                responseTime: "N/A days",
+                significance: "Pattern of ignoring requests",
+                exhibit: "Exhibit A-3"
+            },
+            {
+                id: "EM-004",
+                date: "2023-11-09",
+                from: "Complainant",
+                to: "New HR Manager",
+                subject: "Renewed Request for Telework Accommodation",
+                category: "Accommodation Requests",
+                responseTime: "36 days",
+                significance: "36-day delay violation",
+                exhibit: "Exhibit B-1"
+            },
+            {
+                id: "EM-005",
+                date: "2023-12-15",
+                from: "HR Manager",
+                to: "Complainant",
+                subject: "RE: Telework Accommodation Request",
+                category: "Denials",
+                responseTime: "N/A days",
+                significance: "No interactive process violation",
+                exhibit: "Exhibit B-2"
+            },
+            {
+                id: "EM-006",
+                date: "2024-01-08",
+                from: "Complainant",
+                to: "EEO Counselor",
+                subject: "Request for EEO Counseling",
+                category: "EEO Communications",
+                responseTime: "1 days",
+                significance: "Protected activity begins",
+                exhibit: "Exhibit C-1"
+            },
+            {
+                id: "EM-007",
+                date: "2024-03-21",
+                from: "Supervisor",
+                to: "Complainant",
+                subject: "Performance Improvement Plan",
+                category: "Retaliation",
+                responseTime: "N/A days",
+                significance: "Retaliation - temporal proximity",
+                exhibit: "Exhibit D-1"
+            },
+            {
+                id: "EM-008",
+                date: "2024-05-30",
+                from: "HR Director",
+                to: "Complainant",
+                subject: "Notice of Termination",
+                category: "Retaliation",
+                responseTime: "N/A days",
+                significance: "Per se retaliation",
+                exhibit: "Exhibit D-2"
+            }
+        ];
+
+        // Category style mapping
+        const categoryStyles = {
+            "Accommodation Requests": "accommodation",
+            "Follow-Ups": "follow-up",
+            "Denials": "denial",
+            "EEO Communications": "eeo",
+            "Retaliation": "retaliation",
+            "Investigation": "investigation",
+            "Privacy Violation": "privacy",
+            "Timeline Analysis": "analysis",
+            "Damages": "damages",
+            "Pattern Evidence": "pattern",
+            "Legal Analysis": "legal"
+        };
+
+        // Populate table
+        function populateTable(data) {
+            const tbody = document.getElementById('evidenceBody');
+            tbody.innerHTML = '';
+            
+            data.forEach(item => {
+                const row = document.createElement('tr');
+                const categoryClass = categoryStyles[item.category] || 'default';
+                const responseClass = item.responseTime.includes('N/A') ? 'na' : 
+                                    parseInt(item.responseTime) > 30 ? '' : 'acceptable';
+                
+                row.innerHTML = `
+                    <td><strong>${item.id}</strong></td>
+                    <td>${item.date}</td>
+                    <td>${item.from}</td>
+                    <td>${item.to}</td>
+                    <td>${item.subject}</td>
+                    <td><span class="category-badge category-${categoryClass}">${item.category}</span></td>
+                    <td><span class="response-time ${responseClass}">${item.responseTime}</span></td>
+                    <td>${item.significance}</td>
+                    <td><span class="exhibit-number">${item.exhibit}</span></td>
+                `;
+                tbody.appendChild(row);
+            });
+        }
+
+        // Search functionality
+        document.getElementById('searchInput').addEventListener('input', function(e) {
+            const searchTerm = e.target.value.toLowerCase();
+            const filteredData = evidenceData.filter(item => 
+                Object.values(item).some(val => 
+                    val.toString().toLowerCase().includes(searchTerm)
+                )
+            );
+            populateTable(filteredData);
+        });
+
+        // Initial load
+        populateTable(evidenceData);
+    </script>
+</body>
+</html> 

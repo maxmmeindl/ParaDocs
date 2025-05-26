@@ -1,0 +1,1052 @@
+{
+  "timeline_summary": {
+    "total_events": 145,
+    "date_range": {
+      "start": "2018-08-15",
+      "end": "2025-05-25",
+      "span_days": 2475
+    },
+    "most_common_events": {
+      "FMLA Request": 47,
+      "General": 37,
+      "RA Related": 18,
+      "OSC Filing": 15,
+      "EEO Activity": 13
+    }
+  },
+  "chronological_events": [
+    {
+      "period": "2018-08",
+      "event_count": 1,
+      "event_types": [
+        "General"
+      ],
+      "key_events": [
+        {
+          "date": "2018-08-15",
+          "type": "General",
+          "document": "2018-08-15__Meindl, Max_ _max.meindl@fema.dhs.gov__Fwd_ WebTA_157.pdf",
+          "summary": "Document dated: 2018-08-15"
+        }
+      ]
+    },
+    {
+      "period": "2019-01",
+      "event_count": 1,
+      "event_types": [
+        "FMLA Request"
+      ],
+      "key_events": [
+        {
+          "date": "2019-01-22",
+          "type": "FMLA Request",
+          "document": "2019-01-22_femamax@gmail.com_Family Medical Leave Act form_37.pdf",
+          "summary": "Document dated: 2019-01-22"
+        }
+      ]
+    },
+    {
+      "period": "2019-02",
+      "event_count": 3,
+      "event_types": [
+        "FMLA Request",
+        "RA Related",
+        "General"
+      ],
+      "key_events": [
+        {
+          "date": "2019-02-06",
+          "type": "FMLA Request",
+          "document": "2019-02-06_femamax@gmail.com_FMLA_77.pdf",
+          "summary": "Document dated: 2019-02-06"
+        },
+        {
+          "date": "2019-02-07",
+          "type": "General",
+          "document": "2019-02-07__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ WebTA_143.pdf",
+          "summary": "Document dated: 2019-02-07"
+        },
+        {
+          "date": "2019-02-27",
+          "type": "RA Related",
+          "document": "2019-02-27__Meindl, Max_ _max.meindl@fema.dhs.gov__RA_212.pdf",
+          "summary": "Document dated: 2019-02-27"
+        }
+      ]
+    },
+    {
+      "period": "2019-03",
+      "event_count": 2,
+      "event_types": [
+        "FMLA Request",
+        "General"
+      ],
+      "key_events": [
+        {
+          "date": "2019-03-13",
+          "type": "FMLA Request",
+          "document": "2019-03-13__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA_118.pdf",
+          "summary": "Document dated: 2019-03-13"
+        },
+        {
+          "date": "2019-03-29",
+          "type": "General",
+          "document": "2019-03-29__Alexander, Dennis_ _dennis.alexander@fema.dhs.gov__RE_ Update_267.pdf",
+          "summary": "Document dated: 2019-03-29"
+        }
+      ]
+    },
+    {
+      "period": "2019-04",
+      "event_count": 4,
+      "event_types": [
+        "FMLA Request"
+      ],
+      "key_events": [
+        {
+          "date": "2019-04-23",
+          "type": "FMLA Request",
+          "document": "2019-04-23__Meindl, Max_ _max.meindl@fema.dhs.gov__RE_ Timesheet FMLA_259.pdf",
+          "summary": "Document dated: 2019-04-23"
+        },
+        {
+          "date": "2019-04-23",
+          "type": "FMLA Request",
+          "document": "2019-04-23__Obasa, Babajide_ _babajide.obasa@fema.dhs.gov__RE_ FMLA_246.pdf",
+          "summary": "Document dated: 2019-04-23"
+        },
+        {
+          "date": "2019-04-26",
+          "type": "FMLA Request",
+          "document": "2019-04-26__Obasa, Babajide_ _babajide.obasa@fema.dhs.gov__Automatic reply_ Timesheet FMLA_18.pdf",
+          "summary": "Document dated: 2019-04-26"
+        }
+      ]
+    },
+    {
+      "period": "2019-05",
+      "event_count": 2,
+      "event_types": [
+        "FMLA Request"
+      ],
+      "key_events": [
+        {
+          "date": "2019-05-02",
+          "type": "FMLA Request",
+          "document": "2019-05-02__Gause, Jacqueline_ _jacqueline.gause@fema.dhs.gov__FMLA Determination _45.pdf",
+          "summary": "Document dated: 2019-05-02"
+        },
+        {
+          "date": "2019-05-02",
+          "type": "FMLA Request",
+          "document": "2019-05-02__Gause, Jacqueline_ _jacqueline.gause@fema.dhs.gov__FMLA Determination _46.pdf",
+          "summary": "Document dated: 2019-05-02"
+        }
+      ]
+    },
+    {
+      "period": "2019-06",
+      "event_count": 5,
+      "event_types": [
+        "FMLA Request",
+        "Accommodation Request"
+      ],
+      "key_events": [
+        {
+          "date": "2019-06-26",
+          "type": "FMLA Request",
+          "document": "2019-06-26__Meindl, Max_ _max.meindl@fema.dhs.gov__FMLA_74.pdf",
+          "summary": "Document dated: 2019-06-26"
+        },
+        {
+          "date": "2019-06-26",
+          "type": "FMLA Request",
+          "document": "2019-06-26__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA Determination _106.pdf",
+          "summary": "Document dated: 2019-06-26"
+        },
+        {
+          "date": "2019-06-26",
+          "type": "FMLA Request",
+          "document": "2019-06-26__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA_112.pdf",
+          "summary": "Document dated: 2019-06-26"
+        }
+      ]
+    },
+    {
+      "period": "2019-10",
+      "event_count": 18,
+      "event_types": [
+        "FMLA Request",
+        "General"
+      ],
+      "key_events": [
+        {
+          "date": "2019-10-27",
+          "type": "FMLA Request",
+          "document": "2019-10-27__femamax@gmail.com_ _femamax@gmail.com__FMLA_86.pdf",
+          "summary": "Document dated: 2019-10-27"
+        },
+        {
+          "date": "2019-10-28",
+          "type": "General",
+          "document": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ WebTA_145.pdf",
+          "summary": "Document dated: 2019-10-28"
+        },
+        {
+          "date": "2019-10-28",
+          "type": "General",
+          "document": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ WebTA_146.pdf",
+          "summary": "Document dated: 2019-10-28"
+        }
+      ]
+    },
+    {
+      "period": "2020-02",
+      "event_count": 1,
+      "event_types": [
+        "FMLA Request"
+      ],
+      "key_events": [
+        {
+          "date": "2020-02-27",
+          "type": "FMLA Request",
+          "document": "2020-02-27__Meindl, Max_ _max.meindl@fema.dhs.gov__Fwd_ FMLA_249.pdf",
+          "summary": "Document dated: 2020-02-27"
+        }
+      ]
+    },
+    {
+      "period": "2020-03",
+      "event_count": 28,
+      "event_types": [
+        "Accommodation Request",
+        "HR Action",
+        "General",
+        "EEO Activity",
+        "OSC Filing",
+        "FMLA Request",
+        "RA Related"
+      ],
+      "key_events": [
+        {
+          "date": "2020-03-02",
+          "type": "FMLA Request",
+          "document": "2020-03-02__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA RECERTIFICATION_151.pdf",
+          "summary": "Document dated: 2020-03-02"
+        },
+        {
+          "date": "2020-03-02",
+          "type": "FMLA Request",
+          "document": "2020-03-02__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA RECERTIFICATION_152.pdf",
+          "summary": "Document dated: 2020-03-02"
+        },
+        {
+          "date": "2020-03-03",
+          "type": "FMLA Request",
+          "document": "2020-03-03__Meindl, Max_ _max.meindl@fema.dhs.gov__webta fmla_277.pdf",
+          "summary": "Document dated: 2020-03-03"
+        }
+      ]
+    },
+    {
+      "period": "2020-04",
+      "event_count": 8,
+      "event_types": [
+        "OSC Filing"
+      ],
+      "key_events": [
+        {
+          "date": "2020-04-01",
+          "type": "OSC Filing",
+          "document": "2020-04-01__Max_ _femamax@gmail.com__Re_ OSC Case No. MA-20-1288.pdf",
+          "summary": "Document dated: 2020-04-01"
+        },
+        {
+          "date": "2020-04-01",
+          "type": "OSC Filing",
+          "document": "2020-04-01__Max_ _femamax@gmail.com__Re_ OSC Case No. MA-20-1288_186.pdf",
+          "summary": "Document dated: 2020-04-01"
+        },
+        {
+          "date": "2020-04-01",
+          "type": "OSC Filing",
+          "document": "2020-04-01__Max_ _femamax@gmail.com__Re_ OSC Case No. MA-20-1288_187.pdf",
+          "summary": "Document dated: 2020-04-01"
+        }
+      ]
+    },
+    {
+      "period": "2020-05",
+      "event_count": 1,
+      "event_types": [
+        "General"
+      ],
+      "key_events": [
+        {
+          "date": "2020-05-25",
+          "type": "General",
+          "document": "cursor_current_processing_status_update-052525.md",
+          "summary": "# Current Processing Status Update _Exported on 5/25/2025 at 07:27:26 CDT from Cursor (0.50.7)_  ---..."
+        }
+      ]
+    },
+    {
+      "period": "2020-06",
+      "event_count": 4,
+      "event_types": [
+        "General"
+      ],
+      "key_events": [
+        {
+          "date": "2020-06-08",
+          "type": "General",
+          "document": "2020-06-08__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ _3.pdf",
+          "summary": "Document dated: 2020-06-08"
+        },
+        {
+          "date": "2020-06-08",
+          "type": "General",
+          "document": "2020-06-08__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ _4.pdf",
+          "summary": "Document dated: 2020-06-08"
+        },
+        {
+          "date": "2020-06-08",
+          "type": "General",
+          "document": "2020-06-08__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ _5.pdf",
+          "summary": "Document dated: 2020-06-08"
+        }
+      ]
+    },
+    {
+      "period": "2020-09",
+      "event_count": 1,
+      "event_types": [
+        "FMLA Request"
+      ],
+      "key_events": [
+        {
+          "date": "2020-09-16",
+          "type": "FMLA Request",
+          "document": "2020-09-16__Max_ _femamax@gmail.com__FMLA_55.pdf",
+          "summary": "Document dated: 2020-09-16"
+        }
+      ]
+    },
+    {
+      "period": "2020-10",
+      "event_count": 1,
+      "event_types": [
+        "FMLA Request"
+      ],
+      "key_events": [
+        {
+          "date": "2020-10-14",
+          "type": "FMLA Request",
+          "document": "2020-10-14__Max_ _femamax@gmail.com__FMLA FORM_48.pdf",
+          "summary": "Document dated: 2020-10-14"
+        }
+      ]
+    },
+    {
+      "period": "2021-01",
+      "event_count": 8,
+      "event_types": [
+        "FMLA Request"
+      ],
+      "key_events": [
+        {
+          "date": "2021-01-07",
+          "type": "FMLA Request",
+          "document": "2021-01-07__Meindl, Max_ _max.meindl@fema.dhs.gov__FMLA.pdf",
+          "summary": "Document dated: 2021-01-07"
+        },
+        {
+          "date": "2021-01-07",
+          "type": "FMLA Request",
+          "document": "2021-01-07__Meindl, Max_ _max.meindl@fema.dhs.gov__FMLA_53.pdf",
+          "summary": "Document dated: 2021-01-07"
+        },
+        {
+          "date": "2021-01-07",
+          "type": "FMLA Request",
+          "document": "2021-01-07__Meindl, Max_ _max.meindl@fema.dhs.gov__FMLA_58.pdf",
+          "summary": "Document dated: 2021-01-07"
+        }
+      ]
+    },
+    {
+      "period": "2021-08",
+      "event_count": 1,
+      "event_types": [
+        "HR Action"
+      ],
+      "key_events": [
+        {
+          "date": "2021-08-04",
+          "type": "HR Action",
+          "document": "2021-08-04__Max_ _femamax@gmail.com__HR_162.pdf",
+          "summary": "Document dated: 2021-08-04"
+        }
+      ]
+    },
+    {
+      "period": "2021-09",
+      "event_count": 2,
+      "event_types": [
+        "RA Related",
+        "General"
+      ],
+      "key_events": [
+        {
+          "date": "2021-09-20",
+          "type": "RA Related",
+          "document": "2021-09-20__Max_ _femamax@gmail.com__RA_229.pdf",
+          "summary": "Document dated: 2021-09-20"
+        },
+        {
+          "date": "2021-09-22",
+          "type": "General",
+          "document": "2021-09-22__Max_ _femamax@gmail.com__INFO_165.pdf",
+          "summary": "Document dated: 2021-09-22"
+        }
+      ]
+    },
+    {
+      "period": "2021-10",
+      "event_count": 8,
+      "event_types": [
+        "General",
+        "RA Related"
+      ],
+      "key_events": [
+        {
+          "date": "2021-10-25",
+          "type": "General",
+          "document": "2021-10-25__Meindl, Max_ _max.meindl@fema.dhs.gov__RA CONFIRMATION_198.pdf",
+          "summary": "Document dated: 2021-10-25"
+        },
+        {
+          "date": "2021-10-25",
+          "type": "General",
+          "document": "2021-10-25__Meindl, Max_ _max.meindl@fema.dhs.gov__RE_ ra-sign_234.pdf",
+          "summary": "Document dated: 2021-10-25"
+        },
+        {
+          "date": "2021-10-27",
+          "type": "General",
+          "document": "2021-10-27__Bill Lionberger_ _aspireinhealth@gmail.com__Re_ new from from FEMA_183.pdf",
+          "summary": "Document dated: 2021-10-27"
+        }
+      ]
+    },
+    {
+      "period": "2021-11",
+      "event_count": 8,
+      "event_types": [
+        "RA Related"
+      ],
+      "key_events": [
+        {
+          "date": "2021-11-02",
+          "type": "RA Related",
+          "document": "2021-11-02__Meindl, Max_ _max.meindl@fema.dhs.gov__RA.pdf",
+          "summary": "Document dated: 2021-11-02"
+        },
+        {
+          "date": "2021-11-02",
+          "type": "RA Related",
+          "document": "2021-11-02__Meindl, Max_ _max.meindl@fema.dhs.gov__RA_218.pdf",
+          "summary": "Document dated: 2021-11-02"
+        },
+        {
+          "date": "2021-11-02",
+          "type": "RA Related",
+          "document": "2021-11-02__Meindl, Max_ _max.meindl@fema.dhs.gov__RA_219.pdf",
+          "summary": "Document dated: 2021-11-02"
+        }
+      ]
+    },
+    {
+      "period": "2022-03",
+      "event_count": 1,
+      "event_types": [
+        "General"
+      ],
+      "key_events": [
+        {
+          "date": "2022-03-13",
+          "type": "General",
+          "document": "2022-03-13__Todd Callender_ _todd@dradvocates.com__RE_ FW_ Notice to Employees Enrollment in COVID-19 Testing Program_134.pdf",
+          "summary": "Document dated: 2022-03-13"
+        }
+      ]
+    },
+    {
+      "period": "2022-05",
+      "event_count": 1,
+      "event_types": [
+        "General"
+      ],
+      "key_events": [
+        {
+          "date": "2022-05-30",
+          "type": "General",
+          "document": "2022-05-30__Max_ _femamax@gmail.com__PSLF_194.pdf",
+          "summary": "Document dated: 2022-05-30"
+        }
+      ]
+    },
+    {
+      "period": "2022-08",
+      "event_count": 2,
+      "event_types": [
+        "Communication"
+      ],
+      "key_events": [
+        {
+          "date": "2022-08-02",
+          "type": "Communication",
+          "document": "RA EMAIL LIST-12-04-24.CSV",
+          "summary": "33:27 EST - MEINDL, MAX Additional comments deleted an attachment ________________________________  ..."
+        },
+        {
+          "date": "2022-08-02",
+          "type": "Communication",
+          "document": "RA EMAIL LIST-12-04-24.CSV",
+          "summary": "33:27 EST - MEINDL, MAX Additional comments deleted an attachment ________________________________  ..."
+        }
+      ]
+    },
+    {
+      "period": "2023-12",
+      "event_count": 4,
+      "event_types": [
+        "Communication"
+      ],
+      "key_events": [
+        {
+          "date": "2023-12-19",
+          "type": "Communication",
+          "document": "RA EMAIL LIST-12-04-24.CSV",
+          "summary": "on Officer  OAST ACMS Notification      RAR0042452 -   Comments:  ________________________________  ..."
+        },
+        {
+          "date": "2023-12-19",
+          "type": "Communication",
+          "document": "RA EMAIL LIST-12-04-24.CSV",
+          "summary": "33:31 EST - MEINDL, MAX Additional comments deleted an attachment ________________________________  ..."
+        },
+        {
+          "date": "2023-12-19",
+          "type": "Communication",
+          "document": "RA EMAIL LIST-12-04-24.CSV",
+          "summary": "on Officer  OAST ACMS Notification      RAR0042452 -   Comments:  ________________________________  ..."
+        }
+      ]
+    },
+    {
+      "period": "2024-08",
+      "event_count": 3,
+      "event_types": [
+        "RA Related",
+        "Legal"
+      ],
+      "key_events": [
+        {
+          "date": "2024-08-17",
+          "type": "Legal",
+          "document": "2024-08-17__Max_ _femamax@gmail.com__RA, LEGAL CITES dAVID fRAM_201.pdf",
+          "summary": "Document dated: 2024-08-17"
+        },
+        {
+          "date": "2024-08-19",
+          "type": "RA Related",
+          "document": "2024-08-19__Meindl, Max_ _max.meindl@fema.dhs.gov__ra_216.pdf",
+          "summary": "Document dated: 2024-08-19"
+        },
+        {
+          "date": "2024-08-19",
+          "type": "RA Related",
+          "document": "2024-08-19__Meindl, Max_ _max.meindl@fema.dhs.gov__ra_217.pdf",
+          "summary": "Document dated: 2024-08-19"
+        }
+      ]
+    },
+    {
+      "period": "2024-12",
+      "event_count": 13,
+      "event_types": [
+        "General",
+        "EEO Activity"
+      ],
+      "key_events": [
+        {
+          "date": "2024-12-20",
+          "type": "General",
+          "document": "2024-12-20__Elisabeth Meindl_ _missmeindl@gmail.com__Final.pdf",
+          "summary": "Document dated: 2024-12-20"
+        },
+        {
+          "date": "2024-12-20",
+          "type": "General",
+          "document": "2024-12-20__Elisabeth Meindl_ _missmeindl@gmail.com__Final_39.pdf",
+          "summary": "Document dated: 2024-12-20"
+        },
+        {
+          "date": "2024-12-23",
+          "type": "General",
+          "document": "2024-12-23__Meindl, Max_ _max.meindl@fema.dhs.gov__.pdf",
+          "summary": "Document dated: 2024-12-23"
+        }
+      ]
+    },
+    {
+      "period": "2025-01",
+      "event_count": 5,
+      "event_types": [
+        "General",
+        "EEO Activity",
+        "Agency Response",
+        "Communication"
+      ],
+      "key_events": [
+        {
+          "date": "2025-01-06",
+          "type": "EEO Activity",
+          "document": "2025-01-06__Brent Smith_ _brent@bwsmithlaw.com__Re_ EEO_28.pdf",
+          "summary": "Document dated: 2025-01-06"
+        },
+        {
+          "date": "2025-01-06",
+          "type": "Agency Response",
+          "document": "2025-01-06__Max_ _femamax@gmail.com__Fwd_ FW_ ACTION REQUESTED_ AP - Mediation Participation HS-FEMA-02430-2024 - Immediate Response Requested_90.pdf",
+          "summary": "Document dated: 2025-01-06"
+        },
+        {
+          "date": "2025-01-07",
+          "type": "EEO Activity",
+          "document": "2025-01-07__Meindl, Max_ _max.meindl@fema.dhs.gov__Fw_ Counselor's Report for HS-FEMA-02430-2024_93.pdf",
+          "summary": "Document dated: 2025-01-07"
+        }
+      ]
+    },
+    {
+      "period": "2025-02",
+      "event_count": 6,
+      "event_types": [
+        "General",
+        "Communication"
+      ],
+      "key_events": [
+        {
+          "date": "2025-02-13",
+          "type": "General",
+          "document": "2025-02-13__Max_ _femamax@gmail.com__draft_24.pdf",
+          "summary": "Document dated: 2025-02-13"
+        },
+        {
+          "date": "2025-02-14",
+          "type": "General",
+          "document": "2025-02-14__Max_ _femamax@gmail.com__.pdf",
+          "summary": "Document dated: 2025-02-14"
+        },
+        {
+          "date": "2025-02-14",
+          "type": "General",
+          "document": "2025-02-14__Max_ _femamax@gmail.com__revision_272.pdf",
+          "summary": "Document dated: 2025-02-14"
+        }
+      ]
+    },
+    {
+      "period": "2025-03",
+      "event_count": 1,
+      "event_types": [
+        "FMLA Request"
+      ],
+      "key_events": [
+        {
+          "date": "2025-03-02",
+          "type": "FMLA Request",
+          "document": "2025-03-02__Max_ _femamax@gmail.com__FMLA.pdf",
+          "summary": "Document dated: 2025-03-02"
+        }
+      ]
+    },
+    {
+      "period": "2025-05",
+      "event_count": 2,
+      "event_types": [
+        "General",
+        "EEO Activity"
+      ],
+      "key_events": [
+        {
+          "date": "2025-05-25",
+          "type": "General",
+          "document": "cursor_current_processing_status_update-052525.md",
+          "summary": "# Current Processing Status Update _Exported on 5/25/2025 at 07:27:26 CDT from Cursor (0.50.7)_  ---..."
+        },
+        {
+          "date": "2025-05-25",
+          "type": "EEO Activity",
+          "document": "cursor_current_processing_status_update-052525.md",
+          "summary": "Based on my analysis of your ParaDocs project, here's the current status:  ### **Latest Activity (Ma..."
+        }
+      ]
+    }
+  ],
+  "violations_found": [
+    {
+      "type": "Delayed Response",
+      "request_date": "2019-06-26",
+      "response_date": "2025-01-06",
+      "delay_days": 2021,
+      "violation": true
+    },
+    {
+      "type": "Delayed Response",
+      "request_date": "2019-06-26",
+      "response_date": "2025-01-06",
+      "delay_days": 2021,
+      "violation": true
+    },
+    {
+      "type": "Delayed Response",
+      "request_date": "2020-03-25",
+      "response_date": "2025-01-06",
+      "delay_days": 1748,
+      "violation": true
+    }
+  ],
+  "patterns_identified": [],
+  "critical_periods": [
+    {
+      "period": "2019-02",
+      "event_count": 3,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2019-04",
+      "event_count": 4,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2019-06",
+      "event_count": 5,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2019-10",
+      "event_count": 18,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2020-03",
+      "event_count": 28,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2020-04",
+      "event_count": 8,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2020-06",
+      "event_count": 4,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2021-01",
+      "event_count": 8,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2021-10",
+      "event_count": 8,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2021-11",
+      "event_count": 8,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2023-12",
+      "event_count": 4,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2024-08",
+      "event_count": 3,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2024-12",
+      "event_count": 13,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2025-01",
+      "event_count": 5,
+      "significance": "High activity period"
+    },
+    {
+      "period": "2025-02",
+      "event_count": 6,
+      "significance": "High activity period"
+    }
+  ],
+  "visual_timeline": [
+    {
+      "date": "2018-08-15",
+      "title": "General",
+      "description": "2018-08-15__Meindl, Max_ _max.meindl@fema.dhs.gov__Fwd_ WebTA_157.pdf - Document dated: 2018-08-15..."
+    },
+    {
+      "date": "2019-01-22",
+      "title": "FMLA Request",
+      "description": "2019-01-22_femamax@gmail.com_Family Medical Leave Act form_37.pdf - Document dated: 2019-01-22..."
+    },
+    {
+      "date": "2019-02-06",
+      "title": "FMLA Request",
+      "description": "2019-02-06_femamax@gmail.com_FMLA_77.pdf - Document dated: 2019-02-06..."
+    },
+    {
+      "date": "2019-02-07",
+      "title": "General",
+      "description": "2019-02-07__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ WebTA_143.pdf - Document dated: 2019-02-07..."
+    },
+    {
+      "date": "2019-02-27",
+      "title": "RA Related",
+      "description": "2019-02-27__Meindl, Max_ _max.meindl@fema.dhs.gov__RA_212.pdf - Document dated: 2019-02-27..."
+    },
+    {
+      "date": "2019-03-13",
+      "title": "FMLA Request",
+      "description": "2019-03-13__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA_118.pdf - Document dated: 2019-03-13..."
+    },
+    {
+      "date": "2019-03-29",
+      "title": "General",
+      "description": "2019-03-29__Alexander, Dennis_ _dennis.alexander@fema.dhs.gov__RE_ Update_267.pdf - Document dated: 2019-03-29..."
+    },
+    {
+      "date": "2019-04-23",
+      "title": "FMLA Request",
+      "description": "2019-04-23__Meindl, Max_ _max.meindl@fema.dhs.gov__RE_ Timesheet FMLA_259.pdf - Document dated: 2019-04-23..."
+    },
+    {
+      "date": "2019-04-23",
+      "title": "FMLA Request",
+      "description": "2019-04-23__Obasa, Babajide_ _babajide.obasa@fema.dhs.gov__RE_ FMLA_246.pdf - Document dated: 2019-04-23..."
+    },
+    {
+      "date": "2019-04-26",
+      "title": "FMLA Request",
+      "description": "2019-04-26__Obasa, Babajide_ _babajide.obasa@fema.dhs.gov__Automatic reply_ Timesheet FMLA_18.pdf - Document dated: 2019-04-26..."
+    },
+    {
+      "date": "2019-04-26",
+      "title": "FMLA Request",
+      "description": "2019-04-26__Obasa, Babajide_ _babajide.obasa@fema.dhs.gov__Automatic reply_ Timesheet FMLA_19.pdf - Document dated: 2019-04-26..."
+    },
+    {
+      "date": "2019-05-02",
+      "title": "FMLA Request",
+      "description": "2019-05-02__Gause, Jacqueline_ _jacqueline.gause@fema.dhs.gov__FMLA Determination _45.pdf - Document dated: 2019-05-02..."
+    },
+    {
+      "date": "2019-05-02",
+      "title": "FMLA Request",
+      "description": "2019-05-02__Gause, Jacqueline_ _jacqueline.gause@fema.dhs.gov__FMLA Determination _46.pdf - Document dated: 2019-05-02..."
+    },
+    {
+      "date": "2019-06-26",
+      "title": "FMLA Request",
+      "description": "2019-06-26__Meindl, Max_ _max.meindl@fema.dhs.gov__FMLA_74.pdf - Document dated: 2019-06-26..."
+    },
+    {
+      "date": "2019-06-26",
+      "title": "FMLA Request",
+      "description": "2019-06-26__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA Determination _106.pdf - Document dated: 2019-06-26..."
+    },
+    {
+      "date": "2019-06-26",
+      "title": "FMLA Request",
+      "description": "2019-06-26__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA_112.pdf - Document dated: 2019-06-26..."
+    },
+    {
+      "date": "2019-06-26",
+      "title": "Accommodation Request",
+      "description": "2019-06-26__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ Reasonable accommodation _138.pdf - Document dated: 2019-06-26..."
+    },
+    {
+      "date": "2019-06-26",
+      "title": "Accommodation Request",
+      "description": "2019-06-26__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ Reasonable accommodation _139.pdf - Document dated: 2019-06-26..."
+    },
+    {
+      "date": "2019-10-27",
+      "title": "FMLA Request",
+      "description": "2019-10-27__femamax@gmail.com_ _femamax@gmail.com__FMLA_86.pdf - Document dated: 2019-10-27..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "General",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ WebTA_145.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "General",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ WebTA_146.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "General",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ WebTA_147.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__FMLA_51.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__fmla_66.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__fmla_67.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__fmla_68.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__fmla_70.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__fmla_71.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__fmla_78.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__fmla_79.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__fmla_80.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__fmla_82.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__fmla_83.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__FMLA_88.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA Determination _102.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2019-10-28",
+      "title": "FMLA Request",
+      "description": "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA_124.pdf - Document dated: 2019-10-28..."
+    },
+    {
+      "date": "2020-02-27",
+      "title": "FMLA Request",
+      "description": "2020-02-27__Meindl, Max_ _max.meindl@fema.dhs.gov__Fwd_ FMLA_249.pdf - Document dated: 2020-02-27..."
+    },
+    {
+      "date": "2020-03-02",
+      "title": "FMLA Request",
+      "description": "2020-03-02__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA RECERTIFICATION_151.pdf - Document dated: 2020-03-02..."
+    },
+    {
+      "date": "2020-03-02",
+      "title": "FMLA Request",
+      "description": "2020-03-02__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA RECERTIFICATION_152.pdf - Document dated: 2020-03-02..."
+    },
+    {
+      "date": "2020-03-03",
+      "title": "FMLA Request",
+      "description": "2020-03-03__Meindl, Max_ _max.meindl@fema.dhs.gov__webta fmla_277.pdf - Document dated: 2020-03-03..."
+    },
+    {
+      "date": "2020-03-03",
+      "title": "FMLA Request",
+      "description": "2020-03-03__Meindl, Max_ _max.meindl@fema.dhs.gov__webta fmla_278.pdf - Document dated: 2020-03-03..."
+    },
+    {
+      "date": "2020-03-04",
+      "title": "RA Related",
+      "description": "2020-03-04_femamax@gmail.com_ra_215.pdf - Document dated: 2020-03-04..."
+    },
+    {
+      "date": "2020-03-23",
+      "title": "HR Action",
+      "description": "2020-03-23__Chris Orta_ _chris@guerradays.com__Re_ EFT Order_34.pdf - Document dated: 2020-03-23..."
+    },
+    {
+      "date": "2020-03-24",
+      "title": "General",
+      "description": "2020-03-24_femamax@gmail.com_Chief of Staff comms_21.pdf - Document dated: 2020-03-24..."
+    },
+    {
+      "date": "2020-03-24",
+      "title": "General",
+      "description": "2020-03-24_femamax@gmail.com_Chief of Staff comms_22.pdf - Document dated: 2020-03-24..."
+    },
+    {
+      "date": "2020-03-24",
+      "title": "EEO Activity",
+      "description": "2020-03-24__femamax@gmail.com_ _femamax@gmail.com__FW_ MEINDL FORMAL EEOC COMPLAINT-E-SIGNED.pdf - Document dated: 2020-03-24..."
+    },
+    {
+      "date": "2020-03-24",
+      "title": "FMLA Request",
+      "description": "2020-03-24__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA Recertification - M. Meindl.pdf - Document dated: 2020-03-24..."
+    },
+    {
+      "date": "2020-03-24",
+      "title": "FMLA Request",
+      "description": "2020-03-24__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA Recertification - M. Meindl_108.pdf - Document dated: 2020-03-24..."
+    },
+    {
+      "date": "2020-03-24",
+      "title": "FMLA Request",
+      "description": "2020-03-24__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA Recertification - M. Meindl_109.pdf - Document dated: 2020-03-24..."
+    },
+    {
+      "date": "2020-03-24",
+      "title": "FMLA Request",
+      "description": "2020-03-24__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA Recertification - M. Meindl_110.pdf - Document dated: 2020-03-24..."
+    }
+  ]
+}

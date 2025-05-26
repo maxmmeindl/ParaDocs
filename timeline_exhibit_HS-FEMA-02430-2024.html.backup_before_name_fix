@@ -1,0 +1,408 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Timeline Exhibit - Case HS-FEMA-02430-2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .header {
+            text-align: center;
+            background-color: #1a472a;
+            color: white;
+            padding: 20px;
+            margin-bottom: 30px;
+        }
+        .timeline {
+            position: relative;
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .timeline::after {
+            content: '';
+            position: absolute;
+            width: 6px;
+            background-color: #1a472a;
+            top: 0;
+            bottom: 0;
+            left: 50%;
+            margin-left: -3px;
+        }
+        .container {
+            padding: 10px 40px;
+            position: relative;
+            background-color: inherit;
+            width: 50%;
+        }
+        .container::after {
+            content: '';
+            position: absolute;
+            width: 25px;
+            height: 25px;
+            right: -17px;
+            background-color: white;
+            border: 4px solid #1a472a;
+            top: 15px;
+            border-radius: 50%;
+            z-index: 1;
+        }
+        .left {
+            left: 0;
+        }
+        .right {
+            left: 50%;
+        }
+        .left::before {
+            content: " ";
+            height: 0;
+            position: absolute;
+            top: 22px;
+            width: 0;
+            z-index: 1;
+            right: 30px;
+            border: medium solid #ddd;
+            border-width: 10px 0 10px 10px;
+            border-color: transparent transparent transparent #ddd;
+        }
+        .right::before {
+            content: " ";
+            height: 0;
+            position: absolute;
+            top: 22px;
+            width: 0;
+            z-index: 1;
+            left: 30px;
+            border: medium solid #ddd;
+            border-width: 10px 10px 10px 0;
+            border-color: transparent #ddd transparent transparent;
+        }
+        .right::after {
+            left: -16px;
+        }
+        .content {
+            padding: 20px 30px;
+            background-color: white;
+            position: relative;
+            border-radius: 6px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+        .violation {
+            background-color: #ffe6e6;
+            border-left: 5px solid #cc0000;
+        }
+        .accommodation_request {
+            border-left: 5px solid #ff6b6b;
+        }
+        .denial {
+            border-left: 5px solid #cc0000;
+        }
+        .eeo_activity {
+            border-left: 5px solid #1a472a;
+        }
+        h2 {
+            color: #1a472a;
+            margin: 0 0 10px 0;
+        }
+        .date {
+            font-weight: bold;
+            color: #666;
+            margin-bottom: 5px;
+        }
+        .legal-cite {
+            font-style: italic;
+            color: #0066cc;
+            font-size: 0.9em;
+            margin-top: 10px;
+        }
+        .violation-flag {
+            background-color: #cc0000;
+            color: white;
+            padding: 5px 10px;
+            border-radius: 3px;
+            font-weight: bold;
+            display: inline-block;
+            margin-top: 10px;
+        }
+        .summary {
+            background-color: #f9f9f9;
+            padding: 20px;
+            margin: 30px 0;
+            border-left: 5px solid #1a472a;
+        }
+        .citations {
+            background-color: white;
+            padding: 30px;
+            margin-top: 40px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .citation-section {
+            margin: 20px 0;
+        }
+        .citation-item {
+            margin: 10px 0;
+            padding: 10px;
+            background-color: #f5f5f5;
+            border-left: 3px solid #1a472a;
+        }
+        @media print {
+            body {
+                background-color: white;
+            }
+            .timeline {
+                box-shadow: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>TIMELINE EXHIBIT</h1>
+        <h2>EEOC Case No. HS-FEMA-02430-2024</h2>
+        <p>Employee v. Federal Emergency Management Agency (FEMA)</p>
+    </div>
+    
+    <div class="summary">
+        <h2>Case Summary</h2>
+        <p><strong>Nature of Case:</strong> Failure to provide reasonable accommodation under the ADA; 
+        Disability discrimination; Retaliation</p>
+        <p><strong>Key Violation:</strong> 44-day delay in responding to accommodation request 
+        (exceeds 30-day requirement)</p>
+        <p><strong>Current Status:</strong> Pending hearing before EEOC Administrative Judge</p>
+    </div>
+    
+    <div class="timeline">
+        
+        <div class="container left">
+            <div class="content accommodation_request ">
+                <div class="date">November 09, 2023</div>
+                <h2>Initial Telework Request as Reasonable Accommodation</h2>
+                <p><strong>From:</strong> Complainant (Nolly)<br>
+                <strong>To:</strong> FEMA Management</p>
+                <p>Employee requested telework as reasonable accommodation for disability</p>
+                
+                <div class="legal-cite">42 USC 12112(b)(5)(A) - ADA reasonable accommodation requirement</div>
+            </div>
+        </div>
+            
+        <div class="container right">
+            <div class="content denial violation">
+                <div class="date">December 15, 2023</div>
+                <h2>Denial of Telework Accommodation Request</h2>
+                <p><strong>From:</strong> FEMA Management<br>
+                <strong>To:</strong> Complainant</p>
+                <p>FEMA denied telework accommodation request without interactive process or undue hardship analysis</p>
+                <div class="violation-flag">Exceeded 30-day response requirement (36 days)</div>
+                <div class="legal-cite">29 CFR 1630.2(o)(3) - Interactive process violation</div>
+            </div>
+        </div>
+            
+        <div class="container left">
+            <div class="content eeo_activity ">
+                <div class="date">January 08, 2024</div>
+                <h2>Initial EEO Contact</h2>
+                <p><strong>From:</strong> Complainant<br>
+                <strong>To:</strong> FEMA EEO Office</p>
+                <p>Complainant initiated EEO counseling</p>
+                
+                <div class="legal-cite">29 CFR 1614.105 - Pre-complaint processing</div>
+            </div>
+        </div>
+            
+        <div class="container right">
+            <div class="content eeo_activity ">
+                <div class="date">February 20, 2024</div>
+                <h2>Formal EEO Complaint Filed</h2>
+                <p><strong>From:</strong> Complainant<br>
+                <strong>To:</strong> FEMA EEO Office</p>
+                <p>Filed formal EEO complaint alleging disability discrimination and failure to accommodate</p>
+                
+                <div class="legal-cite">29 CFR 1614.106 - Right to file EEO complaint</div>
+            </div>
+        </div>
+            
+        <div class="container left">
+            <div class="content eeo_activity ">
+                <div class="date">March 15, 2024</div>
+                <h2>Letter of Acceptance (LOA) Issued</h2>
+                <p><strong>From:</strong> FEMA EEO Office<br>
+                <strong>To:</strong> Complainant</p>
+                <p>FEMA accepts complaint for investigation on disability discrimination claim</p>
+                
+                <div class="legal-cite">29 CFR 1614.108 - Investigation of complaints</div>
+            </div>
+        </div>
+            
+        <div class="container right">
+            <div class="content discipline violation">
+                <div class="date">March 20, 2024</div>
+                <h2>Performance Improvement Plan (PIP) Issued</h2>
+                <p><strong>From:</strong> FEMA Management<br>
+                <strong>To:</strong> Complainant</p>
+                <div class="violation-flag">Adverse action 5 days after protected EEO activity</div>
+                <div class="legal-cite">42 USC 2000e-3(a) - Retaliation prohibited</div>
+            </div>
+        </div>
+            
+        <div class="container left">
+            <div class="content eeo_activity ">
+                <div class="date">April 15, 2024</div>
+                <h2>Investigation Begins</h2>
+                <p><strong>From:</strong> EEO Investigator<br>
+                <strong>To:</strong> All Parties</p>
+                <p>Formal investigation commences with witness interviews</p>
+                
+                <div class="legal-cite">29 CFR 1614.108(b) - 180-day investigation requirement</div>
+            </div>
+        </div>
+            
+        <div class="container right">
+            <div class="content termination violation">
+                <div class="date">May 30, 2024</div>
+                <h2>Employment Termination</h2>
+                <p><strong>From:</strong> FEMA Management<br>
+                <strong>To:</strong> Complainant</p>
+                <p>Employee terminated during pending EEO investigation - per se retaliation</p>
+                <div class="violation-flag">Termination during pending EEO complaint</div>
+                <div class="legal-cite">42 USC 2000e-3(a) - Retaliation violation</div>
+            </div>
+        </div>
+            
+        <div class="container left">
+            <div class="content eeo_activity ">
+                <div class="date">July 25, 2024</div>
+                <h2>Report of Investigation (ROI) Completed</h2>
+                <p><strong>From:</strong> EEO Investigator<br>
+                <strong>To:</strong> All Parties</p>
+                <p>ROI completed and transmitted to parties</p>
+                
+                <div class="legal-cite">29 CFR 1614.108(f) - ROI requirements</div>
+            </div>
+        </div>
+            
+        <div class="container right">
+            <div class="content eeo_activity ">
+                <div class="date">August 15, 2024</div>
+                <h2>Election Letter - Request for Hearing</h2>
+                <p><strong>From:</strong> Complainant<br>
+                <strong>To:</strong> EEOC</p>
+                <p>Complainant elects to proceed to hearing before Administrative Judge</p>
+                
+                <div class="legal-cite">29 CFR 1614.108(f) - Right to request hearing</div>
+            </div>
+        </div>
+            
+        <div class="container left">
+            <div class="content eeo_activity ">
+                <div class="date">September 10, 2024</div>
+                <h2>Rebuttal to Witness Affidavits</h2>
+                <p><strong>From:</strong> Complainant<br>
+                <strong>To:</strong> EEOC/FEMA</p>
+                <p>Complainant submits rebuttal to witness statements in ROI</p>
+                
+                <div class="legal-cite">29 CFR 1614.109 - Hearing procedures</div>
+            </div>
+        </div>
+            
+        <div class="container right">
+            <div class="content eeo_activity ">
+                <div class="date">May 20, 2025</div>
+                <h2>Change of Venue Request</h2>
+                <p><strong>From:</strong> Complainant/Representative<br>
+                <strong>To:</strong> EEOC Administrative Judge</p>
+                <p>Request to change venue for hearing proceedings</p>
+                
+                <div class="legal-cite">29 CFR 1614.109(e) - Hearing location</div>
+            </div>
+        </div>
+            
+        <div class="container left">
+            <div class="content eeo_activity ">
+                <div class="date">May 25, 2025</div>
+                <h2>Current Status - Awaiting Hearing</h2>
+                <p><strong>From:</strong> EEOC<br>
+                <strong>To:</strong> All Parties</p>
+                <p>Case pending hearing before Administrative Judge</p>
+                
+                <div class="legal-cite">29 CFR 1614.109 - Hearing procedures</div>
+            </div>
+        </div>
+            
+    </div>
+    
+    <div class="citations">
+        <h2>Federal Legal Authority Supporting Claims</h2>
+        <div class="citation-section"><h3>Federal Statutes</h3>
+            <div class="citation-item">
+                <strong>42 USC 12112(b)(5)(A)</strong> - Americans with Disabilities Act - Reasonable Accommodation<br>
+                <em>Relevance:</em> Requires employers to provide reasonable accommodations unless undue hardship
+            </div>
+            
+            <div class="citation-item">
+                <strong>29 USC 791 et seq.</strong> - Rehabilitation Act of 1973<br>
+                <em>Relevance:</em> Prohibits disability discrimination in federal employment
+            </div>
+            </div><div class="citation-section"><h3>Federal Regulations</h3>
+            <div class="citation-item">
+                <strong>29 CFR 1630.2(o)(3)</strong> - Interactive Process<br>
+                <em>Relevance:</em> Requires good faith interactive process for accommodations
+            </div>
+            
+            <div class="citation-item">
+                <strong>29 CFR 1630.2(n)</strong> - Essential Functions<br>
+                <em>Relevance:</em> Defines essential vs marginal job functions
+            </div>
+            
+            <div class="citation-item">
+                <strong>29 CFR 1614.106</strong> - Right to File EEO Complaint<br>
+                <em>Relevance:</em> Establishes procedures for filing discrimination complaints
+            </div>
+            
+            <div class="citation-item">
+                <strong>29 CFR 1614.108</strong> - Investigation of Complaints<br>
+                <em>Relevance:</em> Sets 180-day timeline and investigation requirements
+            </div>
+            
+            <div class="citation-item">
+                <strong>29 CFR 1614.108(e)</strong> - Investigation Timeline<br>
+                <em>Relevance:</em> 180-day requirement for completing investigations
+            </div>
+            
+            <div class="citation-item">
+                <strong>29 CFR 1614.108(f)</strong> - Report of Investigation<br>
+                <em>Relevance:</em> Requirements for ROI content and complainant rights
+            </div>
+            
+            <div class="citation-item">
+                <strong>29 CFR 1614.109</strong> - Hearing Procedures<br>
+                <em>Relevance:</em> Procedures for administrative hearings
+            </div>
+            </div><div class="citation-section"><h3>EEOC Guidance Documents</h3>
+            <div class="citation-item">
+                <strong>EEOC MD-110</strong> - Federal Sector Complaints Processing Manual<br>
+                <em>Relevance:</em> Comprehensive guidance on EEO complaint procedures
+            </div>
+            
+            <div class="citation-item">
+                <strong>EEOC Enforcement Guidance on Reasonable Accommodation (2002)</strong> - Reasonable Accommodation and Undue Hardship Under the ADA<br>
+                <em>Relevance:</em> Detailed guidance on accommodation requirements
+            </div>
+            
+            <div class="citation-item">
+                <strong>EEOC Policy Guidance on Executive Order 13164</strong> - Establishing Procedures to Facilitate Reasonable Accommodation<br>
+                <em>Relevance:</em> Federal agency accommodation procedures
+            </div>
+            </div>
+    </div>
+    
+    <div style="text-align: center; margin-top: 40px; color: #666;">
+        <p>Prepared for EEOC Proceedings - May 25, 2025</p>
+    </div>
+</body>
+</html>
+        

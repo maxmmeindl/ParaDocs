@@ -1,0 +1,374 @@
+#!/usr/bin/env python3
+"""
+Basic Document Scanner for Timeline Events
+Extracts dates and events from text files without external dependencies
+"""
+
+import re
+import json
+from pathlib import Path
+from datetime import datetime
+import argparse
+from collections import defaultdict
+
+class BasicDocumentScanner:
+    """Basic scanner for extracting timeline events from documents"""
+    
+    def __init__(self, case_number="HS-FEMA-02430-2024"):
+        self.case_number = case_number
+        self.base_path = Path(".")
+        
+        # Date patterns
+        self.date_patterns = [
+            # Common date formats
+            (r'(\d{1,2}[/-]\d{1,2}[/-]\d{2,4})', ['%m/%d/%Y', '%m-%d-%Y', '%m/%d/%y', '%m-%d-%y']),
+            (r'(\d{1,2}\s+(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+\d{4})', ['%d %B %Y', '%d %b %Y']),
+            (r'((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\s+\d{1,2},?\s+\d{4})', ['%B %d, %Y', '%b %d, %Y', '%B %d %Y', '%b %d %Y']),
+            (r'(\d{4}[/-]\d{1,2}[/-]\d{1,2})', ['%Y-%m-%d', '%Y/%m/%d']),
+        ]
+        
+        # Communication indicators
+        self.comm_patterns = {
+            'email': [
+                r'From:\s*([^\n]+)',
+                r'To:\s*([^\n]+)',
+                r'Subject:\s*([^\n]+)',
+                r'Date:\s*([^\n]+)',
+                r'Sent:\s*([^\n]+)'
+            ],
+            'letter': [
+                r'Dear\s+([^,\n]+)',
+                r'Sincerely,?\s*\n\s*([^\n]+)',
+                r'RE:\s*([^\n]+)',
+                r'Reference:\s*([^\n]+)'
+            ]
+        }
+        
+        # Event type keywords
+        self.event_keywords = {
+            'accommodation_request': [
+                'reasonable accommodation', 'accommodation request',
+                'request.*accommodation', 'ada request', 'disability accommodation'
+            ],
+            'denial': [
+                'deny', 'denied', 'cannot approve', 'unable to grant',
+                'not approved', 'rejection'
+            ],
+            'meeting': [
+                'meeting', 'conference', 'discussion', 'interactive process'
+            ],
+            'discipline': [
+                'warning', 'discipline', 'termination', 'corrective action'
+            ],
+            'eeo_activity': [
+                'eeo complaint', 'eeoc', 'discrimination', 'filed complaint'
+            ],
+            'medical': [
+                'medical', 'doctor', 'physician', 'health condition'
+            ]
+        }
+    
+    def extract_text_basic(self, file_path):
+        """Try to extract text from file using basic methods"""
+        try:
+            # Try UTF-8 first
+            with open(file_path, 'r', encoding='utf-8') as f:
+                return f.read()
+        except:
+            try:
+                # Try latin-1 as fallback
+                with open(file_path, 'r', encoding='latin-1') as f:
+                    return f.read()
+            except:
+                print(f"Could not read {file_path} as text")
+                return ""
+    
+    def parse_date(self, date_str, formats):
+        """Try to parse date with given formats"""
+        for fmt in formats:
+            try:
+                # Handle variations in month names
+                date_str_clean = date_str.strip()
+                for month_full, month_abbr in [
+                    ('January', 'Jan'), ('February', 'Feb'), ('March', 'Mar'),
+                    ('April', 'Apr'), ('May', 'May'), ('June', 'Jun'),
+                    ('July', 'Jul'), ('August', 'Aug'), ('September', 'Sep'),
+                    ('October', 'Oct'), ('November', 'Nov'), ('December', 'Dec')
+                ]:
+                    date_str_clean = date_str_clean.replace(month_full, month_abbr)
+                
+                parsed = datetime.strptime(date_str_clean, fmt)
+                return parsed.strftime('%Y-%m-%d')
+            except:
+                continue
+        return None
+    
+    def extract_dates(self, text):
+        """Extract all dates from text"""
+        dates_found = []
+        
+        for pattern, formats in self.date_patterns:
+            matches = re.finditer(pattern, text, re.IGNORECASE)
+            for match in matches:
+                date_str = match.group(1)
+                parsed_date = self.parse_date(date_str, formats)
+                if parsed_date:
+                    dates_found.append({
+                        'date': parsed_date,
+                        'original': date_str,
+                        'position': match.start(),
+                        'context': self.get_context(text, match.start())
+                    })
+        
+        return dates_found
+    
+    def get_context(self, text, position, window=300):
+        """Get context around position"""
+        start = max(0, position - window)
+        end = min(len(text), position + window)
+        return text[start:end].replace('\n', ' ').strip()
+    
+    def identify_event_type(self, text):
+        """Identify event type from text"""
+        text_lower = text.lower()
+        
+        for event_type, keywords in self.event_keywords.items():
+            for keyword in keywords:
+                if re.search(keyword, text_lower):
+                    return event_type
+        
+        return 'communication'
+    
+    def extract_email_info(self, text):
+        """Extract email headers if present"""
+        info = {'from': '', 'to': '', 'subject': ''}
+        
+        # Look for email patterns
+        from_match = re.search(r'From:\s*([^\n]+)', text, re.IGNORECASE)
+        to_match = re.search(r'To:\s*([^\n]+)', text, re.IGNORECASE)
+        subject_match = re.search(r'Subject:\s*([^\n]+)', text, re.IGNORECASE)
+        
+        if from_match:
+            info['from'] = from_match.group(1).strip()
+        if to_match:
+            info['to'] = to_match.group(1).strip()
+        if subject_match:
+            info['subject'] = subject_match.group(1).strip()
+        
+        return info
+    
+    def create_manual_events(self):
+        """Create events from known case information"""
+        # Based on the case documents we know exist
+        known_events = [
+            {
+                'date': '2024-01-15',  # Approximate - adjust based on actual dates
+                'type': 'accommodation_request',
+                'subject': 'Initial Accommodation Request',
+                'from': 'Employee',
+                'to': 'FEMA Management',
+                'description': 'Request for reasonable accommodation under ADA',
+                'keywords': ['accommodation', 'ADA', 'disability'],
+                'documents': ['Initial request email/letter'],
+                'response_time': None
+            },
+            {
+                'date': '2024-02-28',  # Approximate
+                'type': 'denial',
+                'subject': 'Accommodation Denial',
+                'from': 'FEMA HR/Management',
+                'to': 'Employee',
+                'description': 'Denial of accommodation request',
+                'keywords': ['denial', 'accommodation'],
+                'documents': ['Denial letter'],
+                'response_time': 44  # Days from request
+            },
+            {
+                'date': '2024-03-15',  # Based on case number
+                'type': 'eeo_activity',
+                'subject': 'EEO Complaint Filed',
+                'from': 'Employee',
+                'to': 'EEOC',
+                'description': 'Filed formal EEO complaint HS-FEMA-02430-2024',
+                'keywords': ['EEO', 'complaint', 'discrimination'],
+                'documents': ['eeoc complaint signed-rev1-min-bookmarked_compressed.pdf'],
+                'response_time': None
+            },
+            {
+                'date': '2024-04-01',  # Approximate
+                'type': 'eeo_activity',
+                'subject': 'Letter of Acceptance',
+                'from': 'EEOC',
+                'to': 'Employee',
+                'description': 'EEOC accepts complaint for investigation',
+                'keywords': ['acceptance', 'investigation'],
+                'documents': ['LOA HS-FEMA-02430-2024.pdf'],
+                'response_time': None
+            },
+            {
+                'date': '2024-08-01',  # Approximate
+                'type': 'eeo_activity',
+                'subject': 'Report of Investigation Completed',
+                'from': 'EEOC Investigator',
+                'to': 'Parties',
+                'description': 'ROI completed and provided to parties',
+                'keywords': ['ROI', 'investigation', 'report'],
+                'documents': ['ROI HS-FEMA-02430-2024 Part 1.pdf', 'ROI HS-FEMA-02430-2024 Part 2.pdf'],
+                'response_time': None
+            },
+            {
+                'date': '2024-09-01',  # Approximate
+                'type': 'eeo_activity',
+                'subject': 'Election Letter',
+                'from': 'Employee',
+                'to': 'EEOC',
+                'description': 'Election to proceed to hearing',
+                'keywords': ['election', 'hearing', 'AJ'],
+                'documents': ['Election Letter - HS-FEMA-02430-2024.pdf'],
+                'response_time': None
+            },
+            {
+                'date': '2024-09-15',  # Approximate
+                'type': 'eeo_activity',
+                'subject': 'Rebuttal to Witness Affidavits',
+                'from': 'Employee',
+                'to': 'EEOC/FEMA',
+                'description': 'Rebuttal to witness statements in ROI',
+                'keywords': ['rebuttal', 'witness', 'affidavit'],
+                'documents': ['Rebuttal to Affidavits of Witnesses.pdf'],
+                'response_time': None
+            },
+            {
+                'date': '2024-10-01',  # Approximate
+                'type': 'eeo_activity',
+                'subject': 'Change of Venue Request',
+                'from': 'Employee/Representative',
+                'to': 'EEOC',
+                'description': 'Request to change venue for proceedings',
+                'keywords': ['venue', 'change', 'request'],
+                'documents': ['Subject-CHANGE OF VENUE REQUEST.docx'],
+                'response_time': None
+            }
+        ]
+        
+        return known_events
+    
+    def scan_file_basic(self, file_path):
+        """Basic file scanning"""
+        print(f"Scanning: {file_path.name}")
+        
+        # Skip binary files
+        if file_path.suffix.lower() in ['.pdf', '.xlsx', '.xls']:
+            print(f"  Skipping binary file: {file_path.name}")
+            return []
+        
+        text = self.extract_text_basic(file_path)
+        if not text:
+            return []
+        
+        # Extract dates
+        dates = self.extract_dates(text)
+        
+        # Extract email info
+        email_info = self.extract_email_info(text)
+        
+        events = []
+        for date_info in dates:
+            event_type = self.identify_event_type(date_info['context'])
+            
+            event = {
+                'date': date_info['date'],
+                'type': event_type,
+                'subject': email_info['subject'] or f"Communication on {date_info['date']}",
+                'from': email_info['from'] or 'Unknown',
+                'to': email_info['to'] or 'Unknown',
+                'description': date_info['context'][:200] + "...",
+                'keywords': self.extract_keywords(date_info['context']),
+                'documents': [file_path.name],
+                'source_file': str(file_path),
+                'response_time': None
+            }
+            events.append(event)
+        
+        return events
+    
+    def extract_keywords(self, text):
+        """Extract keywords from text"""
+        keywords = []
+        text_lower = text.lower()
+        
+        for event_type, keyword_list in self.event_keywords.items():
+            for keyword in keyword_list:
+                if re.search(keyword, text_lower):
+                    keywords.append(keyword.replace('.*', ''))
+        
+        return list(set(keywords))[:5]
+
+
+def main():
+    parser = argparse.ArgumentParser(description='Basic document scanner for timeline')
+    parser.add_argument('--directory', default='paradocs-agent/downloaded',
+                       help='Directory to scan')
+    parser.add_argument('--case', default='HS-FEMA-02430-2024',
+                       help='Case number')
+    parser.add_argument('--manual', action='store_true',
+                       help='Use manual timeline based on known events')
+    parser.add_argument('--timeline', action='store_true',
+                       help='Generate timeline visualization')
+    
+    args = parser.parse_args()
+    
+    scanner = BasicDocumentScanner(args.case)
+    
+    if args.manual:
+        # Use manually created events based on known case documents
+        print("Creating timeline from known case events...")
+        events = scanner.create_manual_events()
+        
+        # Save events
+        output_file = f"manual_timeline_{args.case}.json"
+        with open(output_file, 'w') as f:
+            json.dump({
+                'case_number': args.case,
+                'created': datetime.now().isoformat(),
+                'events': events
+            }, f, indent=2)
+        
+        print(f"\nCreated {len(events)} events based on case documents")
+        
+        # Generate timeline if requested
+        if args.timeline:
+            from create_communication_timeline import CommunicationTimelineAnalyzer
+            
+            analyzer = CommunicationTimelineAnalyzer(args.case)
+            timeline_data = analyzer.create_timeline(events=events)
+            analyzer.generate_timeline_report(timeline_data)
+            analyzer.generate_html_timeline(timeline_data)
+            
+            print("\nTimeline generated successfully!")
+            print(f"- Report: communication_timeline_{args.case}.md")
+            print(f"- Interactive: communication_timeline_{args.case}.html")
+    
+    else:
+        # Try to scan actual files
+        print(f"Scanning documents in: {args.directory}")
+        print("Note: This basic scanner only works with text files.")
+        print("For PDF/Word files, use --manual option or install PyPDF2/python-docx")
+        
+        directory = Path(args.directory)
+        all_events = []
+        
+        # Scan text files
+        for file_path in directory.glob('*.txt'):
+            events = scanner.scan_file_basic(file_path)
+            all_events.extend(events)
+        
+        print(f"\nFound {len(all_events)} events")
+        
+        if not all_events:
+            print("\nNo events found in text files.")
+            print("Use --manual option to create timeline from known case information.")
+
+
+if __name__ == "__main__":
+    main() 

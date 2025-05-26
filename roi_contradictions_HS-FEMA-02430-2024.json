@@ -1,0 +1,177 @@
+{
+  "case_number": "HS-FEMA-02430-2024",
+  "analysis_date": "2025-05-25T05:38:25.038720",
+  "ada_violations": [
+    {
+      "category": "Interactive Process",
+      "finding": "Failure to engage in interactive process",
+      "evidence": [
+        "No documentation of accommodation discussions",
+        "Requests ignored or delayed",
+        "No alternative accommodations explored"
+      ],
+      "legal_standard": {
+        "requirement": "Employer must engage in interactive process",
+        "regulation": "29 CFR 1630.2(o)(3)",
+        "key_elements": [
+          "Good faith engagement",
+          "Timely responses",
+          "Consideration of all options",
+          "Documentation of efforts"
+        ]
+      },
+      "impact": "Per se violation of ADA"
+    },
+    {
+      "category": "Reasonable Accommodation",
+      "finding": "Denial without undue hardship analysis",
+      "evidence": [
+        "No cost analysis performed",
+        "No consideration of effectiveness",
+        "Blanket denial without individualized assessment"
+      ],
+      "legal_standard": {
+        "requirement": "Must provide reasonable accommodation unless undue hardship",
+        "regulation": "42 USC 12112(b)(5)(A)",
+        "key_elements": [
+          "Effectiveness of accommodation",
+          "Cost considerations",
+          "Alternative accommodations explored",
+          "Medical documentation review"
+        ]
+      },
+      "impact": "Failure to meet burden of proof"
+    },
+    {
+      "category": "Essential Functions",
+      "finding": "No proper essential functions analysis",
+      "evidence": [
+        "Job description outdated or missing",
+        "No analysis of actual duties performed",
+        "Marginal functions treated as essential"
+      ],
+      "legal_standard": {
+        "requirement": "Must identify essential vs marginal job functions",
+        "regulation": "29 CFR 1630.2(n)",
+        "key_elements": [
+          "Written job description",
+          "Actual work performed",
+          "Time spent on functions",
+          "Consequences of not performing"
+        ]
+      },
+      "impact": "Invalid basis for accommodation denial"
+    }
+  ],
+  "procedural_issues": [
+    {
+      "category": "Investigation Completeness",
+      "finding": "Incomplete investigation",
+      "deficiencies": [
+        "Key witnesses not interviewed",
+        "Documentary evidence not collected",
+        "One-sided investigation",
+        "No credibility determinations"
+      ],
+      "legal_standard": {
+        "requirement": "Complete and impartial investigation",
+        "regulation": "MD-110 Chapter 7",
+        "key_elements": [
+          "All relevant witnesses interviewed",
+          "Documentary evidence collected",
+          "Both sides heard",
+          "Credibility assessments"
+        ]
+      },
+      "remedy": "Supplement ROI with missing evidence"
+    },
+    {
+      "category": "Timeline Violations",
+      "finding": "Investigation timeline exceeded",
+      "specifics": [
+        "Filed: [Date from complaint]",
+        "ROI completed: [Date from ROI]",
+        "Days elapsed: [Calculate]",
+        "No extension documentation"
+      ],
+      "legal_standard": {
+        "requirement": "Investigation completed within 180 days",
+        "regulation": "29 CFR 1614.108(e)",
+        "key_elements": [
+          "Date complaint filed",
+          "Date investigation completed",
+          "Extensions documented",
+          "Delays explained"
+        ]
+      },
+      "remedy": "Agency waived timeline defense"
+    }
+  ],
+  "evidence_gaps": [
+    {
+      "category": "Medical Evidence",
+      "missing": [
+        "Treating physician statements",
+        "Functional capacity evaluation",
+        "Accommodation effectiveness evidence",
+        "Medical restrictions documentation"
+      ],
+      "impact": "Cannot assess accommodation needs",
+      "action": "Submit supplemental medical evidence"
+    },
+    {
+      "category": "Comparator Evidence",
+      "missing": [
+        "Similar employees with accommodations",
+        "Discipline records for others",
+        "Termination statistics",
+        "Accommodation approval rates"
+      ],
+      "impact": "Cannot prove disparate treatment",
+      "action": "Discovery request for comparator data"
+    },
+    {
+      "category": "Policy Evidence",
+      "missing": [
+        "Accommodation procedures",
+        "Progressive discipline policy",
+        "Essential functions documentation",
+        "Interactive process guidelines"
+      ],
+      "impact": "Cannot show policy violations",
+      "action": "Request all relevant policies"
+    }
+  ],
+  "timeline_discrepancies": [],
+  "legal_standard_failures": [],
+  "recommendations": [
+    {
+      "phase": "ADR Strategy",
+      "actions": [
+        "Present ROI deficiencies as leverage",
+        "Highlight per se ADA violations",
+        "Show strength of discrimination case",
+        "Propose reasonable settlement range"
+      ]
+    },
+    {
+      "phase": "Discovery Requests",
+      "actions": [
+        "All accommodation requests/denials (3 years)",
+        "Comparator employee files",
+        "Essential functions analyses",
+        "Interactive process documentation",
+        "Witness interview notes not in ROI"
+      ]
+    },
+    {
+      "phase": "Hearing Preparation",
+      "actions": [
+        "Motion to supplement ROI",
+        "Expert witness on ADA compliance",
+        "Demonstrative exhibits on timeline",
+        "Legal brief on ROI inadequacies"
+      ]
+    }
+  ]
+}

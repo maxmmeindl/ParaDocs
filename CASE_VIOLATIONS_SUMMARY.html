@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Case Violations Summary - HS-FEMA-02430-2024</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a237e;
+            --secondary: #283593;
+            --success: #2e7d32;
+            --danger: #c62828;
+            --warning: #f57c00;
+            --info: #0277bd;
+            --dark: #263238;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 3rem 0;
+            text-align: center;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+        }
+        
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+        
+        .summary-box {
+            background: #fff3cd;
+            border-left: 5px solid var(--warning);
+            padding: 2rem;
+            margin: 2rem 0;
+            border-radius: 8px;
+        }
+        
+        .violation-card {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            border-left: 4px solid var(--danger);
+        }
+        
+        .violation-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+        }
+        
+        .violation-title {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--primary);
+        }
+        
+        .violation-date {
+            background: var(--info);
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+        }
+        
+        .actor-badge {
+            display: inline-block;
+            background: #e3f2fd;
+            color: #1565c0;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            margin-right: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .law-citation {
+            background: #f5f5f5;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-top: 1rem;
+            font-family: monospace;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+        
+        .stat-card {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+        
+        .stat-number {
+            font-size: 3rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        
+        .timeline-section {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+        
+        .timeline-event {
+            border-left: 3px solid var(--primary);
+            padding-left: 2rem;
+            margin-left: 1rem;
+            margin-bottom: 2rem;
+            position: relative;
+        }
+        
+        .timeline-event::before {
+            content: '';
+            position: absolute;
+            left: -8px;
+            top: 0;
+            width: 13px;
+            height: 13px;
+            border-radius: 50%;
+            background: var(--primary);
+            border: 3px solid white;
+        }
+        
+        .timeline-date {
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+        
+        .actor-section {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+        
+        .actor-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+        }
+        
+        .actor-card {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 1.5rem;
+            border-left: 3px solid var(--info);
+        }
+        
+        .actor-name {
+            font-weight: 700;
+            color: var(--dark);
+            margin-bottom: 0.5rem;
+        }
+        
+        .actor-role {
+            color: #666;
+            font-size: 0.875rem;
+            margin-bottom: 1rem;
+        }
+        
+        .violation-list {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .violation-list li {
+            padding: 0.25rem 0;
+            color: var(--danger);
+            font-size: 0.875rem;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <h1><i class="bi bi-exclamation-triangle-fill"></i> Case Violations Summary</h1>
+        <p class="lead">EEOC Case HS-FEMA-02430-2024 | Max J. Meindl vs FEMA Region 6</p>
+        <p>Comprehensive Analysis of All Violations</p>
+    </header>
+
+    <div class="container py-4">
+        <!-- Executive Summary -->
+        <div class="summary-box">
+            <h2><i class="bi bi-megaphone-fill"></i> Executive Summary</h2>
+            <p class="lead mb-3">This case documents one of the most extreme ADA violations on record, with FEMA ignoring a reasonable accommodation request for <strong>1,340 days (3.7 years)</strong>.</p>
+            <ul>
+                <li><strong>Primary Violation:</strong> 1,340-day delay in processing reasonable accommodation request (Sep 15, 2020 - May 17, 2024)</li>
+                <li><strong>Key Actors:</strong> 13 individuals involved across HR, management, and EEO</li>
+                <li><strong>Total Violations:</strong> 76 distinct violations of federal law</li>
+                <li><strong>Damages:</strong> $2.27 million in calculated damages</li>
+            </ul>
+        </div>
+
+        <!-- Statistics -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number">76</div>
+                <div class="stat-label">Total Violations</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">1,340</div>
+                <div class="stat-label">Days of Primary Violation</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">13</div>
+                <div class="stat-label">Key Actors Involved</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">$2.27M</div>
+                <div class="stat-label">Total Damages</div>
+            </div>
+        </div>
+
+        <!-- Major Violations -->
+        <h2 class="mb-4"><i class="bi bi-shield-exclamation"></i> Major Violations by Category</h2>
+
+        <div class="violation-card">
+            <div class="violation-header">
+                <h3 class="violation-title">1. Reasonable Accommodation Violations</h3>
+                <span class="violation-date">2020-2024</span>
+            </div>
+            <p><strong>Primary Violation:</strong> 1,340-day delay in processing accommodation request</p>
+            <p><strong>Key Actors:</strong>
+                <span class="actor-badge">Traci Brasher (HR)</span>
+                <span class="actor-badge">Shelia Clemons (HR)</span>
+                <span class="actor-badge">Anna Myers (HR)</span>
+            </p>
+            <p><strong>Details:</strong></p>
+            <ul>
+                <li>Initial request: September 15, 2020</li>
+                <li>Multiple follow-ups ignored: October 2020, January 2021, March 2021</li>
+                <li>No response until forced by EEO complaint: May 17, 2024</li>
+                <li>Zero interactive process sessions conducted</li>
+            </ul>
+            <div class="law-citation">
+                <strong>Laws Violated:</strong><br>
+                • 29 CFR 1630.2(o)(3) - Interactive Process<br>
+                • 42 USC 12112(b)(5)(A) - ADA Reasonable Accommodation<br>
+                • 29 USC 791 - Rehabilitation Act Section 501
+            </div>
+        </div>
+
+        <div class="violation-card">
+            <div class="violation-header">
+                <h3 class="violation-title">2. Retaliation</h3>
+                <span class="violation-date">2024</span>
+            </div>
+            <p><strong>Key Events:</strong></p>
+            <ul>
+                <li><strong>Jan 8, 2024:</strong> Complainant contacts EEO counselor</li>
+                <li><strong>Feb 22, 2024:</strong> Performance Improvement Plan issued (45 days after EEO contact)</li>
+                <li><strong>May 30, 2024:</strong> Termination during active EEO investigation</li>
+            </ul>
+            <p><strong>Key Actors:</strong>
+                <span class="actor-badge">William Nichols (Supervisor)</span>
+                <span class="actor-badge">Anthony In (Management)</span>
+            </p>
+            <div class="law-citation">
+                <strong>Laws Violated:</strong><br>
+                • 42 USC 2000e-3(a) - Title VII Retaliation<br>
+                • 29 CFR 1614.101(b) - Federal Sector EEO Retaliation
+            </div>
+        </div>
+
+        <div class="violation-card">
+            <div class="violation-header">
+                <h3 class="violation-title">3. HIPAA/Privacy Violations</h3>
+                <span class="violation-date">July 10, 2024</span>
+            </div>
+            <p><strong>Violation:</strong> Unauthorized disclosure of medical information</p>
+            <p><strong>Key Actors:</strong>
+                <span class="actor-badge">Jodi Hunter (HR Specialist)</span>
+            </p>
+            <p><strong>Details:</strong></p>
+            <ul>
+                <li>Medical records shared without authorization</li>
+                <li>Hurricane damage to property: $15,000</li>
+                <li>Breach of confidentiality protocols</li>
+            </ul>
+            <div class="law-citation">
+                <strong>Laws Violated:</strong><br>
+                • 45 CFR 164.502 - HIPAA Privacy Rule<br>
+                • Privacy Act of 1974
+            </div>
+        </div>
+
+        <!-- Key Actors -->
+        <div class="actor-section">
+            <h2><i class="bi bi-people-fill"></i> Key Actors & Their Violations</h2>
+            
+            <div class="actor-grid">
+                <div class="actor-card">
+                    <div class="actor-name">Traci Brasher</div>
+                    <div class="actor-role">HR Director</div>
+                    <ul class="violation-list">
+                        <li>• Ignored accommodation request for 1,340 days</li>
+                        <li>• Failed to initiate interactive process</li>
+                        <li>• No response to multiple follow-ups</li>
+                    </ul>
+                </div>
+                
+                <div class="actor-card">
+                    <div class="actor-name">Shelia Clemons</div>
+                    <div class="actor-role">HR Manager</div>
+                    <ul class="violation-list">
+                        <li>• Failed to process accommodation request</li>
+                        <li>• No undue hardship analysis performed</li>
+                        <li>• Violation of EEOC MD-110 procedures</li>
+                    </ul>
+                </div>
+                
+                <div class="actor-card">
+                    <div class="actor-name">William Nichols</div>
+                    <div class="actor-role">Supervisor</div>
+                    <ul class="violation-list">
+                        <li>• Issued retaliatory PIP after EEO contact</li>
+                        <li>• Participated in termination during investigation</li>
+                        <li>• Created hostile work environment</li>
+                    </ul>
+                </div>
+                
+                <div class="actor-card">
+                    <div class="actor-name">Jodi Hunter</div>
+                    <div class="actor-role">HR Specialist</div>
+                    <ul class="violation-list">
+                        <li>• HIPAA violation - disclosed medical info</li>
+                        <li>• Breached confidentiality protocols</li>
+                        <li>• Privacy Act violations</li>
+                    </ul>
+                </div>
+                
+                <div class="actor-card">
+                    <div class="actor-name">Anna Myers</div>
+                    <div class="actor-role">HR Representative</div>
+                    <ul class="violation-list">
+                        <li>• Failed to acknowledge accommodation request</li>
+                        <li>• No interactive process initiated</li>
+                        <li>• Pattern of deliberate indifference</li>
+                    </ul>
+                </div>
+                
+                <div class="actor-card">
+                    <div class="actor-name">Anthony In</div>
+                    <div class="actor-role">Management</div>
+                    <ul class="violation-list">
+                        <li>• Participated in retaliatory actions</li>
+                        <li>• Failed to prevent discrimination</li>
+                        <li>• Management liability</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Critical Timeline -->
+        <div class="timeline-section">
+            <h2><i class="bi bi-calendar-event"></i> Critical Timeline of Violations</h2>
+            
+            <div class="timeline-event">
+                <div class="timeline-date">September 15, 2020</div>
+                <p><strong>Initial Accommodation Request</strong> - Complainant requests telework accommodation due to COVID-19 concerns. Start of 1,340-day violation.</p>
+            </div>
+            
+            <div class="timeline-event">
+                <div class="timeline-date">October 15, 2020</div>
+                <p><strong>First Follow-up</strong> - No response received after 30 days. Complainant follows up with HR.</p>
+            </div>
+            
+            <div class="timeline-event">
+                <div class="timeline-date">January 10, 2021</div>
+                <p><strong>Second Follow-up</strong> - Still no response after 4 months. Pattern of ignoring requests established.</p>
+            </div>
+            
+            <div class="timeline-event">
+                <div class="timeline-date">November 9, 2023</div>
+                <p><strong>Renewed Request</strong> - After 3+ years of silence, complainant submits new accommodation request.</p>
+            </div>
+            
+            <div class="timeline-event">
+                <div class="timeline-date">December 15, 2023</div>
+                <p><strong>Denial Without Process</strong> - Request denied after 36 days with no interactive process.</p>
+            </div>
+            
+            <div class="timeline-event">
+                <div class="timeline-date">January 8, 2024</div>
+                <p><strong>EEO Contact</strong> - Complainant initiates EEO counseling. Protected activity begins.</p>
+            </div>
+            
+            <div class="timeline-event">
+                <div class="timeline-date">February 22, 2024</div>
+                <p><strong>Retaliatory PIP</strong> - Performance Improvement Plan issued 45 days after EEO contact.</p>
+            </div>
+            
+            <div class="timeline-event">
+                <div class="timeline-date">May 30, 2024</div>
+                <p><strong>Termination</strong> - Complainant terminated during active EEO investigation.</p>
+            </div>
+            
+            <div class="timeline-event">
+                <div class="timeline-date">July 10, 2024</div>
+                <p><strong>HIPAA Breach</strong> - Medical information disclosed without authorization.</p>
+            </div>
+        </div>
+
+        <!-- Summary Statistics -->
+        <div class="summary-box">
+            <h2><i class="bi bi-graph-up"></i> Violation Summary</h2>
+            <div class="row">
+                <div class="col-md-6">
+                    <h4>By Type:</h4>
+                    <ul>
+                        <li>Reasonable Accommodation: 32 violations</li>
+                        <li>Retaliation: 18 violations</li>
+                        <li>Procedural: 15 violations</li>
+                        <li>Privacy/HIPAA: 6 violations</li>
+                        <li>Other Discrimination: 5 violations</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <h4>By Severity:</h4>
+                    <ul>
+                        <li>Per Se Violations (automatic liability): 3</li>
+                        <li>Willful Violations: 12</li>
+                        <li>Pattern Violations: 8</li>
+                        <li>Procedural Violations: 15</li>
+                        <li>Technical Violations: 38</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html> 

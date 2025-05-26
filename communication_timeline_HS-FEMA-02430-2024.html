@@ -1,0 +1,165 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Communication Timeline - HS-FEMA-02430-2024</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .timeline { position: relative; max-width: 1200px; margin: 0 auto; }
+        .timeline::after { content: ''; position: absolute; width: 6px; background-color: #ddd; top: 0; bottom: 0; left: 50%; margin-left: -3px; }
+        .container { padding: 10px 40px; position: relative; background-color: inherit; width: 50%; }
+        .container::after { content: ''; position: absolute; width: 25px; height: 25px; right: -17px; background-color: white; border: 4px solid #FF9F55; top: 15px; border-radius: 50%; z-index: 1; }
+        .left { left: 0; }
+        .right { left: 50%; }
+        .left::before { content: " "; height: 0; position: absolute; top: 22px; width: 0; z-index: 1; right: 30px; border: medium solid #ddd; border-width: 10px 0 10px 10px; border-color: transparent transparent transparent #ddd; }
+        .right::before { content: " "; height: 0; position: absolute; top: 22px; width: 0; z-index: 1; left: 30px; border: medium solid #ddd; border-width: 10px 10px 10px 0; border-color: transparent #ddd transparent transparent; }
+        .right::after { left: -16px; }
+        .content { padding: 20px 30px; background-color: white; position: relative; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        .accommodation_request { border-left: 5px solid #FF6B6B; }
+        .denial { border-left: 5px solid #845EC2; }
+        .meeting { border-left: 5px solid #00C9A7; }
+        .discipline { border-left: 5px solid #C34A36; }
+        .eeo_activity { border-left: 5px solid #FF8066; }
+        .search-box { margin: 20px 0; padding: 10px; background: #f5f5f5; border-radius: 5px; }
+        .search-box input { width: 300px; padding: 5px; }
+        .stats { display: flex; justify-content: space-around; margin: 20px 0; }
+        .stat-box { background: #f9f9f9; padding: 15px; border-radius: 5px; text-align: center; }
+        .violation { color: red; font-weight: bold; }
+        h2 { color: #333; }
+        .date { color: #666; font-weight: bold; }
+        .keywords { color: #999; font-size: 0.9em; font-style: italic; }
+    </style>
+    <script>
+        function searchTimeline() {
+            var input = document.getElementById('searchInput').value.toLowerCase();
+            var events = document.getElementsByClassName('container');
+            
+            for (var i = 0; i < events.length; i++) {
+                var content = events[i].textContent.toLowerCase();
+                if (content.includes(input)) {
+                    events[i].style.display = 'block';
+                } else {
+                    events[i].style.display = 'none';
+                }
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Communication Timeline Analysis</h1>
+    <h2>Case: HS-FEMA-02430-2024</h2>
+    
+    <div class="search-box">
+        <label>Search Timeline: </label>
+        <input type="text" id="searchInput" onkeyup="searchTimeline()" placeholder="Enter keywords...">
+    </div>
+    
+    <div class="stats">
+        <div class="stat-box">
+            <h3>Total Events</h3>
+            <p>8</p>
+        </div>
+        <div class="stat-box">
+            <h3>Average Response Time</h3>
+            <p>44.0 days</p>
+        </div>
+        <div class="stat-box">
+            <h3>Critical Delays</h3>
+            <p class="violation">1</p>
+        </div>
+    </div>
+    
+    <div class="timeline">
+        
+        <div class="container left">
+            <div class="content accommodation_request">
+                <p class="date">2024-01-15</p>
+                <h3>Initial Accommodation Request</h3>
+                <p><strong>Employee</strong> → <strong>FEMA Management</strong></p>
+                <p>Request for reasonable accommodation under ADA</p>
+                
+                <p class="keywords">Keywords: accommodation, ADA, disability</p>
+            </div>
+        </div>
+            
+        <div class="container right">
+            <div class="content denial">
+                <p class="date">2024-02-28</p>
+                <h3>Accommodation Denial</h3>
+                <p><strong>FEMA HR/Management</strong> → <strong>Employee</strong></p>
+                <p>Denial of accommodation request</p>
+                <p class="violation">Response Time: 44 days</p>
+                <p class="keywords">Keywords: denial, accommodation</p>
+            </div>
+        </div>
+            
+        <div class="container left">
+            <div class="content eeo_activity">
+                <p class="date">2024-03-15</p>
+                <h3>EEO Complaint Filed</h3>
+                <p><strong>Employee</strong> → <strong>EEOC</strong></p>
+                <p>Filed formal EEO complaint HS-FEMA-02430-2024</p>
+                
+                <p class="keywords">Keywords: EEO, complaint, discrimination</p>
+            </div>
+        </div>
+            
+        <div class="container right">
+            <div class="content eeo_activity">
+                <p class="date">2024-04-01</p>
+                <h3>Letter of Acceptance</h3>
+                <p><strong>EEOC</strong> → <strong>Employee</strong></p>
+                <p>EEOC accepts complaint for investigation</p>
+                
+                <p class="keywords">Keywords: acceptance, investigation</p>
+            </div>
+        </div>
+            
+        <div class="container left">
+            <div class="content eeo_activity">
+                <p class="date">2024-08-01</p>
+                <h3>Report of Investigation Completed</h3>
+                <p><strong>EEOC Investigator</strong> → <strong>Parties</strong></p>
+                <p>ROI completed and provided to parties</p>
+                
+                <p class="keywords">Keywords: ROI, investigation, report</p>
+            </div>
+        </div>
+            
+        <div class="container right">
+            <div class="content eeo_activity">
+                <p class="date">2024-09-01</p>
+                <h3>Election Letter</h3>
+                <p><strong>Employee</strong> → <strong>EEOC</strong></p>
+                <p>Election to proceed to hearing</p>
+                
+                <p class="keywords">Keywords: election, hearing, AJ</p>
+            </div>
+        </div>
+            
+        <div class="container left">
+            <div class="content eeo_activity">
+                <p class="date">2024-09-15</p>
+                <h3>Rebuttal to Witness Affidavits</h3>
+                <p><strong>Employee</strong> → <strong>EEOC/FEMA</strong></p>
+                <p>Rebuttal to witness statements in ROI</p>
+                
+                <p class="keywords">Keywords: rebuttal, witness, affidavit</p>
+            </div>
+        </div>
+            
+        <div class="container right">
+            <div class="content eeo_activity">
+                <p class="date">2024-10-01</p>
+                <h3>Change of Venue Request</h3>
+                <p><strong>Employee/Representative</strong> → <strong>EEOC</strong></p>
+                <p>Request to change venue for proceedings</p>
+                
+                <p class="keywords">Keywords: venue, change, request</p>
+            </div>
+        </div>
+            
+    </div>
+</body>
+</html>
+        

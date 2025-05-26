@@ -1,0 +1,32 @@
+PARADOCS MASTER INDEX REPORT
+==================================================
+
+Total Documents Indexed: 11
+Total Categories: 6
+
+DOCUMENTS BY CATEGORY:
+------------------------------
+
+EEOC_Complaints: 2 documents
+  - Form 462 Complaints Table List.docx
+  - eeoc complaint signed-rev1-min-bookmarked_compressed.pdf
+
+Forms_and_Tables: 1 documents
+  - FY 2024 462 Instruction Manual 2024Sep16_508FINAL.pdf
+
+Legal_Documents: 2 documents
+  - Rebuttal to Affidavits of Witnesses.pdf
+  - md-110.pdf
+
+Letters_and_Correspondence: 3 documents
+  - Election Letter - HS-FEMA-02430-2024.pdf
+  - LOA HS-FEMA-02430-2024.pdf
+  - Subject-CHANGE OF VENUE REQUEST.docx
+
+Miscellaneous: 1 documents
+  - index.md
+
+ROI_Documents: 2 documents
+  - ROI HS-FEMA-02430-2024 Part 1 (1)-compressed.pdf
+  - ROI HS-FEMA-02430-2024 Part 2-compressed.pdf
+

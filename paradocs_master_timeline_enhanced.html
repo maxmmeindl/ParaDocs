@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ParaDocs Timeline-Enhanced Dashboard - Complete EEO Case Analysis</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a237e;
+            --secondary: #283593;
+            --success: #2e7d32;
+            --danger: #c62828;
+            --warning: #f57c00;
+            --info: #0277bd;
+            --dark: #263238;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+        }
+        
+        .navbar {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 1rem 0;
+        }
+        
+        .navbar-brand {
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: white !important;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .main-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .stat-card {
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+        }
+        
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: var(--primary);
+        }
+        
+        .stat-card.danger::before { background: var(--danger); }
+        .stat-card.success::before { background: var(--success); }
+        .stat-card.warning::before { background: var(--warning); }
+        .stat-card.info::before { background: var(--info); }
+        
+        .stat-icon {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            opacity: 0.8;
+        }
+        
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin: 0;
+            line-height: 1;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-top: 0.5rem;
+        }
+        
+        .timeline-container {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            margin: 2rem 0;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        
+        .timeline-event {
+            position: relative;
+            padding-left: 3rem;
+            padding-bottom: 2rem;
+            border-left: 2px solid #e0e0e0;
+        }
+        
+        .timeline-event:last-child {
+            border-left: none;
+            padding-bottom: 0;
+        }
+        
+        .timeline-marker {
+            position: absolute;
+            left: -8px;
+            top: 0;
+            width: 14px;
+            height: 14px;
+            background: var(--primary);
+            border-radius: 50%;
+            border: 3px solid white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .timeline-marker.critical { background: var(--danger); }
+        .timeline-marker.high { background: var(--warning); }
+        .timeline-marker.medium { background: var(--info); }
+        .timeline-marker.low { background: var(--success); }
+        
+        .timeline-date {
+            color: var(--primary);
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            font-size: 0.875rem;
+        }
+        
+        .timeline-title {
+            font-size: 1.125rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+        
+        .timeline-details {
+            margin-top: 1rem;
+            padding: 1rem;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+        
+        .timeline-people {
+            margin-top: 0.75rem;
+        }
+        
+        .person-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            background: #e3f2fd;
+            color: var(--primary);
+            border-radius: 20px;
+            font-size: 0.75rem;
+            margin-right: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .violation-item {
+            background: #ffebee;
+            border-left: 3px solid var(--danger);
+            padding: 0.75rem;
+            margin: 0.5rem 0;
+            border-radius: 4px;
+            font-size: 0.875rem;
+        }
+        
+        .quote-block {
+            background: #fffde7;
+            border-left: 3px solid var(--warning);
+            padding: 1rem;
+            margin: 1rem 0;
+            border-radius: 4px;
+            font-style: italic;
+        }
+        
+        .delay-badge {
+            display: inline-block;
+            background: var(--danger);
+            color: white;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            font-weight: 600;
+        }
+        
+        .filter-controls {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        
+        .filter-btn {
+            margin-right: 0.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .key-actors-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+        
+        .actor-card {
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        
+        .actor-name {
+            font-weight: 600;
+            color: var(--primary);
+            margin-bottom: 0.5rem;
+        }
+        
+        .actor-stats {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid #e0e0e0;
+        }
+        
+        .violation-summary {
+            background: #ffebee;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin: 1rem 0;
+        }
+        
+        .violation-category {
+            font-weight: 600;
+            color: var(--danger);
+            margin-bottom: 0.5rem;
+        }
+        
+        .violation-count {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--danger);
+        }
+        
+        .timeline-search {
+            position: relative;
+            margin-bottom: 1.5rem;
+        }
+        
+        .timeline-search input {
+            width: 100%;
+            padding: 0.75rem 1rem 0.75rem 3rem;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 1rem;
+        }
+        
+        .timeline-search i {
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #666;
+        }
+        
+        .export-buttons {
+            display: flex;
+            gap: 1rem;
+            margin-top: 2rem;
+        }
+        
+        .export-btn {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .export-btn:hover {
+            background: var(--secondary);
+            transform: translateY(-2px);
+        }
+        
+        @media print {
+            .filter-controls, .export-buttons, .navbar {
+                display: none;
+            }
+            
+            .timeline-event {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid">
+            <span class="navbar-brand">
+                <i class="bi bi-calendar-event"></i>
+                ParaDocs Timeline-Enhanced Dashboard
+            </span>
+            <span class="navbar-text text-white">
+                Complete EEO Investigation Timeline & Analysis
+            </span>
+        </div>
+    </nav>
+
+    <div class="container-fluid py-4">
+        <!-- Executive Summary -->
+        <section id="executive-summary">
+            <h2 class="section-header">
+                <i class="bi bi-briefcase"></i>
+                Executive Summary: HS-FEMA-02430-2024
+            </h2>
+            
+            <div class="main-stats">
+                <div class="stat-card danger">
+                    <i class="bi bi-exclamation-octagon stat-icon text-danger"></i>
+                    <p class="stat-number">30</p>
+                    <p class="stat-label">Total Violations</p>
+                </div>
+                
+                <div class="stat-card warning">
+                    <i class="bi bi-hourglass-split stat-icon text-warning"></i>
+                    <p class="stat-number">1,195</p>
+                    <p class="stat-label">Max Delay (Days)</p>
+                </div>
+                
+                <div class="stat-card info">
+                    <i class="bi bi-calendar3 stat-icon text-info"></i>
+                    <p class="stat-number">15</p>
+                    <p class="stat-label">Documented Events</p>
+                </div>
+                
+                <div class="stat-card">
+                    <i class="bi bi-people stat-icon text-secondary"></i>
+                    <p class="stat-number">20+</p>
+                    <p class="stat-label">Individuals Involved</p>
+                </div>
+                
+                <div class="stat-card danger">
+                    <i class="bi bi-shield-x stat-icon text-danger"></i>
+                    <p class="stat-number">17</p>
+                    <p class="stat-label">Days to Retaliation</p>
+                </div>
+                
+                <div class="stat-card success">
+                    <i class="bi bi-file-earmark-medical stat-icon text-success"></i>
+                    <p class="stat-number">HIPAA</p>
+                    <p class="stat-label">Breach Documented</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Timeline Search and Filters -->
+        <section id="timeline-controls" class="filter-controls">
+            <h3><i class="bi bi-funnel"></i> Timeline Controls</h3>
+            
+            <div class="timeline-search">
+                <i class="bi bi-search"></i>
+                <input type="text" id="timelineSearch" placeholder="Search events, names, violations, or quotes...">
+            </div>
+            
+            <div class="filter-buttons">
+                <button class="btn btn-sm btn-outline-primary filter-btn active" data-filter="all">All Events</button>
+                <button class="btn btn-sm btn-outline-danger filter-btn" data-filter="critical">Critical</button>
+                <button class="btn btn-sm btn-outline-warning filter-btn" data-filter="high">High Priority</button>
+                <button class="btn btn-sm btn-outline-info filter-btn" data-filter="violations">Violations Only</button>
+                <button class="btn btn-sm btn-outline-success filter-btn" data-filter="quotes">With Quotes</button>
+                <button class="btn btn-sm btn-outline-secondary filter-btn" data-filter="delays">Processing Delays</button>
+            </div>
+        </section>
+
+        <!-- Detailed Timeline -->
+        <section id="detailed-timeline" class="timeline-container">
+            <h2 class="mb-4">
+                <i class="bi bi-clock-history"></i>
+                Detailed Investigation Timeline
+            </h2>
+            
+            <div id="timelineEvents">
+                <!-- Timeline events will be populated by JavaScript -->
+            </div>
+        </section>
+
+        <!-- Key Actors Analysis -->
+        <section id="key-actors">
+            <h2 class="section-header">
+                <i class="bi bi-people-fill"></i>
+                Key Actors Analysis
+            </h2>
+            
+            <div class="key-actors-grid" id="actorsGrid">
+                <!-- Key actors will be populated by JavaScript -->
+            </div>
+        </section>
+
+        <!-- Violations Summary -->
+        <section id="violations-summary">
+            <h2 class="section-header">
+                <i class="bi bi-exclamation-triangle"></i>
+                Violations Summary
+            </h2>
+            
+            <div id="violationsSummary">
+                <!-- Violations summary will be populated by JavaScript -->
+            </div>
+        </section>
+
+        <!-- Export Options -->
+        <section class="export-buttons">
+            <button class="export-btn" onclick="exportTimeline('pdf')">
+                <i class="bi bi-file-pdf"></i> Export to PDF
+            </button>
+            <button class="export-btn" onclick="exportTimeline('csv')">
+                <i class="bi bi-file-earmark-spreadsheet"></i> Export to CSV
+            </button>
+            <button class="export-btn" onclick="window.print()">
+                <i class="bi bi-printer"></i> Print Timeline
+            </button>
+        </section>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Timeline data from the comprehensive report
+        const timelineData = {
+            events: [
+                {
+                    date: "2018-09-21",
+                    date_display: "Sep 21, 2018",
+                    event: "Meindl files harassment complaint (HS-FEMA-01876). Closed without investigation on Oct 15, 2018, signaling early neglect.",
+                    names_involved: ["Max Meindl", "FEMA Office of Equal Rights"],
+                    violations: ["MD-110 §III.A: Failure to investigate harassment complaint undermines EEO process integrity"],
+                    quotes: "No direct quotes available; event referenced in Comprehensive Response, p. 3.",
+                    category: "EEO Activity",
+                    severity: "High"
+                },
+                {
+                    date: "2018-11-26",
+                    date_display: "Nov 26, 2018",
+                    event: "Meindl submits RA request (RAR001234) for episodic telework. Denied by Jamie McAllister on Dec 10, 2018, without discussion.",
+                    names_involved: ["Max Meindl", "Jamie McAllister"],
+                    violations: ["Rehabilitation Act §501: Denial without interactive process violates 29 C.F.R. §1630.2(o)(3)", "MD-110 §VI.A: Lack of engagement breaches RA process"],
+                    quotes: "No direct quotes available; denial noted in Comprehensive Response, p. 3.",
+                    category: "Accommodation Request",
+                    severity: "High"
+                },
+                {
+                    date: "2019-05-01",
+                    date_display: "May 1, 2019",
+                    event: "FMLA request approved effective May 1, 2019, for 12 weeks due to chronic health condition.",
+                    names_involved: ["Jacqueline Gause", "Max Meindl", "Jamie McAllister", "Angela Agaiby", "Brian Slie"],
+                    violations: ["None identified for approval, but sets context for RA needs"],
+                    quotes: "Your request for FMLA leave has been approved effective May 1, 2019, for 12 weeks.",
+                    category: "FMLA Request",
+                    severity: "Low"
+                },
+                {
+                    date: "2019-10-22",
+                    date_display: "Oct 22, 2019",
+                    event: "Meindl requests FMLA recertification, feeling 'singled out' as a senior citizen (age 74).",
+                    names_involved: ["Max Meindl", "Jacqueline Gause"],
+                    violations: ["ADEA (29 U.S.C. §623): Perception of age-based scrutiny suggests discrimination"],
+                    quotes: "I feel singled out as a senior citizen in this process.",
+                    category: "FMLA Request",
+                    severity: "Medium"
+                },
+                {
+                    date: "2020-03-04",
+                    date_display: "Mar 4, 2020",
+                    event: "Meindl expresses COVID-19 exposure concerns (COPD, CAD), considering 2–6 week RA for telework. Keya Jackson provides RA Fact Sheet, requiring redundant documentation.",
+                    names_involved: ["Max Meindl", "Jacqueline Gause", "Keya Jackson", "Richard Cain"],
+                    violations: ["MD-110 §VI.C: Redundant documentation violates streamlined process", "Rehabilitation Act §501: Delay risks timely accommodation"],
+                    quotes: "Meindl: 'Given my COPD and CAD, I'm concerned about COVID-19 exposure.' Jackson: 'Please submit FEMA Form 256 with a doctor's note.'",
+                    category: "Accommodation Request",
+                    severity: "High"
+                },
+                {
+                    date: "2021-10-28",
+                    date_display: "Oct 28, 2021",
+                    event: "RAs (RAR0023025, RAR0023278) submitted, unresolved for 1,195 days.",
+                    names_involved: ["Max Meindl", "FEMA RA staff"],
+                    violations: ["FEMA Instruction 256-022-01: 1,195-day delay violates 45-day policy", "MD-110 §IV.D: Exceeds 180-day timeline", "Rehabilitation Act §501: Non-adjudication"],
+                    quotes: "No direct quotes available; delay noted in Comprehensive Response, p. 3.",
+                    category: "Accommodation Request",
+                    severity: "Critical",
+                    delay_days: 1195
+                },
+                {
+                    date: "2022-04-20",
+                    date_display: "Apr 20, 2022",
+                    event: "Meindl suffers heart attack, notifies Richard Cain.",
+                    names_involved: ["Max Meindl", "Richard Cain"],
+                    violations: ["None identified, but highlights health vulnerabilities ignored"],
+                    quotes: "Will be off this week… heart attack recovery.",
+                    category: "Medical",
+                    severity: "High"
+                },
+                {
+                    date: "2022-08-04",
+                    date_display: "Aug 4, 2022",
+                    event: "RA (RAR0042452) for permanent telework; Mark Underhill endorses as 'reasonable.' Ignored for 886 days.",
+                    names_involved: ["Max Meindl", "Mark Underhill", "Miriam Aybar-Morales"],
+                    violations: ["FEMA Instruction 256-022-01: 886-day delay violates 45-day policy", "MD-110 §VI.A: Ignoring endorsement breaches interactive process"],
+                    quotes: "Max's RA request is reasonable.",
+                    category: "Accommodation Request",
+                    severity: "Critical",
+                    delay_days: 886
+                },
+                {
+                    date: "2024-01-02",
+                    date_display: "Jan 2, 2024",
+                    event: "RA (RAR0046767) for permanent telework submitted via ACMS; not assigned until Jun 12, 2024 (163-day delay).",
+                    names_involved: ["Max Meindl", "FEMA RA staff"],
+                    violations: ["FEMA Instruction 256-022-01: 163-day delay violates 45-day policy", "MD-110 §IV.D: Exceeds 180-day timeline"],
+                    quotes: "No direct quotes available; submission noted in PERPLEXITY SUMMARY-APRIL 2025.docx, p. 4.",
+                    category: "Accommodation Request",
+                    severity: "High",
+                    delay_days: 163
+                },
+                {
+                    date: "2024-02-23",
+                    date_display: "Feb 23, 2024",
+                    event: "Meindl to Brasher: 'RA requests never get adjudicated'; Brasher offers discussion via Colleen Sciano.",
+                    names_involved: ["Max Meindl", "Traci Brasher", "Colleen Sciano"],
+                    violations: ["MD-110 §VI.A: Failure to act on non-adjudication complaint delays interactive process"],
+                    quotes: "Meindl: 'The RA requests never get adjudicated.' Brasher: 'Let's discuss through Colleen Sciano.'",
+                    category: "Communication",
+                    severity: "High"
+                },
+                {
+                    date: "2024-07-10",
+                    date_display: "Jul 10, 2024",
+                    event: "Brasher assigns RAR0046767 to Shelia Clemons for 'expedited processing' after 194 days, admitting FEMA is 'very far behind.' Clemons sends unencrypted email exposing COPD/CAD.",
+                    names_involved: ["Traci Brasher", "Shelia Clemons", "Max Meindl"],
+                    violations: ["FEMA Instruction 256-022-01: 194-day delay violates 45-day policy", "HIPAA (45 CFR §164.312): Unencrypted email breaches PHI security", "MD-110 §VI.C: Redundant request violates streamlined process"],
+                    quotes: "Clemons: 'We acknowledge unavoidable delay... please provide PD & medical docs.' Meindl: 'I've already uploaded these to ACMS.'",
+                    category: "Accommodation Request",
+                    severity: "Critical",
+                    delay_days: 194
+                },
+                {
+                    date: "2024-08-05",
+                    date_display: "Aug 5, 2024",
+                    event: "Anthony In denies RAR0046767, claiming deployment as 'essential function,' ignoring 38-month remote success.",
+                    names_involved: ["Anthony In", "Max Meindl"],
+                    violations: ["Rehabilitation Act §501: Denial without assessment violates 29 C.F.R. §1630.2(n)(3)", "MD-110 §VI.A: Failure to document feasibility breaches process", "ADEA (29 U.S.C. §623): Disparate treatment suggests age bias"],
+                    quotes: "In: 'Deployment is an essential function.'",
+                    category: "Agency Response",
+                    severity: "Critical"
+                },
+                {
+                    date: "2024-12-04",
+                    date_display: "Dec 4, 2024",
+                    event: "Meindl messages Brasher about RA denial and job loss fears; she promises follow-up but takes no action.",
+                    names_involved: ["Max Meindl", "Traci Brasher"],
+                    violations: ["MD-110 §XI: Inaction risks retaliation", "Rehabilitation Act §501: Failure to resolve RA violates 29 C.F.R. §1630"],
+                    quotes: "Meindl: 'I'm worried about job loss due to RA denial.' Brasher: 'I'll follow up.'",
+                    category: "Communication",
+                    severity: "High"
+                },
+                {
+                    date: "2024-12-20",
+                    date_display: "Dec 20, 2024",
+                    event: "Meindl files EEO complaint (HS-FEMA-02430-2024) alleging disability, age discrimination, retaliation.",
+                    names_involved: ["Max Meindl", "FEMA Office of Equal Rights"],
+                    violations: ["None identified; protected activity under 29 C.F.R. §1614"],
+                    quotes: "No direct quotes available; filing noted in PERPLEXITY SUMMARY-APRIL 2025.docx, p. 14.",
+                    category: "EEO Activity",
+                    severity: "High"
+                },
+                {
+                    date: "2025-01-06",
+                    date_display: "Jan 6, 2025",
+                    event: "FEMA terminates Meindl, citing 'medical inability,' during Brasher's tenure, without prior warnings or 30-day notice.",
+                    names_involved: ["Max Meindl", "Traci Brasher", "FEMA HR"],
+                    violations: ["Rehabilitation Act §501: Termination without accommodations violates 42 U.S.C. §12112(b)(5)(A)", "MD-110 §XI: 17-day proximity suggests retaliation", "5 U.S.C. §7513: No 30-day notice", "FEMA Manual 123-13-1: No progressive discipline or Douglas Factors", "ADEA (29 U.S.C. §623): Age-based termination likely"],
+                    quotes: "Terminated due to medical inability to perform essential functions.",
+                    category: "Retaliation",
+                    severity: "Critical"
+                }
+            ]
+        };
+        
+        // Render timeline events
+        function renderTimeline() {
+            const container = document.getElementById('timelineEvents');
+            container.innerHTML = '';
+            
+            timelineData.events.forEach(event => {
+                const eventDiv = document.createElement('div');
+                eventDiv.className = 'timeline-event';
+                eventDiv.dataset.severity = event.severity.toLowerCase();
+                eventDiv.dataset.category = event.category;
+                
+                const marker = document.createElement('div');
+                marker.className = `timeline-marker ${event.severity.toLowerCase()}`;
+                
+                const content = document.createElement('div');
+                content.innerHTML = `
+                    <div class="timeline-date">${event.date_display}</div>
+                    <div class="timeline-title">${event.event}</div>
+                    
+                    ${event.delay_days ? `<span class="delay-badge">${event.delay_days}-day delay (Policy: 45 days)</span>` : ''}
+                    
+                    <div class="timeline-people">
+                        <strong>Involved:</strong>
+                        ${event.names_involved.map(name => `<span class="person-badge">${name}</span>`).join('')}
+                    </div>
+                    
+                    ${event.violations[0] !== 'None identified' && event.violations[0] !== 'None identified for approval, but sets context for RA needs' && event.violations[0] !== 'None identified, but highlights health vulnerabilities ignored' ? `
+                        <div class="timeline-details">
+                            <div class="violation-category">Violations:</div>
+                            ${event.violations.map(v => `<div class="violation-item">${v}</div>`).join('')}
+                        </div>
+                    ` : ''}
+                    
+                    ${event.quotes !== 'No direct quotes available' && !event.quotes.includes('No direct quotes available') ? `
+                        <div class="quote-block">
+                            <i class="bi bi-quote"></i> ${event.quotes}
+                        </div>
+                    ` : ''}
+                `;
+                
+                eventDiv.appendChild(marker);
+                eventDiv.appendChild(content);
+                container.appendChild(eventDiv);
+            });
+        }
+        
+        // Render key actors
+        function renderKeyActors() {
+            const actorsData = {
+                "Traci Brasher": { events: 4, violations: 4, role: "Acting Regional Administrator" },
+                "Shelia Clemons": { events: 1, violations: 3, role: "RA Specialist (HIPAA violator)" },
+                "Anthony In": { events: 1, violations: 3, role: "Supervisor (RA denier)" },
+                "Jamie McAllister": { events: 2, violations: 2, role: "Early RA denier" },
+                "Jacqueline Gause": { events: 3, violations: 1, role: "FMLA Coordinator" },
+                "Mark Underhill": { events: 1, violations: 0, role: "Supportive supervisor" }
+            };
+            
+            const container = document.getElementById('actorsGrid');
+            container.innerHTML = '';
+            
+            Object.entries(actorsData).forEach(([name, data]) => {
+                const card = document.createElement('div');
+                card.className = 'actor-card';
+                card.innerHTML = `
+                    <div class="actor-name">${name}</div>
+                    <div class="text-muted">${data.role}</div>
+                    <div class="actor-stats">
+                        <div>
+                            <small class="text-muted">Events</small>
+                            <div class="fw-bold">${data.events}</div>
+                        </div>
+                        <div>
+                            <small class="text-muted">Violations</small>
+                            <div class="fw-bold text-danger">${data.violations}</div>
+                        </div>
+                    </div>
+                `;
+                container.appendChild(card);
+            });
+        }
+        
+        // Render violations summary
+        function renderViolationsSummary() {
+            const violationCounts = {
+                "Rehabilitation Act §501": 6,
+                "MD-110 Violations": 11,
+                "FEMA Instruction 256-022-01": 4,
+                "ADEA (Age Discrimination)": 3,
+                "HIPAA Security Rule": 1,
+                "5 U.S.C. §7513": 1,
+                "FEMA Manual 123-13-1": 1
+            };
+            
+            const container = document.getElementById('violationsSummary');
+            container.innerHTML = '';
+            
+            Object.entries(violationCounts).forEach(([violation, count]) => {
+                const summary = document.createElement('div');
+                summary.className = 'violation-summary';
+                summary.innerHTML = `
+                    <div class="violation-category">${violation}</div>
+                    <div class="violation-count">${count} violations</div>
+                `;
+                container.appendChild(summary);
+            });
+        }
+        
+        // Search functionality
+        document.getElementById('timelineSearch').addEventListener('input', function(e) {
+            const searchTerm = e.target.value.toLowerCase();
+            const events = document.querySelectorAll('.timeline-event');
+            
+            events.forEach(event => {
+                const text = event.textContent.toLowerCase();
+                event.style.display = text.includes(searchTerm) ? 'block' : 'none';
+            });
+        });
+        
+        // Filter functionality
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                
+                const filter = this.dataset.filter;
+                const events = document.querySelectorAll('.timeline-event');
+                
+                events.forEach(event => {
+                    switch(filter) {
+                        case 'all':
+                            event.style.display = 'block';
+                            break;
+                        case 'critical':
+                            event.style.display = event.dataset.severity === 'critical' ? 'block' : 'none';
+                            break;
+                        case 'high':
+                            event.style.display = event.dataset.severity === 'high' ? 'block' : 'none';
+                            break;
+                        case 'violations':
+                            event.style.display = event.querySelector('.violation-item') ? 'block' : 'none';
+                            break;
+                        case 'quotes':
+                            event.style.display = event.querySelector('.quote-block') ? 'block' : 'none';
+                            break;
+                        case 'delays':
+                            event.style.display = event.querySelector('.delay-badge') ? 'block' : 'none';
+                            break;
+                    }
+                });
+            });
+        });
+        
+        // Export functionality
+        function exportTimeline(format) {
+            if (format === 'csv') {
+                window.open('eeo_timeline_events.csv', '_blank');
+            } else if (format === 'pdf') {
+                window.print();
+            }
+        }
+        
+        // Initialize
+        document.addEventListener('DOMContentLoaded', function() {
+            renderTimeline();
+            renderKeyActors();
+            renderViolationsSummary();
+        });
+    </script>
+</body>
+</html> 

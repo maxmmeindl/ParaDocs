@@ -1,0 +1,59 @@
+{
+  "case_number": "HS-FEMA-02430-2024",
+  "documents_analyzed": [
+    {
+      "filename": "Election%20Letter%20-%20HS-FEMA-02430-2024.pdf",
+      "path": "paradocs-agent\\downloaded\\Election%20Letter%20-%20HS-FEMA-02430-2024.pdf",
+      "type": "election_letter"
+    },
+    {
+      "filename": "LOA%20HS-FEMA-02430-2024.pdf",
+      "path": "paradocs-agent\\downloaded\\LOA%20HS-FEMA-02430-2024.pdf",
+      "type": "acceptance_letter",
+      "description": "Letter of Acceptance"
+    },
+    {
+      "filename": "ROI%20HS-FEMA-02430-2024%20Part%201%20(1)-compressed.pdf",
+      "path": "paradocs-agent\\downloaded\\ROI%20HS-FEMA-02430-2024%20Part%201%20(1)-compressed.pdf",
+      "type": "investigation_report",
+      "description": "Report of Investigation"
+    },
+    {
+      "filename": "ROI%20HS-FEMA-02430-2024%20Part%202-compressed.pdf",
+      "path": "paradocs-agent\\downloaded\\ROI%20HS-FEMA-02430-2024%20Part%202-compressed.pdf",
+      "type": "investigation_report",
+      "description": "Report of Investigation"
+    },
+    {
+      "filename": "eeoc%20complaint%20signed-rev1-min-bookmarked_compressed.pdf",
+      "path": "paradocs-agent\\downloaded\\eeoc%20complaint%20signed-rev1-min-bookmarked_compressed.pdf",
+      "type": "complaint"
+    },
+    {
+      "filename": "Form%20462%20Complaints%20Table%20List.docx",
+      "path": "paradocs-agent\\downloaded\\Form%20462%20Complaints%20Table%20List.docx",
+      "type": "complaint"
+    },
+    {
+      "filename": "Rebuttal%20to%20Affidavits%20of%20Witnesses.pdf",
+      "path": "paradocs-agent\\downloaded\\Rebuttal%20to%20Affidavits%20of%20Witnesses.pdf",
+      "type": "rebuttal",
+      "description": "Rebuttal to witness statements"
+    }
+  ],
+  "key_claims": {
+    "primary_complaint": [
+      "ADA violation - failure to accommodate",
+      "Wrongful termination",
+      "Discrimination based on disability"
+    ]
+  },
+  "dates": [],
+  "parties": {
+    "complainant": "",
+    "respondent": "FEMA",
+    "agency": "Department of Homeland Security"
+  },
+  "current_stage": "ADR/Pre-Hearing",
+  "analysis_date": "2025-05-25T03:07:59.474667"
+}

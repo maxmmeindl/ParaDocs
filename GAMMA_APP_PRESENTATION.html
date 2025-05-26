@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ParaDocs EEO Case HS-FEMA-02430-2024</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        @keyframes countUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-count { animation: countUp 0.8s ease-out; }
+        .timeline-dot { 
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        .timeline-dot:hover { 
+            transform: scale(1.2);
+            box-shadow: 0 0 20px rgba(239, 68, 68, 0.5);
+        }
+        .violation-pulse {
+            animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+        }
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: .5; }
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="bg-gray-900 text-white shadow-lg sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-4">
+            <div class="flex items-center justify-between">
+                <h1 class="text-2xl font-bold">ParaDocs EEO Case Management</h1>
+                <div class="text-sm">
+                    <span class="text-gray-400">Case #</span>
+                    <span class="font-mono">HS-FEMA-02430-2024</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation Tabs -->
+    <div class="bg-white border-b sticky top-16 z-40">
+        <div class="container mx-auto px-4">
+            <nav class="flex space-x-8">
+                <button onclick="showTab('dashboard')" class="tab-btn py-4 px-2 border-b-2 border-blue-600 text-blue-600 font-medium">
+                    Dashboard
+                </button>
+                <button onclick="showTab('timeline')" class="tab-btn py-4 px-2 border-b-2 border-transparent text-gray-600 hover:text-gray-800">
+                    Timeline
+                </button>
+                <button onclick="showTab('violations')" class="tab-btn py-4 px-2 border-b-2 border-transparent text-gray-600 hover:text-gray-800">
+                    Violations
+                </button>
+                <button onclick="showTab('damages')" class="tab-btn py-4 px-2 border-b-2 border-transparent text-gray-600 hover:text-gray-800">
+                    Damages
+                </button>
+            </nav>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-8">
+        <!-- Dashboard Tab -->
+        <div id="dashboard-tab" class="tab-content">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+                <!-- Total Damages Card -->
+                <div class="bg-white rounded-lg shadow-lg p-6 border-l-4 border-red-600">
+                    <h3 class="text-gray-600 text-sm font-medium uppercase tracking-wide">Total Damages</h3>
+                    <p class="text-3xl font-bold text-gray-900 mt-2 animate-count" id="damage-counter">$0</p>
+                    <p class="text-sm text-gray-500 mt-1">Calculating...</p>
+                </div>
+
+                <!-- Days Violated Card -->
+                <div class="bg-white rounded-lg shadow-lg p-6 border-l-4 border-orange-600">
+                    <h3 class="text-gray-600 text-sm font-medium uppercase tracking-wide">Days Violated</h3>
+                    <p class="text-3xl font-bold text-gray-900 mt-2">1,340</p>
+                    <p class="text-sm text-gray-500 mt-1">Since Sept 15, 2020</p>
+                </div>
+
+                <!-- Violations Card -->
+                <div class="bg-white rounded-lg shadow-lg p-6 border-l-4 border-yellow-600">
+                    <h3 class="text-gray-600 text-sm font-medium uppercase tracking-wide">Violations</h3>
+                    <p class="text-3xl font-bold text-gray-900 mt-2">8</p>
+                    <p class="text-sm text-gray-500 mt-1">Federal violations</p>
+                </div>
+
+                <!-- Timeline Events Card -->
+                <div class="bg-white rounded-lg shadow-lg p-6 border-l-4 border-blue-600">
+                    <h3 class="text-gray-600 text-sm font-medium uppercase tracking-wide">Timeline Events</h3>
+                    <p class="text-3xl font-bold text-gray-900 mt-2">15</p>
+                    <p class="text-sm text-gray-500 mt-1">Documented events</p>
+                </div>
+            </div>
+
+            <!-- Key Findings -->
+            <div class="bg-white rounded-lg shadow-lg p-6 mb-8">
+                <h2 class="text-xl font-bold text-gray-900 mb-4">🔍 Key Findings</h2>
+                <div class="space-y-3">
+                    <div class="flex items-start">
+                        <span class="text-red-600 mr-3">⚠️</span>
+                        <div>
+                            <p class="font-semibold">1,340-Day Accommodation Violation</p>
+                            <p class="text-gray-600 text-sm">First request (Sept 2020) ignored until complaint filed</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start">
+                        <span class="text-red-600 mr-3">⚠️</span>
+                        <div>
+                            <p class="font-semibold">Retaliatory Termination</p>
+                            <p class="text-gray-600 text-sm">Terminated January 6, 2025 during EEO proceedings</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start">
+                        <span class="text-orange-600 mr-3">⚠️</span>
+                        <div>
+                            <p class="font-semibold">No Interactive Process</p>
+                            <p class="text-gray-600 text-sm">FEMA failed to engage in any accommodation discussions</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Harm Analysis Chart -->
+            <div class="bg-white rounded-lg shadow-lg p-6">
+                <h2 class="text-xl font-bold text-gray-900 mb-4">📊 Weighted Harm Analysis</h2>
+                <canvas id="harmChart" width="400" height="200"></canvas>
+                <p class="text-sm text-gray-600 mt-4">Total Weighted Harm Score: <span class="font-bold text-red-600">830/1000</span></p>
+            </div>
+        </div>
+
+        <!-- Timeline Tab -->
+        <div id="timeline-tab" class="tab-content hidden">
+            <div class="bg-white rounded-lg shadow-lg p-6">
+                <h2 class="text-xl font-bold text-gray-900 mb-6">📅 Case Timeline</h2>
+                <div class="space-y-8" id="timeline-container">
+                    <!-- Timeline events will be inserted here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Violations Tab -->
+        <div id="violations-tab" class="tab-content hidden">
+            <div class="bg-white rounded-lg shadow-lg p-6">
+                <h2 class="text-xl font-bold text-gray-900 mb-6">⚖️ Federal Violations</h2>
+                <div class="space-y-6" id="violations-container">
+                    <!-- Violations will be inserted here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Damages Tab -->
+        <div id="damages-tab" class="tab-content hidden">
+            <div class="bg-white rounded-lg shadow-lg p-6">
+                <h2 class="text-xl font-bold text-gray-900 mb-6">💰 Damage Calculations</h2>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div>
+                        <h3 class="font-semibold text-lg mb-4">Breakdown by Category</h3>
+                        <div class="space-y-3">
+                            <div class="flex justify-between items-center p-3 bg-gray-50 rounded">
+                                <span>Back Pay</span>
+                                <span class="font-mono font-bold">$182,902.25</span>
+                            </div>
+                            <div class="flex justify-between items-center p-3 bg-gray-50 rounded">
+                                <span>Compensatory (Pain & Suffering)</span>
+                                <span class="font-mono font-bold">$300,000.00</span>
+                            </div>
+                            <div class="flex justify-between items-center p-3 bg-gray-50 rounded">
+                                <span>Compensatory (Medical)</span>
+                                <span class="font-mono font-bold">$50,000.00</span>
+                            </div>
+                            <div class="flex justify-between items-center p-3 bg-gray-50 rounded">
+                                <span>Punitive Damages</span>
+                                <span class="font-mono font-bold">$300,000.00</span>
+                            </div>
+                            <div class="flex justify-between items-center p-3 bg-gray-50 rounded">
+                                <span>1,340-Day Violation Penalty</span>
+                                <span class="font-mono font-bold">$1,340,000.00</span>
+                            </div>
+                            <div class="flex justify-between items-center p-3 bg-gray-50 rounded">
+                                <span>Attorney Fees (Est.)</span>
+                                <span class="font-mono font-bold">$100,000.00</span>
+                            </div>
+                        </div>
+                        <div class="mt-6 pt-6 border-t-2 border-gray-300">
+                            <div class="flex justify-between items-center">
+                                <span class="text-xl font-bold">TOTAL DAMAGES</span>
+                                <span class="text-2xl font-mono font-bold text-red-600">$2,272,902.25</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="font-semibold text-lg mb-4">Damage Visualization</h3>
+                        <canvas id="damageChart" width="300" height="300"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // Case Data
+        const caseData = {
+            timeline: [
+                { date: '2020-09-15', event: 'First Accommodation Request', violation: true, description: 'Max J. Meindl III submitted reasonable accommodation request - ignored for 1,340 days' },
+                { date: '2020-10-15', event: 'First Follow-up', violation: false, description: 'Max J. Meindl III followed up on accommodation request' },
+                { date: '2021-01-10', event: 'Second Follow-up', violation: false, description: 'Max J. Meindl III followed up again - no response' },
+                { date: '2021-06-01', event: 'Third Follow-up', violation: false, description: 'Multiple follow-ups continue to be ignored' },
+                { date: '2023-11-09', event: 'Second Accommodation Request (Telework)', violation: true, description: 'Max J. Meindl III requested telework as accommodation' },
+                { date: '2023-12-15', event: 'Telework Request Denied', violation: true, description: 'Denial without interactive process' },
+                { date: '2024-01-08', event: 'EEO Counseling Initiated', violation: false, description: 'Max J. Meindl III contacted EEO counselor' },
+                { date: '2024-02-20', event: 'Formal EEO Complaint Filed', violation: false, description: 'Formal complaint HS-FEMA-02430-2024 filed' },
+                { date: '2024-03-15', event: 'Letter of Acceptance (LOA) Issued', violation: false, description: 'FEMA accepts complaint for investigation' },
+                { date: '2024-04-15', event: 'EEO Investigation Begins', violation: false, description: 'Formal investigation commences' },
+                { date: '2024-07-25', event: 'ROI Completed', violation: false, description: 'Report of Investigation completed' },
+                { date: '2024-08-15', event: 'Election for Hearing', violation: false, description: 'Complainant elects EEOC hearing' },
+                { date: '2024-09-10', event: 'Rebuttal to Witness Affidavits', violation: false, description: 'Complainant submits rebuttal' },
+                { date: '2025-01-06', event: 'TERMINATION', violation: true, description: 'Max J. Meindl III terminated during EEO proceedings - per se retaliation' },
+                { date: '2025-05-20', event: 'Change of Venue Request', violation: false, description: 'Request to change hearing location' }
+            ],
+            violations: [
+                { title: '42 U.S.C. § 12112(a) - ADA Discrimination', description: 'Failed to provide reasonable accommodation for 1,340 days' },
+                { title: '29 CFR § 1630.2(o)(3) - Interactive Process', description: 'No interactive process conducted for accommodation requests' },
+                { title: '42 U.S.C. § 12203(a) - Retaliation', description: 'Termination during EEO proceedings constitutes per se retaliation' },
+                { title: '29 CFR § 1614.108(e) - Timeliness', description: 'Investigation exceeded regulatory timeframes' },
+                { title: '42 U.S.C. § 12112(b)(5)(A) - Undue Hardship', description: 'No undue hardship analysis conducted or documented' },
+                { title: '29 CFR § 1630.2(n) - Essential Functions', description: 'Failed to analyze essential functions for accommodation' },
+                { title: 'MD-110 Chapter 7 - Investigation Requirements', description: 'Incomplete investigation, missing key evidence' },
+                { title: '5 U.S.C. § 2302(b)(1) - Prohibited Personnel Practices', description: 'Discrimination based on disability status' }
+            ],
+            harms: [
+                { name: 'Loss of Career', score: 100 },
+                { name: 'Financial Hardship', score: 90 },
+                { name: 'Emotional Distress', score: 85 },
+                { name: 'Professional Reputation', score: 80 },
+                { name: 'Medical Expenses', score: 75 },
+                { name: 'Loss of Benefits', score: 70 },
+                { name: 'Family Impact', score: 65 },
+                { name: 'Future Earnings', score: 60 },
+                { name: 'Retirement Impact', score: 55 },
+                { name: 'Daily Functioning', score: 50 }
+            ],
+            damages: {
+                backPay: 182902.25,
+                compensatoryPain: 300000,
+                compensatoryMedical: 50000,
+                punitive: 300000,
+                violationPenalty: 1340000,
+                attorneyFees: 100000
+            }
+        };
+
+        // Tab switching
+        function showTab(tabName) {
+            // Hide all tabs
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.add('hidden');
+            });
+            // Show selected tab
+            document.getElementById(`${tabName}-tab`).classList.remove('hidden');
+            
+            // Update tab buttons
+            document.querySelectorAll('.tab-btn').forEach(btn => {
+                btn.classList.remove('border-blue-600', 'text-blue-600');
+                btn.classList.add('border-transparent', 'text-gray-600');
+            });
+            event.target.classList.remove('border-transparent', 'text-gray-600');
+            event.target.classList.add('border-blue-600', 'text-blue-600');
+        }
+
+        // Animate damage counter
+        function animateDamageCounter() {
+            const target = 2272902.25;
+            const duration = 2000;
+            const increment = target / (duration / 16);
+            let current = 0;
+            const counter = document.getElementById('damage-counter');
+            
+            const timer = setInterval(() => {
+                current += increment;
+                if (current >= target) {
+                    current = target;
+                    clearInterval(timer);
+                }
+                counter.textContent = '$' + current.toLocaleString('en-US', { 
+                    minimumFractionDigits: 2, 
+                    maximumFractionDigits: 2 
+                });
+            }, 16);
+        }
+
+        // Render timeline
+        function renderTimeline() {
+            const container = document.getElementById('timeline-container');
+            container.innerHTML = caseData.timeline.map((event, index) => `
+                <div class="flex items-start space-x-4 ${event.violation ? 'violation-pulse' : ''}">
+                    <div class="flex-shrink-0">
+                        <div class="timeline-dot w-4 h-4 rounded-full ${event.violation ? 'bg-red-600' : 'bg-blue-600'} 
+                             ${index < caseData.timeline.length - 1 ? 'relative' : ''}">
+                            ${index < caseData.timeline.length - 1 ? 
+                                '<div class="absolute top-4 left-1.5 w-0.5 h-16 bg-gray-300"></div>' : ''}
+                        </div>
+                    </div>
+                    <div class="flex-grow">
+                        <div class="flex items-center space-x-3 mb-1">
+                            <time class="text-sm font-mono text-gray-500">${event.date}</time>
+                            ${event.violation ? '<span class="px-2 py-1 text-xs bg-red-100 text-red-800 rounded-full">VIOLATION</span>' : ''}
+                        </div>
+                        <h3 class="font-semibold text-gray-900">${event.event}</h3>
+                        <p class="text-gray-600 text-sm mt-1">${event.description}</p>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // Render violations
+        function renderViolations() {
+            const container = document.getElementById('violations-container');
+            container.innerHTML = caseData.violations.map(violation => `
+                <div class="border-l-4 border-red-600 pl-4 py-2">
+                    <h3 class="font-semibold text-gray-900">${violation.title}</h3>
+                    <p class="text-gray-600 text-sm mt-1">${violation.description}</p>
+                </div>
+            `).join('');
+        }
+
+        // Create harm analysis chart
+        function createHarmChart() {
+            const ctx = document.getElementById('harmChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: caseData.harms.map(h => h.name),
+                    datasets: [{
+                        label: 'Severity Score',
+                        data: caseData.harms.map(h => h.score),
+                        backgroundColor: 'rgba(239, 68, 68, 0.8)',
+                        borderColor: 'rgba(239, 68, 68, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 100
+                        }
+                    }
+                }
+            });
+        }
+
+        // Create damage breakdown chart
+        function createDamageChart() {
+            const ctx = document.getElementById('damageChart').getContext('2d');
+            new Chart(ctx, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Back Pay', 'Pain & Suffering', 'Medical', 'Punitive', '1,340-Day Penalty', 'Attorney Fees'],
+                    datasets: [{
+                        data: Object.values(caseData.damages),
+                        backgroundColor: [
+                            'rgba(59, 130, 246, 0.8)',
+                            'rgba(239, 68, 68, 0.8)',
+                            'rgba(245, 158, 11, 0.8)',
+                            'rgba(168, 85, 247, 0.8)',
+                            'rgba(236, 72, 153, 0.8)',
+                            'rgba(34, 197, 94, 0.8)'
+                        ]
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom'
+                        }
+                    }
+                }
+            });
+        }
+
+        // Initialize on page load
+        window.addEventListener('DOMContentLoaded', () => {
+            animateDamageCounter();
+            renderTimeline();
+            renderViolations();
+            createHarmChart();
+            createDamageChart();
+        });
+    </script>
+</body>
+</html> 

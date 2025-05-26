@@ -1,0 +1,66 @@
+{
+  "case_overview": {
+    "title": "ParaDocs Federal Employment Discrimination Case",
+    "plaintiff": "Employee",
+    "defendant": "Federal Agency",
+    "case_type": "Multi-statute discrimination and retaliation",
+    "filing_date": "Multiple filings 2019-2024"
+  },
+  "key_claims": [
+    {
+      "claim": "Failure to Accommodate (Rehabilitation Act)",
+      "basis": "Multiple denied reasonable accommodation requests",
+      "evidence_files": [
+        "Multiple RA request documents"
+      ]
+    },
+    {
+      "claim": "Retaliation (Title VII, WPA)",
+      "basis": "Adverse actions following protected EEO activity",
+      "evidence_files": [
+        "EEO complaints",
+        "Timeline documents"
+      ]
+    },
+    {
+      "claim": "FMLA Interference",
+      "basis": "Denied and delayed FMLA requests",
+      "evidence_files": [
+        "FMLA correspondence"
+      ]
+    },
+    {
+      "claim": "Procedural Violations",
+      "basis": "1340-day delay, pattern of delays",
+      "evidence_files": [
+        "Delay documentation"
+      ]
+    }
+  ],
+  "critical_evidence": {
+    "documents": "450+ documents across 24 categories",
+    "emails": "106 email communications",
+    "timeline_span": "2018-2025",
+    "key_delay": "1340-day processing delay documented"
+  },
+  "damages_summary": {
+    "economic": "Lost wages, benefits, opportunities",
+    "non_economic": "Emotional distress, career harm",
+    "punitive": "Pattern of deliberate violations",
+    "statutory": "Multiple statutory violations"
+  },
+  "case_strengths": [
+    "Extensive documentation (450+ files)",
+    "Clear pattern of retaliation",
+    "Multiple statutory violations",
+    "Documented 1340-day delay",
+    "Email evidence of discrimination"
+  ],
+  "next_steps": [
+    "Compile master timeline",
+    "Prepare witness list",
+    "Calculate exact damages",
+    "Identify key documents for discovery",
+    "Prepare for depositions"
+  ]
+}

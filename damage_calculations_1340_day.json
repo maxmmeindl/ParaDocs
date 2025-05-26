@@ -1,0 +1,59 @@
+{
+  "compensatory_damages": {
+    "lost_accommodation_benefit": {
+      "description": "Value of denied accommodation for 1,340 days",
+      "calculation": "1340 days \u00d7 $410.96/day",
+      "amount": 550684.9315068492,
+      "basis": "Daily harm from lack of accommodation"
+    },
+    "emotional_distress": {
+      "description": "Mental anguish from 3.7 years of discrimination",
+      "factors": [
+        "Anxiety from daily discrimination",
+        "Depression from being ignored",
+        "Humiliation from abandonment",
+        "Stress from uncertainty"
+      ],
+      "amount": 250000,
+      "basis": "Severity and duration of discrimination"
+    },
+    "lost_career_opportunities": {
+      "description": "Promotions/advancement denied due to lack of accommodation",
+      "calculation": "20% salary increase \u00d7 3.7 years",
+      "amount": 111000.0,
+      "basis": "Career stagnation from discrimination"
+    },
+    "termination_damages": {
+      "description": "Lost wages from retaliatory termination",
+      "calculation": "Front pay + back pay",
+      "amount": 300000,
+      "basis": "Wrongful termination damages"
+    }
+  },
+  "punitive_damages": {
+    "basis": "Willful, malicious, reckless indifference",
+    "factors": [
+      "1,340 days = extreme violation",
+      "Complete abandonment of legal duty",
+      "Pattern of discrimination",
+      "Retaliation for EEO activity"
+    ],
+    "federal_cap": 300000,
+    "recommendation": "Seek maximum due to egregious conduct"
+  },
+  "injunctive_relief": {
+    "items": [
+      "Immediate accommodation approval",
+      "Reinstatement with back pay",
+      "Expunge negative personnel actions",
+      "Training for all managers",
+      "New accommodation tracking system",
+      "Quarterly compliance monitoring"
+    ]
+  },
+  "attorneys_fees": {
+    "basis": "Prevailing party under ADA/Rehab Act",
+    "estimate": "Lodestar method - hours \u00d7 reasonable rate",
+    "enhancement": "Multiplier justified by egregious violation"
+  }
+}

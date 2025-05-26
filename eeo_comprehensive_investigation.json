@@ -1,0 +1,1176 @@
+{
+  "metadata": {
+    "case_number": "HS-FEMA-02430-2024",
+    "complainant": "Max J. Meindl",
+    "complainant_info": {
+      "age": 74,
+      "dob": "1951-06-21",
+      "disabilities": [
+        "COPD",
+        "CAD"
+      ],
+      "address": "5 E. Austin St., Bellville, TX 77418",
+      "phone": "832-293-3671"
+    },
+    "generated_date": "2025-05-25 14:39:12",
+    "total_events": 29,
+    "date_range": {
+      "start": "2018-08-23",
+      "end": "2025-01-06"
+    }
+  },
+  "timeline_events": [
+    {
+      "date": "2018-08-23",
+      "date_display": "Aug 23, 2018",
+      "event": "Meindl submits RA (RAR001234, FEMA Form 256-0-1) for schedule flexibility due to heart condition (CAD). Luz Fernandez confirms receipt, assigns case to Sandra Maddox Britt, who notes blank form. Meindl cc'd multiple non-essential recipients, breaching confidentiality.",
+      "names_involved": [
+        "Max Meindl",
+        "Detra Terry",
+        "Luz Fernandez",
+        "Sandra Maddox Britt",
+        "Nicole Oke",
+        "Regina McPhie",
+        "Douglas Goudy",
+        "Foudiya Henri",
+        "Darlene Avery"
+      ],
+      "violations": [
+        "MD-110 §VI.C: Blank form reflects procedural disarray",
+        "FEMA Instruction 256-022-01: Initial delay violates 15-day timeline (FEMA Manual 1430.1)",
+        "Rehabilitation Act §501 (29 C.F.R. §1630.9): Failure to engage interactively"
+      ],
+      "quotes": "Meindl: 'RA form attached.' Fernandez: 'The RA process is a confidential one…'",
+      "category": "Accommodation Request",
+      "severity": "High",
+      "source": "EMAIL DOCUMENTATION.pdf"
+    },
+    {
+      "date": "2018-09-06",
+      "date_display": "Sep 6, 2018",
+      "event": "Sandra Maddox Britt requests completed RA form and medical documentation, confused about Meindl's PA role. Foudiya Henri seeks supervisor (Detra Terry) details. Meindl confirms chain of command (Terry, Albert P. Walters III).",
+      "names_involved": [
+        "Max Meindl",
+        "Sandra Maddox Britt",
+        "Foudiya Henri",
+        "Detra Terry",
+        "Albert P. Walters III"
+      ],
+      "violations": [
+        "MD-110 §IV.A: Blank form and supervisor confusion reflect procedural errors",
+        "FEMA Instruction 256-022-01: Delay violates 15-day timeline",
+        "Rehabilitation Act §501 (29 C.F.R. §1630.9): Failure to clarify documentation needs promptly"
+      ],
+      "quotes": "Maddox Britt: 'The document attached… is blank.' Meindl: 'Yes, I provided it to my supervisor…'",
+      "category": "Accommodation Request",
+      "severity": "High",
+      "source": "EMAIL DOCUMENTATION.pdf"
+    },
+    {
+      "date": "2018-09-21",
+      "date_display": "Sep 21, 2018",
+      "event": "Meindl files harassment complaint (HS-FEMA-01876). Closed without investigation on Oct 15, 2018, signaling early neglect.",
+      "names_involved": [
+        "Max Meindl",
+        "FEMA Office of Equal Rights"
+      ],
+      "violations": [
+        "MD-110 §III.A: Failure to investigate undermines EEO process integrity"
+      ],
+      "quotes": "No direct quotes available.",
+      "category": "EEO Activity",
+      "severity": "High"
+    },
+    {
+      "date": "2018-12-12",
+      "date_display": "Dec 12, 2018",
+      "event": "Meindl emails Winston D. Brathwaite, Jamie McAllister, and others, noting no RA response after 111 days, requesting action.",
+      "names_involved": [
+        "Max Meindl",
+        "Winston D. Brathwaite",
+        "Jamie McAllister",
+        "Nicole Oke",
+        "Luz Fernandez",
+        "Sandra Maddox Britt",
+        "Douglas Goudy",
+        "Foudiya Henri",
+        "Darlene Avery",
+        "Lisa Merritt"
+      ],
+      "violations": [
+        "FEMA Instruction 256-022-01: 111-day delay violates 15-day timeline",
+        "MD-110 §VI.A: Lack of interactive process",
+        "ADEA (29 U.S.C. §623): Delay disproportionately impacts Meindl (age 74)"
+      ],
+      "quotes": "Meindl: 'Nearly four months have passed…'",
+      "category": "Accommodation Request",
+      "severity": "Critical",
+      "delay_days": 111,
+      "source": "EMAIL DOCUMENTATION.pdf"
+    },
+    {
+      "date": "2019-02-12",
+      "date_display": "Feb 12, 2019",
+      "event": "Meindl escalates to Nicole Oke, Brathwaite, and others, citing 172-day RA delay, heart condition, and postponed surgery. Oke promises to research and respond.",
+      "names_involved": [
+        "Max Meindl",
+        "Nicole Oke",
+        "Winston D. Brathwaite",
+        "Jo Linda Johnson",
+        "Donna Peterkin",
+        "Luz Fernandez",
+        "Sandra Maddox Britt",
+        "Douglas Goudy",
+        "Foudiya Henri",
+        "Darlene Avery"
+      ],
+      "violations": [
+        "FEMA Instruction 256-022-01: 172-day delay violates 15-day timeline",
+        "MD-110 §VI.A: Lack of interactive process",
+        "ADEA (29 U.S.C. §623): Prolonged inaction impacts older employee"
+      ],
+      "quotes": "Meindl: 'Nearly SIX months have passed…' Oke: 'I will research the matter…'",
+      "category": "Accommodation Request",
+      "severity": "Critical",
+      "delay_days": 172,
+      "source": "EMAIL DOCUMENTATION.pdf"
+    },
+    {
+      "date": "2019-03-06",
+      "date_display": "Mar 6, 2019",
+      "event": "Meindl submits FMLA paperwork as a 'no pay option' due to RA inaction, expressing frustration. Oke apologizes for delay, expects response by week's end, and misunderstands request as full-time telework.",
+      "names_involved": [
+        "Max Meindl",
+        "Nicole Oke",
+        "Detra Terry"
+      ],
+      "violations": [
+        "FEMA Manual 1430.1: 196-day delay violates 15-day timeline",
+        "MD-110 §VI.A: Misunderstanding request scope shows lack of engagement",
+        "Rehabilitation Act §501 (29 C.F.R. §1630.9): Forcing unpaid leave due to inaction"
+      ],
+      "quotes": "Meindl: 'I had to submit my FMLA paperwork…' Oke: 'Did you request fulltime telework?'",
+      "category": "Accommodation Request",
+      "severity": "Critical",
+      "delay_days": 196,
+      "source": "EMAIL DOCUMENTATION.pdf"
+    },
+    {
+      "date": "2019-03-08",
+      "date_display": "Mar 8, 2019",
+      "event": "Jamie McAllister denies RAR001234, citing unspecified reasons, after 196 days. Meindl forwards response to Detra Terry.",
+      "names_involved": [
+        "Max Meindl",
+        "Jamie McAllister",
+        "Detra Terry",
+        "Tam Nguyen"
+      ],
+      "violations": [
+        "Rehabilitation Act §501 (29 C.F.R. §1630.2(o)(3)): Denial without interactive process or justification",
+        "MD-110 §VI.A: Failure to engage supervisor (Terry)",
+        "FEMA Manual 1430.1: 196-day delay violates 15-day timeline",
+        "ADEA (29 U.S.C. §623): Denial impacts older employee"
+      ],
+      "quotes": "McAllister: 'Please see response attached.'",
+      "category": "Agency Response",
+      "severity": "Critical",
+      "delay_days": 196,
+      "source": "EMAIL DOCUMENTATION.pdf"
+    },
+    {
+      "date": "2019-05-01",
+      "date_display": "May 1, 2019",
+      "event": "FMLA request approved for 12 weeks due to chronic health condition (COPD, CAD).",
+      "names_involved": [
+        "Jacqueline Gause",
+        "Max Meindl",
+        "Jamie McAllister",
+        "Angela Agaiby",
+        "Brian Slie"
+      ],
+      "violations": [
+        "None identified; sets context for RA needs"
+      ],
+      "quotes": "Your request for FMLA leave has been approved effective May 1, 2019…",
+      "category": "FMLA Request",
+      "severity": "Low",
+      "source": "fmla determination-alexander.pdf"
+    },
+    {
+      "date": "2019-06-26",
+      "date_display": "Jun 26, 2019",
+      "event": "Dennis Alexander denies Meindl's intermittent FMLA leave, misapplying policy.",
+      "names_involved": [
+        "Dennis Alexander",
+        "Max Meindl"
+      ],
+      "violations": [
+        "FMLA (29 C.F.R. §825.202): Misapplication restricts health management options"
+      ],
+      "quotes": "No direct quotes available.",
+      "category": "FMLA Request",
+      "severity": "High"
+    },
+    {
+      "date": "2019-10-22",
+      "date_display": "Oct 22, 2019",
+      "event": "Meindl requests FMLA recertification, feeling 'singled out' as a senior citizen (age 74).",
+      "names_involved": [
+        "Max Meindl",
+        "Jacqueline Gause"
+      ],
+      "violations": [
+        "ADEA (29 U.S.C. §623): Perception of age-based scrutiny suggests discrimination"
+      ],
+      "quotes": "I feel singled out as a senior citizen…",
+      "category": "FMLA Request",
+      "severity": "Medium",
+      "source": "OUTLOOK COMMS-FMLA-V1.CSV"
+    },
+    {
+      "date": "2020-03-04",
+      "date_display": "Mar 4, 2020",
+      "event": "Meindl expresses COVID-19 exposure concerns (COPD, CAD), considering 2–6 week RA for telework. Keya Jackson requires redundant documentation.",
+      "names_involved": [
+        "Max Meindl",
+        "Jacqueline Gause",
+        "Keya Jackson",
+        "Richard Cain"
+      ],
+      "violations": [
+        "MD-110 §VI.C: Redundant documentation violates streamlined process",
+        "Rehabilitation Act §501 (29 C.F.R. §1630): Delay risks timely accommodation"
+      ],
+      "quotes": "Meindl: 'Given my COPD and CAD…' Jackson: 'Please submit FEMA Form 256…'",
+      "category": "Accommodation Request",
+      "severity": "High",
+      "source": "ra request-comms-rick-pag.pdf"
+    },
+    {
+      "date": "2021-10-27",
+      "date_display": "Oct 27, 2021",
+      "event": "Karina Aguilo emails Region 6 staff, acknowledging VSS issues, urging resubmission of vaccination status or exemptions by Nov 9, 2021.",
+      "names_involved": [
+        "Karina Aguilo",
+        "Max Meindl",
+        "R6-All-Hands"
+      ],
+      "violations": [
+        "MD-110 §III.A: VSS issues reflect failure to maintain efficient RA process",
+        "ADEA (29 U.S.C. §623): Burden disproportionately impacted older employees"
+      ],
+      "quotes": "Aguilo: 'A lot of responses were reset back to zero…'",
+      "category": "System Issues",
+      "severity": "Medium",
+      "source": "EMAIL EXPORT-04-25-25.CSV"
+    },
+    {
+      "date": "2021-10-28",
+      "date_display": "Oct 28, 2021",
+      "event": "RA (RAR0023278) submitted, unresolved for 1,275 days (as of Apr 25, 2025).",
+      "names_involved": [
+        "Max Meindl",
+        "FEMA RA staff"
+      ],
+      "violations": [
+        "FEMA Instruction 256-022-01: 1,275-day delay violates 45-day policy",
+        "MD-110 §IV.D: Exceeds 180-day timeline",
+        "Rehabilitation Act §501 (29 C.F.R. §1630): Non-adjudication",
+        "ADEA (29 U.S.C. §623): Delay impacts older employee"
+      ],
+      "quotes": "Meindl: 'RAR0023278 has been open for 985 days…'",
+      "category": "Accommodation Request",
+      "severity": "Critical",
+      "delay_days": 1275,
+      "source": "Additional Text"
+    },
+    {
+      "date": "2022-01-06",
+      "date_display": "Jan 6, 2022",
+      "event": "RA (RAR0023261) for vaccine exemption submitted; FEMA sends unsigned letter with Meindl's name misspelled. Meindl questions board anonymity. Dr. William Lionberger plans updated medical report. Ignored for 1,205 days (as of Apr 25, 2025).",
+      "names_involved": [
+        "Max Meindl",
+        "Todd Callender",
+        "William Lionberger",
+        "FEMA RA staff"
+      ],
+      "violations": [
+        "FEMA Instruction 256-022-01: 1,205-day delay violates 45-day policy",
+        "MD-110 §IV.A: Documentation errors reflect disarray",
+        "Rehabilitation Act §501 (29 C.F.R. §1630): Restrictive medical requirements",
+        "ADEA (29 U.S.C. §623): Delays impacted older employees"
+      ],
+      "quotes": "Meindl: 'My name is spelled wrong…' Lionberger: 'Their request… looks like an attempt to narrow…'",
+      "category": "Accommodation Request",
+      "severity": "Critical",
+      "delay_days": 1205,
+      "source": "EMAIL EXPORT-04-25-25.CSV"
+    },
+    {
+      "date": "2022-04-20",
+      "date_display": "Apr 20, 2022",
+      "event": "Meindl suffers heart attack, notifies Richard Cain.",
+      "names_involved": [
+        "Max Meindl",
+        "Richard Cain"
+      ],
+      "violations": [
+        "None identified; highlights health vulnerabilities ignored"
+      ],
+      "quotes": "Will be off this week… heart attack recovery.",
+      "category": "Medical",
+      "severity": "High",
+      "source": "MEINDL-Submission"
+    },
+    {
+      "date": "2022-08-04",
+      "date_display": "Aug 4, 2022",
+      "event": "Meindl submits RA (RAR0042452) for 100% telework. Miriam Aybar-Morales rejects medical documentation on Aug 5, 2022, requiring amended FEMA Form 256 by Aug 11, 2022. Demarque Underhill endorses as 'reasonable.' Ignored for 995 days (as of Apr 25, 2025).",
+      "names_involved": [
+        "Max Meindl",
+        "Miriam Aybar-Morales",
+        "Demarque Underhill",
+        "Rachel Mckenzie"
+      ],
+      "violations": [
+        "FEMA Instruction 256-022-01: 995-day delay violates 45-day policy",
+        "MD-110 §VI.A: Ignoring endorsement breaches interactive process",
+        "MD-110 §VI.C: Rejecting documentation violates streamlined process",
+        "Rehabilitation Act §501 (29 C.F.R. §1630.9): Failure to engage",
+        "ADEA (29 U.S.C. §623): Delays impacted older employees"
+      ],
+      "quotes": "Meindl: 'I sent the medical information…' Aybar-Morales: 'There is still no medical documentation…' Underhill: 'Max's RA request is reasonable.'",
+      "category": "Accommodation Request",
+      "severity": "Critical",
+      "delay_days": 995,
+      "source": "EMAIL EXPORT-04-25-25.CSV"
+    },
+    {
+      "date": "2022-08-15",
+      "date_display": "Aug 15, 2022",
+      "event": "Karina Aguilo acknowledges 'procedural disarray'; no action taken.",
+      "names_involved": [
+        "Karina Aguilo",
+        "Max Meindl",
+        "Darla Dickerson",
+        "Rachel Mckenzie",
+        "Alfred Malbrough",
+        "Andrew O'Donovan"
+      ],
+      "violations": [
+        "MD-110 §III.A: Failure to address disarray violates oversight responsibilities"
+      ],
+      "quotes": "I acknowledge the procedural disarray in RA processing.",
+      "category": "System Issues",
+      "severity": "High",
+      "source": "RA EMAIL ALL FOUND-12-05-2024.xlsx"
+    },
+    {
+      "date": "2024-01-02",
+      "date_display": "Jan 2, 2024",
+      "event": "RA (RAR0046767) for permanent telework submitted via ACMS; not assigned until Jun 12, 2024 (161 days). Action initiated Jul 10, 2024, after 190 days.",
+      "names_involved": [
+        "Max Meindl",
+        "FEMA RA staff"
+      ],
+      "violations": [
+        "FEMA Instruction 256-022-01: 190-day delay violates 45-day policy",
+        "MD-110 §IV.D: Exceeds 180-day timeline",
+        "Rehabilitation Act §501 (29 C.F.R. §1630): Delay risks timely accommodation",
+        "ADEA (29 U.S.C. §623): Delay impacts older employee"
+      ],
+      "quotes": "Meindl: 'RAR0046767 has been open for 190 days before any action…'",
+      "category": "Accommodation Request",
+      "severity": "Critical",
+      "delay_days": 190,
+      "source": "Additional Text"
+    },
+    {
+      "date": "2024-02-23",
+      "date_display": "Feb 23, 2024",
+      "event": "Meindl to Brasher: 'RA requests never get adjudicated'; Brasher offers discussion via Colleen Sciano.",
+      "names_involved": [
+        "Max Meindl",
+        "Traci Brasher",
+        "Colleen Sciano"
+      ],
+      "violations": [
+        "MD-110 §VI.A: Failure to act on non-adjudication complaint delays interactive process"
+      ],
+      "quotes": "Meindl: 'The RA requests never get adjudicated.' Brasher: 'Let's discuss through Colleen Sciano.'",
+      "category": "Communication",
+      "severity": "High",
+      "source": "PERPLEXITY SUMMARY-APRIL 2025.docx"
+    },
+    {
+      "date": "2024-05-29",
+      "date_display": "May 29, 2024",
+      "event": "Anthony In proposes Houston deployment; Meindl agrees, but overruled with 'stand down' order in nine minutes.",
+      "names_involved": [
+        "Anthony In",
+        "Max Meindl",
+        "unspecified management"
+      ],
+      "violations": [
+        "Rehabilitation Act §501 (29 C.F.R. §1630.9): Overruling deployment ignores remote success",
+        "MD-110 §VI.A: Lack of interactive process",
+        "ADEA (29 U.S.C. §623): Disparate treatment suggests age bias"
+      ],
+      "quotes": "In: 'Stand down on deployment.' Meindl: 'When asked by my SOR on 05/29/24 if I could deploy to Houston, I concurred…'",
+      "category": "Deployment",
+      "severity": "High",
+      "source": "A Rebuttal to Affidavits of Witnesses.pdf"
+    },
+    {
+      "date": "2024-07-08",
+      "date_display": "Jul 8, 2024",
+      "event": "Hurricane Beryl causes $15,000 in damages to Meindl's property. Meindl requests RA update from Brasher.",
+      "names_involved": [
+        "Max Meindl",
+        "Traci Brasher"
+      ],
+      "violations": [
+        "FEMA Directive 123-0-2-1: Neglect of welfare post-disaster by failing to initiate call-down",
+        "ADEA (29 U.S.C. §623): Neglect disproportionately impacts older employee (age 74)"
+      ],
+      "quotes": "No direct quotes available.",
+      "category": "Disaster Response",
+      "severity": "High",
+      "damage_amount": 15000
+    },
+    {
+      "date": "2024-07-10",
+      "date_display": "Jul 10, 2024",
+      "event": "Brasher assigns RAR0046767 to Shelia Clemons after 190 days, admitting FEMA is 'very far behind.' Clemons sends unencrypted email exposing COPD/CAD.",
+      "names_involved": [
+        "Traci Brasher",
+        "Shelia Clemons",
+        "Max Meindl"
+      ],
+      "violations": [
+        "FEMA Instruction 256-022-01: 190-day delay violates 45-day policy",
+        "HIPAA (45 CFR §164.312): Unencrypted email breaches PHI security",
+        "MD-110 §VI.C: Redundant request violates streamlined process",
+        "Rehabilitation Act §501 (29 C.F.R. §1630): Delay"
+      ],
+      "quotes": "Clemons: 'The Disability Support Branch regrets the unavoidable delay…' Meindl: 'I've already uploaded these to ACMS.'",
+      "category": "Accommodation Request",
+      "severity": "Critical",
+      "delay_days": 190,
+      "hipaa_breach": true,
+      "source": "RA EMAIL ALL FOUND-12-05-2024.xlsx"
+    },
+    {
+      "date": "2024-08-05",
+      "date_display": "Aug 5, 2024",
+      "event": "Anthony In denies RAR0046767, claiming deployment as 'essential function' and inability to limit deployment location, ignoring 38-month remote success and Meindl's willingness to deploy to Houston (overruled May 29, 2024).",
+      "names_involved": [
+        "Anthony In",
+        "Max Meindl"
+      ],
+      "violations": [
+        "Rehabilitation Act §501 (29 C.F.R. §1630.2(n)(3)): Denial without assessment of virtual deployment feasibility",
+        "MD-110 §VI.A: Lack of interactive process; no justification for overruling Houston deployment",
+        "FEMA Instruction 256-022-01: Failure to specify undue hardship or documentation inadequacy",
+        "EEOC Guidance (29 C.F.R. §1630.2(o)): Ignoring effective accommodations",
+        "ADEA (29 U.S.C. §623): Disparate treatment suggests age bias"
+      ],
+      "quotes": "In: 'The option presented by Mr. Meindl is not a viable solution as I cannot grant him the ability to limit his deployment location…' Meindl: 'Tony and I were developing an accommodation that might work… he was overruled.'",
+      "category": "Agency Response",
+      "severity": "Critical",
+      "source": "Additional Text"
+    },
+    {
+      "date": "2024-08-15",
+      "date_display": "Aug 15, 2024",
+      "event": "Jodi Hunter denies RAR0046767 appeal, claiming 100% telework removes deployment (essential function) and misstating Meindl cannot leave home, despite 38-month virtual success and onboarding not specifying 50-week deployment.",
+      "names_involved": [
+        "Jodi Hunter",
+        "Max Meindl"
+      ],
+      "violations": [
+        "Rehabilitation Act §501 (29 C.F.R. §1630.9): Lack of justification; misrepresentation of inability to leave home",
+        "MD-110 §VI.A: No alternative exploration breaches process",
+        "FEMA Instruction 256-022-01: Failure to address accommodation effectiveness or undue hardship",
+        "EEOC Guidance (29 C.F.R. §1630.2(o)): Ignoring virtual deployment",
+        "ADEA (29 U.S.C. §623): Disparate treatment suggests age bias"
+      ],
+      "quotes": "Hunter: 'The approval to allow Mr. Meindl to telework 100%… would require that the Agency remove the essential function of deployment…' Meindl: 'The 'cannot leave my house' statement is a bit dramatic… It does not impact my ability to deploy virtually…'",
+      "category": "Agency Response",
+      "severity": "Critical",
+      "source": "Additional Text"
+    },
+    {
+      "date": "2024-08-16",
+      "date_display": "Aug 16, 2024",
+      "event": "Anna Myers notifies Meindl of RAR0046767 denial, citing essential functions (deployment) and pressuring reassignment if unable to perform. Meindl responds, rejecting inability, noting 38-month virtual deployment, and criticizing rushed process after 190-day delay.",
+      "names_involved": [
+        "Anna Myers",
+        "Max Meindl",
+        "Alejandro Ortiz",
+        "Alisa Dyson",
+        "Jodi Hershey"
+      ],
+      "violations": [
+        "Rehabilitation Act §501 (29 C.F.R. §1630.9): Pressuring inability admission; ignoring virtual deployment success",
+        "MD-110 §VI.A: Rushed process after delay breaches interactive process",
+        "FEMA Instruction 256-022-01: Denial lacks specific reasons (e.g., undue hardship)",
+        "EEOC Guidance (29 C.F.R. §1630.2(o)): Failure to consider effective accommodations",
+        "ADEA (29 U.S.C. §623): Delay and denial impact older employee"
+      ],
+      "quotes": "Myers: 'After the interactive process… management has denied your reasonable accommodation request…' Meindl: 'I do not believe that I am no longer able to perform… I feel ignored, abused, dismissed…'",
+      "category": "Agency Response",
+      "severity": "Critical",
+      "source": "Additional Text"
+    },
+    {
+      "date": "2024-09-03",
+      "date_display": "Sep 3, 2024",
+      "event": "Meindl contacts EEO counselor (Tara, Office of Civil Rights), alleging discrimination based on age (DOB: 06/21/1951), physical disability (COPD, CAD), and reprisal. Claims issues with assignment of duties, RA, termination, and terms/conditions. Requests virtual deployment and a position matching his experience. Interviewed Sep 18, 2024.",
+      "names_involved": [
+        "Max Meindl",
+        "EEO counselor (Tara)",
+        "Brent Smith"
+      ],
+      "violations": [
+        "None identified; protected EEO activity under 29 C.F.R. §1614.105"
+      ],
+      "quotes": "No direct quotes available.",
+      "category": "EEO Activity",
+      "severity": "High"
+    },
+    {
+      "date": "2024-12-04",
+      "date_display": "Dec 4, 2024",
+      "event": "Meindl messages Brasher about RA denial and job loss fears; she promises follow-up but takes no action.",
+      "names_involved": [
+        "Max Meindl",
+        "Traci Brasher"
+      ],
+      "violations": [
+        "MD-110 §XI: Inaction risks retaliation",
+        "Rehabilitation Act §501 (29 C.F.R. §1630): Failure to resolve RA"
+      ],
+      "quotes": "Meindl: 'I'm worried about job loss due to RA denial.' Brasher: 'I'll follow up.'",
+      "category": "Communication",
+      "severity": "High",
+      "source": "A Rebuttal to Affidavits of Witnesses.pdf"
+    },
+    {
+      "date": "2024-12-20",
+      "date_display": "Dec 20, 2024",
+      "event": "Meindl files formal EEO complaint (HS-FEMA-02430-2024) alleging disability, age discrimination, and reprisal.",
+      "names_involved": [
+        "Max Meindl",
+        "Brent Smith",
+        "FEMA Office of Equal Rights",
+        "Angela McGonigal"
+      ],
+      "violations": [
+        "None identified; protected activity under 29 C.F.R. §1614.105"
+      ],
+      "quotes": "Kelley: 'Your formal is due by December 20, 2024.'",
+      "category": "EEO Activity",
+      "severity": "High",
+      "source": "RA EMAIL ALL FOUND-12-05-2024.xlsx"
+    },
+    {
+      "date": "2025-01-06",
+      "date_display": "Jan 6, 2025",
+      "event": "FEMA terminates Meindl, citing 'medical inability,' without prior warnings or 30-day notice, during Brasher's tenure.",
+      "names_involved": [
+        "Max Meindl",
+        "Traci Brasher",
+        "FEMA HR"
+      ],
+      "violations": [
+        "Rehabilitation Act §501 (42 U.S.C. §12112(b)(5)(A)): Termination without accommodations",
+        "MD-110 §XI: 17-day proximity suggests retaliation (Clark County v. Breeden)",
+        "5 U.S.C. §7513: No 30-day notice",
+        "FEMA Manual 123-13-1: No progressive discipline or Douglas Factors",
+        "ADEA (29 U.S.C. §623): Age-based termination likely"
+      ],
+      "quotes": "Terminated due to medical inability to perform essential functions.",
+      "category": "Retaliation",
+      "severity": "Critical",
+      "source": "PERPLEXITY SUMMARY-APRIL 2025.docx"
+    }
+  ],
+  "analysis": {
+    "total_events": 29,
+    "date_range": {
+      "start": "2018-08-23",
+      "end": "2025-01-06"
+    },
+    "violation_breakdown": {
+      "MD-110 §VI.C": 4,
+      "FEMA Instruction 256-022-01": 12,
+      "Rehabilitation Act §501 (29 C.F.R. §1630.9)": 7,
+      "MD-110 §IV.A": 2,
+      "MD-110 §III.A": 3,
+      "MD-110 §VI.A": 10,
+      "ADEA (29 U.S.C. §623)": 15,
+      "FEMA Manual 1430.1": 2,
+      "Rehabilitation Act §501 (29 C.F.R. §1630.2(o)(3))": 1,
+      "FMLA (29 C.F.R. §825.202)": 1,
+      "Rehabilitation Act §501 (29 C.F.R. §1630)": 6,
+      "MD-110 §IV.D": 2,
+      "FEMA Directive 123-0-2-1": 1,
+      "HIPAA (45 CFR §164.312)": 1,
+      "Rehabilitation Act §501 (29 C.F.R. §1630.2(n)(3))": 1,
+      "EEOC Guidance (29 C.F.R. §1630.2(o))": 3,
+      "MD-110 §XI": 2,
+      "Rehabilitation Act §501 (42 U.S.C. §12112(b)(5)(A))": 1,
+      "5 U.S.C. §7513": 1,
+      "FEMA Manual 123-13-1": 1
+    },
+    "delay_analysis": {
+      "total_delays": 9,
+      "max_delay": 1275,
+      "avg_delay": 503.3333333333333,
+      "delays_by_request": [
+        {
+          "date": "2018-12-12",
+          "request": "Unknown",
+          "days": 111
+        },
+        {
+          "date": "2019-02-12",
+          "request": "Unknown",
+          "days": 172
+        },
+        {
+          "date": "2019-03-06",
+          "request": "Unknown",
+          "days": 196
+        },
+        {
+          "date": "2019-03-08",
+          "request": "Unknown",
+          "days": 196
+        },
+        {
+          "date": "2021-10-28",
+          "request": "RAR0023278",
+          "days": 1275
+        },
+        {
+          "date": "2022-01-06",
+          "request": "RAR0023261",
+          "days": 1205
+        },
+        {
+          "date": "2022-08-04",
+          "request": "RAR0042452",
+          "days": 995
+        },
+        {
+          "date": "2024-01-02",
+          "request": "RAR0046767",
+          "days": 190
+        },
+        {
+          "date": "2024-07-10",
+          "request": "Unknown",
+          "days": 190
+        }
+      ]
+    },
+    "key_patterns": [
+      {
+        "pattern": "Systematic RA Processing Delays",
+        "evidence": "9 documented delays, max 1275 days",
+        "impact": "Multiple violations of 15-45 day processing requirements"
+      },
+      {
+        "pattern": "Documentation Rejection Pattern",
+        "evidence": "Multiple instances of rejecting adequate documentation",
+        "impact": "Forced resubmissions and additional delays"
+      },
+      {
+        "pattern": "Leadership Inaction",
+        "evidence": "Traci Brasher failed to act on direct complaints about RA delays",
+        "impact": "Systemic failures continued unchecked"
+      },
+      {
+        "pattern": "Age-Based Discrimination",
+        "evidence": "Pattern of delays and denials affecting 74-year-old employee",
+        "impact": "Disparate treatment compared to younger employees"
+      },
+      {
+        "pattern": "Retaliation for Protected Activity",
+        "evidence": "Termination 17 days after EEO complaint filing",
+        "impact": "Job loss without due process"
+      }
+    ],
+    "hipaa_violations": [
+      {
+        "date": "2024-07-10",
+        "actor": "Shelia Clemons",
+        "violation": "Unencrypted email exposing PHI (COPD/CAD)"
+      }
+    ],
+    "retaliation_timeline": [
+      {
+        "date": "2024-12-20",
+        "event": "EEO Complaint Filed"
+      },
+      {
+        "date": "2025-01-06",
+        "event": "Termination (17 days later)"
+      }
+    ],
+    "financial_impact": {
+      "hurricane_damage": 15000,
+      "potential_damages": 0
+    },
+    "actors_summary": {
+      "Detra Terry": {
+        "events": 4,
+        "violations": 13
+      },
+      "Luz Fernandez": {
+        "events": 3,
+        "violations": 9
+      },
+      "Sandra Maddox Britt": {
+        "events": 4,
+        "violations": 12
+      },
+      "Nicole Oke": {
+        "events": 4,
+        "violations": 12
+      },
+      "Regina McPhie": {
+        "events": 1,
+        "violations": 3
+      },
+      "Douglas Goudy": {
+        "events": 3,
+        "violations": 9
+      },
+      "Foudiya Henri": {
+        "events": 4,
+        "violations": 12
+      },
+      "Darlene Avery": {
+        "events": 3,
+        "violations": 9
+      },
+      "Albert P. Walters III": {
+        "events": 1,
+        "violations": 3
+      },
+      "FEMA Office of Equal Rights": {
+        "events": 2,
+        "violations": 1
+      },
+      "Winston D. Brathwaite": {
+        "events": 2,
+        "violations": 6
+      },
+      "Jamie McAllister": {
+        "events": 3,
+        "violations": 7
+      },
+      "Lisa Merritt": {
+        "events": 1,
+        "violations": 3
+      },
+      "Jo Linda Johnson": {
+        "events": 1,
+        "violations": 3
+      },
+      "Donna Peterkin": {
+        "events": 1,
+        "violations": 3
+      },
+      "Tam Nguyen": {
+        "events": 1,
+        "violations": 4
+      },
+      "Jacqueline Gause": {
+        "events": 3,
+        "violations": 3
+      },
+      "Angela Agaiby": {
+        "events": 1,
+        "violations": 0
+      },
+      "Brian Slie": {
+        "events": 1,
+        "violations": 0
+      },
+      "Dennis Alexander": {
+        "events": 1,
+        "violations": 1
+      },
+      "Keya Jackson": {
+        "events": 1,
+        "violations": 2
+      },
+      "Richard Cain": {
+        "events": 2,
+        "violations": 2
+      },
+      "Karina Aguilo": {
+        "events": 2,
+        "violations": 3
+      },
+      "R6-All-Hands": {
+        "events": 1,
+        "violations": 2
+      },
+      "FEMA RA staff": {
+        "events": 3,
+        "violations": 12
+      },
+      "Todd Callender": {
+        "events": 1,
+        "violations": 4
+      },
+      "William Lionberger": {
+        "events": 1,
+        "violations": 4
+      },
+      "Miriam Aybar-Morales": {
+        "events": 1,
+        "violations": 5
+      },
+      "Demarque Underhill": {
+        "events": 1,
+        "violations": 5
+      },
+      "Rachel Mckenzie": {
+        "events": 2,
+        "violations": 6
+      },
+      "Darla Dickerson": {
+        "events": 1,
+        "violations": 1
+      },
+      "Alfred Malbrough": {
+        "events": 1,
+        "violations": 1
+      },
+      "Andrew O'Donovan": {
+        "events": 1,
+        "violations": 1
+      },
+      "Traci Brasher": {
+        "events": 5,
+        "violations": 14
+      },
+      "Colleen Sciano": {
+        "events": 1,
+        "violations": 1
+      },
+      "Anthony In": {
+        "events": 2,
+        "violations": 8
+      },
+      "unspecified management": {
+        "events": 1,
+        "violations": 3
+      },
+      "Shelia Clemons": {
+        "events": 1,
+        "violations": 4
+      },
+      "Jodi Hunter": {
+        "events": 1,
+        "violations": 5
+      },
+      "Anna Myers": {
+        "events": 1,
+        "violations": 5
+      },
+      "Alejandro Ortiz": {
+        "events": 1,
+        "violations": 5
+      },
+      "Alisa Dyson": {
+        "events": 1,
+        "violations": 5
+      },
+      "Jodi Hershey": {
+        "events": 1,
+        "violations": 5
+      },
+      "EEO counselor (Tara)": {
+        "events": 1,
+        "violations": 0
+      },
+      "Brent Smith": {
+        "events": 2,
+        "violations": 0
+      },
+      "Angela McGonigal": {
+        "events": 1,
+        "violations": 0
+      },
+      "FEMA HR": {
+        "events": 1,
+        "violations": 5
+      }
+    }
+  },
+  "investigation_questions": {
+    "Sandra Maddox Britt": {
+      "role": "RA Analyst",
+      "involvement": "Assigned to RAR001234 (Aug 23, 2018); noted blank form and requested documentation, contributing to initial delay.",
+      "questions": [
+        "Why was the RAR001234 form deemed blank, and what steps were taken to promptly clarify with Meindl?",
+        "How did you address the confusion about Meindl's role (Houston TRO vs. HQ) to ensure timely processing?",
+        "What actions did you take to comply with FEMA Instruction 256-022-01's 15-day timeline for RA processing?",
+        "Were you aware of Meindl's heart condition (CAD) and its urgency when requesting additional documentation on Sep 6, 2018?",
+        "Did you document interactions with Meindl's supervisor (Detra Terry) to facilitate the interactive process per MD-110 §VI.A?"
+      ],
+      "purpose": "Clarify procedural errors and delays in 2018 RA processing, assess compliance with RA timelines, and probe initial mishandling."
+    },
+    "Luz Fernandez": {
+      "role": "Equal Rights Specialist",
+      "involvement": "Confirmed RAR001234 receipt (Aug 23, 2018) and assigned to Maddox Britt, noting confidentiality breach.",
+      "questions": [
+        "What steps did you take to ensure RAR001234 was processed within FEMA Manual 1430.1's 15-day timeline after receipt?",
+        "How did you address Meindl's inclusion of non-essential recipients to maintain confidentiality per MD-110 §VI.C?",
+        "Did you follow up with Maddox Britt to monitor progress on RAR001234, given Meindl's documented health urgency?",
+        "Were you informed of the 196-day delay (Aug 23, 2018–Mar 8, 2019) before denial, and if so, why was no action taken?",
+        "How did you ensure the interactive process was initiated promptly with Meindl's supervisor or medical team?"
+      ],
+      "purpose": "Investigate oversight failures and confidentiality handling in 2018, assess role in initial RA delays."
+    },
+    "Nicole Oke": {
+      "role": "Informal Unit Chief, Office of Equal Rights",
+      "involvement": "Responded to Meindl's escalation (Feb 12, 2019) about 172-day RAR001234 delay, promised action but misunderstood request (Mar 6, 2019).",
+      "questions": [
+        "Why did it take until Feb 12, 2019, to respond to Meindl's Dec 12, 2018, escalation about RAR001234's delay?",
+        "What specific actions did you take to investigate the 172-day delay, and why was no resolution achieved by Mar 8, 2019?",
+        "Why did you misunderstand Meindl's request as full-time telework, and how did this impact the interactive process per MD-110 §VI.A?",
+        "Were you aware of Meindl's heart condition and postponed surgery, and if so, why was the RA not prioritized?",
+        "Did you coordinate with Jamie McAllister or Detra Terry to ensure the denial (Mar 8, 2019) complied with Rehabilitation Act §501?"
+      ],
+      "purpose": "Probe inaction and miscommunication in 2019, assess compliance with RA urgency and interactive process."
+    },
+    "Jamie McAllister": {
+      "role": "Unknown (likely RA decision-maker)",
+      "involvement": "Denied RAR001234 (Mar 8, 2019) after 196 days without clear justification.",
+      "questions": [
+        "What specific reasons led to the denial of RAR001234, and why were they not documented per FEMA Instruction 256-022-01?",
+        "Did you engage with Meindl or his supervisor (Detra Terry) during the interactive process before denying the request?",
+        "Were you aware of the 196-day delay, and what steps did you take to address this violation of FEMA Manual 1430.1?",
+        "How did you assess Meindl's heart condition (CAD) and its impact on his RA request for schedule flexibility?",
+        "Did you consider Meindl's age (74) or disability in the denial, and how was ADEA (29 U.S.C. §623) compliance ensured?"
+      ],
+      "purpose": "Investigate basis for 2019 denial, assess procedural compliance, and probe potential age/disability bias."
+    },
+    "Detra Terry": {
+      "role": "Task Force Lead (Supervisor)",
+      "involvement": "Meindl's supervisor for RAR001234; received denial notice (Mar 8, 2019) but not engaged in interactive process.",
+      "questions": [
+        "Were you consulted during the RAR001234 process (Aug 23, 2018–Mar 8, 2019), and if not, why were you excluded?",
+        "What role did you play in clarifying Meindl's job duties or medical needs for the RA request?",
+        "Did you receive Meindl's medical documentation or discuss his heart condition with RA staff?",
+        "Why was no interactive process initiated with you per MD-110 §VI.A before the denial?",
+        "Did you raise concerns about the 196-day delay or its impact on Meindl's health and employment?"
+      ],
+      "purpose": "Clarify supervisor's exclusion from RA process, assess oversight failures, and probe impact on Meindl."
+    },
+    "Miriam Aybar-Morales": {
+      "role": "RA Staff",
+      "involvement": "Rejected RAR0042452 medical documentation (Aug 5, 2022), demanded redundant forms, ignored Underhill's endorsement.",
+      "questions": [
+        "Why was Meindl's medical documentation for RAR0042452 deemed insufficient, and what specific deficiencies were identified?",
+        "How did you address Demarque Underhill's endorsement that the request was 'reasonable'?",
+        "What steps were taken to comply with MD-110 §VI.C's streamlined documentation process?",
+        "Were you aware of the 995-day delay (as of Apr 25, 2025) for RAR0042452, and why was no action taken?",
+        "Did you consider Meindl's 38-month virtual work success when rejecting his documentation?"
+      ],
+      "purpose": "Investigate documentation rejection, assess compliance with RA process, and probe delay accountability."
+    },
+    "Karina Aguilo": {
+      "role": "Region 6 Staff",
+      "involvement": "Acknowledged VSS issues (Oct 27, 2021) and 'procedural disarray' (Aug 15, 2022) but took no action.",
+      "questions": [
+        "What specific VSS issues did you identify on Oct 27, 2021, and how did they impact RA processing for Meindl?",
+        "Why was no corrective action taken after acknowledging 'procedural disarray' on Aug 15, 2022?",
+        "Did you escalate the disarray to leadership (e.g., Traci Brasher) to address MD-110 §III.A violations?",
+        "Were you aware of Meindl's RA delays (e.g., RAR0042452), and if so, why were they not prioritized?",
+        "How did you ensure older employees like Meindl were not disproportionately impacted per ADEA (29 U.S.C. §623)?"
+      ],
+      "purpose": "Probe inaction on systemic issues, assess oversight failures, and investigate age bias potential."
+    },
+    "Traci Brasher": {
+      "role": "Acting Regional Administrator",
+      "involvement": "Failed to act on Meindl's RA complaints (Feb 23, Dec 4, 2024), oversaw termination (Jan 6, 2025), and mischaracterized RA basis in affidavit (Apr 8, 2025).",
+      "questions": [
+        "Why did you not act on Meindl's Feb 23, 2024, complaint that 'RA requests never get adjudicated'?",
+        "What oversight did you provide for the 190-day delay in assigning RAR0046767 (Jan 2–Jul 10, 2024)?",
+        "Why was no welfare check conducted post-Hurricane Beryl (Jul 8–31, 2024) per FEMA Directive 123-0-2-1?",
+        "How did you justify Meindl's termination (Jan 6, 2025) without prior warnings or 5 U.S.C. §7513 notice?",
+        "Why did your affidavit (Apr 8, 2025) deny knowledge of Meindl's termination, given your leadership role?"
+      ],
+      "purpose": "Investigate leadership inaction, welfare neglect, termination process, and affidavit inaccuracies."
+    },
+    "Shelia Clemons": {
+      "role": "RA Staff",
+      "involvement": "Assigned RAR0046767 (Jul 10, 2024) after 190 days, sent unencrypted email exposing PHI, downplayed delay in affidavit (Apr 12, 2025).",
+      "questions": [
+        "Why was RAR0046767 delayed 190 days before assignment, violating FEMA Instruction 256-022-01?",
+        "What caused the unencrypted email exposing Meindl's COPD/CAD, and how was HIPAA (45 CFR §164.312) compliance ensured?",
+        "Why did you request redundant documentation when Meindl had uploaded it to ACMS?",
+        "Why did your affidavit (Apr 12, 2025) downplay the delay and deny communication with Meindl?",
+        "Did you consider Meindl's 38-month virtual work success when processing RAR0046767?"
+      ],
+      "purpose": "Probe delay causes, HIPAA breach, and affidavit misrepresentations, assess RA process compliance."
+    },
+    "Anna Myers": {
+      "role": "EEO Specialist, RA",
+      "involvement": "Denied RAR0046767 (Aug 16, 2024), pressured reassignment, misrepresented Meindl's engagement in affidavit (Apr 14, 2025).",
+      "questions": [
+        "Why did you deny RAR0046767 without specifying reasons (e.g., undue hardship) per FEMA Instruction 256-022-01?",
+        "Why was Meindl pressured to admit inability to perform essential functions, despite his 38-month virtual success?",
+        "What interactive process was conducted, and why was it limited to one conversation per Meindl's claim?",
+        "Why did your affidavit (Apr 14, 2025) misrepresent Meindl's RA engagement and deny termination accountability?",
+        "How did you assess virtual deployment feasibility per EEOC Guidance (29 C.F.R. §1630.2(o))?"
+      ],
+      "purpose": "Investigate denial rationale, interactive process failures, and affidavit inaccuracies, probe bias."
+    },
+    "Jodi Hunter": {
+      "role": "Second-Line Supervisor",
+      "involvement": "Denied RAR0046767 appeal (Aug 15, 2024), misstated Meindl's inability to leave home, claimed no RA history knowledge in affidavit (Apr 14, 2025).",
+      "questions": [
+        "Why did you claim Meindl 'cannot leave his house' when he deployed virtually for 38 months and agreed to Houston deployment?",
+        "Why was virtual deployment not considered, given Meindl's success and EEOC Guidance (29 C.F.R. §1630.2(o))?",
+        "Why did your denial lack specific reasons (e.g., undue hardship) per FEMA Instruction 256-022-01?",
+        "Why did your affidavit (Apr 14, 2025) deny RA history knowledge, given your supervisory role?",
+        "Did you review Meindl's onboarding to confirm 50-week deployment was specified, as claimed?"
+      ],
+      "purpose": "Probe denial misrepresentations, supervisory oversight, and affidavit inaccuracies, assess bias."
+    },
+    "Anthony In": {
+      "role": "Supervisor (SOR)",
+      "involvement": "Denied RAR0046767 (Aug 5, 2024), proposed but overruled Houston deployment (May 29, 2024), sent final denial (Dec 2, 2024).",
+      "questions": [
+        "Why did you deny RAR0046767 without assessing virtual deployment, given Meindl's 38-month success?",
+        "Who overruled the Houston deployment on May 29, 2024, and why was Meindl's willingness dismissed?",
+        "Why was the denial (Aug 5, 2024) not supported by specific reasons per FEMA Instruction 256-022-01?",
+        "Did you discuss Meindl's underutilization concerns, and why were no alternative accommodations explored?",
+        "How did you ensure Rehabilitation Act §501 compliance in the final denial (Dec 2, 2024)?"
+      ],
+      "purpose": "Investigate denial basis, overruled deployment, and compliance failures."
+    },
+    "Donald J. Simko": {
+      "role": "Leadership (not supervisor)",
+      "involvement": "Involved in ADR mediation (Oct 17, 2024), claimed Meindl refused deployment in affidavit (Apr 14, 2025).",
+      "questions": [
+        "What was your role in the Oct 17, 2024, ADR mediation, and why did it fail due to FEMA resistance?",
+        "Why did your affidavit (Apr 14, 2025) claim Meindl refused deployment, despite his May 29, 2024, agreement?",
+        "Why were no virtual roles explored during the reassignment search (Oct 30, 2024)?",
+        "Did you review Meindl's RA history or 38-month virtual work before making affidavit claims?",
+        "How did you ensure Rehabilitation Act §501 compliance in the reassignment process?"
+      ],
+      "purpose": "Probe affidavit misrepresentations, reassignment failures, and ADR inaction, assess bias."
+    }
+  },
+  "key_evidence": {
+    "delays": [
+      {
+        "date": "2018-12-12",
+        "request": "Unknown",
+        "days": 111
+      },
+      {
+        "date": "2019-02-12",
+        "request": "Unknown",
+        "days": 172
+      },
+      {
+        "date": "2019-03-06",
+        "request": "Unknown",
+        "days": 196
+      },
+      {
+        "date": "2019-03-08",
+        "request": "Unknown",
+        "days": 196
+      },
+      {
+        "date": "2021-10-28",
+        "request": "RAR0023278",
+        "days": 1275
+      },
+      {
+        "date": "2022-01-06",
+        "request": "RAR0023261",
+        "days": 1205
+      },
+      {
+        "date": "2022-08-04",
+        "request": "RAR0042452",
+        "days": 995
+      },
+      {
+        "date": "2024-01-02",
+        "request": "RAR0046767",
+        "days": 190
+      },
+      {
+        "date": "2024-07-10",
+        "request": "Unknown",
+        "days": 190
+      }
+    ],
+    "hipaa_violations": [
+      {
+        "date": "2024-07-10",
+        "actor": "Shelia Clemons",
+        "violation": "Unencrypted email exposing PHI (COPD/CAD)"
+      }
+    ],
+    "retaliation_timeline": [
+      {
+        "date": "2024-12-20",
+        "event": "EEO Complaint Filed"
+      },
+      {
+        "date": "2025-01-06",
+        "event": "Termination (17 days later)"
+      }
+    ],
+    "remote_work_success": {
+      "period": "March 2020 - May 2023",
+      "duration_months": 38,
+      "performance": "Exemplary",
+      "disasters_managed": [
+        "4611DR"
+      ]
+    }
+  },
+  "recommendations": [
+    "Verify all RA processing timelines via FEMA logs",
+    "Review unencrypted email threads for HIPAA compliance",
+    "Interview all named individuals with provided questions",
+    "FOIA request for RA denial rates by age group",
+    "Investigate welfare check failure post-Hurricane Beryl",
+    "Review termination process for due process violations",
+    "Examine pattern of documentation rejections",
+    "Assess virtual deployment feasibility denials"
+  ],
+  "legal_framework": {
+    "statutes_violated": {
+      "Rehabilitation Act §501": "29 C.F.R. §1630 - Failure to accommodate",
+      "HIPAA Security Rule": "45 CFR §164.312 - PHI breach",
+      "ADEA": "29 U.S.C. §623 - Age discrimination",
+      "5 U.S.C. §7513": "Due process in adverse actions",
+      "FMLA": "29 C.F.R. §825 - Leave interference"
+    },
+    "policies_violated": {
+      "MD-110": "Multiple sections - EEO process failures",
+      "FEMA Instruction 256-022-01": "15-45 day RA timeline",
+      "FEMA Manual 1430.1": "15-day initial RA timeline",
+      "FEMA Manual 123-13-1": "Progressive discipline requirements",
+      "FEMA Directive 123-0-2-1": "Post-disaster welfare checks"
+    }
+  }
+}

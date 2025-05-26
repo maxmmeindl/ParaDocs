@@ -1,0 +1,613 @@
+{
+  "keywords": {},
+  "critical_terms": {
+    "RAR0023278": [
+      "ADMINISTRATIVE_HEARING_PORTAL.html",
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "eeo_comprehensive_investigation.json",
+      "eeo_comprehensive_timeline.csv",
+      "eeo_timeline_comprehensive_report.json",
+      "eeo_timeline_enhanced.json",
+      "eeo_timeline_events.csv",
+      "email_detailed_index.json",
+      "EXHIBIT_LIST_PRIORITY.csv",
+      "MASTER_TIMELINE_2018-2025.csv",
+      "paradocs_comprehensive_eeo_investigation.html",
+      "paradocs_master_timeline_enhanced.html",
+      "MAXIMUM_DAMAGES_BY_STATUTE.md"
+    ],
+    "RAR0023261": [
+      "ADMINISTRATIVE_HEARING_PORTAL.html",
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "eeo_comprehensive_investigation.json",
+      "eeo_comprehensive_timeline.csv",
+      "eeo_timeline_enhanced.json",
+      "EXHIBIT_LIST_PRIORITY.csv",
+      "MASTER_TIMELINE_2018-2025.csv",
+      "MAXIMUM_DAMAGES_BY_STATUTE.md"
+    ],
+    "RAR0042452": [
+      "ADMINISTRATIVE_HEARING_PORTAL.html",
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "eeo_comprehensive_investigation.json",
+      "eeo_comprehensive_timeline.csv",
+      "eeo_investigation_questions.csv",
+      "eeo_timeline_comprehensive_report.json",
+      "eeo_timeline_enhanced.json",
+      "eeo_timeline_events.csv",
+      "EXHIBIT_LIST_PRIORITY.csv",
+      "MASTER_TIMELINE_2018-2025.csv",
+      "paradocs_comprehensive_eeo_investigation.html",
+      "paradocs_master_timeline_enhanced.html",
+      "timeline_analysis_results.json",
+      "MAXIMUM_DAMAGES_BY_STATUTE.md"
+    ],
+    "45-day": [
+      "ADMINISTRATIVE_HEARING_PORTAL.html",
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md",
+      "damages_calculation_report.json",
+      "eeo_comprehensive_investigation.json",
+      "eeo_comprehensive_timeline.csv",
+      "eeo_timeline_comprehensive_report.json",
+      "eeo_timeline_enhanced.json",
+      "eeo_timeline_events.csv",
+      "paradocs_comprehensive_eeo_investigation.html",
+      "paradocs_master_timeline_enhanced.html"
+    ],
+    "termination": [
+      "ADMINISTRATIVE_HEARING_PORTAL.html",
+      "ADR_MEDIATION_PORTAL.html",
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "Attorney_Portal.html",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md",
+      "document_scan_results.json",
+      "eeo_comprehensive_investigation.json",
+      "eeo_comprehensive_timeline.csv",
+      "eeo_investigation_questions.csv",
+      "eeo_timeline_comprehensive_report.json",
+      "eeo_timeline_enhanced.json",
+      "eeo_timeline_events.csv",
+      "email_analysis_report.json",
+      "email_detailed_index.json",
+      "email_index.csv",
+      "email_index.json",
+      "email_index.md",
+      "email_index_HS-FEMA-02430-2024.html",
+      "evidence_index_HS-FEMA-02430-2024.csv",
+      "EXHIBIT_LIST_PRIORITY.csv",
+      "FEDERAL_LAWSUIT_PORTAL.html",
+      "MASTER_TIMELINE_2018-2025.csv",
+      "paradocs_all_files.csv",
+      "paradocs_all_files.json",
+      "paradocs_case_analysis_complete.json",
+      "PARADOCS_COMPLETE_INDEX.md",
+      "paradocs_comprehensive_eeo_investigation.html",
+      "paradocs_legal_strategy_dashboard.html",
+      "paradocs_master_timeline_enhanced.html",
+      "SHARING_PARADOCS_WITH_ATTORNEY.md",
+      "timeline_analysis_results.json",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md",
+      "AGGRESSIVE_DAMAGES_CALCULATION.md",
+      "DAMAGES_CALCULATION_LEGAL_BASIS.md",
+      "MAXIMUM_DAMAGES_BY_STATUTE.md"
+    ],
+    "FOIA": [
+      "ADMINISTRATIVE_HEARING_PORTAL.html",
+      "ADR_MEDIATION_PORTAL.html",
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "document_scan_results.json",
+      "eeo_comprehensive_investigation.json",
+      "paradocs_all_files.csv",
+      "paradocs_all_files.json",
+      "PARADOCS_COMPLETE_INDEX.md",
+      "PARADOCS_FINAL_SUMMARY.txt",
+      "LETTER_TO_RICK_GUERRA.md"
+    ],
+    "reasonable accommodation": [
+      "ADMINISTRATIVE_HEARING_PORTAL.html",
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "damages_calculation_report.json",
+      "eeo_comprehensive_investigation.json",
+      "eeo_comprehensive_timeline.csv",
+      "email_analysis_report.json",
+      "email_detailed_index.json",
+      "email_index.csv",
+      "email_index.json",
+      "email_index_HS-FEMA-02430-2024.html",
+      "FEDERAL_LAWSUIT_PORTAL.html",
+      "MASTER_INDEX.html",
+      "MASTER_TIMELINE_2018-2025.csv",
+      "paradocs_all_files.csv",
+      "paradocs_all_files.json",
+      "paradocs_case_analysis_complete.json",
+      "PARADOCS_FINAL_SUMMARY.txt",
+      "paradocs_legal_strategy_dashboard.html",
+      "paradocs_master_dashboard.html",
+      "timeline_analysis_results.json",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md",
+      "CASE_SUMMARY.json",
+      "CASE_SUMMARY.md",
+      "cursor_current_processing_status_update-052525.md",
+      "LETTER_TO_RICK_GUERRA.md",
+      "MAXIMUM_DAMAGES_BY_STATUTE.md"
+    ],
+    "interactive process": [
+      "ADMINISTRATIVE_HEARING_PORTAL.html",
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md",
+      "eeo_comprehensive_investigation.json",
+      "eeo_comprehensive_timeline.csv",
+      "eeo_investigation_questions.csv",
+      "eeo_timeline_comprehensive_report.json",
+      "eeo_timeline_enhanced.json",
+      "eeo_timeline_events.csv",
+      "email_detailed_index.json",
+      "email_index_HS-FEMA-02430-2024.html",
+      "evidence_index_HS-FEMA-02430-2024.csv",
+      "EXHIBIT_LIST_PRIORITY.csv",
+      "MASTER_INDEX.html",
+      "MASTER_TIMELINE_2018-2025.csv",
+      "paradocs_case_analysis_complete.json",
+      "paradocs_legal_strategy_dashboard.html",
+      "paradocs_master_dashboard.html",
+      "paradocs_master_timeline_enhanced.html",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md"
+    ],
+    "Hurricane Beryl": [
+      "ADMINISTRATIVE_HEARING_PORTAL.html",
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "eeo_comprehensive_investigation.json",
+      "eeo_comprehensive_timeline.csv",
+      "eeo_investigation_questions.csv",
+      "eeo_timeline_enhanced.json",
+      "EXHIBIT_LIST_PRIORITY.csv",
+      "MASTER_TIMELINE_2018-2025.csv",
+      "paradocs_comprehensive_eeo_investigation.html",
+      "AGGRESSIVE_DAMAGES_CALCULATION.md",
+      "DAMAGES_CALCULATION_LEGAL_BASIS.md",
+      "MAXIMUM_DAMAGES_BY_STATUTE.md"
+    ],
+    "welfare check": [
+      "ADMINISTRATIVE_HEARING_PORTAL.html",
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "eeo_comprehensive_investigation.json",
+      "eeo_investigation_questions.csv",
+      "eeo_timeline_enhanced.json",
+      "EXHIBIT_LIST_PRIORITY.csv",
+      "FEDERAL_LAWSUIT_PORTAL.html",
+      "MASTER_TIMELINE_2018-2025.csv",
+      "paradocs_comprehensive_eeo_investigation.html",
+      "DAMAGES_CALCULATION_LEGAL_BASIS.md",
+      "MAXIMUM_DAMAGES_BY_STATUTE.md"
+    ],
+    "disability": [
+      "ADMINISTRATIVE_HEARING_PORTAL.html",
+      "ADR_MEDIATION_PORTAL.html",
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md",
+      "eeo_comprehensive_investigation.json",
+      "eeo_comprehensive_timeline.csv",
+      "eeo_investigation_questions.csv",
+      "eeo_timeline_comprehensive_report.json",
+      "eeo_timeline_enhanced.json",
+      "eeo_timeline_events.csv",
+      "email_analysis_report.json",
+      "email_detailed_index.json",
+      "EXHIBIT_LIST_PRIORITY.csv",
+      "FEDERAL_LAWSUIT_PORTAL.html",
+      "paradocs_case_analysis_complete.json",
+      "paradocs_legal_strategy_dashboard.html",
+      "paradocs_master_dashboard.html",
+      "paradocs_master_timeline_enhanced.html",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md",
+      "AGGRESSIVE_DAMAGES_CALCULATION.md",
+      "LETTER_TO_RICK_GUERRA.md"
+    ],
+    "discrimination": [
+      "ADMINISTRATIVE_HEARING_PORTAL.html",
+      "ADR_MEDIATION_PORTAL.html",
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "analysis_dashboard.json",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md",
+      "damages_calculation_report.json",
+      "document_scan_results.json",
+      "eeo_comprehensive_investigation.json",
+      "eeo_comprehensive_timeline.csv",
+      "eeo_timeline_comprehensive_report.json",
+      "eeo_timeline_enhanced.json",
+      "eeo_timeline_events.csv",
+      "email_detailed_index.json",
+      "evidence_index_HS-FEMA-02430-2024.csv",
+      "EXHIBIT_LIST_PRIORITY.csv",
+      "FEDERAL_LAWSUIT_PORTAL.html",
+      "MASTER_TIMELINE_2018-2025.csv",
+      "paradocs_all_files.csv",
+      "paradocs_all_files.json",
+      "paradocs_case_analysis_complete.json",
+      "paradocs_comprehensive_eeo_investigation.html",
+      "paradocs_legal_strategy_dashboard.html",
+      "paradocs_master_dashboard.html",
+      "paradocs_master_timeline_enhanced.html",
+      "cursor_current_processing_status_update-052525.md",
+      "index.md",
+      "index.md",
+      "cursor_current_processing_status_update-052525.md",
+      "CASE_SUMMARY.json",
+      "CASE_SUMMARY.md",
+      "cursor_current_processing_status_update-052525.md",
+      "index.md",
+      "AGGRESSIVE_DAMAGES_CALCULATION.md",
+      "DAMAGES_CALCULATION_LEGAL_BASIS.md",
+      "LETTER_TO_RICK_GUERRA.md",
+      "MAXIMUM_DAMAGES_BY_STATUTE.md",
+      "index.md"
+    ],
+    "retaliation": [
+      "ADR_MEDIATION_PORTAL.html",
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "analysis_dashboard.json",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md",
+      "damages_calculation_report.json",
+      "document_scan_results.json",
+      "eeo_comprehensive_investigation.json",
+      "eeo_comprehensive_timeline.csv",
+      "eeo_timeline_comprehensive_report.json",
+      "eeo_timeline_enhanced.json",
+      "eeo_timeline_events.csv",
+      "email_detailed_index.json",
+      "email_index_HS-FEMA-02430-2024.html",
+      "evidence_index_HS-FEMA-02430-2024.csv",
+      "EXHIBIT_LIST_PRIORITY.csv",
+      "MASTER_INDEX.html",
+      "MASTER_TIMELINE_2018-2025.csv",
+      "paradocs_case_analysis_complete.json",
+      "paradocs_comprehensive_eeo_investigation.html",
+      "paradocs_legal_strategy_dashboard.html",
+      "paradocs_master_dashboard.html",
+      "paradocs_master_timeline_enhanced.html",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md",
+      "CASE_SUMMARY.json",
+      "CASE_SUMMARY.md",
+      "LEGAL_OPTIMIZATION_GUIDE.json",
+      "cursor_current_processing_status_update-052525.md",
+      "DAMAGES_CALCULATION_LEGAL_BASIS.md",
+      "MAXIMUM_DAMAGES_BY_STATUTE.md"
+    ],
+    "age 74": [
+      "ADR_MEDIATION_PORTAL.html",
+      "Attorney_Portal.html",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md",
+      "eeo_comprehensive_investigation.json",
+      "eeo_comprehensive_timeline.csv",
+      "eeo_timeline_comprehensive_report.json",
+      "eeo_timeline_enhanced.json",
+      "eeo_timeline_events.csv",
+      "paradocs_comprehensive_eeo_investigation.html",
+      "paradocs_master_timeline_enhanced.html",
+      "SHARING_PARADOCS_WITH_ATTORNEY.md",
+      "AGGRESSIVE_DAMAGES_CALCULATION.md",
+      "DAMAGES_CALCULATION_LEGAL_BASIS.md",
+      "LETTER_TO_RICK_GUERRA.md",
+      "MAXIMUM_DAMAGES_BY_STATUTE.md"
+    ],
+    "no responsive records": [
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "CASE_VIOLATIONS_SUMMARY.html"
+    ],
+    "January 6, 2025": [
+      "AMENDED_COMPLAINT_DRAFT.md",
+      "AMENDED_COMPLAINT_FORMATTED.html",
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "paradocs_comprehensive_eeo_investigation.html",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md",
+      "DAMAGES_CALCULATION_LEGAL_BASIS.md"
+    ],
+    "December 20, 2024": [
+      "CASE_VIOLATIONS_SUMMARY.html",
+      "eeo_comprehensive_investigation.json",
+      "eeo_comprehensive_timeline.csv"
+    ],
+    "45 days": [
+      "CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md",
+      "damages_calculation_report.json",
+      "document_scan_results.json",
+      "eeo_timeline_comprehensive_report.json",
+      "eeo_timeline_enhanced.json",
+      "evidence_index_HS-FEMA-02430-2024.csv",
+      "paradocs_case_analysis_complete.json",
+      "paradocs_legal_strategy_dashboard.html",
+      "paradocs_master_timeline_enhanced.html",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md",
+      "LETTER_TO_RICK_GUERRA.md"
+    ],
+    "1340 days": [
+      "damages_calculation_report.json",
+      "document_scan_results.json",
+      "email_index_HS-FEMA-02430-2024.html",
+      "evidence_index_HS-FEMA-02430-2024.csv",
+      "MASTER_TIMELINE_2018-2025.csv",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md"
+    ],
+    "1340-day": [
+      "damages_calculation_report.json",
+      "evidence_index_HS-FEMA-02430-2024.csv",
+      "EXHIBIT_LIST_PRIORITY.csv",
+      "MASTER_TIMELINE_2018-2025.csv",
+      "cursor_current_processing_status_update-052525.md",
+      "cursor_current_processing_status_update-052525.md",
+      "CASE_SUMMARY.json",
+      "CASE_SUMMARY.md",
+      "cursor_current_processing_status_update-052525.md"
+    ]
+  },
+  "documents": {
+    "ADMINISTRATIVE_HEARING_PORTAL.html": {
+      "path": ".\\ADMINISTRATIVE_HEARING_PORTAL.html",
+      "size": 29372
+    },
+    "ADR_MEDIATION_PORTAL.html": {
+      "path": ".\\ADR_MEDIATION_PORTAL.html",
+      "size": 23681
+    },
+    "AMENDED_COMPLAINT_DRAFT.md": {
+      "path": ".\\AMENDED_COMPLAINT_DRAFT.md",
+      "size": 7596
+    },
+    "AMENDED_COMPLAINT_FORMATTED.html": {
+      "path": ".\\AMENDED_COMPLAINT_FORMATTED.html",
+      "size": 14681
+    },
+    "analysis_dashboard.json": {
+      "path": ".\\analysis_dashboard.json",
+      "size": 997
+    },
+    "Attorney_Portal.html": {
+      "path": ".\\Attorney_Portal.html",
+      "size": 2942
+    },
+    "CASE_VIOLATIONS_SUMMARY.html": {
+      "path": ".\\CASE_VIOLATIONS_SUMMARY.html",
+      "size": 115378
+    },
+    "cleanup_report.json": {
+      "path": ".\\cleanup_report.json",
+      "size": 843
+    },
+    "CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md": {
+      "path": ".\\CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md",
+      "size": 9116
+    },
+    "damages_calculation_report.json": {
+      "path": ".\\damages_calculation_report.json",
+      "size": 4745
+    },
+    "document_scan_results.json": {
+      "path": ".\\document_scan_results.json",
+      "size": 8307
+    },
+    "eeo_comprehensive_investigation.json": {
+      "path": ".\\eeo_comprehensive_investigation.json",
+      "size": 48778
+    },
+    "eeo_comprehensive_timeline.csv": {
+      "path": ".\\eeo_comprehensive_timeline.csv",
+      "size": 16218
+    },
+    "eeo_investigation_questions.csv": {
+      "path": ".\\eeo_investigation_questions.csv",
+      "size": 23910
+    },
+    "eeo_timeline_comprehensive_report.json": {
+      "path": ".\\eeo_timeline_comprehensive_report.json",
+      "size": 23620
+    },
+    "eeo_timeline_enhanced.json": {
+      "path": ".\\eeo_timeline_enhanced.json",
+      "size": 15664
+    },
+    "eeo_timeline_events.csv": {
+      "path": ".\\eeo_timeline_events.csv",
+      "size": 6002
+    },
+    "email_analysis_report.json": {
+      "path": ".\\email_analysis_report.json",
+      "size": 12098
+    },
+    "email_detailed_index.json": {
+      "path": ".\\email_detailed_index.json",
+      "size": 223488
+    },
+    "email_index.csv": {
+      "path": ".\\email_index.csv",
+      "size": 16838
+    },
+    "email_index.json": {
+      "path": ".\\email_index.json",
+      "size": 29882
+    },
+    "email_index.md": {
+      "path": ".\\email_index.md",
+      "size": 4606
+    },
+    "email_index_HS-FEMA-02430-2024.html": {
+      "path": ".\\email_index_HS-FEMA-02430-2024.html",
+      "size": 13254
+    },
+    "evidence_index_HS-FEMA-02430-2024.csv": {
+      "path": ".\\evidence_index_HS-FEMA-02430-2024.csv",
+      "size": 2261
+    },
+    "EXHIBIT_LIST_PRIORITY.csv": {
+      "path": ".\\EXHIBIT_LIST_PRIORITY.csv",
+      "size": 7272
+    },
+    "FEDERAL_LAWSUIT_PORTAL.html": {
+      "path": ".\\FEDERAL_LAWSUIT_PORTAL.html",
+      "size": 30036
+    },
+    "MASTER_INDEX.html": {
+      "path": ".\\MASTER_INDEX.html",
+      "size": 26128
+    },
+    "MASTER_TIMELINE_2018-2025.csv": {
+      "path": ".\\MASTER_TIMELINE_2018-2025.csv",
+      "size": 7134
+    },
+    "package-lock.json": {
+      "path": ".\\package-lock.json",
+      "size": 109412
+    },
+    "package.json": {
+      "path": ".\\package.json",
+      "size": 468
+    },
+    "paradocs-enhanced.html": {
+      "path": ".\\paradocs-enhanced.html",
+      "size": 11147
+    },
+    "paradocs-index.html": {
+      "path": ".\\paradocs-index.html",
+      "size": 5864
+    },
+    "paradocs_all_files.csv": {
+      "path": ".\\paradocs_all_files.csv",
+      "size": 70900
+    },
+    "paradocs_all_files.json": {
+      "path": ".\\paradocs_all_files.json",
+      "size": 154208
+    },
+    "paradocs_case_analysis_complete.json": {
+      "path": ".\\paradocs_case_analysis_complete.json",
+      "size": 6325
+    },
+    "PARADOCS_COMPLETE_INDEX.md": {
+      "path": ".\\PARADOCS_COMPLETE_INDEX.md",
+      "size": 1924
+    },
+    "paradocs_comprehensive_eeo_investigation.html": {
+      "path": ".\\paradocs_comprehensive_eeo_investigation.html",
+      "size": 12093
+    },
+    "PARADOCS_FINAL_SUMMARY.txt": {
+      "path": ".\\PARADOCS_FINAL_SUMMARY.txt",
+      "size": 1145
+    },
+    "paradocs_index_report.txt": {
+      "path": ".\\paradocs_index_report.txt",
+      "size": 855
+    },
+    "paradocs_legal_strategy_dashboard.html": {
+      "path": ".\\paradocs_legal_strategy_dashboard.html",
+      "size": 20670
+    },
+    "paradocs_master_dashboard.html": {
+      "path": ".\\paradocs_master_dashboard.html",
+      "size": 25009
+    },
+    "paradocs_master_timeline_enhanced.html": {
+      "path": ".\\paradocs_master_timeline_enhanced.html",
+      "size": 33820
+    },
+    "roi_contradiction_analysis.json": {
+      "path": ".\\roi_contradiction_analysis.json",
+      "size": 1086
+    },
+    "SHARING_PARADOCS_WITH_ATTORNEY.md": {
+      "path": ".\\SHARING_PARADOCS_WITH_ATTORNEY.md",
+      "size": 8842
+    },
+    "timeline_analysis_results.json": {
+      "path": ".\\timeline_analysis_results.json",
+      "size": 33686
+    },
+    "cursor_current_processing_status_update-052525.md": {
+      "path": ".\\paradocs_complete\\Miscellaneous\\cursor_current_processing_status_update-052525.md",
+      "size": 899067
+    },
+    "index.md": {
+      "path": ".\\paradocs_organized\\Miscellaneous\\index.md",
+      "size": 8991
+    },
+    "README.md": {
+      "path": ".\\paradocs_complete\\Miscellaneous\\README.md",
+      "size": 38
+    },
+    "CASE_SUMMARY.json": {
+      "path": ".\\paradocs_complete\\CASE_SUMMARY.json",
+      "size": 1982
+    },
+    "CASE_SUMMARY.md": {
+      "path": ".\\paradocs_complete\\CASE_SUMMARY.md",
+      "size": 1352
+    },
+    "LEGAL_OPTIMIZATION_GUIDE.json": {
+      "path": ".\\paradocs_complete\\LEGAL_OPTIMIZATION_GUIDE.json",
+      "size": 1473
+    },
+    "AGGRESSIVE_DAMAGES_CALCULATION.md": {
+      "path": ".\\paradocs_organized\\ADR_Mediation\\AGGRESSIVE_DAMAGES_CALCULATION.md",
+      "size": 6804
+    },
+    "DAMAGES_CALCULATION_LEGAL_BASIS.md": {
+      "path": ".\\paradocs_organized\\ADR_Mediation\\DAMAGES_CALCULATION_LEGAL_BASIS.md",
+      "size": 9923
+    },
+    "LETTER_TO_RICK_GUERRA.md": {
+      "path": ".\\paradocs_organized\\ADR_Mediation\\LETTER_TO_RICK_GUERRA.md",
+      "size": 5709
+    },
+    "MAXIMUM_DAMAGES_BY_STATUTE.md": {
+      "path": ".\\paradocs_organized\\ADR_Mediation\\MAXIMUM_DAMAGES_BY_STATUTE.md",
+      "size": 8147
+    }
+  },
+  "metadata": {
+    "created": "2025-05-25T20:40:58.260967",
+    "total_documents": 62,
+    "critical_terms_found": 20
+  }
+}

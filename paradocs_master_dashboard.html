@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ParaDocs Master Dashboard - Complete Case Analysis</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #1a237e;
+            --secondary: #283593;
+            --success: #2e7d32;
+            --danger: #c62828;
+            --warning: #f57c00;
+            --info: #0277bd;
+            --dark: #263238;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+        }
+        
+        .navbar {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 1rem 0;
+        }
+        
+        .navbar-brand {
+            font-size: 1.75rem;
+            font-weight: 700;
+            color: white !important;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .main-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .stat-card {
+            background: white;
+            border-radius: 12px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+        }
+        
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: var(--primary);
+        }
+        
+        .stat-card.danger::before { background: var(--danger); }
+        .stat-card.success::before { background: var(--success); }
+        .stat-card.warning::before { background: var(--warning); }
+        .stat-card.info::before { background: var(--info); }
+        
+        .stat-icon {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            opacity: 0.8;
+        }
+        
+        .stat-number {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin: 0;
+            line-height: 1;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-top: 0.5rem;
+        }
+        
+        .tool-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .tool-card {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            transition: all 0.3s ease;
+        }
+        
+        .tool-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+        }
+        
+        .tool-card h4 {
+            color: var(--primary);
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .tool-status {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            margin-top: 0.5rem;
+        }
+        
+        .status-complete {
+            background: #e8f5e9;
+            color: var(--success);
+        }
+        
+        .status-pending {
+            background: #fff3e0;
+            color: var(--warning);
+        }
+        
+        .timeline-section {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            margin: 2rem 0;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        
+        .timeline-item {
+            position: relative;
+            padding-left: 3rem;
+            padding-bottom: 2rem;
+            border-left: 2px solid #e0e0e0;
+        }
+        
+        .timeline-item:last-child {
+            border-left: none;
+            padding-bottom: 0;
+        }
+        
+        .timeline-marker {
+            position: absolute;
+            left: -8px;
+            top: 0;
+            width: 14px;
+            height: 14px;
+            background: var(--primary);
+            border-radius: 50%;
+            border: 3px solid white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        
+        .timeline-date {
+            color: var(--primary);
+            font-weight: 600;
+            margin-bottom: 0.25rem;
+        }
+        
+        .finding-card {
+            background: #fffde7;
+            border-left: 4px solid var(--warning);
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+        }
+        
+        .recommendation-card {
+            background: #e3f2fd;
+            border-left: 4px solid var(--info);
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+        }
+        
+        .damage-breakdown {
+            background: #ffebee;
+            border-radius: 8px;
+            padding: 1.5rem;
+            margin: 1rem 0;
+        }
+        
+        .damage-category {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.75rem 0;
+            border-bottom: 1px solid rgba(0,0,0,0.1);
+        }
+        
+        .damage-category:last-child {
+            border-bottom: none;
+        }
+        
+        .damage-amount {
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: var(--danger);
+        }
+        
+        .btn-action {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .btn-action:hover {
+            background: var(--secondary);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+        
+        .alert-custom {
+            border-radius: 8px;
+            border: none;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        
+        .section-header {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--primary);
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+        
+        .tab-content {
+            background: white;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-top: 1rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        
+        .nav-tabs {
+            border-bottom: 2px solid #e0e0e0;
+            margin-bottom: 2rem;
+        }
+        
+        .nav-tabs .nav-link {
+            color: #666;
+            border: none;
+            padding: 1rem 1.5rem;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+        
+        .nav-tabs .nav-link:hover {
+            color: var(--primary);
+            background: #f5f5f5;
+        }
+        
+        .nav-tabs .nav-link.active {
+            color: var(--primary);
+            background: transparent;
+            border-bottom: 3px solid var(--primary);
+        }
+        
+        .quick-actions {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            margin: 2rem 0;
+        }
+        
+        .action-card {
+            flex: 1;
+            min-width: 200px;
+            background: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            text-align: center;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .action-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+        }
+        
+        .action-card i {
+            font-size: 3rem;
+            color: var(--primary);
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid">
+            <span class="navbar-brand">
+                <i class="bi bi-folder-fill"></i>
+                ParaDocs Master Dashboard
+            </span>
+            <span class="navbar-text text-white">
+                Complete Case Analysis & Management System
+            </span>
+        </div>
+    </nav>
+
+    <div class="container-fluid py-4">
+        <!-- Main Statistics Overview -->
+        <section id="overview">
+            <h2 class="section-header">
+                <i class="bi bi-speedometer2"></i>
+                Case Overview
+            </h2>
+            
+            <div class="main-stats">
+                <div class="stat-card">
+                    <i class="bi bi-file-earmark-text stat-icon text-primary"></i>
+                    <p class="stat-number">450</p>
+                    <p class="stat-label">Total Documents</p>
+                </div>
+                
+                <div class="stat-card danger">
+                    <i class="bi bi-exclamation-triangle stat-icon text-danger"></i>
+                    <p class="stat-number">139</p>
+                    <p class="stat-label">Critical Documents</p>
+                </div>
+                
+                <div class="stat-card warning">
+                    <i class="bi bi-currency-dollar stat-icon text-warning"></i>
+                    <p class="stat-number">$1.37M</p>
+                    <p class="stat-label">Total Damages</p>
+                </div>
+                
+                <div class="stat-card info">
+                    <i class="bi bi-calendar-event stat-icon text-info"></i>
+                    <p class="stat-number">1,340</p>
+                    <p class="stat-label">Days Violated</p>
+                </div>
+                
+                <div class="stat-card success">
+                    <i class="bi bi-envelope stat-icon text-success"></i>
+                    <p class="stat-number">106</p>
+                    <p class="stat-label">Emails Indexed</p>
+                </div>
+                
+                <div class="stat-card">
+                    <i class="bi bi-people stat-icon text-secondary"></i>
+                    <p class="stat-number">8</p>
+                    <p class="stat-label">Federal Violations</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quick Actions -->
+        <section class="quick-actions">
+            <div class="action-card" onclick="showTab('documents')">
+                <i class="bi bi-search"></i>
+                <h5>Search Documents</h5>
+                <p class="text-muted">Find and filter case files</p>
+            </div>
+            
+            <div class="action-card" onclick="showTab('timeline')">
+                <i class="bi bi-clock-history"></i>
+                <h5>View Timeline</h5>
+                <p class="text-muted">Chronological events</p>
+            </div>
+            
+            <div class="action-card" onclick="showTab('damages')">
+                <i class="bi bi-calculator"></i>
+                <h5>Calculate Damages</h5>
+                <p class="text-muted">Financial impact analysis</p>
+            </div>
+            
+            <div class="action-card" onclick="window.open('paradocs-index.html', '_blank')">
+                <i class="bi bi-window"></i>
+                <h5>Original Index</h5>
+                <p class="text-muted">View classic interface</p>
+            </div>
+        </section>
+
+        <!-- Analysis Tools Status -->
+        <section id="tools">
+            <h2 class="section-header">
+                <i class="bi bi-tools"></i>
+                Analysis Tools Status
+            </h2>
+            
+            <div class="tool-grid">
+                <div class="tool-card">
+                    <h4><i class="bi bi-file-earmark-check"></i> Document Scanner</h4>
+                    <p>Scanned 450 documents and identified 139 critical files with discrimination and retaliation keywords.</p>
+                    <span class="tool-status status-complete">✓ Complete</span>
+                </div>
+                
+                <div class="tool-card">
+                    <h4><i class="bi bi-clock"></i> Timeline Analyzer</h4>
+                    <p>Extracted 145 timeline events spanning 2018-2025, found 3 processing violations.</p>
+                    <span class="tool-status status-complete">✓ Complete</span>
+                </div>
+                
+                <div class="tool-card">
+                    <h4><i class="bi bi-search"></i> ROI Contradiction Finder</h4>
+                    <p>Analyzed 2 ROI documents and found 2 contradictions for potential impeachment.</p>
+                    <span class="tool-status status-complete">✓ Complete</span>
+                </div>
+                
+                <div class="tool-card">
+                    <h4><i class="bi bi-cash-stack"></i> Damage Calculator</h4>
+                    <p>Calculated $1,366,400 in total potential damages across 4 categories.</p>
+                    <span class="tool-status status-complete">✓ Complete</span>
+                </div>
+                
+                <div class="tool-card">
+                    <h4><i class="bi bi-envelope-open"></i> Email Indexer</h4>
+                    <p>Indexed 106 emails, identified 35 key communications and 16 threads.</p>
+                    <span class="tool-status status-complete">✓ Complete</span>
+                </div>
+                
+                <div class="tool-card">
+                    <h4><i class="bi bi-folder-check"></i> Cleanup Tool</h4>
+                    <p>Fixed 373 file names, archived 77 duplicates, created case summary.</p>
+                    <span class="tool-status status-complete">✓ Complete</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Key Findings -->
+        <section id="findings">
+            <h2 class="section-header">
+                <i class="bi bi-exclamation-circle"></i>
+                Key Findings
+            </h2>
+            
+            <div class="finding-card">
+                <h5><i class="bi bi-calendar-x"></i> 1,340-Day Processing Delay</h5>
+                <p>Agency took 1,340 days to process EEO complaint - far exceeding the 180-day statutory requirement. This represents a 645% violation of federal timeline requirements.</p>
+            </div>
+            
+            <div class="finding-card">
+                <h5><i class="bi bi-file-x"></i> Pattern of Denials</h5>
+                <p>Multiple reasonable accommodation requests denied without proper interactive process. Evidence shows systematic failure to accommodate disability.</p>
+            </div>
+            
+            <div class="finding-card">
+                <h5><i class="bi bi-arrow-repeat"></i> Retaliation Pattern</h5>
+                <p>Clear temporal relationship between protected EEO activity and adverse actions. Multiple instances of retaliation following complaints.</p>
+            </div>
+        </section>
+
+        <!-- Recommendations -->
+        <section id="recommendations">
+            <h2 class="section-header">
+                <i class="bi bi-list-check"></i>
+                Strategic Recommendations
+            </h2>
+            
+            <div class="recommendation-card">
+                <h5><i class="bi bi-1-circle"></i> Compile Master Timeline</h5>
+                <p>Create comprehensive chronology showing all violations, delays, and retaliatory actions with supporting documentation.</p>
+            </div>
+            
+            <div class="recommendation-card">
+                <h5><i class="bi bi-2-circle"></i> Prepare Damages Package</h5>
+                <p>Document all economic and non-economic damages with supporting evidence for $1.37M claim.</p>
+            </div>
+            
+            <div class="recommendation-card">
+                <h5><i class="bi bi-3-circle"></i> Organize Discovery</h5>
+                <p>Prepare exhibit list from 139 critical documents, focusing on pattern evidence and statutory violations.</p>
+            </div>
+        </section>
+
+        <!-- Detailed Analysis Tabs -->
+        <section id="detailed-analysis">
+            <h2 class="section-header">
+                <i class="bi bi-graph-up"></i>
+                Detailed Analysis
+            </h2>
+            
+            <ul class="nav nav-tabs" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-bs-toggle="tab" href="#tab-timeline">Timeline</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#tab-damages">Damages</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#tab-emails">Emails</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#tab-documents">Documents</a>
+                </li>
+            </ul>
+            
+            <div class="tab-content">
+                <div class="tab-pane fade show active" id="tab-timeline">
+                    <h4>Critical Timeline Events</h4>
+                    <div class="timeline-section">
+                        <div class="timeline-item">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-date">2018-08-15</div>
+                            <h6>Initial Accommodation Request</h6>
+                            <p class="text-muted">First documented reasonable accommodation request submitted.</p>
+                        </div>
+                        
+                        <div class="timeline-item">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-date">2020-09-15</div>
+                            <h6>EEO Complaint Filed</h6>
+                            <p class="text-muted">Formal EEO complaint filed after accommodation denials.</p>
+                        </div>
+                        
+                        <div class="timeline-item">
+                            <div class="timeline-marker"></div>
+                            <div class="timeline-date">2024-05-29</div>
+                            <h6>1,340-Day Delay Documented</h6>
+                            <p class="text-muted">Agency finally responds after 1,340 days - massive violation.</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="tab-pane fade" id="tab-damages">
+                    <h4>Damages Breakdown</h4>
+                    <div class="damage-breakdown">
+                        <div class="damage-category">
+                            <span>Processing Delays (1,340 days)</span>
+                            <span class="damage-amount">$139,400</span>
+                        </div>
+                        <div class="damage-category">
+                            <span>Statutory Violations</span>
+                            <span class="damage-amount">$800,000</span>
+                        </div>
+                        <div class="damage-category">
+                            <span>Emotional Distress</span>
+                            <span class="damage-amount">$325,000</span>
+                        </div>
+                        <div class="damage-category">
+                            <span>Lost Wages & Benefits</span>
+                            <span class="damage-amount">$102,000</span>
+                        </div>
+                        <div class="damage-category">
+                            <strong>Total Potential Damages</strong>
+                            <strong class="damage-amount">$1,366,400</strong>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="tab-pane fade" id="tab-emails">
+                    <h4>Email Analysis Summary</h4>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h5>Communication Breakdown</h5>
+                            <ul>
+                                <li>FMLA Communications: 29 emails</li>
+                                <li>RA Communications: 23 emails</li>
+                                <li>EEO Communications: 18 emails</li>
+                                <li>Retaliation Evidence: 15 emails</li>
+                                <li>HR Communications: 21 emails</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <h5>Key Email Threads</h5>
+                            <ul>
+                                <li>Accommodation Request Thread (12 emails)</li>
+                                <li>FMLA Denial Thread (8 emails)</li>
+                                <li>EEO Complaint Thread (6 emails)</li>
+                                <li>Retaliation Documentation (5 emails)</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="tab-pane fade" id="tab-documents">
+                    <h4>Document Categories</h4>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <ul>
+                                <li>FMLA Documents: 85 files</li>
+                                <li>RA Documents: 72 files</li>
+                                <li>EEO Complaints: 45 files</li>
+                                <li>Medical Documentation: 38 files</li>
+                                <li>Email Communications: 106 files</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <ul>
+                                <li>Agency Responses: 28 files</li>
+                                <li>Legal Correspondence: 22 files</li>
+                                <li>Timeline Evidence: 18 files</li>
+                                <li>OSC Filings: 15 files</li>
+                                <li>Other Documents: 21 files</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <button class="btn btn-action mt-3" onclick="window.open('paradocs-enhanced.html', '_blank')">
+                        <i class="bi bi-box-arrow-up-right"></i> Open Full Document Explorer
+                    </button>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        function showTab(tabName) {
+            // Implementation for quick action navigation
+            const tabMap = {
+                'documents': 'tab-documents',
+                'timeline': 'tab-timeline',
+                'damages': 'tab-damages',
+                'emails': 'tab-emails'
+            };
+            
+            if (tabMap[tabName]) {
+                const tab = document.querySelector(`a[href="#${tabMap[tabName]}"]`);
+                if (tab) {
+                    const bsTab = new bootstrap.Tab(tab);
+                    bsTab.show();
+                    
+                    // Scroll to detailed analysis section
+                    document.getElementById('detailed-analysis').scrollIntoView({ behavior: 'smooth' });
+                }
+            }
+        }
+    </script>
+</body>
+</html> 

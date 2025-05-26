@@ -1,0 +1,160 @@
+{
+  "accommodation_violations": {
+    "events": [
+      {
+        "id": "AV-001",
+        "date": "2020-09-15",
+        "event": "First Accommodation Request",
+        "response_time": "1,340 days (NEVER)",
+        "damages": "$550,684.93",
+        "evidence": [
+          "Email EM-001",
+          "ROI pp. 11-15",
+          "No response documented"
+        ],
+        "legal_violations": [
+          "ADA",
+          "29 CFR 1630.2(o)(3)",
+          "Rehabilitation Act"
+        ],
+        "witnesses": [
+          "HR Director",
+          "Supervisor"
+        ],
+        "exhibits": [
+          "A-1",
+          "A-2",
+          "A-3"
+        ]
+      },
+      {
+        "id": "AV-002",
+        "date": "2023-11-09",
+        "event": "Second Accommodation Request (Telework)",
+        "response_time": "36 days",
+        "damages": "$14,794.52",
+        "evidence": [
+          "Email EM-004",
+          "ROI pp. 11-12"
+        ],
+        "legal_violations": [
+          "Exceeded 30-day requirement"
+        ],
+        "witnesses": [
+          "New HR Manager"
+        ],
+        "exhibits": [
+          "B-1",
+          "B-2"
+        ]
+      }
+    ],
+    "total_damages": "$565,479.45",
+    "key_findings": [
+      "No interactive process ever conducted",
+      "No tracking system for accommodations",
+      "Pattern of ignoring requests"
+    ]
+  },
+  "retaliation_events": {
+    "events": [
+      {
+        "id": "RE-001",
+        "date": "2024-03-15",
+        "event": "EEO Complaint Accepted",
+        "protected_activity": true,
+        "evidence": [
+          "LOA",
+          "Complaint filing"
+        ],
+        "exhibits": [
+          "C-1"
+        ]
+      },
+      {
+        "id": "RE-002",
+        "date": "2024-03-20",
+        "event": "PIP Issued",
+        "days_after_eeo": 5,
+        "damages": "Supports punitive damages",
+        "evidence": [
+          "Email EM-007",
+          "PIP document"
+        ],
+        "legal_violations": [
+          "42 USC 2000e-3(a)"
+        ],
+        "exhibits": [
+          "D-1"
+        ]
+      },
+      {
+        "id": "RE-003",
+        "date": "2025-01-06",
+        "event": "TERMINATION",
+        "days_after_eeo": 297,
+        "damages": "$1,132,422.80+",
+        "evidence": [
+          "Termination letter",
+          "During investigation"
+        ],
+        "legal_violations": [
+          "Per se retaliation"
+        ],
+        "exhibits": [
+          "D-2"
+        ]
+      }
+    ],
+    "total_damages": "$1,432,422.80+ (ongoing)",
+    "pattern_evidence": "Clear temporal proximity between EEO activity and adverse actions"
+  },
+  "damage_categories": {
+    "economic_damages": {
+      "immediate": {
+        "lost_wages": {
+          "amount": "$57,079.50",
+          "ongoing": true,
+          "daily_rate": "$410.96"
+        },
+        "lost_benefits": {
+          "amount": "$17,123.85",
+          "ongoing": true
+        },
+        "cobra_costs": {
+          "amount": "$8,219.45",
+          "ongoing": true
+        }
+      },
+      "future": {
+        "front_pay": {
+          "amount": "$300,000",
+          "period": "2-3 years"
+        },
+        "pension_loss": {
+          "amount": "$750,000",
+          "calculation": "Actuarial"
+        }
+      },
+      "total_economic": "$1,132,422.80"
+    },
+    "non_economic_damages": {
+      "emotional_distress": {
+        "discrimination": {
+          "amount": "$150,000",
+          "period": "3.7 years"
+        },
+        "termination": {
+          "amount": "$100,000",
+          "impact": "Ongoing"
+        }
+      },
+      "total_non_economic": "$250,000"
+    },
+    "punitive_damages": {
+      "amount": "$300,000",
+      "basis": "1,340-day violation + retaliation",
+      "cap": "Federal statutory maximum"
+    }
+  }
+}

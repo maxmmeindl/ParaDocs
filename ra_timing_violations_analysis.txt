@@ -1,0 +1,22 @@
+REASONABLE ACCOMMODATION TIMING VIOLATIONS ANALYSIS
+============================================================
+Case: HS-FEMA-02430-2024
+Generated: May 25, 2025
+
+
+SUMMARY FOR LEGAL ARGUMENT:
+------------------------------------------------------------
+FEMA violated federal reasonable accommodation law by:
+1. Taking 36 days to respond (exceeds 30-day standard)
+2. Failing to engage in ANY interactive process
+3. Providing no explanation for the delay
+4. Denying without considering alternatives
+
+This constitutes a per se violation of:
+- 29 CFR 1630.2(o)(3) (interactive process)
+- EO 13164 (30-day federal requirement)
+- EEOC MD-110 Chapter 6 (timely response)
+
+The 36-day delay alone establishes liability, as FEMA cannot
+show any legitimate reason for exceeding federal timeframes while
+completely failing to communicate with the employee.

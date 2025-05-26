@@ -1,0 +1,50 @@
+{
+  "case": "HS-FEMA-02430-2024",
+  "complainant": "Max J. Meindl III",
+  "analysis_date": "2025-05-25T05:39:49.054096",
+  "contradictions": [
+    {
+      "type": "1,340-Day Delay",
+      "details": {
+        "description": "Initial accommodation request ignored for 1,340 days",
+        "dates": "Sept 15, 2020 to May 2024",
+        "violation": "Extreme delay violates interactive process requirement",
+        "remedy": "Per se discrimination - no legitimate excuse"
+      }
+    },
+    {
+      "type": "Termination During EEO",
+      "details": {
+        "description": "Terminated January 6, 2025 during pending EEO case",
+        "timing": "During active investigation",
+        "violation": "Textbook retaliation under Title VII",
+        "remedy": "Reinstatement + front/back pay"
+      }
+    },
+    {
+      "type": "No Medical Review",
+      "details": {
+        "description": "Medical documentation not properly reviewed",
+        "evidence": "ROI lacks medical analysis",
+        "violation": "Failure to consider limitations",
+        "remedy": "Accommodation denial invalid"
+      }
+    },
+    {
+      "type": "Missing Witnesses",
+      "details": {
+        "description": "Key witnesses not interviewed",
+        "impact": "One-sided investigation",
+        "violation": "MD-110 incomplete investigation",
+        "remedy": "Supplement ROI required"
+      }
+    }
+  ],
+  "roi_documents_found": 73,
+  "key_violations": [
+    "1,340-day accommodation delay",
+    "No interactive process",
+    "Termination during EEO proceedings",
+    "Incomplete ROI investigation"
+  ]
+}

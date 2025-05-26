@@ -1,0 +1,25 @@
+{
+  "generated_date": "2025-05-25 14:13:47",
+  "overview": {
+    "total_documents_analyzed": 450,
+    "critical_documents_found": 139,
+    "timeline_events": 145,
+    "total_potential_damages": "$1,366,400",
+    "emails_analyzed": 106,
+    "key_communications": 35
+  },
+  "key_findings": [
+    "Document Analysis: Multiple discrimination references found - compile discrimination evidence",
+    "Document Analysis: Retaliation pattern detected - create retaliation timeline",
+    "Document Analysis: Multiple denials found - document all accommodation denials",
+    "Timeline Analysis: 3 violations identified",
+    "ROI Analysis: 2 contradictions found"
+  ],
+  "action_items": [
+    "Review all critical documents flagged by the scanner",
+    "Examine timeline violations for legal significance",
+    "Validate damage calculations with supporting evidence",
+    "Review key email communications for discovery",
+    "Prepare exhibit list based on document categories"
+  ]
+}

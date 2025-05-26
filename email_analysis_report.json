@@ -1,0 +1,473 @@
+{
+  "summary": {
+    "total_emails_indexed": 106,
+    "unique_senders": 7,
+    "unique_recipients": 16,
+    "email_threads": 17,
+    "key_communications": 35
+  },
+  "category_breakdown": {
+    "EEO_Communications": {
+      "count": 8,
+      "percentage": 7.5
+    },
+    "Email_Communications": {
+      "count": 34,
+      "percentage": 32.1
+    },
+    "RA_Communications": {
+      "count": 6,
+      "percentage": 5.7
+    },
+    "Legal_Communications": {
+      "count": 1,
+      "percentage": 0.9
+    },
+    "FMLA_Communications": {
+      "count": 35,
+      "percentage": 33.0
+    },
+    "OSC_Communications": {
+      "count": 5,
+      "percentage": 4.7
+    },
+    "RA_Documents": {
+      "count": 17,
+      "percentage": 16.0
+    }
+  },
+  "top_correspondents": {
+    "senders": [
+      {
+        "email": "max.meindl@fema.dhs.gov",
+        "count": 49
+      },
+      {
+        "email": "femamax@gmail.com",
+        "count": 32
+      },
+      {
+        "email": "dennis.alexander@fema.dhs.gov",
+        "count": 9
+      },
+      {
+        "email": "babajide.obasa@fema.dhs.gov",
+        "count": 6
+      },
+      {
+        "email": "mcvijanovic@osc.gov",
+        "count": 5
+      },
+      {
+        "email": "jacqueline.gause@fema.dhs.gov",
+        "count": 3
+      },
+      {
+        "email": "sboughey@forthepeople.com",
+        "count": 2
+      }
+    ],
+    "recipients": [
+      {
+        "email": "femamax@gmail.com",
+        "count": 55
+      },
+      {
+        "email": "max.meindl@fema.dhs.gov",
+        "count": 29
+      },
+      {
+        "email": "missmeindl@gmail.com",
+        "count": 9
+      },
+      {
+        "email": "babajide.obasa@fema.dhs.gov",
+        "count": 6
+      },
+      {
+        "email": "jacqueline.gause@fema.dhs.gov",
+        "count": 6
+      },
+      {
+        "email": "mcvijanovic@osc.gov",
+        "count": 5
+      },
+      {
+        "email": "jose.vega@eeoc.gov",
+        "count": 3
+      },
+      {
+        "email": "brian.slie@fema.dhs.gov",
+        "count": 3
+      },
+      {
+        "email": "angela.agaiby@fema.dhs.gov",
+        "count": 3
+      },
+      {
+        "email": "jamie.mcallister@fema.dhs.gov",
+        "count": 3
+      }
+    ]
+  },
+  "important_threads": [
+    {
+      "subject": "ra",
+      "email_count": 23,
+      "participants": [
+        "femamax@gmail.com",
+        "max.meindl@fema.dhs.gov"
+      ],
+      "date_range": {
+        "start": "2018-12-14",
+        "end": "2025-03-01"
+      },
+      "categories": [
+        "FMLA_Communications",
+        "RA_Communications",
+        "Email_Communications",
+        "RA_Documents"
+      ]
+    },
+    {
+      "subject": "fmla",
+      "email_count": 14,
+      "participants": [
+        "femamax@gmail.com",
+        "max.meindl@fema.dhs.gov",
+        "babajide.obasa@fema.dhs.gov"
+      ],
+      "date_range": {
+        "start": "2019-04-23",
+        "end": "2025-03-02"
+      },
+      "categories": [
+        "FMLA_Communications"
+      ]
+    },
+    {
+      "subject": "osc case no. ma-20-1288",
+      "email_count": 10,
+      "participants": [
+        "femamax@gmail.com",
+        "mcvijanovic@osc.gov"
+      ],
+      "date_range": {
+        "start": "2020-04-01",
+        "end": "2020-04-14"
+      },
+      "categories": [
+        "OSC_Communications",
+        "FMLA_Communications"
+      ]
+    },
+    {
+      "subject": "update",
+      "email_count": 9,
+      "participants": [
+        "dennis.alexander@fema.dhs.gov"
+      ],
+      "date_range": {
+        "start": "2019-03-29",
+        "end": "2019-03-29"
+      },
+      "categories": [
+        "Email_Communications"
+      ]
+    },
+    {
+      "subject": "consideration",
+      "email_count": 6,
+      "participants": [
+        "max.meindl@fema.dhs.gov"
+      ],
+      "date_range": {
+        "start": "2020-03-25",
+        "end": "2020-03-25"
+      },
+      "categories": [
+        "Email_Communications"
+      ]
+    },
+    {
+      "subject": "case #460.2016.01937",
+      "email_count": 3,
+      "participants": [
+        "femamax@gmail.com"
+      ],
+      "date_range": {
+        "start": "2017-02-27",
+        "end": "2017-02-27"
+      },
+      "categories": [
+        "EEO_Communications"
+      ]
+    },
+    {
+      "subject": "automatic reply: timesheet fmla",
+      "email_count": 3,
+      "participants": [
+        "babajide.obasa@fema.dhs.gov"
+      ],
+      "date_range": {
+        "start": "2019-04-26",
+        "end": "2019-04-26"
+      },
+      "categories": [
+        "FMLA_Communications"
+      ]
+    },
+    {
+      "subject": "fmla determination",
+      "email_count": 3,
+      "participants": [
+        "jacqueline.gause@fema.dhs.gov"
+      ],
+      "date_range": {
+        "start": "2019-05-02",
+        "end": "2019-05-02"
+      },
+      "categories": [
+        "FMLA_Communications"
+      ]
+    },
+    {
+      "subject": "timesheet fmla",
+      "email_count": 3,
+      "participants": [
+        "max.meindl@fema.dhs.gov"
+      ],
+      "date_range": {
+        "start": "2019-04-23",
+        "end": "2019-04-23"
+      },
+      "categories": [
+        "FMLA_Communications"
+      ]
+    },
+    {
+      "subject": "webta fmla",
+      "email_count": 3,
+      "participants": [
+        "max.meindl@fema.dhs.gov"
+      ],
+      "date_range": {
+        "start": "2020-03-03",
+        "end": "2020-03-03"
+      },
+      "categories": [
+        "FMLA_Communications"
+      ]
+    }
+  ],
+  "timeline_distribution": {
+    "2017-02": 3,
+    "2018-07": 1,
+    "2018-12": 1,
+    "2019-02": 2,
+    "2019-03": 9,
+    "2019-04": 9,
+    "2019-05": 3,
+    "2019-10": 4,
+    "2019-11": 1,
+    "2020-02": 3,
+    "2020-03": 18,
+    "2020-04": 11,
+    "2020-06": 5,
+    "2020-09": 1,
+    "2020-10": 2,
+    "2021-01": 1,
+    "2021-10": 6,
+    "2021-11": 5,
+    "2022-05": 2,
+    "2024-08": 3,
+    "2024-12": 4,
+    "2025-01": 4,
+    "2025-02": 6,
+    "2025-03": 2
+  },
+  "key_findings": [
+    {
+      "subject": "FW: ",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2020-06-08",
+      "key_phrases": [
+        "der@fema.dhs.gov>; brent@guerradays.com; FEMA-EqualRights <FEMA",
+        "cess, as an individual with a disability and when factoring in the ver"
+      ],
+      "has_attachments": true
+    },
+    {
+      "subject": "FW: ",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2020-06-08",
+      "key_phrases": [
+        "der@fema.dhs.gov>; brent@guerradays.com; FEMA-EqualRights <FEMA",
+        "cess, as an individual with a disability and when factoring in the ver"
+      ],
+      "has_attachments": true
+    },
+    {
+      "subject": "FW: ",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2020-06-08",
+      "key_phrases": [
+        "der@fema.dhs.gov>; brent@guerradays.com; FEMA-EqualRights <FEMA",
+        "cess, as an individual with a disability and when factoring in the ver"
+      ],
+      "has_attachments": true
+    },
+    {
+      "subject": "FW: ",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2020-06-08",
+      "key_phrases": [
+        "der@fema.dhs.gov>; brent@guerradays.com; FEMA-EqualRights <FEMA",
+        "cess, as an individual with a disability and when factoring in the ver"
+      ],
+      "has_attachments": true
+    },
+    {
+      "subject": "FW: ",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2020-06-08",
+      "key_phrases": [
+        "der@fema.dhs.gov>; brent@guerradays.com; FEMA-EqualRights <FEMA",
+        "cess, as an individual with a disability and when factoring in the ver"
+      ],
+      "has_attachments": true
+    },
+    {
+      "subject": "Chief of Staff comms",
+      "from": "femamax@gmail.com",
+      "date": "2020-03-24",
+      "key_phrases": [
+        "d. Employees who need FMLA or Reasonable Accommodations will be\nsupported without ex",
+        "der@fema.dhs.gov>; brent@guerradays.com; FEMA-EqualRights\n<FEMA"
+      ],
+      "has_attachments": true
+    },
+    {
+      "subject": "RA",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2018-12-14",
+      "key_phrases": [],
+      "has_attachments": true
+    },
+    {
+      "subject": "FW: Consideration",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2020-03-25",
+      "key_phrases": [
+        "formed decision\nregarding the Reasonable Accommodations aspect of this matter.\n\nIf y",
+        "leave at the moment for your FMLA related\nreasons. Put your lea"
+      ],
+      "has_attachments": false
+    },
+    {
+      "subject": "FW: Consideration",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2020-03-25",
+      "key_phrases": [
+        "formed decision\nregarding the Reasonable Accommodations aspect of this matter.\n\nIf y",
+        "leave at the moment for your FMLA related\nreasons. Put your lea"
+      ],
+      "has_attachments": false
+    },
+    {
+      "subject": "FW: Consideration",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2020-03-25",
+      "key_phrases": [
+        "formed decision\nregarding the Reasonable Accommodations aspect of this matter.\n\nIf y",
+        "leave at the moment for your FMLA related\nreasons. Put your lea"
+      ],
+      "has_attachments": false
+    },
+    {
+      "subject": "FW: Consideration",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2020-03-25",
+      "key_phrases": [
+        "formed decision\nregarding the Reasonable Accommodations aspect of this matter.\n\nIf y",
+        "leave at the moment for your FMLA related\nreasons. Put your lea"
+      ],
+      "has_attachments": false
+    },
+    {
+      "subject": "FW: Consideration",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2020-03-25",
+      "key_phrases": [
+        "formed decision\nregarding the Reasonable Accommodations aspect of this matter.\n\nIf y",
+        "leave at the moment for your FMLA related\nreasons. Put your lea"
+      ],
+      "has_attachments": false
+    },
+    {
+      "subject": "FW: Consideration",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2020-03-25",
+      "key_phrases": [
+        "formed decision\nregarding the Reasonable Accommodations aspect of this matter.\n\nIf y",
+        "leave at the moment for your FMLA related\nreasons. Put your lea"
+      ],
+      "has_attachments": false
+    },
+    {
+      "subject": "telework",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2018-07-11",
+      "key_phrases": [],
+      "has_attachments": true
+    },
+    {
+      "subject": "FMLA",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2019-10-28",
+      "key_phrases": [],
+      "has_attachments": true
+    },
+    {
+      "subject": "fmla",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2020-03-02",
+      "key_phrases": [
+        "fema.dhs.gov&gt;\nSubject: RE: Reasonable Accommodation (RA) request\n\nMr. Meindl,\n\nI",
+        "femamax@gmail.com; rick@guerradays.com\r\nSubject: RE: FMLA\r\n\r\nJ"
+      ],
+      "has_attachments": true
+    },
+    {
+      "subject": "FMLA",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2019-10-28",
+      "key_phrases": [],
+      "has_attachments": true
+    },
+    {
+      "subject": "FMLA",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2019-10-28",
+      "key_phrases": [],
+      "has_attachments": true
+    },
+    {
+      "subject": "FMLA",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2019-10-28",
+      "key_phrases": [],
+      "has_attachments": true
+    },
+    {
+      "subject": "Fwd: FMLA",
+      "from": "max.meindl@fema.dhs.gov",
+      "date": "2020-02-27",
+      "key_phrases": [
+        "femamax@gmail.com; rick@guerradays.com\nSubject: RE: FMLA\n\n\n\nJa",
+        "mamax@gmail.com>\nSubject: FW: FMLA\n\n\n\n\n\n\n_______________________"
+      ],
+      "has_attachments": true
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+ParaDocs/
+└── docs/
+    ├── index.md   ← or index.html
+    └── assets/
+        └── css/
+            └── custom.css
+
+
+body {
+  background-color: #848482;
+  color: #ffffff;
+}

@@ -1,0 +1,279 @@
+{
+  "summary": {
+    "scan_date": "2025-05-25 14:10:49",
+    "total_documents_scanned": 450,
+    "critical_documents_found": 139,
+    "document_types": {
+      ".pdf": 261,
+      ".docx": 31,
+      ".eml": 106,
+      ".xlsx": 42,
+      ".csv": 3,
+      ".doc": 1,
+      ".md": 3,
+      ".png": 1,
+      ".jpg": 1,
+      "": 1
+    }
+  },
+  "critical_findings": [
+    {
+      "category": "ADR_Documents",
+      "document_count": 3,
+      "key_documents": [
+        "3 - cadre of on-call response_recovery employee (core) program_fm252-11-1-merged.pdf",
+        "3 - Cadre of On-Call Response_Recovery Employee (CORE) Program_FM252-11-1.pdf",
+        "Effectiveness of ADR Report_508.pdf"
+      ],
+      "common_issues": [
+        "retaliation",
+        "termination",
+        "complaint",
+        "discrimination"
+      ]
+    },
+    {
+      "category": "Date_Stamped",
+      "document_count": 14,
+      "key_documents": [
+        "2017-dhs-affirmative-action-plan.pdf",
+        "2020-03-25__Max_ _femamax@gmail.com__MEINDL_173.pdf",
+        "2020-03-25__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ Consideration_238.pdf",
+        "2020-03-25__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ Consideration_239.pdf",
+        "2020-03-25__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ Consideration_240.pdf"
+      ],
+      "common_issues": [
+        "complaint",
+        "discrimination",
+        "violation",
+        "denied",
+        "retaliation"
+      ]
+    },
+    {
+      "category": "EEOC_Complaints",
+      "document_count": 25,
+      "key_documents": [
+        "2020-03-24__femamax@gmail.com_ _femamax@gmail.com__FW_ MEINDL FORMAL EEOC COMPLAINT-E-SIGNED.pdf",
+        "2024-12-23__Max_ _femamax@gmail.com__EEO_31.pdf",
+        "2024-12-23__Max_ _femamax@gmail.com__EEO_32.pdf",
+        "2024-12-23__Meindl, Max_ _max.meindl@fema.dhs.gov__Fw_ EEO Complaint Form_95.pdf",
+        "2025-01-06__Brent Smith_ _brent@bwsmithlaw.com__Re_ EEO_28.pdf"
+      ],
+      "common_issues": [
+        "discrimination",
+        "termination",
+        "violation",
+        "45 days",
+        "denied"
+      ]
+    },
+    {
+      "category": "Email_Communications",
+      "document_count": 2,
+      "key_documents": [
+        "EMAIL DOCUMENTATION.pdf",
+        "EMAILS-3.pdf"
+      ],
+      "common_issues": [
+        "complaint"
+      ]
+    },
+    {
+      "category": "Financial_Documents",
+      "document_count": 1,
+      "key_documents": [
+        "pslf application for forgiveness-1.pdf"
+      ],
+      "common_issues": [
+        "violation",
+        "termination",
+        "complaint"
+      ]
+    },
+    {
+      "category": "FMLA_Documents",
+      "document_count": 12,
+      "key_documents": [
+        "2019-05-02__Gause, Jacqueline_ _jacqueline.gause@fema.dhs.gov__FMLA Determination _45.pdf",
+        "2019-05-02__Gause, Jacqueline_ _jacqueline.gause@fema.dhs.gov__FMLA Determination _46.pdf",
+        "2019-06-26__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA Determination _106.pdf",
+        "2019-10-28__Meindl, Max_ _max.meindl@fema.dhs.gov__FW_ FMLA Determination _102.pdf",
+        "according to the fmla regulation 825.docx"
+      ],
+      "common_issues": [
+        "complaint",
+        "discrimination",
+        "violation",
+        "denied",
+        "retaliation"
+      ]
+    },
+    {
+      "category": "FOIA_Documents",
+      "document_count": 1,
+      "key_documents": [
+        "Summary of FEMA\u2019s Violations with Focus on FOIA Deficiencies.docx"
+      ],
+      "common_issues": [
+        "complaint",
+        "discrimination",
+        "violation",
+        "denied",
+        "retaliation"
+      ]
+    },
+    {
+      "category": "Forms_and_Tables",
+      "document_count": 3,
+      "key_documents": [
+        "meindl-fema informal intake form-09-03-24-1.pdf",
+        "MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info.pdf",
+        "MEINDL-FEMA Informal Intake Form-09-03-24.pdf"
+      ],
+      "common_issues": [
+        "complaint",
+        "violation",
+        "denied",
+        "reprisal",
+        "termination"
+      ]
+    },
+    {
+      "category": "Legal_Documents",
+      "document_count": 13,
+      "key_documents": [
+        "affidavit of complainant-r4.docx",
+        "Individual interrogatories.docx",
+        "meindl-affidavit of complainant-02-13-2025-r2.docx",
+        "meindl-affidavit of complainant-02-14-2025-r1.docx",
+        "meindl-affidavit of complainant-02-14-2025-r1.pdf"
+      ],
+      "common_issues": [
+        "complaint",
+        "discrimination",
+        "violation",
+        "denied",
+        "retaliation"
+      ]
+    },
+    {
+      "category": "Letters_Correspondence",
+      "document_count": 1,
+      "key_documents": [
+        "GROK FIRST LETTER ATTEMPT.pdf"
+      ],
+      "common_issues": [
+        "complaint",
+        "discrimination",
+        "violation",
+        "denied",
+        "retaliation"
+      ]
+    },
+    {
+      "category": "Medical_Records",
+      "document_count": 1,
+      "key_documents": [
+        "electronic code of federal regulations-part 825\u2014the family and medical leave act of 1993.pdf"
+      ],
+      "common_issues": [
+        "violation",
+        "complaint",
+        "discrimination"
+      ]
+    },
+    {
+      "category": "Miscellaneous",
+      "document_count": 37,
+      "key_documents": [
+        "123-9-0-1.pdf",
+        "1430_1.pdf",
+        "3000_3.pdf",
+        "806726.pdf",
+        "Binder2.pdf"
+      ],
+      "common_issues": [
+        "hostile work environment",
+        "1340 days",
+        "36 days",
+        "complaint",
+        "discrimination"
+      ]
+    },
+    {
+      "category": "OSC_Documents",
+      "document_count": 9,
+      "key_documents": [
+        "2020-04-01__Max_ _femamax@gmail.com__Re_ OSC Case No. MA-20-1288.pdf",
+        "2020-04-01__Max_ _femamax@gmail.com__Re_ OSC Case No. MA-20-1288_186.pdf",
+        "2020-04-01__Max_ _femamax@gmail.com__Re_ OSC Case No. MA-20-1288_187.pdf",
+        "2020-04-01__Max_ _femamax@gmail.com__Re_ OSC Case No. MA-20-1288_188.pdf",
+        "2020-04-14__Cvijanovic, Marko_ _MCvijanovic@osc.gov__OSC Case No. MA-20-1288_189.pdf"
+      ],
+      "common_issues": [
+        "complaint",
+        "discrimination",
+        "violation",
+        "reprisal",
+        "retaliation"
+      ]
+    },
+    {
+      "category": "Policy_Documents",
+      "document_count": 7,
+      "key_documents": [
+        "fair treatment and respect policy 2014.pdf",
+        "fd_123_14_hiring_people_with_disabilities.pdf",
+        "fema-directive-123-0-2-1.pdf",
+        "fema_manual_1430_1_reasonable_accommodations.pdf",
+        "fema_ocr_reasonable-accomodation-policy_032025.pdf"
+      ],
+      "common_issues": [
+        "hostile work environment",
+        "complaint",
+        "discrimination",
+        "violation",
+        "45 days"
+      ]
+    },
+    {
+      "category": "RA_Documents",
+      "document_count": 7,
+      "key_documents": [
+        "256-0-2 MANAGEMENT RESPONSE to REQ for RA Max s.pdf",
+        "256-0-2 MANAGEMENT RESPONSE to REQ for RA Meindl-first.pdf",
+        "fact sheet - ra - employees guide to fema ra process.pdf",
+        "final agency denial letter _meindl max (rar0046767)- final-2.pdf",
+        "Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL.pdf"
+      ],
+      "common_issues": [
+        "discrimination",
+        "termination",
+        "45 days",
+        "denied",
+        "adverse action"
+      ]
+    },
+    {
+      "category": "Telework_Documents",
+      "document_count": 3,
+      "key_documents": [
+        "guide-to-telework-in-the-federal-government.pdf",
+        "OPM telework agency2a-guide.pdf",
+        "TELEWORK REQUEST FOR 07242018-PLUS 4 HOURS SICK DAY.pdf"
+      ],
+      "common_issues": [
+        "denied",
+        "180 days",
+        "termination",
+        "adverse action"
+      ]
+    }
+  ],
+  "recommendations": [
+    "Multiple discrimination references found - compile discrimination evidence",
+    "Retaliation pattern detected - create retaliation timeline",
+    "Multiple denials found - document all accommodation denials"
+  ]
+}

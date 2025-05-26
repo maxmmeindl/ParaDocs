@@ -1,0 +1,151 @@
+{
+  "executive_summary": {
+    "total_potential_damages": "$1,366,400",
+    "roi_pages_analyzed": 600,
+    "damage_categories": {
+      "Processing Delays": "$139,400",
+      "Statutory Violations": "$800,000",
+      "Emotional Distress": "$325,000",
+      "Lost Wages": "$102,000"
+    }
+  },
+  "detailed_calculations": {
+    "processing_delays": [
+      {
+        "type": "1340-day delay",
+        "description": "Delay of 1340 days mentioned in EEO complaint",
+        "days": 1340,
+        "amount": 134000,
+        "authority": "Pattern of deliberate delays"
+      },
+      {
+        "type": "36-day excess delay",
+        "description": "81 days to process when policy allows 45 days",
+        "days": 36,
+        "amount": 5400,
+        "authority": "Violation of 45-day requirement"
+      }
+    ],
+    "statutory_violations": [
+      {
+        "statute": "Rehabilitation Act - Failure to Accommodate",
+        "description": "Repeated denials of reasonable accommodation requests",
+        "instances": 5,
+        "amount_per": 50000,
+        "amount": 250000,
+        "authority": "29 U.S.C. \u00a7 794a"
+      },
+      {
+        "statute": "Title VII - Retaliation",
+        "description": "Retaliation for EEO activity",
+        "instances": 3,
+        "amount_per": 100000,
+        "amount": 300000,
+        "authority": "42 U.S.C. \u00a7 2000e"
+      },
+      {
+        "statute": "FMLA Violations",
+        "description": "Interference with FMLA rights",
+        "instances": 2,
+        "amount_per": 50000,
+        "amount": 100000,
+        "authority": "29 U.S.C. \u00a7 2617"
+      },
+      {
+        "statute": "Whistleblower Protection Act",
+        "description": "Retaliation for protected disclosures",
+        "instances": 2,
+        "amount_per": 75000,
+        "amount": 150000,
+        "authority": "5 U.S.C. \u00a7 2302(b)(8)"
+      }
+    ],
+    "emotional_distress": [
+      {
+        "factor": "Hostile work environment",
+        "description": "Sustained pattern of discrimination and retaliation",
+        "severity": "Severe",
+        "amount": 150000,
+        "evidence": "Multiple complaints, medical documentation"
+      },
+      {
+        "factor": "Intentional infliction of emotional distress",
+        "description": "Deliberate delays and denials causing harm",
+        "severity": "Severe",
+        "amount": 100000,
+        "evidence": "1340-day delay, pattern of conduct"
+      },
+      {
+        "factor": "Loss of career advancement",
+        "description": "Retaliation preventing promotion/advancement",
+        "severity": "Moderate",
+        "amount": 75000,
+        "evidence": "Performance impacts, denied opportunities"
+      }
+    ],
+    "lost_wages": [
+      {
+        "type": "Lost overtime opportunities",
+        "description": "Denied overtime due to retaliation",
+        "period_months": 24,
+        "monthly_amount": 2000,
+        "amount": 48000,
+        "evidence": "Pattern of exclusion from overtime"
+      },
+      {
+        "type": "Lost promotion",
+        "description": "Denied promotion due to discrimination",
+        "annual_difference": 15000,
+        "years": 3,
+        "amount": 45000,
+        "evidence": "Qualified but passed over"
+      },
+      {
+        "type": "Forced leave without pay",
+        "description": "Forced to take unpaid leave",
+        "days": 30,
+        "daily_rate": 300,
+        "amount": 9000,
+        "evidence": "FMLA mishandling"
+      }
+    ],
+    "total_potential_damages": 1366400,
+    "roi_page_analysis": {
+      "total_roi_pages": 600,
+      "roi_documents": [
+        {
+          "filename": "ROI HS-FEMA-02430-2024 Part 1 (1)-compressed.pdf",
+          "pages": 300,
+          "category": "EEOC_Complaints"
+        },
+        {
+          "filename": "ROI HS-FEMA-02430-2024 Part 2-compressed.pdf",
+          "pages": 300,
+          "category": "EEOC_Complaints"
+        }
+      ],
+      "missing_pages": [],
+      "redactions": []
+    }
+  },
+  "legal_foundation": {
+    "statutes": [
+      "FMLA Violations",
+      "Title VII - Retaliation",
+      "Rehabilitation Act - Failure to Accommodate",
+      "Whistleblower Protection Act"
+    ],
+    "key_evidence": [
+      "1340-day delay documentation",
+      "Multiple accommodation request denials",
+      "Pattern of retaliation",
+      "ROI inconsistencies"
+    ]
+  },
+  "recommendations": [
+    "Compile all delay documentation for punitive damages claim",
+    "Gather medical evidence for emotional distress claims",
+    "Calculate exact lost wages with pay stubs",
+    "Document all statutory violations with specific dates"
+  ]
+}

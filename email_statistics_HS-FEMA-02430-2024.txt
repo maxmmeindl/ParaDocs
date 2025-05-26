@@ -1,0 +1,19 @@
+EMAIL ANALYSIS SUMMARY
+Case: HS-FEMA-02430-2024
+==================================================
+
+Total Emails Indexed: 8
+Unanswered Emails: 3
+Critical Delays (>30 days): 2
+
+Email Categories:
+  - Accommodation Requests: 2
+  - Follow Ups: 2
+  - Denials: 1
+  - Eeo Communications: 1
+  - Retaliation: 2
+
+Response Time Analysis:
+  - Longest delay: 1340 days
+  - Average delay: 459.0 days
+  - Delays over 30 days: 2

@@ -1,0 +1,1003 @@
+{
+  "documents": [
+    {
+      "id": "001",
+      "filename": "Form 462 Complaints Table List.docx",
+      "path": "Form 462 Complaints Table List.docx",
+      "size": 21484,
+      "modified": "2022-03-14T22:26:42.601051",
+      "type": "docx",
+      "keywords": [
+        "form",
+        "462",
+        "complaints"
+      ],
+      "category": "forms"
+    },
+    {
+      "id": "002",
+      "filename": "FY 2024 462 Instruction Manual 2024Sep16_508FINAL.pdf",
+      "path": "FY 2024 462 Instruction Manual 2024Sep16_508FINAL.pdf",
+      "size": 4412977,
+      "modified": "2025-05-24T21:27:31.264634",
+      "type": "pdf",
+      "keywords": [],
+      "category": "manuals"
+    },
+    {
+      "id": "003",
+      "filename": "md-110.pdf",
+      "path": "md-110.pdf",
+      "size": 1706234,
+      "modified": "2025-05-24T17:23:26.406229",
+      "type": "pdf",
+      "keywords": [],
+      "category": "manuals"
+    },
+    {
+      "id": "004",
+      "filename": "Subject-CHANGE OF VENUE REQUEST.docx",
+      "path": "Subject-CHANGE OF VENUE REQUEST.docx",
+      "size": 16216,
+      "modified": "2025-05-24T10:14:46.064840",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "005",
+      "filename": "Table B-1   FY 2021   Total Work Force, Counselings, and Complaints.xlsx",
+      "path": "Table B-1   FY 2021   Total Work Force, Counselings, and Complaints.xlsx",
+      "size": 15807,
+      "modified": "2022-03-14T22:37:32",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "counseling",
+        "workforce"
+      ],
+      "table": "B-1",
+      "year": "2021",
+      "description": "Total Work Force, Counselings, and Complaints",
+      "category": "workforce"
+    },
+    {
+      "id": "006",
+      "filename": "Table B-10   FY 2021   Total Number and Average Processing Days for All Complaint Closures.xlsx",
+      "path": "Table B-10   FY 2021   Total Number and Average Processing Days for All Complaint Closures.xlsx",
+      "size": 20034,
+      "modified": "2022-03-14T22:25:12",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "processing",
+        "closure"
+      ],
+      "table": "B-10",
+      "year": "2021",
+      "description": "Total Number and Average Processing Days for All Complaint Closures",
+      "category": "timeliness"
+    },
+    {
+      "id": "007",
+      "filename": "Table B-11   FY 2021   Types of Complaint Closures.xlsx",
+      "path": "Table B-11   FY 2021   Types of Complaint Closures.xlsx",
+      "size": 18716,
+      "modified": "2022-03-14T22:28:38",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "closure"
+      ],
+      "table": "B-11",
+      "year": "2021",
+      "description": "Types of Complaint Closures",
+      "category": "closures"
+    },
+    {
+      "id": "008",
+      "filename": "Table B-11a   FY 2021  Types of Complaint Closures - Sub-Component Data.xlsx",
+      "path": "Table B-11a   FY 2021  Types of Complaint Closures - Sub-Component Data.xlsx",
+      "size": 28122,
+      "modified": "2022-03-14T22:26:56",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "closure"
+      ],
+      "table": "B-11a",
+      "year": "2021",
+      "description": "Types of Complaint Closures - Sub-Component Data",
+      "category": "closures"
+    },
+    {
+      "id": "009",
+      "filename": "Table B-12   FY 2021   Average Processing Days (APD) All Complaint Closures.xlsx",
+      "path": "Table B-12   FY 2021   Average Processing Days (APD) All Complaint Closures.xlsx",
+      "size": 16488,
+      "modified": "2022-03-14T22:29:48",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "processing",
+        "closure"
+      ],
+      "table": "B-12",
+      "year": "2021",
+      "description": "Average Processing Days (APD) All Complaint Closures",
+      "category": "timeliness"
+    },
+    {
+      "id": "010",
+      "filename": "Table B-13   FY 2021   Complaints Closed with Dismissals.xlsx",
+      "path": "Table B-13   FY 2021   Complaints Closed with Dismissals.xlsx",
+      "size": 15944,
+      "modified": "2022-03-14T22:30:22",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "dismissal",
+        "closure"
+      ],
+      "table": "B-13",
+      "year": "2021",
+      "description": "Complaints Closed with Dismissals",
+      "category": "closures"
+    },
+    {
+      "id": "011",
+      "filename": "Table B-14   FY 2021   Timeliness of Merit Final Agency Decisions (FAD) (No AJ Decision).xlsx",
+      "path": "Table B-14   FY 2021   Timeliness of Merit Final Agency Decisions (FAD) (No AJ Decision).xlsx",
+      "size": 16070,
+      "modified": "2022-03-14T22:31:50",
+      "type": "xlsx",
+      "keywords": [
+        "timely",
+        "agency"
+      ],
+      "table": "B-14",
+      "year": "2021",
+      "description": "Timeliness of Merit Final Agency Decisions (FAD) (No AJ Decision)",
+      "category": "timeliness"
+    },
+    {
+      "id": "012",
+      "filename": "Table B-14a   FY 2021   Timeliness of Merit Final Agency Decisions (FAD) (No AJ Decision) - Sub-Component Data.xlsx",
+      "path": "Table B-14a   FY 2021   Timeliness of Merit Final Agency Decisions (FAD) (No AJ Decision) - Sub-Component Data.xlsx",
+      "size": 27807,
+      "modified": "2022-03-14T22:31:10",
+      "type": "xlsx",
+      "keywords": [
+        "timely",
+        "agency"
+      ],
+      "table": "B-14a",
+      "year": "2021",
+      "description": "Timeliness of Merit Final Agency Decisions (FAD) (No AJ Decision) - Sub-Component Data",
+      "category": "timeliness"
+    },
+    {
+      "id": "013",
+      "filename": "Table B-15   FY 2021   Complaints Closed with Findings of Discrimination.xlsx",
+      "path": "Table B-15   FY 2021   Complaints Closed with Findings of Discrimination.xlsx",
+      "size": 16507,
+      "modified": "2022-03-14T22:32:32",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "discrimination",
+        "closure"
+      ],
+      "table": "B-15",
+      "year": "2021",
+      "description": "Complaints Closed with Findings of Discrimination",
+      "category": "closures"
+    },
+    {
+      "id": "014",
+      "filename": "Table B-16   FY 2021   Complaints Closed with Findings of No Discrimination.xlsx",
+      "path": "Table B-16   FY 2021   Complaints Closed with Findings of No Discrimination.xlsx",
+      "size": 16770,
+      "modified": "2022-03-14T22:33:28",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "discrimination",
+        "closure"
+      ],
+      "table": "B-16",
+      "year": "2021",
+      "description": "Complaints Closed with Findings of No Discrimination",
+      "category": "closures"
+    },
+    {
+      "id": "015",
+      "filename": "Table B-17   FY 2021   Average Processing Days (APD) Final Agency Decisions (FADs) and Final Orders (FOs) Fully Implementing (FI) AJ Decisions.xlsx",
+      "path": "Table B-17   FY 2021   Average Processing Days (APD) Final Agency Decisions (FADs) and Final Orders (FOs) Fully Implementing (FI) AJ Decisions.xlsx",
+      "size": 17391,
+      "modified": "2022-03-14T22:34:30",
+      "type": "xlsx",
+      "keywords": [
+        "processing",
+        "agency"
+      ],
+      "table": "B-17",
+      "year": "2021",
+      "description": "Average Processing Days (APD) Final Agency Decisions (FADs) and Final Orders (FOs) Fully Implementing (FI) AJ Decisions",
+      "category": "timeliness"
+    },
+    {
+      "id": "016",
+      "filename": "Table B-18   FY 2021   Average Processing Days (APD) Final Orders (FOs) Not Fully Implementing (NFI) AJ Decisions.xlsx",
+      "path": "Table B-18   FY 2021   Average Processing Days (APD) Final Orders (FOs) Not Fully Implementing (NFI) AJ Decisions.xlsx",
+      "size": 13681,
+      "modified": "2022-03-14T22:35:34",
+      "type": "xlsx",
+      "keywords": [
+        "processing"
+      ],
+      "table": "B-18",
+      "year": "2021",
+      "description": "Average Processing Days (APD) Final Orders (FOs) Not Fully Implementing (NFI) AJ Decisions",
+      "category": "timeliness"
+    },
+    {
+      "id": "017",
+      "filename": "Table B-19   FY 2021   Total Complaint Closures AcceptedParticipated in ADR.xlsx",
+      "path": "Table B-19   FY 2021   Total Complaint Closures AcceptedParticipated in ADR.xlsx",
+      "size": 13581,
+      "modified": "2022-03-14T22:36:08",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "adr",
+        "closure"
+      ],
+      "table": "B-19",
+      "year": "2021",
+      "description": "Total Complaint Closures AcceptedParticipated in ADR",
+      "category": "adr"
+    },
+    {
+      "id": "018",
+      "filename": "Table B-1a   FY 2021   Total Work Force, Counselings, and Complaints - Sub-Component Data.xlsx",
+      "path": "Table B-1a   FY 2021   Total Work Force, Counselings, and Complaints - Sub-Component Data.xlsx",
+      "size": 23625,
+      "modified": "2022-03-14T22:37:06",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "counseling",
+        "workforce"
+      ],
+      "table": "B-1a",
+      "year": "2021",
+      "description": "Total Work Force, Counselings, and Complaints - Sub-Component Data",
+      "category": "workforce"
+    },
+    {
+      "id": "019",
+      "filename": "Table B-2   FY 2021   All Timely Completed Counselings.xlsx",
+      "path": "Table B-2   FY 2021   All Timely Completed Counselings.xlsx",
+      "size": 16104,
+      "modified": "2022-03-14T22:46:24",
+      "type": "xlsx",
+      "keywords": [
+        "counseling",
+        "timely"
+      ],
+      "table": "B-2",
+      "year": "2021",
+      "description": "All Timely Completed Counselings",
+      "category": "counseling"
+    },
+    {
+      "id": "020",
+      "filename": "Table B-20   FY 2021   ADR Complaint Resolutions (Formal Phase).xlsx",
+      "path": "Table B-20   FY 2021   ADR Complaint Resolutions (Formal Phase).xlsx",
+      "size": 13486,
+      "modified": "2022-03-14T22:38:08",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "adr"
+      ],
+      "table": "B-20",
+      "year": "2021",
+      "description": "ADR Complaint Resolutions (Formal Phase)",
+      "category": "adr"
+    },
+    {
+      "id": "021",
+      "filename": "Table B-21   FY 2021   Complaint Closures with Benefits.xlsx",
+      "path": "Table B-21   FY 2021   Complaint Closures with Benefits.xlsx",
+      "size": 18208,
+      "modified": "2022-03-14T22:38:52",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "closure",
+        "benefits"
+      ],
+      "table": "B-21",
+      "year": "2021",
+      "description": "Complaint Closures with Benefits",
+      "category": "benefits"
+    },
+    {
+      "id": "022",
+      "filename": "Table B-22   FY 2021   Complaint Closures By Statute.xlsx",
+      "path": "Table B-22   FY 2021   Complaint Closures By Statute.xlsx",
+      "size": 15371,
+      "modified": "2022-03-14T22:39:38",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "closure"
+      ],
+      "table": "B-22",
+      "year": "2021",
+      "description": "Complaint Closures By Statute",
+      "category": "complaints"
+    },
+    {
+      "id": "023",
+      "filename": "Table B-23   FY 2021   Summary of Pending Complaints By Category.xlsx",
+      "path": "Table B-23   FY 2021   Summary of Pending Complaints By Category.xlsx",
+      "size": 19903,
+      "modified": "2022-03-14T22:40:10",
+      "type": "xlsx",
+      "keywords": [
+        "complaint"
+      ],
+      "table": "B-23",
+      "year": "2021",
+      "description": "Summary of Pending Complaints By Category",
+      "category": "complaints"
+    },
+    {
+      "id": "024",
+      "filename": "Table B-24   FY 2021   Agency Staff Resources.xlsx",
+      "path": "Table B-24   FY 2021   Agency Staff Resources.xlsx",
+      "size": 23210,
+      "modified": "2022-03-14T22:42:52",
+      "type": "xlsx",
+      "keywords": [
+        "agency",
+        "staff",
+        "resources"
+      ],
+      "table": "B-24",
+      "year": "2021",
+      "description": "Agency Staff Resources",
+      "category": "benefits"
+    },
+    {
+      "id": "025",
+      "filename": "Table B-24a   FY 2021   Contract Staff Resources.xlsx",
+      "path": "Table B-24a   FY 2021   Contract Staff Resources.xlsx",
+      "size": 23013,
+      "modified": "2022-03-14T22:41:22",
+      "type": "xlsx",
+      "keywords": [
+        "staff",
+        "resources"
+      ],
+      "table": "B-24a",
+      "year": "2021",
+      "description": "Contract Staff Resources",
+      "category": "benefits"
+    },
+    {
+      "id": "026",
+      "filename": "Table B-25   FY 2021   Agency New Staff Training.xlsx",
+      "path": "Table B-25   FY 2021   Agency New Staff Training.xlsx",
+      "size": 16504,
+      "modified": "2022-03-14T22:43:38",
+      "type": "xlsx",
+      "keywords": [
+        "training",
+        "agency",
+        "staff"
+      ],
+      "table": "B-25",
+      "year": "2021",
+      "description": "Agency New Staff Training",
+      "category": "training"
+    },
+    {
+      "id": "027",
+      "filename": "Table B-26   FY 2021  Agency Experienced Staff Training.xlsx",
+      "path": "Table B-26   FY 2021  Agency Experienced Staff Training.xlsx",
+      "size": 17037,
+      "modified": "2022-03-14T22:44:16",
+      "type": "xlsx",
+      "keywords": [
+        "training",
+        "agency",
+        "staff"
+      ],
+      "table": "B-26",
+      "year": "2021",
+      "description": "Agency Experienced Staff Training",
+      "category": "training"
+    },
+    {
+      "id": "028",
+      "filename": "Table B-27   FY 2021   Contractor New Staff Training.xlsx",
+      "path": "Table B-27   FY 2021   Contractor New Staff Training.xlsx",
+      "size": 16256,
+      "modified": "2022-03-14T22:44:46",
+      "type": "xlsx",
+      "keywords": [
+        "training",
+        "staff"
+      ],
+      "table": "B-27",
+      "year": "2021",
+      "description": "Contractor New Staff Training",
+      "category": "training"
+    },
+    {
+      "id": "029",
+      "filename": "Table B-28   FY 2021   Contractor Experienced Staff Training.xlsx",
+      "path": "Table B-28   FY 2021   Contractor Experienced Staff Training.xlsx",
+      "size": 17210,
+      "modified": "2022-03-14T22:45:20",
+      "type": "xlsx",
+      "keywords": [
+        "training",
+        "staff"
+      ],
+      "table": "B-28",
+      "year": "2021",
+      "description": "Contractor Experienced Staff Training",
+      "category": "training"
+    },
+    {
+      "id": "030",
+      "filename": "Table B-2a   FY 2021   All Timely Completed Counselings - Sub-Component Data.xlsx",
+      "path": "Table B-2a   FY 2021   All Timely Completed Counselings - Sub-Component Data.xlsx",
+      "size": 21025,
+      "modified": "2022-03-14T22:45:44",
+      "type": "xlsx",
+      "keywords": [
+        "counseling",
+        "timely"
+      ],
+      "table": "B-2a",
+      "year": "2021",
+      "description": "All Timely Completed Counselings - Sub-Component Data",
+      "category": "counseling"
+    },
+    {
+      "id": "031",
+      "filename": "Table B-3   FY 2021   Outcomes of All Pre-Complaint Closures.xlsx",
+      "path": "Table B-3   FY 2021   Outcomes of All Pre-Complaint Closures.xlsx",
+      "size": 22935,
+      "modified": "2022-03-14T23:15:10",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "closure"
+      ],
+      "table": "B-3",
+      "year": "2021",
+      "description": "Outcomes of All Pre-Complaint Closures",
+      "category": "counseling"
+    },
+    {
+      "id": "032",
+      "filename": "Table B-3a   FY 2021   Outcomes of All Pre-Complaint Closures - Sub-Component Data.xlsx",
+      "path": "Table B-3a   FY 2021   Outcomes of All Pre-Complaint Closures - Sub-Component Data.xlsx",
+      "size": 28165,
+      "modified": "2022-03-14T22:47:10",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "closure"
+      ],
+      "table": "B-3a",
+      "year": "2021",
+      "description": "Outcomes of All Pre-Complaint Closures - Sub-Component Data",
+      "category": "counseling"
+    },
+    {
+      "id": "033",
+      "filename": "Table B-4   FY 2021   Pre-Complaint ADR Offers, Rejections, and Acceptances.xlsx",
+      "path": "Table B-4   FY 2021   Pre-Complaint ADR Offers, Rejections, and Acceptances.xlsx",
+      "size": 15977,
+      "modified": "2022-03-14T22:48:40",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "adr"
+      ],
+      "table": "B-4",
+      "year": "2021",
+      "description": "Pre-Complaint ADR Offers, Rejections, and Acceptances",
+      "category": "adr"
+    },
+    {
+      "id": "034",
+      "filename": "Table B-5   FY 2021   ADR Pre-Complaint Resolutions (Informal Phase).xlsx",
+      "path": "Table B-5   FY 2021   ADR Pre-Complaint Resolutions (Informal Phase).xlsx",
+      "size": 14643,
+      "modified": "2022-03-14T22:49:38",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "adr"
+      ],
+      "table": "B-5",
+      "year": "2021",
+      "description": "ADR Pre-Complaint Resolutions (Informal Phase)",
+      "category": "adr"
+    },
+    {
+      "id": "035",
+      "filename": "Table B-6   FY 2021   Benefits Provided in All Pre-Complaint Settlements.xlsx",
+      "path": "Table B-6   FY 2021   Benefits Provided in All Pre-Complaint Settlements.xlsx",
+      "size": 16029,
+      "modified": "2022-03-14T22:50:12",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "benefits"
+      ],
+      "table": "B-6",
+      "year": "2021",
+      "description": "Benefits Provided in All Pre-Complaint Settlements",
+      "category": "benefits"
+    },
+    {
+      "id": "036",
+      "filename": "Table B-7   FY 2021   Profile Agency Timeliness Indicators (totals with and without USPS data).xlsx",
+      "path": "Table B-7   FY 2021   Profile Agency Timeliness Indicators (totals with and without USPS data).xlsx",
+      "size": 23010,
+      "modified": "2022-03-14T22:52:58",
+      "type": "xlsx",
+      "keywords": [
+        "timely",
+        "agency"
+      ],
+      "table": "B-7",
+      "year": "2021",
+      "description": "Profile Agency Timeliness Indicators (totals with and without USPS data)",
+      "category": "timeliness"
+    },
+    {
+      "id": "037",
+      "filename": "Table B-7a   FY 2021   Profile Agency Timeliness Indicators (totals with and without USPS data).xlsx",
+      "path": "Table B-7a   FY 2021   Profile Agency Timeliness Indicators (totals with and without USPS data).xlsx",
+      "size": 47903,
+      "modified": "2022-03-14T22:51:32",
+      "type": "xlsx",
+      "keywords": [
+        "timely",
+        "agency"
+      ],
+      "table": "B-7a",
+      "year": "2021",
+      "description": "Profile Agency Timeliness Indicators (totals with and without USPS data)",
+      "category": "timeliness"
+    },
+    {
+      "id": "038",
+      "filename": "Table B-8   FY 2021   Complaints Filed Basis and Issues  - Grand Total.xlsx",
+      "path": "Table B-8   FY 2021   Complaints Filed Basis and Issues  - Grand Total.xlsx",
+      "size": 19760,
+      "modified": "2022-03-14T22:56:02",
+      "type": "xlsx",
+      "keywords": [
+        "complaint"
+      ],
+      "table": "B-8",
+      "year": "2021",
+      "description": "Complaints Filed Basis and Issues  - Grand Total",
+      "category": "complaints"
+    },
+    {
+      "id": "039",
+      "filename": "Table B-8a   FY 2021   Complaints Filed Basis and Issues  - Cabinet Level Agencies.xlsx",
+      "path": "Table B-8a   FY 2021   Complaints Filed Basis and Issues  - Cabinet Level Agencies.xlsx",
+      "size": 14706,
+      "modified": "2022-03-14T22:54:20",
+      "type": "xlsx",
+      "keywords": [
+        "complaint"
+      ],
+      "table": "B-8a",
+      "year": "2021",
+      "description": "Complaints Filed Basis and Issues  - Cabinet Level Agencies",
+      "category": "other"
+    },
+    {
+      "id": "040",
+      "filename": "Table B-8b   FY 2021   Complaints Filed Basis and Issues  - Medium Sized Agencies.xlsx",
+      "path": "Table B-8b   FY 2021   Complaints Filed Basis and Issues  - Medium Sized Agencies.xlsx",
+      "size": 12678,
+      "modified": "2022-03-14T22:54:50",
+      "type": "xlsx",
+      "keywords": [
+        "complaint"
+      ],
+      "table": "B-8b",
+      "year": "2021",
+      "description": "Complaints Filed Basis and Issues  - Medium Sized Agencies",
+      "category": "other"
+    },
+    {
+      "id": "041",
+      "filename": "Table B-8c   FY 2021   Complaints Filed Basis and Issues  - Small Agencies.xlsx",
+      "path": "Table B-8c   FY 2021   Complaints Filed Basis and Issues  - Small Agencies.xlsx",
+      "size": 11823,
+      "modified": "2022-03-14T22:55:24",
+      "type": "xlsx",
+      "keywords": [
+        "complaint"
+      ],
+      "table": "B-8c",
+      "year": "2021",
+      "description": "Complaints Filed Basis and Issues  - Small Agencies",
+      "category": "other"
+    },
+    {
+      "id": "042",
+      "filename": "Table B-9   FY 2021   Timeliness and Cost of All Completed Complaint Investigations.xlsx",
+      "path": "Table B-9   FY 2021   Timeliness and Cost of All Completed Complaint Investigations.xlsx",
+      "size": 18114,
+      "modified": "2022-03-14T23:00:00",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "timely"
+      ],
+      "table": "B-9",
+      "year": "2021",
+      "description": "Timeliness and Cost of All Completed Complaint Investigations",
+      "category": "complaints"
+    },
+    {
+      "id": "043",
+      "filename": "Table B-9a   FY 2021   Timeliness and Cost of Complaint Investigations Completed by Agency Investigators.xlsx",
+      "path": "Table B-9a   FY 2021   Timeliness and Cost of Complaint Investigations Completed by Agency Investigators.xlsx",
+      "size": 16228,
+      "modified": "2022-03-14T22:56:40",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "timely",
+        "agency"
+      ],
+      "table": "B-9a",
+      "year": "2021",
+      "description": "Timeliness and Cost of Complaint Investigations Completed by Agency Investigators",
+      "category": "other"
+    },
+    {
+      "id": "044",
+      "filename": "Table B-9b   FY 2021   Timeliness and Cost of Complaint Investigations Completed by Contract Investigators.xlsx",
+      "path": "Table B-9b   FY 2021   Timeliness and Cost of Complaint Investigations Completed by Contract Investigators.xlsx",
+      "size": 17526,
+      "modified": "2022-03-14T22:57:20",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "timely"
+      ],
+      "table": "B-9b",
+      "year": "2021",
+      "description": "Timeliness and Cost of Complaint Investigations Completed by Contract Investigators",
+      "category": "other"
+    },
+    {
+      "id": "045",
+      "filename": "Table B-9c   FY 2021   Timeliness and Cost of All Completed Complaint Investigations.xlsx",
+      "path": "Table B-9c   FY 2021   Timeliness and Cost of All Completed Complaint Investigations.xlsx",
+      "size": 28458,
+      "modified": "2022-03-14T22:58:52",
+      "type": "xlsx",
+      "keywords": [
+        "complaint",
+        "timely"
+      ],
+      "table": "B-9c",
+      "year": "2021",
+      "description": "Timeliness and Cost of All Completed Complaint Investigations",
+      "category": "other"
+    },
+    {
+      "id": "046",
+      "filename": "eeoc%20complaint%20signed-rev1-min-bookmarked_compressed.pdf",
+      "path": "paradocs-agent\\downloaded\\eeoc%20complaint%20signed-rev1-min-bookmarked_compressed.pdf",
+      "size": 4596986,
+      "modified": "2025-05-25T02:15:05.775959",
+      "type": "pdf",
+      "keywords": [
+        "complaint"
+      ],
+      "category": "manuals"
+    },
+    {
+      "id": "047",
+      "filename": "Election%20Letter%20-%20HS-FEMA-02430-2024.pdf",
+      "path": "paradocs-agent\\downloaded\\Election%20Letter%20-%20HS-FEMA-02430-2024.pdf",
+      "size": 415367,
+      "modified": "2025-05-25T02:14:33.752889",
+      "type": "pdf",
+      "keywords": [],
+      "category": "manuals"
+    },
+    {
+      "id": "048",
+      "filename": "Form%20462%20Complaints%20Table%20List.docx",
+      "path": "paradocs-agent\\downloaded\\Form%20462%20Complaints%20Table%20List.docx",
+      "size": 21484,
+      "modified": "2025-05-25T02:14:38.740098",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "049",
+      "filename": "FY%202024%20462%20Instruction%20Manual%202024Sep16_508FINAL.pdf",
+      "path": "paradocs-agent\\downloaded\\FY%202024%20462%20Instruction%20Manual%202024Sep16_508FINAL.pdf",
+      "size": 4412977,
+      "modified": "2025-05-25T02:14:34.637056",
+      "type": "pdf",
+      "keywords": [],
+      "category": "manuals"
+    },
+    {
+      "id": "050",
+      "filename": "LOA%20HS-FEMA-02430-2024.pdf",
+      "path": "paradocs-agent\\downloaded\\LOA%20HS-FEMA-02430-2024.pdf",
+      "size": 207168,
+      "modified": "2025-05-25T02:14:38.956037",
+      "type": "pdf",
+      "keywords": [],
+      "category": "manuals"
+    },
+    {
+      "id": "051",
+      "filename": "Rebuttal%20to%20Affidavits%20of%20Witnesses.pdf",
+      "path": "paradocs-agent\\downloaded\\Rebuttal%20to%20Affidavits%20of%20Witnesses.pdf",
+      "size": 4373197,
+      "modified": "2025-05-25T02:14:55.207966",
+      "type": "pdf",
+      "keywords": [],
+      "category": "manuals"
+    },
+    {
+      "id": "052",
+      "filename": "ROI%20HS-FEMA-02430-2024%20Part%201%20(1)-compressed.pdf",
+      "path": "paradocs-agent\\downloaded\\ROI%20HS-FEMA-02430-2024%20Part%201%20(1)-compressed.pdf",
+      "size": 12872120,
+      "modified": "2025-05-25T02:14:41.049832",
+      "type": "pdf",
+      "keywords": [],
+      "category": "manuals"
+    },
+    {
+      "id": "053",
+      "filename": "ROI%20HS-FEMA-02430-2024%20Part%202-compressed.pdf",
+      "path": "paradocs-agent\\downloaded\\ROI%20HS-FEMA-02430-2024%20Part%202-compressed.pdf",
+      "size": 2365103,
+      "modified": "2025-05-25T02:14:47.268584",
+      "type": "pdf",
+      "keywords": [],
+      "category": "manuals"
+    },
+    {
+      "id": "054",
+      "filename": "Subject-CHANGE%20OF%20VENUE%20REQUEST.docx",
+      "path": "paradocs-agent\\downloaded\\Subject-CHANGE%20OF%20VENUE%20REQUEST.docx",
+      "size": 16216,
+      "modified": "2025-05-25T02:15:05.029868",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "055",
+      "filename": "01-valid.pdf",
+      "path": "paradocs-agent\\node_modules\\pdf-parse\\test\\data\\01-valid.pdf",
+      "size": 1016315,
+      "modified": "2025-05-25T00:33:57.105786",
+      "type": "pdf",
+      "keywords": [],
+      "category": "manuals"
+    },
+    {
+      "id": "056",
+      "filename": "02-valid.pdf",
+      "path": "paradocs-agent\\node_modules\\pdf-parse\\test\\data\\02-valid.pdf",
+      "size": 3549424,
+      "modified": "2025-05-25T00:33:57.163788",
+      "type": "pdf",
+      "keywords": [],
+      "category": "manuals"
+    },
+    {
+      "id": "057",
+      "filename": "03-invalid.pdf",
+      "path": "paradocs-agent\\node_modules\\pdf-parse\\test\\data\\03-invalid.pdf",
+      "size": 17109,
+      "modified": "2025-05-25T00:33:57.165786",
+      "type": "pdf",
+      "keywords": [],
+      "category": "manuals"
+    },
+    {
+      "id": "058",
+      "filename": "04-valid.pdf",
+      "path": "paradocs-agent\\node_modules\\pdf-parse\\test\\data\\04-valid.pdf",
+      "size": 80953,
+      "modified": "2025-05-25T00:33:57.170788",
+      "type": "pdf",
+      "keywords": [],
+      "category": "manuals"
+    },
+    {
+      "id": "059",
+      "filename": "05-versions-space.pdf",
+      "path": "paradocs-agent\\node_modules\\pdf-parse\\test\\data\\05-versions-space.pdf",
+      "size": 186557,
+      "modified": "2025-05-25T00:33:57.177785",
+      "type": "pdf",
+      "keywords": [],
+      "category": "manuals"
+    },
+    {
+      "id": "060",
+      "filename": "comments.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\comments.docx",
+      "size": 15526,
+      "modified": "2025-05-25T00:33:52.539705",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "061",
+      "filename": "embedded-style-map.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\embedded-style-map.docx",
+      "size": 49709,
+      "modified": "2025-05-25T00:33:52.651838",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "062",
+      "filename": "empty.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\empty.docx",
+      "size": 3306,
+      "modified": "2025-05-25T00:33:52.685265",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "063",
+      "filename": "endnotes.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\endnotes.docx",
+      "size": 4431,
+      "modified": "2025-05-25T00:33:52.724264",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "064",
+      "filename": "external-picture.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\external-picture.docx",
+      "size": 4120,
+      "modified": "2025-05-25T00:33:52.761842",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "065",
+      "filename": "footnote-hyperlink.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\footnote-hyperlink.docx",
+      "size": 16271,
+      "modified": "2025-05-25T00:33:52.852031",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "066",
+      "filename": "footnotes.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\footnotes.docx",
+      "size": 15936,
+      "modified": "2025-05-25T00:33:52.905041",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "067",
+      "filename": "simple-list.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\simple-list.docx",
+      "size": 13887,
+      "modified": "2025-05-25T00:33:52.936040",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "068",
+      "filename": "single-paragraph.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\single-paragraph.docx",
+      "size": 12773,
+      "modified": "2025-05-25T00:33:52.973274",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "069",
+      "filename": "strict-format.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\strict-format.docx",
+      "size": 11692,
+      "modified": "2025-05-25T00:33:52.992716",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "070",
+      "filename": "strikethrough.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\strikethrough.docx",
+      "size": 12652,
+      "modified": "2025-05-25T00:33:53.023974",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "071",
+      "filename": "tables.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\tables.docx",
+      "size": 13087,
+      "modified": "2025-05-25T00:33:53.048931",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "072",
+      "filename": "text-box.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\text-box.docx",
+      "size": 15850,
+      "modified": "2025-05-25T00:33:53.072116",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "073",
+      "filename": "tiny-picture-target-base-relative.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\tiny-picture-target-base-relative.docx",
+      "size": 10881,
+      "modified": "2025-05-25T00:33:53.088117",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "074",
+      "filename": "tiny-picture.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\tiny-picture.docx",
+      "size": 13699,
+      "modified": "2025-05-25T00:33:53.118415",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "075",
+      "filename": "underline.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\underline.docx",
+      "size": 12797,
+      "modified": "2025-05-25T00:33:53.140415",
+      "type": "docx",
+      "keywords": []
+    },
+    {
+      "id": "076",
+      "filename": "utf8-bom.docx",
+      "path": "paradocs-agent\\node_modules\\mammoth\\test\\test-data\\utf8-bom.docx",
+      "size": 2836,
+      "modified": "2025-05-25T00:33:53.154415",
+      "type": "docx",
+      "keywords": []
+    }
+  ]
+}

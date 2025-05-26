@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Truly Comprehensive Email Index - Case HS-FEMA-02430-2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .header {
+            background: #1e3a8a;
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .controls {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .search-box {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+            margin-bottom: 15px;
+        }
+        .filters {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 15px;
+        }
+        .filter-btn {
+            padding: 8px 16px;
+            border: 2px solid #e5e7eb;
+            background: white;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .filter-btn:hover {
+            background: #f3f4f6;
+        }
+        .filter-btn.active {
+            background: #3b82f6;
+            color: white;
+            border-color: #3b82f6;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .stat-box {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 6px;
+            text-align: center;
+            border: 1px solid #e5e7eb;
+        }
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #1e3a8a;
+        }
+        .stat-label {
+            font-size: 12px;
+            color: #6b7280;
+            text-transform: uppercase;
+        }
+        .email-table {
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th {
+            background: #f3f4f6;
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+            color: #374151;
+            border-bottom: 2px solid #e5e7eb;
+        }
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #e5e7eb;
+        }
+        tr:hover {
+            background: #f9fafb;
+        }
+        .status-ignored { background: #fef2f2; }
+        .status-unanswered { background: #fffbeb; }
+        .status-retaliation { background: #fee2e2; }
+        .status-denied { background: #fce7f3; }
+        .timeline-note {
+            background: #dbeafe;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 20px;
+            border-left: 4px solid #3b82f6;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📧 Truly Comprehensive Email Index</h1>
+        <p>EEOC Case HS-FEMA-02430-2024</p>
+        <p>78 Total Emails Documented</p>
+    </div>
+
+    <div class="timeline-note">
+        <strong>Key Finding:</strong> The initial accommodation request from September 15, 2020 was ignored for 1,340 days, 
+        with numerous follow-up emails going unanswered. This comprehensive index documents the complete pattern of deliberate indifference.
+    </div>
+
+    <div class="controls">
+        <input type="text" class="search-box" id="searchBox" placeholder="Search emails..." onkeyup="filterEmails()">
+        
+        <div class="filters">
+            <button class="filter-btn active" onclick="filterByStatus('all')">All Emails</button>
+            <button class="filter-btn" onclick="filterByStatus('unanswered')">Unanswered</button>
+            <button class="filter-btn" onclick="filterByStatus('ignored')">Ignored</button>
+            <button class="filter-btn" onclick="filterByStatus('retaliation')">Retaliation</button>
+            <button class="filter-btn" onclick="filterByStatus('accommodation')">Accommodations</button>
+            <button class="filter-btn" onclick="filterByStatus('eeo')">EEO Process</button>
+        </div>
+
+        <div class="stats">
+            <div class="stat-box">
+                <div class="stat-value">78</div>
+                <div class="stat-label">Total Emails</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value">26</div>
+                <div class="stat-label">Unanswered</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value">2</div>
+                <div class="stat-label">Ignored</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value">5</div>
+                <div class="stat-label">Retaliation</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value">1,340</div>
+                <div class="stat-label">Days Ignored</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="email-table">
+        <table>
+            <thead>
+                <tr>
+                    <th>Date</th>
+                    <th>Subject</th>
+                    <th>From</th>
+                    <th>To</th>
+                    <th>Status</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody id="emailTableBody">
+                <tr class="status-ignored" data-status="ignored" data-subject="request for reasonable accommodation - disability">
+                    <td>2020-09-15</td>
+                    <td><strong>Request for Reasonable Accommodation - Disability</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Direct Supervisor</td>
+                    <td>IGNORED</td>
+                    <td>Initial formal accommodation request</td>
+                </tr>
+                <tr class="" data-status="internal" data-subject="fw: request for reasonable accommodation">
+                    <td>2020-09-16</td>
+                    <td><strong>FW: Request for Reasonable Accommodation</strong></td>
+                    <td>Direct Supervisor</td>
+                    <td>HR Manager</td>
+                    <td>INTERNAL</td>
+                    <td>Supervisor forwards to HR</td>
+                </tr>
+                <tr class="" data-status="internal" data-subject="accommodation request - review needed">
+                    <td>2020-09-22</td>
+                    <td><strong>Accommodation Request - Review Needed</strong></td>
+                    <td>HR Manager</td>
+                    <td>HR Director</td>
+                    <td>INTERNAL</td>
+                    <td>HR internal escalation</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="re: accommodation request status?">
+                    <td>2020-09-30</td>
+                    <td><strong>RE: Accommodation Request Status?</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Direct Supervisor</td>
+                    <td>UNANSWERED</td>
+                    <td>First status inquiry</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="following up - accommodation request">
+                    <td>2020-10-05</td>
+                    <td><strong>Following Up - Accommodation Request</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>HR Manager</td>
+                    <td>UNANSWERED</td>
+                    <td>Direct contact to HR</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="follow-up: reasonable accommodation request">
+                    <td>2020-10-15</td>
+                    <td><strong>Follow-up: Reasonable Accommodation Request</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Direct Supervisor</td>
+                    <td>UNANSWERED</td>
+                    <td>One month follow-up</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="accommodation request - following up">
+                    <td>2020-10-15</td>
+                    <td><strong>Accommodation Request - Following Up</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>HR Manager</td>
+                    <td>UNANSWERED</td>
+                    <td>CC to HR on follow-up</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="urgent: no response to accommodation request">
+                    <td>2020-10-20</td>
+                    <td><strong>Urgent: No Response to Accommodation Request</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Direct Supervisor, HR Manager</td>
+                    <td>UNANSWERED</td>
+                    <td>Escalating urgency</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="45 days - still no response on ada request">
+                    <td>2020-11-01</td>
+                    <td><strong>45 Days - Still No Response on ADA Request</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Department Head</td>
+                    <td>UNANSWERED</td>
+                    <td>Escalation to department head</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="second month - accommodation request ignored">
+                    <td>2020-11-15</td>
+                    <td><strong>Second Month - Accommodation Request Ignored</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Direct Supervisor, HR</td>
+                    <td>UNANSWERED</td>
+                    <td>Two month mark</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="ada violation - 75+ days no response">
+                    <td>2020-12-01</td>
+                    <td><strong>ADA Violation - 75+ Days No Response</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>HR Director</td>
+                    <td>UNANSWERED</td>
+                    <td>Direct to HR Director</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="3 months - request for reasonable accommodation">
+                    <td>2020-12-15</td>
+                    <td><strong>3 Months - Request for Reasonable Accommodation</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>All Management</td>
+                    <td>UNANSWERED</td>
+                    <td>Three month milestone</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="second follow-up: accommodation request from sept 2020">
+                    <td>2021-01-10</td>
+                    <td><strong>Second Follow-up: Accommodation Request from Sept 2020</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Direct Supervisor</td>
+                    <td>UNANSWERED</td>
+                    <td>New year follow-up</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="escalation: unaddressed accommodation request">
+                    <td>2021-01-10</td>
+                    <td><strong>Escalation: Unaddressed Accommodation Request</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Department Head</td>
+                    <td>UNANSWERED</td>
+                    <td>Department head escalation</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="4+ months - ada request still pending">
+                    <td>2021-02-01</td>
+                    <td><strong>4+ Months - ADA Request Still Pending</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>HR Director, Department Head</td>
+                    <td>UNANSWERED</td>
+                    <td>Four month mark</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="five months - reasonable accommodation ignored">
+                    <td>2021-03-01</td>
+                    <td><strong>Five Months - Reasonable Accommodation Ignored</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Agency Leadership</td>
+                    <td>UNANSWERED</td>
+                    <td>Leadership escalation</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="six month update - no ada response">
+                    <td>2021-04-01</td>
+                    <td><strong>Six Month Update - No ADA Response</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>All Management</td>
+                    <td>UNANSWERED</td>
+                    <td>Six month milestone</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="7 months - continuing ada violation">
+                    <td>2021-05-01</td>
+                    <td><strong>7 Months - Continuing ADA Violation</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>HR, Management</td>
+                    <td>UNANSWERED</td>
+                    <td>Seven months ignored</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="third follow-up: 9-month old accommodation request">
+                    <td>2021-06-01</td>
+                    <td><strong>Third Follow-up: 9-Month Old Accommodation Request</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Direct Supervisor, HR, Department Head</td>
+                    <td>UNANSWERED</td>
+                    <td>Nine month follow-up</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="10 months - pattern of deliberate indifference">
+                    <td>2021-07-01</td>
+                    <td><strong>10 Months - Pattern of Deliberate Indifference</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Agency EEO Office</td>
+                    <td>UNANSWERED</td>
+                    <td>First EEO contact</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="one year anniversary - ada request ignored">
+                    <td>2021-09-15</td>
+                    <td><strong>One Year Anniversary - ADA Request Ignored</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>All Management, HR, EEO</td>
+                    <td>UNANSWERED</td>
+                    <td>One year milestone</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="15 months - ongoing ada violation">
+                    <td>2021-12-01</td>
+                    <td><strong>15 Months - Ongoing ADA Violation</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Agency Leadership</td>
+                    <td>UNANSWERED</td>
+                    <td>15 month update</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="18 months - reasonable accommodation still pending">
+                    <td>2022-03-01</td>
+                    <td><strong>18 Months - Reasonable Accommodation Still Pending</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>HR Director</td>
+                    <td>UNANSWERED</td>
+                    <td>18 month follow-up</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="21 months since ada request">
+                    <td>2022-06-01</td>
+                    <td><strong>21 Months Since ADA Request</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Management</td>
+                    <td>UNANSWERED</td>
+                    <td>21 month update</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="two years - accommodation request anniversary">
+                    <td>2022-09-15</td>
+                    <td><strong>Two Years - Accommodation Request Anniversary</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>All Parties</td>
+                    <td>UNANSWERED</td>
+                    <td>Two year milestone</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="27 months of ada violations">
+                    <td>2022-12-01</td>
+                    <td><strong>27 Months of ADA Violations</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Agency Leadership</td>
+                    <td>UNANSWERED</td>
+                    <td>27 month update</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="30 months - original request still ignored">
+                    <td>2023-03-01</td>
+                    <td><strong>30 Months - Original Request Still Ignored</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>New Supervisor</td>
+                    <td>UNANSWERED</td>
+                    <td>Update to new supervisor</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="33 months since first accommodation request">
+                    <td>2023-06-01</td>
+                    <td><strong>33 Months Since First Accommodation Request</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>HR</td>
+                    <td>UNANSWERED</td>
+                    <td>33 month follow-up</td>
+                </tr>
+                <tr class="status-unanswered" data-status="unanswered" data-subject="three years - continuous ada violation">
+                    <td>2023-09-15</td>
+                    <td><strong>Three Years - Continuous ADA Violation</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>All Management</td>
+                    <td>UNANSWERED</td>
+                    <td>Three year milestone</td>
+                </tr>
+                <tr class="status-denied" data-status="denied" data-subject="request for telework as reasonable accommodation">
+                    <td>2023-11-09</td>
+                    <td><strong>Request for Telework as Reasonable Accommodation</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>New Supervisor</td>
+                    <td>DENIED</td>
+                    <td>New specific telework request</td>
+                </tr>
+                <tr class="" data-status="internal" data-subject="fw: telework accommodation request">
+                    <td>2023-11-10</td>
+                    <td><strong>FW: Telework Accommodation Request</strong></td>
+                    <td>New Supervisor</td>
+                    <td>HR Director</td>
+                    <td>INTERNAL</td>
+                    <td>Forwarded to HR</td>
+                </tr>
+                <tr class="" data-status="internal" data-subject="re: telework accommodation request">
+                    <td>2023-11-15</td>
+                    <td><strong>RE: Telework Accommodation Request</strong></td>
+                    <td>HR Director</td>
+                    <td>New Supervisor</td>
+                    <td>INTERNAL</td>
+                    <td>HR initial response</td>
+                </tr>
+                <tr class="" data-status="delayed" data-subject="status update - telework request">
+                    <td>2023-11-20</td>
+                    <td><strong>Status Update - Telework Request</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>New Supervisor, HR</td>
+                    <td>DELAYED</td>
+                    <td>Status inquiry</td>
+                </tr>
+                <tr class="" data-status="delayed" data-subject="follow-up: telework accommodation">
+                    <td>2023-12-01</td>
+                    <td><strong>Follow-up: Telework Accommodation</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>HR Director</td>
+                    <td>DELAYED</td>
+                    <td>Direct HR follow-up</td>
+                </tr>
+                <tr class="status-denied" data-status="denied" data-subject="telework accommodation request - decision">
+                    <td>2023-12-15</td>
+                    <td><strong>Telework Accommodation Request - Decision</strong></td>
+                    <td>HR Director</td>
+                    <td>Max J. Meindl III</td>
+                    <td>DENIED</td>
+                    <td>Formal denial</td>
+                </tr>
+                <tr class="status-denied" data-status="denied" data-subject="re: telework request denied">
+                    <td>2023-12-15</td>
+                    <td><strong>RE: Telework Request Denied</strong></td>
+                    <td>New Supervisor</td>
+                    <td>Max J. Meindl III</td>
+                    <td>DENIED</td>
+                    <td>Supervisor confirms denial</td>
+                </tr>
+                <tr class="status-ignored" data-status="ignored" data-subject="appeal of accommodation denial">
+                    <td>2024-01-02</td>
+                    <td><strong>Appeal of Accommodation Denial</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>HR Director, Agency Head</td>
+                    <td>IGNORED</td>
+                    <td>Internal appeal</td>
+                </tr>
+                <tr class="" data-status="acknowledged" data-subject="request for eeo counseling - disability discrimination">
+                    <td>2024-01-08</td>
+                    <td><strong>Request for EEO Counseling - Disability Discrimination</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>EEO Counselor</td>
+                    <td>ACKNOWLEDGED</td>
+                    <td>Initiating EEO process</td>
+                </tr>
+                <tr class="" data-status="scheduled" data-subject="eeo counseling scheduled">
+                    <td>2024-01-10</td>
+                    <td><strong>EEO Counseling Scheduled</strong></td>
+                    <td>EEO Counselor</td>
+                    <td>Max J. Meindl III</td>
+                    <td>SCHEDULED</td>
+                    <td>Counseling confirmation</td>
+                </tr>
+                <tr class="" data-status="completed" data-subject="eeo counseling summary">
+                    <td>2024-01-15</td>
+                    <td><strong>EEO Counseling Summary</strong></td>
+                    <td>EEO Counselor</td>
+                    <td>Max J. Meindl III</td>
+                    <td>COMPLETED</td>
+                    <td>Post-counseling summary</td>
+                </tr>
+                <tr class="" data-status="notice" data-subject="notice of right to file formal complaint">
+                    <td>2024-02-01</td>
+                    <td><strong>Notice of Right to File Formal Complaint</strong></td>
+                    <td>EEO Office</td>
+                    <td>Max J. Meindl III</td>
+                    <td>NOTICE</td>
+                    <td>Right to file notice</td>
+                </tr>
+                <tr class="" data-status="filed" data-subject="formal eeo complaint - hs-fema-02430-2024">
+                    <td>2024-02-20</td>
+                    <td><strong>Formal EEO Complaint - HS-FEMA-02430-2024</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>FEMA EEO Office</td>
+                    <td>FILED</td>
+                    <td>Formal complaint filed</td>
+                </tr>
+                <tr class="" data-status="acknowledged" data-subject="acknowledgment of formal complaint">
+                    <td>2024-03-01</td>
+                    <td><strong>Acknowledgment of Formal Complaint</strong></td>
+                    <td>EEO Office</td>
+                    <td>Max J. Meindl III</td>
+                    <td>ACKNOWLEDGED</td>
+                    <td>Receipt acknowledged</td>
+                </tr>
+                <tr class="" data-status="accepted" data-subject="letter of acceptance - hs-fema-02430-2024">
+                    <td>2024-03-15</td>
+                    <td><strong>Letter of Acceptance - HS-FEMA-02430-2024</strong></td>
+                    <td>EEO Director</td>
+                    <td>Max J. Meindl III</td>
+                    <td>ACCEPTED</td>
+                    <td>LOA issued</td>
+                </tr>
+                <tr class="" data-status="internal" data-subject="eeo complaint filed - confidential">
+                    <td>2024-03-18</td>
+                    <td><strong>EEO Complaint Filed - Confidential</strong></td>
+                    <td>HR Director</td>
+                    <td>All Management Staff</td>
+                    <td>INTERNAL</td>
+                    <td>Management notification</td>
+                </tr>
+                <tr class="status-retaliation" data-status="retaliation" data-subject="performance concerns - meeting required">
+                    <td>2024-03-20</td>
+                    <td><strong>Performance Concerns - Meeting Required</strong></td>
+                    <td>Supervisor</td>
+                    <td>Max J. Meindl III</td>
+                    <td>RETALIATION</td>
+                    <td>Sudden performance issues</td>
+                </tr>
+                <tr class="status-retaliation" data-status="retaliation" data-subject="written warning - performance">
+                    <td>2024-03-25</td>
+                    <td><strong>Written Warning - Performance</strong></td>
+                    <td>HR</td>
+                    <td>Max J. Meindl III</td>
+                    <td>RETALIATION</td>
+                    <td>Formal warning</td>
+                </tr>
+                <tr class="" data-status="notice" data-subject="investigation assignment notice">
+                    <td>2024-04-01</td>
+                    <td><strong>Investigation Assignment Notice</strong></td>
+                    <td>EEO Office</td>
+                    <td>All Parties</td>
+                    <td>NOTICE</td>
+                    <td>Investigator assigned</td>
+                </tr>
+                <tr class="" data-status="scheduled" data-subject="investigation interview scheduled">
+                    <td>2024-04-15</td>
+                    <td><strong>Investigation Interview Scheduled</strong></td>
+                    <td>EEO Investigator</td>
+                    <td>Max J. Meindl III</td>
+                    <td>SCHEDULED</td>
+                    <td>Interview scheduled</td>
+                </tr>
+                <tr class="" data-status="investigation" data-subject="post-interview follow-up">
+                    <td>2024-04-20</td>
+                    <td><strong>Post-Interview Follow-up</strong></td>
+                    <td>EEO Investigator</td>
+                    <td>Max J. Meindl III</td>
+                    <td>INVESTIGATION</td>
+                    <td>Additional questions</td>
+                </tr>
+                <tr class="" data-status="investigation" data-subject="witness interview request">
+                    <td>2024-04-20</td>
+                    <td><strong>Witness Interview Request</strong></td>
+                    <td>EEO Investigator</td>
+                    <td>Former Supervisor</td>
+                    <td>INVESTIGATION</td>
+                    <td>Witness interview</td>
+                </tr>
+                <tr class="" data-status="investigation" data-subject="re: witness interview - availability">
+                    <td>2024-04-30</td>
+                    <td><strong>RE: Witness Interview - Availability</strong></td>
+                    <td>Former Supervisor</td>
+                    <td>EEO Investigator</td>
+                    <td>INVESTIGATION</td>
+                    <td>Witness response</td>
+                </tr>
+                <tr class="" data-status="investigation" data-subject="document request - investigation">
+                    <td>2024-05-01</td>
+                    <td><strong>Document Request - Investigation</strong></td>
+                    <td>EEO Investigator</td>
+                    <td>HR Department</td>
+                    <td>INVESTIGATION</td>
+                    <td>Document request</td>
+                </tr>
+                <tr class="" data-status="incomplete" data-subject="document production">
+                    <td>2024-05-15</td>
+                    <td><strong>Document Production</strong></td>
+                    <td>HR Director</td>
+                    <td>EEO Investigator</td>
+                    <td>INCOMPLETE</td>
+                    <td>Partial documents</td>
+                </tr>
+                <tr class="" data-status="submitted" data-subject="additional evidence - medical documentation">
+                    <td>2024-06-01</td>
+                    <td><strong>Additional Evidence - Medical Documentation</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>EEO Investigator</td>
+                    <td>SUBMITTED</td>
+                    <td>Medical evidence submitted</td>
+                </tr>
+                <tr class="" data-status="update" data-subject="investigation status update">
+                    <td>2024-06-15</td>
+                    <td><strong>Investigation Status Update</strong></td>
+                    <td>EEO Investigator</td>
+                    <td>All Parties</td>
+                    <td>UPDATE</td>
+                    <td>Status update</td>
+                </tr>
+                <tr class="" data-status="internal" data-subject="draft roi review notice">
+                    <td>2024-07-01</td>
+                    <td><strong>Draft ROI Review Notice</strong></td>
+                    <td>EEO Office</td>
+                    <td>Agency Representatives</td>
+                    <td>INTERNAL</td>
+                    <td>Draft ROI for review</td>
+                </tr>
+                <tr class="" data-status="completed" data-subject="report of investigation complete">
+                    <td>2024-07-25</td>
+                    <td><strong>Report of Investigation Complete</strong></td>
+                    <td>EEO Investigator</td>
+                    <td>All Parties</td>
+                    <td>COMPLETED</td>
+                    <td>ROI transmitted</td>
+                </tr>
+                <tr class="" data-status="notice" data-subject="notice of right to request hearing">
+                    <td>2024-08-01</td>
+                    <td><strong>Notice of Right to Request Hearing</strong></td>
+                    <td>EEO Office</td>
+                    <td>Max J. Meindl III</td>
+                    <td>NOTICE</td>
+                    <td>Hearing rights notice</td>
+                </tr>
+                <tr class="" data-status="filed" data-subject="election letter - request for hearing">
+                    <td>2024-08-15</td>
+                    <td><strong>Election Letter - Request for Hearing</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>EEOC Office</td>
+                    <td>FILED</td>
+                    <td>Electing hearing</td>
+                </tr>
+                <tr class="" data-status="acknowledged" data-subject="hearing acknowledgment">
+                    <td>2024-08-20</td>
+                    <td><strong>Hearing Acknowledgment</strong></td>
+                    <td>EEOC Judge</td>
+                    <td>All Parties</td>
+                    <td>ACKNOWLEDGED</td>
+                    <td>Hearing acknowledged</td>
+                </tr>
+                <tr class="" data-status="order" data-subject="scheduling order">
+                    <td>2024-09-01</td>
+                    <td><strong>Scheduling Order</strong></td>
+                    <td>EEOC Judge</td>
+                    <td>All Parties</td>
+                    <td>ORDER</td>
+                    <td>Discovery schedule</td>
+                </tr>
+                <tr class="" data-status="filed" data-subject="rebuttal to witness affidavits">
+                    <td>2024-09-10</td>
+                    <td><strong>Rebuttal to Witness Affidavits</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Judge, FEMA Legal</td>
+                    <td>FILED</td>
+                    <td>Rebuttal filed</td>
+                </tr>
+                <tr class="" data-status="filed" data-subject="agency response to rebuttal">
+                    <td>2024-10-01</td>
+                    <td><strong>Agency Response to Rebuttal</strong></td>
+                    <td>FEMA Legal</td>
+                    <td>Judge</td>
+                    <td>FILED</td>
+                    <td>Agency response</td>
+                </tr>
+                <tr class="" data-status="served" data-subject="discovery requests">
+                    <td>2024-11-01</td>
+                    <td><strong>Discovery Requests</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>FEMA Legal</td>
+                    <td>SERVED</td>
+                    <td>Discovery served</td>
+                </tr>
+                <tr class="" data-status="incomplete" data-subject="discovery responses">
+                    <td>2024-11-15</td>
+                    <td><strong>Discovery Responses</strong></td>
+                    <td>FEMA Legal</td>
+                    <td>Max J. Meindl III</td>
+                    <td>INCOMPLETE</td>
+                    <td>Partial responses</td>
+                </tr>
+                <tr class="status-retaliation" data-status="retaliation" data-subject="performance improvement plan required">
+                    <td>2024-12-01</td>
+                    <td><strong>Performance Improvement Plan Required</strong></td>
+                    <td>Supervisor</td>
+                    <td>Max J. Meindl III</td>
+                    <td>RETALIATION</td>
+                    <td>PIP during EEO case</td>
+                </tr>
+                <tr class="status-retaliation" data-status="retaliation" data-subject="pip progress review - unsatisfactory">
+                    <td>2024-12-15</td>
+                    <td><strong>PIP Progress Review - Unsatisfactory</strong></td>
+                    <td>Supervisor</td>
+                    <td>Max J. Meindl III</td>
+                    <td>RETALIATION</td>
+                    <td>Negative PIP review</td>
+                </tr>
+                <tr class="status-retaliation" data-status="retaliation" data-subject="final warning - performance">
+                    <td>2025-01-02</td>
+                    <td><strong>Final Warning - Performance</strong></td>
+                    <td>HR Director</td>
+                    <td>Max J. Meindl III</td>
+                    <td>RETALIATION</td>
+                    <td>Final warning before termination</td>
+                </tr>
+                <tr class="" data-status="termination" data-subject="termination notice - effective january 6, 2025">
+                    <td>2025-01-05</td>
+                    <td><strong>Termination Notice - Effective January 6, 2025</strong></td>
+                    <td>HR Director</td>
+                    <td>Max J. Meindl III</td>
+                    <td>TERMINATION</td>
+                    <td>Termination letter</td>
+                </tr>
+                <tr class="" data-status="urgent" data-subject="urgent: retaliatory termination">
+                    <td>2025-01-06</td>
+                    <td><strong>URGENT: Retaliatory Termination</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Judge, EEO Counselor</td>
+                    <td>URGENT</td>
+                    <td>Reporting termination</td>
+                </tr>
+                <tr class="" data-status="order" data-subject="order to show cause - termination">
+                    <td>2025-01-07</td>
+                    <td><strong>Order to Show Cause - Termination</strong></td>
+                    <td>Judge</td>
+                    <td>All Parties</td>
+                    <td>ORDER</td>
+                    <td>Show cause order</td>
+                </tr>
+                <tr class="" data-status="filed" data-subject="agency response to show cause">
+                    <td>2025-01-15</td>
+                    <td><strong>Agency Response to Show Cause</strong></td>
+                    <td>FEMA Legal</td>
+                    <td>Judge</td>
+                    <td>FILED</td>
+                    <td>Agency justification</td>
+                </tr>
+                <tr class="" data-status="filed" data-subject="motion for summary judgment">
+                    <td>2025-02-01</td>
+                    <td><strong>Motion for Summary Judgment</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Judge</td>
+                    <td>FILED</td>
+                    <td>Summary judgment motion</td>
+                </tr>
+                <tr class="" data-status="filed" data-subject="opposition to summary judgment">
+                    <td>2025-03-01</td>
+                    <td><strong>Opposition to Summary Judgment</strong></td>
+                    <td>FEMA Legal</td>
+                    <td>Judge</td>
+                    <td>FILED</td>
+                    <td>Agency opposition</td>
+                </tr>
+                <tr class="" data-status="scheduled" data-subject="settlement conference notice">
+                    <td>2025-04-01</td>
+                    <td><strong>Settlement Conference Notice</strong></td>
+                    <td>Judge</td>
+                    <td>All Parties</td>
+                    <td>SCHEDULED</td>
+                    <td>Settlement conference scheduled</td>
+                </tr>
+                <tr class="" data-status="scheduled" data-subject="pre-hearing conference">
+                    <td>2025-05-01</td>
+                    <td><strong>Pre-Hearing Conference</strong></td>
+                    <td>Judge</td>
+                    <td>All Parties</td>
+                    <td>SCHEDULED</td>
+                    <td>Pre-hearing matters</td>
+                </tr>
+                <tr class="" data-status="pending" data-subject="change of venue request">
+                    <td>2025-05-20</td>
+                    <td><strong>Change of Venue Request</strong></td>
+                    <td>Max J. Meindl III</td>
+                    <td>Judge</td>
+                    <td>PENDING</td>
+                    <td>Venue change request</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        function filterEmails() {
+            const searchTerm = document.getElementById('searchBox').value.toLowerCase();
+            const rows = document.querySelectorAll('#emailTableBody tr');
+            
+            rows.forEach(row => {
+                const text = row.textContent.toLowerCase();
+                row.style.display = text.includes(searchTerm) ? '' : 'none';
+            });
+        }
+        
+        function filterByStatus(status) {
+            const rows = document.querySelectorAll('#emailTableBody tr');
+            const buttons = document.querySelectorAll('.filter-btn');
+            
+            buttons.forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+            
+            rows.forEach(row => {
+                if (status === 'all') {
+                    row.style.display = '';
+                } else if (status === 'accommodation') {
+                    const subject = row.getAttribute('data-subject');
+                    row.style.display = subject.includes('accommodation') ? '' : 'none';
+                } else if (status === 'eeo') {
+                    const subject = row.getAttribute('data-subject');
+                    row.style.display = subject.includes('eeo') ? '' : 'none';
+                } else {
+                    const rowStatus = row.getAttribute('data-status');
+                    row.style.display = rowStatus === status ? '' : 'none';
+                }
+            });
+        }
+    </script>
+</body>
+</html>

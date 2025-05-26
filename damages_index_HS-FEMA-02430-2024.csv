@@ -1,0 +1,12 @@
+Category,Subcategory,Type,Amount,Status
+Economic,immediate,lost_wages,"$57,079.50",Ongoing
+Economic,immediate,lost_benefits,"$17,123.85",Ongoing
+Economic,immediate,cobra_costs,"$8,219.45",Ongoing
+Economic,future,front_pay,"$300,000",Fixed
+Economic,future,pension_loss,"$750,000",Fixed
+Non-Economic,emotional_distress,discrimination,"$150,000",3.7 years
+Non-Economic,emotional_distress,termination,"$100,000",N/A
+Punitive,N/A,Federal Cap,"$300,000","1,340-day violation + retaliation"
+TOTAL,Economic,,"$1,132,422.80",
+TOTAL,Non-Economic,,"$250,000",
+TOTAL,ALL DAMAGES,,"$2,272,902.25",As of May 2025

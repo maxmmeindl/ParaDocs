@@ -1,0 +1,49 @@
+{
+  "exhibit_list": [
+    {
+      "exhibit_number": "P-001",
+      "category": "Accommodation Requests and Denials",
+      "description": "Documents related to accommodation requests and denials"
+    },
+    {
+      "exhibit_number": "P-002",
+      "category": "EEO Complaints and Responses",
+      "description": "Documents related to eeo complaints and responses"
+    },
+    {
+      "exhibit_number": "P-003",
+      "category": "Medical Documentation",
+      "description": "Documents related to medical documentation"
+    },
+    {
+      "exhibit_number": "P-004",
+      "category": "Retaliation Evidence",
+      "description": "Documents related to retaliation evidence"
+    },
+    {
+      "exhibit_number": "P-005",
+      "category": "Email Communications",
+      "description": "Documents related to email communications"
+    },
+    {
+      "exhibit_number": "P-006",
+      "category": "Agency Policies and Procedures",
+      "description": "Documents related to agency policies and procedures"
+    }
+  ],
+  "witness_documents": [
+    "Supervisor Communications",
+    "HR Representative Documents",
+    "Medical Provider Letters",
+    "Coworker Statements"
+  ],
+  "timeline_ready": true,
+  "discovery_categories": [
+    "Accommodation Requests and Denials",
+    "EEO Complaints and Responses",
+    "Medical Documentation",
+    "Retaliation Evidence",
+    "Email Communications",
+    "Agency Policies and Procedures"
+  ]
+}

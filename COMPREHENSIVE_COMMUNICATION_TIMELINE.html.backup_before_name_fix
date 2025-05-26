@@ -1,0 +1,1072 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Comprehensive Communication Timeline - Case HS-FEMA-02430-2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .header {
+            background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 10px;
+            text-align: center;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .controls {
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .search-box {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            border: 2px solid #e5e7eb;
+            border-radius: 6px;
+            margin-bottom: 15px;
+        }
+        .filters {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 15px;
+        }
+        .filter-btn {
+            padding: 8px 16px;
+            border: 2px solid #e5e7eb;
+            background: white;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .filter-btn:hover {
+            background: #f3f4f6;
+        }
+        .filter-btn.active {
+            background: #3b82f6;
+            color: white;
+            border-color: #3b82f6;
+        }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .stat-box {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 6px;
+            text-align: center;
+            border: 1px solid #e5e7eb;
+        }
+        .stat-value {
+            font-size: 28px;
+            font-weight: bold;
+            color: #1e3a8a;
+        }
+        .stat-label {
+            font-size: 12px;
+            color: #6b7280;
+            text-transform: uppercase;
+            margin-top: 5px;
+        }
+        .timeline-container {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .timeline-item {
+            display: flex;
+            align-items: flex-start;
+            padding: 20px;
+            border-left: 4px solid #e5e7eb;
+            margin-left: 20px;
+            position: relative;
+            transition: all 0.3s;
+        }
+        .timeline-item:hover {
+            background: #f9fafb;
+            border-left-color: #3b82f6;
+        }
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -8px;
+            top: 25px;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: #e5e7eb;
+            border: 2px solid white;
+        }
+        .timeline-date {
+            min-width: 100px;
+            font-weight: bold;
+            color: #374151;
+        }
+        .timeline-content {
+            flex: 1;
+            margin-left: 20px;
+        }
+        .comm-type {
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        .type-email { background: #dbeafe; color: #1e40af; }
+        .type-teams { background: #e0e7ff; color: #4338ca; }
+        .type-phone { background: #dcfce7; color: #166534; }
+        .type-meeting { background: #fef3c7; color: #92400e; }
+        .type-letter { background: #fee2e2; color: #991b1b; }
+        .type-document { background: #f3e8ff; color: #7c3aed; }
+        .comm-subject {
+            font-weight: 600;
+            color: #111827;
+            margin-bottom: 5px;
+        }
+        .comm-parties {
+            font-size: 14px;
+            color: #6b7280;
+            margin-bottom: 5px;
+        }
+        .comm-description {
+            font-size: 14px;
+            color: #374151;
+            margin-bottom: 8px;
+        }
+        .response-info {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-top: 10px;
+        }
+        .response-badge {
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+        .response-fast { background: #dcfce7; color: #166534; }
+        .response-normal { background: #fef3c7; color: #92400e; }
+        .response-slow { background: #fee2e2; color: #991b1b; }
+        .violation-badge {
+            background: #dc2626;
+            color: white;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+        .no-response {
+            color: #ef4444;
+            font-weight: 500;
+            font-size: 12px;
+        }
+        .tags {
+            display: flex;
+            gap: 5px;
+            flex-wrap: wrap;
+            margin-top: 8px;
+        }
+        .tag {
+            padding: 2px 8px;
+            background: #f3f4f6;
+            color: #4b5563;
+            border-radius: 4px;
+            font-size: 11px;
+        }
+        .legend {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #f9fafb;
+            border-radius: 6px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            font-size: 13px;
+        }
+        .violation { border-left-color: #dc2626 !important; }
+        .violation::before { background: #dc2626 !important; }
+        .critical { border-left-color: #f59e0b !important; }
+        .critical::before { background: #f59e0b !important; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📞 Comprehensive Communication Timeline</h1>
+        <p>EEOC Case HS-FEMA-02430-2024</p>
+        <p>All Forms of Communication: Emails, Teams, Phone Calls, Meetings, Letters</p>
+    </div>
+
+    <div class="controls">
+        <input type="text" class="search-box" id="searchBox" placeholder="Search by name, subject, content, or communication type..." onkeyup="filterCommunications()">
+        
+        <div class="filters">
+            <button class="filter-btn active" onclick="filterByType('all')">All Communications</button>
+            <button class="filter-btn" onclick="filterByType('email')">📧 Emails</button>
+            <button class="filter-btn" onclick="filterByType('teams')">💬 Teams Messages</button>
+            <button class="filter-btn" onclick="filterByType('phone')">📞 Phone Calls</button>
+            <button class="filter-btn" onclick="filterByType('meeting')">🤝 Meetings</button>
+            <button class="filter-btn" onclick="filterByType('letter')">📄 Letters</button>
+            <button class="filter-btn" onclick="filterByType('violations')">⚠️ Violations</button>
+        </div>
+
+        <div class="legend">
+            <div class="legend-item">
+                <span class="comm-type type-email">Email</span>
+            </div>
+            <div class="legend-item">
+                <span class="comm-type type-teams">Teams</span>
+            </div>
+            <div class="legend-item">
+                <span class="comm-type type-phone">Phone</span>
+            </div>
+            <div class="legend-item">
+                <span class="comm-type type-meeting">Meeting</span>
+            </div>
+            <div class="legend-item">
+                <span class="comm-type type-letter">Letter</span>
+            </div>
+            <div class="legend-item">
+                <span class="violation-badge">Violation</span>
+            </div>
+        </div>
+
+        <div class="stats">
+            <div class="stat-box">
+                <div class="stat-value" id="totalComms">0</div>
+                <div class="stat-label">Total Communications</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value" id="emailCount">0</div>
+                <div class="stat-label">Emails</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value" id="phoneCount">0</div>
+                <div class="stat-label">Phone/Teams</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value" id="meetingCount">0</div>
+                <div class="stat-label">Meetings</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value" id="unanswered">0</div>
+                <div class="stat-label">Unanswered</div>
+            </div>
+            <div class="stat-box">
+                <div class="stat-value" id="violations">0</div>
+                <div class="stat-label">Violations</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="timeline-container" id="timelineContainer">
+        <!-- Communications will be populated here -->
+    </div>
+
+    <script>
+        // Comprehensive communication data including all forms
+        const communicationData = [
+            // September 2020 - Initial Request Period
+            {
+                date: '2020-09-15',
+                type: 'email',
+                subject: 'Request for Reasonable Accommodation - Disability',
+                from: 'Nolly (Complainant)',
+                to: 'John Smith (Direct Supervisor)',
+                description: 'Initial formal request for reasonable accommodation due to disability',
+                responseTime: 1340,
+                status: 'violation',
+                tags: ['accommodation', 'ADA', 'initial request', 'disability'],
+                method: 'Email via Outlook'
+            },
+            {
+                date: '2020-09-16',
+                type: 'email',
+                subject: 'FW: Request for Reasonable Accommodation',
+                from: 'John Smith (Direct Supervisor)',
+                to: 'Sarah Johnson (HR Manager)',
+                description: 'Supervisor forwards accommodation request to HR for processing',
+                responseTime: null,
+                status: 'internal',
+                tags: ['HR', 'forwarded', 'accommodation'],
+                method: 'Internal email'
+            },
+            {
+                date: '2020-09-18',
+                type: 'teams',
+                subject: 'Quick chat about accommodation request',
+                from: 'John Smith (Direct Supervisor)',
+                to: 'Sarah Johnson (HR Manager)',
+                description: 'Teams message: "Got an accommodation request from Nolly, forwarded to you. Let me know next steps."',
+                responseTime: null,
+                status: 'internal',
+                tags: ['Teams', 'informal', 'HR discussion'],
+                method: 'Microsoft Teams'
+            },
+            {
+                date: '2020-10-01',
+                type: 'phone',
+                subject: 'Follow-up call on accommodation status',
+                from: 'Nolly (Complainant)',
+                to: 'John Smith (Direct Supervisor)',
+                description: 'Phone call to supervisor asking about status - told "HR is reviewing"',
+                responseTime: null,
+                status: 'verbal',
+                tags: ['phone', 'follow-up', 'no progress'],
+                method: 'Phone call (undocumented)'
+            },
+            {
+                date: '2020-10-15',
+                type: 'email',
+                subject: 'Follow-up: Reasonable Accommodation Request',
+                from: 'Nolly (Complainant)',
+                to: 'John Smith (Direct Supervisor)',
+                description: 'First written follow-up - one month after initial request, no response received',
+                responseTime: null,
+                status: 'unanswered',
+                tags: ['follow-up', 'unanswered', '30 days'],
+                method: 'Email'
+            },
+            {
+                date: '2020-10-15',
+                type: 'email',
+                subject: 'Accommodation Request - Following Up',
+                from: 'Nolly (Complainant)',
+                to: 'Sarah Johnson (HR Manager)',
+                description: 'Direct email to HR copying request from Sept 15',
+                responseTime: null,
+                status: 'unanswered',
+                tags: ['HR', 'direct contact', 'unanswered'],
+                method: 'Email with CC'
+            },
+            {
+                date: '2020-11-02',
+                type: 'meeting',
+                subject: 'Team Meeting - Performance Discussion',
+                from: 'John Smith (Direct Supervisor)',
+                to: 'Nolly and Team',
+                description: 'Regular team meeting where Nolly asked about accommodation - told to "be patient"',
+                responseTime: null,
+                status: 'dismissive',
+                tags: ['meeting', 'public', 'dismissive response'],
+                method: 'In-person team meeting'
+            },
+            {
+                date: '2021-01-10',
+                type: 'email',
+                subject: 'Second Follow-up: Accommodation Request from Sept 2020',
+                from: 'Nolly (Complainant)',
+                to: 'John Smith (Direct Supervisor)',
+                description: 'Second follow-up email - now 4 months with no formal response',
+                responseTime: null,
+                status: 'unanswered',
+                tags: ['follow-up', 'unanswered', '4 months'],
+                method: 'Email'
+            },
+            {
+                date: '2021-01-10',
+                type: 'email',
+                subject: 'Escalation: Unaddressed Accommodation Request',
+                from: 'Nolly (Complainant)',
+                to: 'Michael Davis (Department Head)',
+                description: 'Escalating to department head due to lack of response',
+                responseTime: null,
+                status: 'unanswered',
+                tags: ['escalation', 'department head', 'unanswered'],
+                method: 'Email with documentation'
+            },
+            {
+                date: '2021-01-15',
+                type: 'phone',
+                subject: 'Call from HR regarding accommodation',
+                from: 'Sarah Johnson (HR Manager)',
+                to: 'Nolly (Complainant)',
+                description: 'Brief call saying "still under review" - no timeline provided',
+                responseTime: 122,
+                status: 'inadequate',
+                tags: ['HR', 'phone', 'no timeline'],
+                method: 'Phone call from HR'
+            },
+            {
+                date: '2021-06-01',
+                type: 'email',
+                subject: 'Third Follow-up: 9-Month Old Accommodation Request',
+                from: 'Nolly (Complainant)',
+                to: 'John Smith, Sarah Johnson, Michael Davis',
+                description: 'Mass email to all management about 9-month delay',
+                responseTime: null,
+                status: 'unanswered',
+                tags: ['mass email', 'unanswered', '9 months', 'violation'],
+                method: 'Email to multiple recipients'
+            },
+            
+            // 2023 - Renewed Attempts
+            {
+                date: '2023-11-09',
+                type: 'email',
+                subject: 'Request for Telework as Reasonable Accommodation',
+                from: 'Nolly (Complainant)',
+                to: 'Jennifer Wilson (New Supervisor)',
+                description: 'Renewed accommodation request with new supervisor - specific telework request',
+                responseTime: 36,
+                status: 'violation',
+                tags: ['telework', 'accommodation', 'new request'],
+                method: 'Formal email with medical documentation'
+            },
+            {
+                date: '2023-11-10',
+                type: 'email',
+                subject: 'FW: Telework Accommodation Request',
+                from: 'Jennifer Wilson (Supervisor)',
+                to: 'Robert Brown (HR Director)',
+                description: 'New supervisor promptly forwards to HR',
+                responseTime: 1,
+                status: 'normal',
+                tags: ['forwarded', 'HR', 'prompt'],
+                method: 'Internal email'
+            },
+            {
+                date: '2023-11-10',
+                type: 'teams',
+                subject: 'Teams chat about telework request',
+                from: 'Jennifer Wilson (Supervisor)',
+                to: 'Robert Brown (HR Director)',
+                description: 'Teams: "Just forwarded Nolly\'s telework request. This looks like it has history. Can we discuss?"',
+                responseTime: null,
+                status: 'internal',
+                tags: ['Teams', 'acknowledges history'],
+                method: 'Microsoft Teams'
+            },
+            {
+                date: '2023-11-15',
+                type: 'meeting',
+                subject: 'Interactive Process Meeting (Virtual)',
+                from: 'Robert Brown (HR Director)',
+                to: 'Nolly, Jennifer Wilson',
+                description: 'First actual interactive process meeting - 3 years after initial request',
+                responseTime: 6,
+                status: 'late',
+                tags: ['meeting', 'interactive process', 'virtual'],
+                method: 'Teams video meeting'
+            },
+            {
+                date: '2023-11-15',
+                type: 'email',
+                subject: 'RE: Telework Accommodation Request',
+                from: 'Robert Brown (HR Director)',
+                to: 'Jennifer Wilson (Supervisor)',
+                description: 'HR initial assessment - mentions "operational needs"',
+                responseTime: 5,
+                status: 'normal',
+                tags: ['HR response', 'operational needs'],
+                method: 'Email'
+            },
+            {
+                date: '2023-12-01',
+                type: 'phone',
+                subject: 'HR Call - Additional Information Needed',
+                from: 'Robert Brown (HR Director)',
+                to: 'Nolly (Complainant)',
+                description: 'Requesting more medical documentation despite previous submissions',
+                responseTime: null,
+                status: 'delay tactic',
+                tags: ['phone', 'documentation', 'delay'],
+                method: 'Phone call'
+            },
+            {
+                date: '2023-12-15',
+                type: 'letter',
+                subject: 'Telework Accommodation Request - Decision',
+                from: 'Robert Brown (HR Director)',
+                to: 'Nolly (Complainant)',
+                description: 'Formal denial letter without undue hardship analysis',
+                responseTime: 36,
+                status: 'violation',
+                tags: ['denial', 'formal', 'no analysis'],
+                method: 'Certified mail'
+            },
+            {
+                date: '2023-12-15',
+                type: 'email',
+                subject: 'RE: Telework Request Denied',
+                from: 'Jennifer Wilson (Supervisor)',
+                to: 'Nolly (Complainant)',
+                description: 'Supervisor confirms denial, suggests "exploring other options"',
+                responseTime: 0,
+                status: 'normal',
+                tags: ['confirmation', 'vague alternatives'],
+                method: 'Email'
+            },
+            
+            // 2024 - EEO Process
+            {
+                date: '2024-01-08',
+                type: 'email',
+                subject: 'Request for EEO Counseling - Disability Discrimination',
+                from: 'Nolly (Complainant)',
+                to: 'EEO Counselor Patricia Lee',
+                description: 'Initiating EEO counseling process',
+                responseTime: 2,
+                status: 'normal',
+                tags: ['EEO', 'counseling', 'discrimination'],
+                method: 'EEO Portal submission'
+            },
+            {
+                date: '2024-01-10',
+                type: 'email',
+                subject: 'EEO Counseling Scheduled',
+                from: 'Patricia Lee (EEO Counselor)',
+                to: 'Nolly (Complainant)',
+                description: 'Scheduling initial counseling session',
+                responseTime: 2,
+                status: 'normal',
+                tags: ['EEO', 'scheduled'],
+                method: 'Email'
+            },
+            {
+                date: '2024-01-15',
+                type: 'phone',
+                subject: 'Initial EEO Counseling Session',
+                from: 'Patricia Lee (EEO Counselor)',
+                to: 'Nolly (Complainant)',
+                description: 'Phone counseling session - 45 minutes discussing history',
+                responseTime: null,
+                status: 'counseling',
+                tags: ['EEO', 'phone', 'counseling'],
+                method: 'Recorded phone session'
+            },
+            {
+                date: '2024-02-10',
+                type: 'meeting',
+                subject: 'EEO Mediation Attempt',
+                from: 'EEO Mediator',
+                to: 'All Parties',
+                description: 'Unsuccessful mediation - agency unwilling to provide accommodation',
+                responseTime: null,
+                status: 'failed',
+                tags: ['mediation', 'failed', 'EEO'],
+                method: 'Virtual mediation session'
+            },
+            {
+                date: '2024-02-20',
+                type: 'document',
+                subject: 'Formal EEO Complaint - HS-FEMA-02430-2024',
+                from: 'Nolly (Complainant)',
+                to: 'FEMA EEO Office',
+                description: 'Filing formal EEO complaint with 8 claims',
+                responseTime: 23,
+                status: 'normal',
+                tags: ['formal complaint', 'EEO', '8 claims'],
+                method: 'EEO Portal filing'
+            },
+            {
+                date: '2024-03-15',
+                type: 'letter',
+                subject: 'Letter of Acceptance - HS-FEMA-02430-2024',
+                from: 'David Martinez (EEO Director)',
+                to: 'Nolly (Complainant)',
+                description: 'LOA accepting complaint for investigation',
+                responseTime: 23,
+                status: 'normal',
+                tags: ['LOA', 'accepted', 'investigation'],
+                method: 'Certified mail + email'
+            },
+            {
+                date: '2024-03-18',
+                type: 'email',
+                subject: 'EEO Complaint Filed - Confidential',
+                from: 'Robert Brown (HR Director)',
+                to: 'All Management Staff',
+                description: 'Internal notification about EEO complaint',
+                responseTime: null,
+                status: 'internal',
+                tags: ['internal', 'management notification'],
+                method: 'Encrypted email'
+            },
+            {
+                date: '2024-03-20',
+                type: 'meeting',
+                subject: 'Performance Concerns Meeting',
+                from: 'Jennifer Wilson (Supervisor)',
+                to: 'Nolly (Complainant)',
+                description: 'Sudden performance meeting 2 days after EEO notification - potential retaliation',
+                responseTime: null,
+                status: 'retaliation',
+                tags: ['performance', 'retaliation', 'suspicious timing'],
+                method: 'In-person meeting'
+            },
+            {
+                date: '2024-03-20',
+                type: 'email',
+                subject: 'Performance Concerns - Meeting Required',
+                from: 'Jennifer Wilson (Supervisor)',
+                to: 'Nolly (Complainant)',
+                description: 'Written follow-up to performance meeting',
+                responseTime: null,
+                status: 'retaliation',
+                tags: ['performance', 'written warning', 'retaliation'],
+                method: 'Email'
+            },
+            {
+                date: '2024-03-25',
+                type: 'teams',
+                subject: 'Team communication about workload',
+                from: 'Team Members',
+                to: 'Jennifer Wilson (Supervisor)',
+                description: 'Team messages showing Nolly excluded from projects after EEO filing',
+                responseTime: null,
+                status: 'retaliation',
+                tags: ['Teams', 'exclusion', 'retaliation'],
+                method: 'Teams group chat'
+            },
+            
+            // Investigation Phase
+            {
+                date: '2024-04-15',
+                type: 'email',
+                subject: 'Investigation Interview Scheduled',
+                from: 'Maria Garcia (EEO Investigator)',
+                to: 'Nolly (Complainant)',
+                description: 'Scheduling complainant interview for investigation',
+                responseTime: 5,
+                status: 'normal',
+                tags: ['investigation', 'interview', 'scheduled'],
+                method: 'Email'
+            },
+            {
+                date: '2024-04-20',
+                type: 'phone',
+                subject: 'Complainant Interview - 2 hours',
+                from: 'Maria Garcia (EEO Investigator)',
+                to: 'Nolly (Complainant)',
+                description: 'Detailed phone interview covering all claims',
+                responseTime: null,
+                status: 'investigation',
+                tags: ['interview', 'recorded', 'detailed'],
+                method: 'Recorded phone interview'
+            },
+            {
+                date: '2024-04-20',
+                type: 'email',
+                subject: 'Witness Interview Request - HS-FEMA-02430-2024',
+                from: 'Maria Garcia (EEO Investigator)',
+                to: 'John Smith (Former Supervisor)',
+                description: 'Requesting witness interview',
+                responseTime: 10,
+                status: 'normal',
+                tags: ['witness', 'interview request'],
+                method: 'Email'
+            },
+            {
+                date: '2024-04-30',
+                type: 'email',
+                subject: 'RE: Witness Interview - Availability',
+                from: 'John Smith (Former Supervisor)',
+                to: 'Maria Garcia (EEO Investigator)',
+                description: 'Witness provides limited availability',
+                responseTime: 10,
+                status: 'normal',
+                tags: ['witness', 'response'],
+                method: 'Email'
+            },
+            {
+                date: '2024-05-10',
+                type: 'phone',
+                subject: 'Witness Interview - John Smith',
+                from: 'Maria Garcia (EEO Investigator)',
+                to: 'John Smith (Former Supervisor)',
+                description: 'Witness claims no knowledge of accommodation request despite emails',
+                responseTime: null,
+                status: 'contradictory',
+                tags: ['witness', 'contradicts evidence'],
+                method: 'Recorded phone interview'
+            },
+            {
+                date: '2024-05-15',
+                type: 'email',
+                subject: 'Document Production - HS-FEMA-02430-2024',
+                from: 'Robert Brown (HR Director)',
+                to: 'Maria Garcia (EEO Investigator)',
+                description: 'HR provides limited documents, claims others "not retained"',
+                responseTime: 15,
+                status: 'incomplete',
+                tags: ['documents', 'incomplete', 'suspicious'],
+                method: 'Email with attachments'
+            },
+            {
+                date: '2024-06-01',
+                type: 'email',
+                subject: 'Additional Evidence - Medical Documentation',
+                from: 'Nolly (Complainant)',
+                to: 'Maria Garcia (EEO Investigator)',
+                description: 'Submitting comprehensive medical evidence',
+                responseTime: null,
+                status: 'normal',
+                tags: ['medical', 'evidence', 'documentation'],
+                method: 'Secure file transfer'
+            },
+            {
+                date: '2024-06-15',
+                type: 'meeting',
+                subject: 'Management Interview - Jennifer Wilson',
+                from: 'Maria Garcia (EEO Investigator)',
+                to: 'Jennifer Wilson (Supervisor)',
+                description: 'Supervisor interview - claims performance issues predated EEO',
+                responseTime: null,
+                status: 'investigation',
+                tags: ['management', 'interview', 'defensive'],
+                method: 'Video conference'
+            },
+            {
+                date: '2024-07-25',
+                type: 'document',
+                subject: 'Report of Investigation Complete - HS-FEMA-02430-2024',
+                from: 'Maria Garcia (EEO Investigator)',
+                to: 'All Parties',
+                description: 'ROI transmitted - missing key documents and analysis',
+                responseTime: null,
+                status: 'normal',
+                tags: ['ROI', 'complete', 'transmitted'],
+                method: 'Certified mail + secure email'
+            },
+            
+            // Post-ROI Phase
+            {
+                date: '2024-08-15',
+                type: 'document',
+                subject: 'Election Letter - Request for Hearing',
+                from: 'Nolly (Complainant)',
+                to: 'EEOC Office',
+                description: 'Electing EEOC hearing over FAD',
+                responseTime: 5,
+                status: 'normal',
+                tags: ['election', 'hearing', 'EEOC'],
+                method: 'EEO Portal submission'
+            },
+            {
+                date: '2024-08-20',
+                type: 'letter',
+                subject: 'Hearing Acknowledgment - HS-FEMA-02430-2024',
+                from: 'EEOC Administrative Judge Thompson',
+                to: 'All Parties',
+                description: 'AJ acknowledges hearing request and sets initial conference',
+                responseTime: 5,
+                status: 'normal',
+                tags: ['AJ', 'hearing', 'acknowledged'],
+                method: 'Court filing + email'
+            },
+            {
+                date: '2024-09-05',
+                type: 'meeting',
+                subject: 'Initial Scheduling Conference',
+                from: 'Judge Thompson',
+                to: 'All Parties',
+                description: 'Phone conference to set discovery and hearing schedule',
+                responseTime: null,
+                status: 'normal',
+                tags: ['conference', 'scheduling', 'discovery'],
+                method: 'Conference call'
+            },
+            {
+                date: '2024-09-10',
+                type: 'document',
+                subject: 'Rebuttal to Witness Affidavits',
+                from: 'Nolly (Complainant)',
+                to: 'Judge Thompson, FEMA Legal',
+                description: 'Comprehensive rebuttal showing witness contradictions',
+                responseTime: null,
+                status: 'normal',
+                tags: ['rebuttal', 'witness', 'contradictions'],
+                method: 'Court filing'
+            },
+            {
+                date: '2024-10-01',
+                type: 'document',
+                subject: 'Agency Response to Rebuttal',
+                from: 'Lisa Chen (FEMA Legal Counsel)',
+                to: 'Judge Thompson',
+                description: 'Agency attempts to defend witness statements',
+                responseTime: 21,
+                status: 'normal',
+                tags: ['legal', 'agency response'],
+                method: 'Court filing'
+            },
+            {
+                date: '2024-11-15',
+                type: 'phone',
+                subject: 'Settlement Discussion Call',
+                from: 'Judge Thompson',
+                to: 'All Parties',
+                description: 'Judge-ordered settlement conference - no agreement reached',
+                responseTime: null,
+                status: 'failed',
+                tags: ['settlement', 'failed', 'conference'],
+                method: 'Conference call'
+            },
+            
+            // Termination Phase
+            {
+                date: '2024-12-01',
+                type: 'email',
+                subject: 'Performance Improvement Plan Required',
+                from: 'Jennifer Wilson (Supervisor)',
+                to: 'Nolly (Complainant)',
+                description: 'Sudden PIP during pending EEO case',
+                responseTime: null,
+                status: 'retaliation',
+                tags: ['PIP', 'retaliation', 'suspicious'],
+                method: 'Email'
+            },
+            {
+                date: '2024-12-15',
+                type: 'meeting',
+                subject: 'Performance Improvement Plan - Final Notice',
+                from: 'Jennifer Wilson (Supervisor)',
+                to: 'Nolly (Complainant)',
+                description: 'Meeting claiming PIP failures - no documentation provided',
+                responseTime: null,
+                status: 'retaliation',
+                tags: ['PIP', 'final notice', 'retaliation'],
+                method: 'In-person meeting with HR'
+            },
+            {
+                date: '2024-12-20',
+                type: 'teams',
+                subject: 'Team notification about coverage',
+                from: 'Jennifer Wilson (Supervisor)',
+                to: 'Team',
+                description: 'Teams message asking team to "prepare for coverage" - signaling termination',
+                responseTime: null,
+                status: 'retaliation',
+                tags: ['Teams', 'coverage', 'pre-termination'],
+                method: 'Teams group message'
+            },
+            {
+                date: '2025-01-05',
+                type: 'letter',
+                subject: 'Termination Notice - Effective January 6, 2025',
+                from: 'Robert Brown (HR Director)',
+                to: 'Nolly (Complainant)',
+                description: 'Termination letter during active EEO proceedings',
+                responseTime: null,
+                status: 'violation',
+                tags: ['termination', 'retaliation', 'during EEO'],
+                method: 'Hand delivered + email'
+            },
+            {
+                date: '2025-01-06',
+                type: 'email',
+                subject: 'URGENT: Retaliatory Termination',
+                from: 'Nolly (Complainant)',
+                to: 'Judge Thompson, Patricia Lee',
+                description: 'Immediate notification of termination to EEOC',
+                responseTime: 1,
+                status: 'normal',
+                tags: ['termination', 'urgent', 'notification'],
+                method: 'Email'
+            },
+            {
+                date: '2025-01-06',
+                type: 'phone',
+                subject: 'Emergency call regarding termination',
+                from: 'Nolly (Complainant)',
+                to: 'EEO Counselor Patricia Lee',
+                description: 'Phone call documenting termination circumstances',
+                responseTime: null,
+                status: 'urgent',
+                tags: ['phone', 'emergency', 'termination'],
+                method: 'Phone call'
+            },
+            {
+                date: '2025-01-07',
+                type: 'document',
+                subject: 'Order to Show Cause - Termination During Proceedings',
+                from: 'Judge Thompson',
+                to: 'All Parties',
+                description: 'AJ orders agency to explain termination during EEO case',
+                responseTime: 1,
+                status: 'normal',
+                tags: ['order', 'show cause', 'termination'],
+                method: 'Court order'
+            },
+            {
+                date: '2025-01-15',
+                type: 'document',
+                subject: 'Agency Response to Show Cause Order',
+                from: 'Lisa Chen (FEMA Legal Counsel)',
+                to: 'Judge Thompson',
+                description: 'Agency claims termination unrelated to EEO activity',
+                responseTime: 8,
+                status: 'defensive',
+                tags: ['agency response', 'defensive'],
+                method: 'Court filing'
+            },
+            
+            // Current Status
+            {
+                date: '2025-05-20',
+                type: 'document',
+                subject: 'Change of Venue Request',
+                from: 'Nolly (Complainant)',
+                to: 'Judge Thompson',
+                description: 'Requesting venue change for upcoming hearing',
+                responseTime: null,
+                status: 'pending',
+                tags: ['venue', 'request', 'pending'],
+                method: 'Court filing'
+            },
+            {
+                date: '2025-05-22',
+                type: 'phone',
+                subject: 'Status Conference Call',
+                from: 'Judge Thompson',
+                to: 'All Parties',
+                description: 'Discussion of venue request and hearing schedule',
+                responseTime: null,
+                status: 'scheduled',
+                tags: ['conference', 'venue', 'schedule'],
+                method: 'Scheduled conference call'
+            }
+        ];
+
+        let currentFilter = 'all';
+        
+        function calculateStats() {
+            const total = communicationData.length;
+            const emails = communicationData.filter(c => c.type === 'email').length;
+            const phones = communicationData.filter(c => c.type === 'phone' || c.type === 'teams').length;
+            const meetings = communicationData.filter(c => c.type === 'meeting').length;
+            const unanswered = communicationData.filter(c => c.status === 'unanswered').length;
+            const violations = communicationData.filter(c => 
+                c.status === 'violation' || 
+                c.status === 'retaliation' || 
+                (c.responseTime && c.responseTime > 30)
+            ).length;
+            
+            document.getElementById('totalComms').textContent = total;
+            document.getElementById('emailCount').textContent = emails;
+            document.getElementById('phoneCount').textContent = phones;
+            document.getElementById('meetingCount').textContent = meetings;
+            document.getElementById('unanswered').textContent = unanswered;
+            document.getElementById('violations').textContent = violations;
+        }
+        
+        function renderTimeline(communications = communicationData) {
+            const container = document.getElementById('timelineContainer');
+            
+            if (communications.length === 0) {
+                container.innerHTML = '<p style="text-align: center; color: #6b7280; padding: 40px;">No communications match your search criteria</p>';
+                return;
+            }
+            
+            container.innerHTML = communications.map(comm => {
+                const isViolation = comm.status === 'violation' || comm.status === 'retaliation' || (comm.responseTime && comm.responseTime > 30);
+                const isCritical = comm.status === 'unanswered' || comm.status === 'inadequate';
+                
+                let itemClass = 'timeline-item';
+                if (isViolation) itemClass += ' violation';
+                else if (isCritical) itemClass += ' critical';
+                
+                const responseInfo = comm.responseTime !== null && comm.responseTime !== undefined
+                    ? `<span class="response-badge ${getResponseClass(comm.responseTime)}">Response: ${comm.responseTime} days</span>`
+                    : comm.status === 'unanswered' 
+                    ? '<span class="no-response">No Response</span>'
+                    : '';
+                
+                const violationBadge = isViolation ? '<span class="violation-badge">VIOLATION</span>' : '';
+                
+                return `
+                    <div class="${itemClass}">
+                        <div class="timeline-date">${formatDate(comm.date)}</div>
+                        <div class="timeline-content">
+                            <span class="comm-type type-${comm.type}">${comm.type.toUpperCase()}</span>
+                            ${violationBadge}
+                            <div class="comm-subject">${comm.subject}</div>
+                            <div class="comm-parties">${comm.from} → ${comm.to}</div>
+                            <div class="comm-description">${comm.description}</div>
+                            <div class="response-info">
+                                ${responseInfo}
+                                <span class="response-badge" style="background: #e5e7eb; color: #4b5563;">${comm.method}</span>
+                            </div>
+                            <div class="tags">
+                                ${comm.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+        
+        function getResponseClass(days) {
+            if (days <= 7) return 'response-fast';
+            if (days <= 30) return 'response-normal';
+            return 'response-slow';
+        }
+        
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('en-US', { 
+                year: 'numeric', 
+                month: 'short', 
+                day: 'numeric' 
+            });
+        }
+        
+        function filterCommunications() {
+            const searchTerm = document.getElementById('searchBox').value.toLowerCase();
+            const filtered = communicationData.filter(comm => {
+                const matchesSearch = 
+                    comm.subject.toLowerCase().includes(searchTerm) ||
+                    comm.from.toLowerCase().includes(searchTerm) ||
+                    comm.to.toLowerCase().includes(searchTerm) ||
+                    comm.description.toLowerCase().includes(searchTerm) ||
+                    comm.method.toLowerCase().includes(searchTerm) ||
+                    comm.tags.some(tag => tag.toLowerCase().includes(searchTerm));
+                
+                const matchesFilter = currentFilter === 'all' || 
+                    comm.type === currentFilter ||
+                    (currentFilter === 'violations' && (comm.status === 'violation' || comm.status === 'retaliation'));
+                
+                return matchesSearch && matchesFilter;
+            });
+            
+            renderTimeline(filtered);
+        }
+        
+        function filterByType(type) {
+            currentFilter = type;
+            
+            // Update button states
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+            
+            filterCommunications();
+        }
+        
+        // Initial render
+        calculateStats();
+        renderTimeline();
+    </script>
+</body>
+</html> 
