@@ -1,0 +1,3088 @@
+U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION 
+
+Office of Federal Operations 
+
+Washington, D.C.  20036 
+
+PRACTICAL ADVICE FOR  
+DRAFTING AND IMPLEMENTING 
+REASONABLE ACCOMMODATION 
+PROCEDURES  
+UNDER EXECUTIVE ORDER 13164 
+
+July 2005  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRACTICAL ADVICE FOR DRAFTING AND                 
+IMPLEMENTING REASONABLE ACCOMMODATION        
+PROCEDURES UNDER EXECUTIVE ORDER 13164 
+
+Introduction ..................................................................................................................... 1 
+
+Initiating the Accommodation Process ............................................................................ 3 
+
+Processing Accommodation Requests............................................................................ 9 
+
+Time Limits.................................................................................................................... 16 
+
+Medical Information ....................................................................................................... 20 
+
+Confidentiality of Medical Information............................................................................ 26 
+
+Reassignment ............................................................................................................... 29 
+
+Denials of Reasonable Accommodation........................................................................ 33 
+
+Information Tracking...................................................................................................... 35 
+
+Informal Dispute Resolution .......................................................................................... 37 
+
+Final Steps: Adoption, Dissemination and Training ....................................................... 38 
+
+Conclusion .................................................................................................................... 39 
+
+Selected EEOC Resources on Disability Issues ........................................................... 40 
+
+Attachment A:   Sample Form 
+
+Confirmation of Request for Reasonable Accommodation 
+
+Attachment B:   Sample Language Regarding Creation of Staff Assistant Slots 
+
+Attachment C:  Sample Form 
+           Denial of Reasonable Accommodation Request 
+
+Attachment D: Sample Form                                                  
+
+Reasonable Accommodation Information Reporting Form 
+
+-i-
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+INTRODUCTION 
+
+On July 26, 2000, the tenth anniversary of the enactment of the Americans with 
+Disabilities  Act  (ADA),  Executive  Order  (E.O.)  13164  was  issued,  for  the  first  time 
+requiring that all executive branch federal agencies institute procedures for processing 
+reasonable  accommodation  requests  under  Section  501  of  the  Rehabilitation  Act  of 
+1973.1   The purpose of such procedures is to provide employees as well as supervisors 
+and managers with an easy-to-understand, step-by-step explanation of the reasonable 
+accommodation process. 
+
+ E.O.  13164  allows  each  agency  to  design  procedures  that  best  suit  its 
+organizational  needs.  However,  it  requires  that  the  procedures  include  certain  basic 
+elements,  such  as  the  processing  of  accommodation  requests,  time  limits,  rules  for 
+requesting  supporting  medical  information,  confidentiality,  information  tracking,  and 
+informal dispute resolution.2   E.O. 13164 also requires that each agency (and agency 
+component, 
+its  procedures,  and  any 
+modifications it later makes to them, to the Equal Employment Opportunity Commission 
+(EEOC). 
+
+issuing  separate  procedures)  submit 
+
+if 
+
+To assist agencies in fulfilling their obligations, EEOC issued the Policy Guidance 
+on  Executive  Order  13164:    Establishing  Procedures  to  Facilitate  the  Provision  of 
+Reasonable  Accommodation  (Oct.  20,  2000)  (“13164  Policy  Guidance”),  available  at 
+http://ww.eeoc.gov/policy/docs/accommodation_procedures.html.    In  addition,  EEOC 
+provided  extensive  voluntary  technical  assistance  on  drafting  and  implementation  of 
+agencies’  procedures.    EEOC  staff  provided  individualized  feedback  to  the  more  than 
+one  hundred  agencies  and  sub-components  submitting  procedures  for  review.      The 
+feedback provided detailed comments on procedures that appeared not to comply with 
+the  requirements  of  E.O.  13164,  as  well  as  applicable  best  practices  set  forth  in  the 
+13164  Policy  Guidance.    Many  agencies  revised  their  procedures  in  accordance  with 
+EEOC’s  feedback,  and  re-submitted  their  procedures  to  EEOC  for  further  technical 
+assistance.   
+
+     1See Executive Order 13164, Requiring Federal Agencies to Facilitate the Provision 
+of Reasonable Accommodation, 65 Fed. Reg. 46565, 2000 WL 1114943 (2000). 
+
+     2Under  E.O.  13164,  Section  3,  agencies  are  also  required  to  notify  their  collective 
+bargaining  representatives  and  to  bargain  over  their  reasonable  accommodation 
+procedures, to the extent required by law.    
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+   This  report  summarizes  the  key  drafting  and  implementation  tips  offered  to 
+agencies.    The  report  is  divided  into  ten  sections,  addressing  each  of  the  different 
+aspects  of  the  reasonable  accommodation  process  outlined  in  E.O.  13164,  as  well  as 
+effective dissemination procedures and training.  Each section: 
+
+(cid:131)  contains a summary of the relevant basic elements of E.O. 13164 as interpreted 
+in the 13164 Policy Guidance, including required provisions and best practices; 
+
+(cid:131)  provides practical drafting advice, based on the common pitfalls EEOC found in 
+
+agency reasonable accommodation procedures; 
+
+(cid:131) 
+
+includes  illustrative  EEOC  federal  sector  appellate  decisions  issued  under 
+Section 
+at 
+www.eeoc.gov/federal/decisions.html;  and 
+
+Rehabilitation 
+
+available 
+
+Act, 
+
+501 
+
+the 
+
+of 
+
+(cid:131)  provides training and implementation tips. 
+
+We hope that federal agencies will use the guidance in this report when drafting, 
+revising,  and  implementing  reasonable  accommodation  procedures. 3      In  addition, 
+private sector and state and local government employers, although not covered by E.O. 
+13164,  can  voluntarily  adopt  reasonable  accommodation  procedures  to  ensure 
+compliance  with  Title  I  of  the  Americans  with  Disabilities  Act  (ADA),  using  the  EEOC 
+13164  Policy  Guidance  and  this  report  to  design,  draft  and  implement  reasonable 
+accommodation procedures.4    
+
+E.O.  13164  requires  that  each  federal  agency  submit  to  EEOC  any  future 
+modifications  to  its  reasonable  accommodation  procedures.    Therefore,  EEOC  will 
+continue  to  provide  technical  assistance  to  agencies  on  drafting  and  implementation 
+concerns. 
+
+     3Issuance  of  procedures  by  federal  agencies  as  well  as  appropriate  dissemination 
+and training is necessary in order to comply with Management Directive 715.  See AFinal 
+Steps: Adoption, Dissemination, and Training,@ infra at Section X. 
+
+     4Since  the  Rehabilitation  Act  was  amended  in  1992  to  apply  the  standards  in  the 
+ADA to complaints of discrimination by federal employees or applicants for employment, 
+the  standards  regarding  provision  of  reasonable  accommodation  under  Title  I  of  the 
+ADA and Section 501 of the Rehabilitation Act are the same. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+                                                 
+I.     INITIATING THE ACCOMMODATION PROCESS 
+
+BASIC ELEMENTS  
+(See 13164 Policy Guidance at questions 1-6):    
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+Explain  that  accommodation  requests  can  be  made  by  either  an  applicant 
+or an employee.  
+
+Make clear that accommodation requests can be either oral or in writing.   
+
+Do not require that accommodation requests use any particular words (like 
+“reasonable accommodation” or “disability”). 
+
+Provide the request confirmation form as an attachment to the procedures 
+if the procedures require an applicant or employee to complete such a form 
+for record-keeping purposes. 
+
+Require immediate processing of all oral accommodation requests.   Do not 
+permit  waiting  until  a  written  request  or  record-keeping  confirmation  form 
+is received. 
+
+If  requiring  a  request  confirmation  form,  do  not  require  an  employee  who 
+needs  a  type  of  reasonable  accommodation  on  a  repeated  basis  (e.g.,  a 
+sign  language  interpreter)  to  submit  the  written  form  each  time  the 
+accommodation is needed. 
+
+Do not require that an accommodation request be made at a certain time. 
+
+Allow  more  than  one  agency  official  to  be  designated  to  receive 
+accommodation requests. 
+
+Include  information  on  all  the  agency  officials  to  whom  an  applicant  or 
+employee may make an accommodation request. 
+
+Allow  a  request  for  reasonable  accommodation  to  be  made  by  either  the 
+individual with a disability or a family member, health professional, or other 
+representative acting on the individual's behalf.   
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DRAFTING TIPS 
+
+Be clear who must follow the procedures.    
+
+Specify the agency components to which the procedures apply.  Designate authority for 
+handling  requests  and  provide  sufficient 
+instructions  and  headquarters  contact 
+information  in  sub-component  procedures.    Remember  that  both  agency  and  agency 
+sub-component procedures, if different, must be submitted to EEOC under E.O. 13164. 
+
+Clearly communicate that processing of oral requests should begin immediately, 
+even if written confirmation has not yet been received.   
+
+State that agency officials must begin processing the request as soon as it is received.  
+Even  if  the  agency’s  procedures  require  a  requester  to  submit  a  request  confirmation 
+form, make clear in the procedures that officials may not wait for receipt of the form to 
+begin processing the request.  Processing the request means taking whatever steps are 
+necessary  to  act  on  the  request.    This  may  include  referral  of  the  request  to  the 
+authorized  decision  maker,  communicating  with  the  requester  to  clarify  the  request, 
+obtaining  and  exchanging  information  with  the  requester  to  the  extent  necessary 
+regarding  needs  and  alternatives,  searching  for  solutions,  consulting  agency  and 
+outside  resources,  determining  whether  the  requester  is  an  individual  with  a  disability, 
+evaluating possible accommodations, issuing a decision on the request, and if granted, 
+providing the accommodation.  This is often called the “interactive process,” referring to 
+the mutual sharing of information and ideas between the requester and the employer. 
+
+Indicate  that  failure  to  initiate  the  processing  of  an  oral  request  may  result  in  undue 
+delay in providing reasonable accommodation in violation of the Rehabilitation Act. 
+
+Do not exceed limits of request confirmation forms.    
+
+State that a request for reasonable accommodation must let the employer know that an 
+adjustment  or  change  at  work  for  a  reason  related  to  a  medical  condition  is  needed.  
+The request can be made orally and does not require the use of “magic words” such as 
+“reasonable  accommodation”  or  “disability.    While  further  information  may  be  obtained 
+by  the  employer  when  evaluating  the  request,  nothing  more  is  required  for  the 
+individual’s statement to legally constitute an accommodation request.  For this reason, 
+limit the information sought on request confirmation forms to name, contact information, 
+date of request, date of form, office, accommodation requested and reason for request.  
+See  Attachment  A  (sample  form  for  confirmation  of  reasonable  accommodation 
+requests).  Additional information (including medical documentation) reasonably needed 
+to process the accommodation request may be sought during the interactive process. 
+
+A written “confirmation of request” form that asks for more information than is necessary 
+to  constitute  an  accommodation  request,  or  that  requires  submission  of  medical 
+documentation, will exceed the purpose of a written confirmation form, which is merely to 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+track  request  information.    See  §  VIII,  “Information  Tracking.”    Asking  for  more 
+information than is necessary to track the request poses two legal risks: (1) managers or 
+supervisors may not realize that an oral or written request as defined above is sufficient 
+to trigger the agency’s obligation to evaluate the request for accommodation; and (2) a 
+form  that  automatically  asks  for  supporting  medical  information  may  violate  the 
+Rehabilitation  Act  rule  that  medical  information  can  only  be  sought  in  support  of  an 
+accommodation  request  where  the  disability  and/or  the  need  for  accommodation  is  not 
+obvious or already known. 
+
+Accurately label any confirmation forms used.    
+
+Entitle  the  form  “Confirmation  of  Request  for  Reasonable  Accommodation”  or  in  some 
+other  way  make  clear  that  it  is  merely  for  keeping  track  of  requests.    This  will  help  to 
+ensure that neither supervisors nor requesters mistakenly conclude that an oral request 
+is insufficient. 
+
+Explain that accommodation can be requested at any time.   
+
+Affirmatively  state  that  an  individual  may  request  accommodation  whenever  he  or  she 
+chooses.    For  example,  the  request  does  not  have  to  be  made  as  soon  as  a  disability 
+affects  work  performance,  or  by  some  other  specified  time.  Remind  managers  and 
+supervisors  of  their  obligation  to  process  any  accommodation  request,  regardless  of 
+when it is received.5  13164 Policy Guidance at question 4.   
+
+Specify a range of officials to whom an accommodation request can be made.   
+
+Make clear that the agency’s obligation to consider an individual’s request begins when 
+the request is made to any of the following (see 13164 Policy Guidance at question 5): 
+
+(cid:131)  his/her supervisor; 
+
+(cid:131)  a supervisor or manager in his/her immediate chain of command; 
+
+     5However, reasonable accommodation is always prospective, so an employer is not 
+required to excuse performance problems or past misconduct (in violation of a rule that 
+is  job-related  for  the  position  in  question  and  consistent  with  business  necessity)  that 
+has occurred prior to the accommodation request, even if the problem resulted from the 
+individual’s disability.  EEOC Enforcement Guidance: Reasonable Accommodation and 
+Undue  Hardship  Under  the  Americans  with  Disabilities  Act  (as  revised  Oct.  17,  2002) 
+(AReasonable Accommodation Guidance@) at questions 35-36.  Once a request is made, 
+an  employer  must  make  reasonable  accommodation  to  enable  an  otherwise  qualified 
+employee with a disability to meet such a conduct standard in the future, barring undue 
+hardship,  except  where  the  punishment  for  the  violation  that  has  already  occurred  is 
+termination.  Id. at question 36.  
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+(cid:131) 
+
+the EEO office; 
+
+(cid:131)  any  other  office  designated  by 
+
+the  agency 
+
+to  oversee 
+
+the  reasonable 
+
+accommodation process;  or, 
+
+(cid:131) 
+
+in connection with the application process, any agency employee with whom the 
+applicant has contact.  
+
+Requiring accommodation requests to be made only to one particular agency official, or 
+only  within  one’s  chain  of  command,  will  incorrectly  suggest  to  other  supervisors  and 
+managers that they have no obligation to act on any other requests.  To the contrary, the 
+procedures should spell out for managers and supervisors the steps they are required to 
+take after receiving an accommodation request they are not designated to handle, such 
+as  referring  it  within  a  specified  time  frame  to  the  agency  official  who  is  authorized  to 
+take action on the request.  (See Section II, below, for suggested language). 
+
+IMPLEMENTATION TIPS 
+
+Help managers and supervisors recognize requests.  
+
+Train managers and supervisors how to recognize reasonable accommodation requests 
+so that they can refer the requests to the designated decision maker or issue a decision 
+themselves  if  authorized  to  do  so.  Managers  and  supervisors  should  be  specifically 
+instructed  to  consider  whether  there  is  any  accommodation  obligation  before  denying 
+any  request  for  an  adjustment  or  change  at  work  for  a  reason  related  to  a  medical 
+condition.  See EEOC Enforcement Guidance:  Reasonable Accommodation and Undue 
+Hardship  Under  the  Americans  with  Disabilities  Act  (as  revised  October  17,  2002) 
+(“Reasonable  Accommodation  Guidance”)  at  questions  1-2,  available  at  
+http://www.eeoc.gov/policy/docs/accommodation.html.   
+
+Training  should  address  what  legally  constitutes  an  accommodation  request.    It  should 
+also  include  examples  of  frequently  overlooked  accommodation  requests,  such  as 
+requests for unpaid leave for an employee’s own medical condition beyond the amount 
+of  leave  available  under  the  Family  and  Medical  Leave  Act  (FMLA).  See  Reasonable 
+Accommodation  Guidance  at  question  21  (individual  with  a  disability  requesting  13 
+weeks of leave might be entitled to the 12 weeks maximum allotted under FMLA and the 
+additional  week  as  a  reasonable  accommodation  under  ADA).    Other  frequently 
+overlooked  accommodation  requests  include  those  that  state  the  accommodation  need 
+but do not include a proposed solution, or requests that implicate both the Rehabilitation 
+Act  and  other  requirements  (e.g.,  employer 
+light  duty  programs  or  workers’ 
+compensation). 
+
+Case  Illustration:  Lawler v. United States Postal Service, EEOC Appeal 
+No.  01A01535  (Mar.  27,  2003).    After  employee  exhausted  “temporary” 
+than 
+light  duty,  employer  placed  him 
+
+in  off  duty  status 
+
+rather 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+accommodating  his  disability,  on  the  ground  that  he  did  not  submit  forms 
+specifically  stating  that  he  was  requesting  a  permanent  light  duty  position 
+within  the  allotted  time  frame.    The  Commission  held  that  failure  by 
+complainant to fill out particular forms or to request a permanent light duty 
+position  does  not  absolve  the  agency  of  its  duty  to  provide  a  reasonable 
+accommodation  under  the  Rehabilitation  Act  where  the  agency  was  on 
+notice  of  the  need  for  accommodation.    The  evidence  demonstrated  that 
+had the agency engaged in the interactive process, it could have identified 
+and  provided  to  complainant  a  reasonable  accommodation  without  undue 
+hardship.  
+
+Be aware of special considerations regarding sign language interpretation.   
+
+Make  sure  managers  and  supervisors  are  aware  that  in  some  situations  where  a 
+hearing-impaired  employee  is  known  to  need  a  sign  language  interpreter,  the  agency 
+may  need  to  provide  the  interpreter  for  crucial  events  such  as  training,  safety  talks, 
+discussions  on  work  procedures,  policies  or  assignments,  and  disciplinary  actions, 
+whether or not the employee asks. 
+
+Case  Illustration:      Feris  v.  Environmental  Protection  Agency,  EEOC 
+Appeal  No.  01934828  (August  10,  1995),  request  for  reconsideration 
+denied,  EEOC  Request  No.  05950936  (July  19,  1996).    Agency  violated 
+the  Rehabilitation  Act  where  it  was  aware  that  contract  interpreter 
+arrangements  it  had  made  (rather  than  hiring  staff  interpreters)  were  not 
+providing  complainant  and  others  with  interpretive  services  on  important 
+work-related  occasions,  yet  almost  three  years  elapsed  before  any 
+concrete action was actually taken by the agency to improve the situation.  
+The Commission held that for "a severely hearing impaired employee who 
+can sign, reasonable accommodation, at a minimum, requires providing an 
+interpreter  for  safety  talks,  discussions  on  work  procedures,  policies,  and 
+assignments,  and  for  every  disciplinary  action  so  that  the  employee  can 
+understand  what  is  occurring  at  any  and  every  crucial  time  in  his 
+employment career, whether or not he asks for an interpreter."6     
+
+     6See also Holton v. United States Postal Service, EEOC Appeal No. 01991307 (Nov. 
+7,  2002)  (agency  failed  to  show  it  would  have  posed  an  undue  hardship  to  postpone 
+training  session  when  interpreter  service  cancelled);  Saylor  v.  United  States  Postal 
+Service,  EEOC  Appeal  No.  01A05281  (November  14,  2002)  (agency  found  liable  for 
+denial  of  reasonable  accommodation  in  violation  of  the  Rehabilitation  Act  where  deaf 
+employee was denied a sign language interpreter for a 45-minute safety meeting); Wait 
+v.  Social  Security  Administration,  EEOC  Appeal  No.  01A11629  (October  2,  2003) 
+(agency  violated  Rehabilitation  Act  by  denying  deaf  employee’s  requests  for  an 
+interpreter at the twice-monthly staff meetings; it was not an equally effective alternative 
+accommodation to instead provide complainant with a meeting agenda and suggest she 
+sit  close  to  the  supervisor);  Taylor  v.  Department  of  the  Interior,  EEOC  Appeal  No. 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+                                                 
+Process even unconfirmed oral requests.   
+
+Train managers and supervisors to begin processing oral requests immediately, even if 
+the  agency  is  still  awaiting  a  written  confirmation  from  the  requester.    A  written 
+confirmation  form  from  the  requester  is  not  needed  either  to  evaluate  and  issue  a 
+decision on the request or to provide accommodation.  If the requester does not fill out a 
+required written confirmation form, an agency official can do so, since the form is merely 
+to track requests.  
+
+Educate  managers  on  the  process  for  handling  accommodation  requests, 
+including what to do when they receive a request they are not authorized to handle.   
+
+their  responsibilities  with  respect 
+
+Train  managers  and  supervisors  on 
+to  any 
+accommodation request they receive.  This training should include instructions on what 
+steps to take if they receive an accommodation request they are not authorized to handle 
+themselves, i.e., the name(s) of the individual to whom they should refer the request, and 
+the  time  frame  for  doing  so.      Additionally,  some  agencies  require  that  the  disability 
+program  manager  or  an  equivalent  overseer  of  the  process  be  notified  of  each  such 
+referral, so that he or she can follow up to ensure the request is timely processed and all 
+information is tracked. 
+
+01A34292 (May 3, 2004) (agency’s denial of qualified note taker or captioning service 
+for  deaf  employee  attending  out-of-town  training  constituted  denial  of  reasonable 
+accommodation). 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                                               
+II.  Processing Accommodation Requests   
+
+BASIC ELEMENTS 
+(See 13164 Policy Guidance at questions 7-12): 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+Explain how the agency will handle a request for accommodation, including 
+specifically  what  steps  will  be  followed,  and  identify  from  whom  the 
+individual will receive a final decision.    
+
+Authorize first-line supervisors to process and approve requests whenever 
+possible.   
+
+Require  decision  makers  to  communicate  with  the  individual  requesting 
+accommodation where the specific limitation, problem, or barrier is unclear; 
+an  effective  accommodation  is  not  obvious;  or  where  the  parties  are 
+choosing between different possible reasonable accommodations. 
+
+List resources that individuals with disabilities and agency decision makers 
+can consult to identify and evaluate possible accommodations.  
+
+DRAFTING TIPS 
+
+Identify decision makers and steps for referring request to authorized official. 
+
+Specify the decision maker and explain the steps managers and supervisors must follow 
+when they receive an accommodation request on  which they are not authorized to act.  
+Ensure  that  the  procedures:    (1)  identify  who  (by  position  title,  such  as  first-line 
+supervisor,  office  director,  etc.)  is  authorized  to  make  decisions  on  different  types  of 
+requests;  (2)  explain  specifically  what  types  of  requests  (e.g.,  ordering  assistive 
+technology,  removing  architectural  barriers,  etc.)  should  be  forwarded  to  the  identified 
+decision maker; and (3) provide for a referral system with time frames.   
+
+For example, procedures can include the following language:  “As a first step, the staff 
+member who receives the request must determine who will be responsible for handling it.  
+If it is another staff member, s/he should forward it to the appropriate official within three 
+days of receipt, with a copy of the referral to the disability program manager.”  In addition, 
+the  procedures  could  require  that  the  staff  member  promptly  notify  the  requester  to 
+whom the request has been referred for handling. 
+
+Case Illustration:   Wheeler v. Department of the Army, EEOC Appeal No. 
+01A30318  (Sept.  30,  2004).    Agency  liable  under  Rehabilitation  Act  for 
+denial  of  accommodation  based  on  undue  delay  in  responding  to 
+employee’s  original  accommodation  request.    Official  took  no  action  on 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+employee’s request for reserved accessible parking space because it was 
+not within his authority to grant the request, and failed to forward it to the 
+agency official who was authorized to act.   
+
+Explain who will communicate with the requester.   
+
+Explain who will notify the individual requesting accommodation of the decision to grant 
+or deny it.  Where an agency cannot designate in the procedures exactly which official 
+will  be  processing  an  accommodation  request  because  this  is  not  known  in  advance, 
+instead  create  a  standardized  mechanism  for  case-by-case  notification.    For  example, 
+procedures might include language of the following type: “Once a request is received by 
+the  decision  maker,  he  or  she  will  (1)  acknowledge  the  request;  (2)  explain  to  the 
+applicant  or  employee  that  s/he  will  be  making  the  decision  on  the  request;  and  (3) 
+describe what will happen in the processing of the request.” 
+
+Designate back-ups.   
+
+Provide  for  back-up  decision  makers,  to  permit  the  agency  to  continue  receiving  and 
+processing  requests  and  providing  reasonable  accommodations  when  the  primary 
+decision maker is unavailable. 
+
+Describe step-by-step how to evaluate and resolve an accommodation request.  
+
+Explain  the  steps  for  handling  an  accommodation  request,  including  engaging  in  an 
+“interactive process” to obtain and share information.  These steps might include referral 
+of  the  request  to  the  authorized  decision  maker  (see  above),  communicating  with  the 
+requester to clarify the request, obtaining and exchanging information with the requester 
+to  the  extent  necessary  regarding  needs  and  alternatives,  searching  for  solutions, 
+consulting  agency  and  outside  resources,  determining  whether  the  requester  is  an 
+individual  with  a  disability,  evaluating  possible  accommodations,  issuing  a  decision  on 
+the request, and if granted, providing the accommodation.    
+
+Require an interactive process where needed, and explain how to do it. 
+
+Require  the  decision  maker  to  communicate  with  the  individual  where  the  specific 
+limitation,  problem,  or  barrier  is  unclear,  where  the  effective  accommodation  is  not 
+obvious, or when choosing among different possible accommodations. 
+
+Make  clear  that  by  failing  to  engage  in  this  “interactive  process”  in  appropriate 
+circumstances,  the  agency  risks  providing  an  accommodation  that  is  ineffective,  or 
+improperly  denying  reasonable  accommodation,  because  it  is  unaware  of  alternatives 
+that  the  individual  with  the  disability  or  an  outside  expert  might  have  suggested  if 
+consulted.    Provide  guidance  to  managers  and  supervisors  or  designated  decision 
+makers  regarding  how  to  engage  in  the  “interactive  process”  upon  receipt  of  an 
+accommodation request.  
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+List outside sources for information and advice. 
+
+List  resources  for  identifying  and  evaluating  possible  accommodations  that  individuals 
+with  disabilities  and  agency  decision  makers  may  consult,  and  provide  specific  contact 
+information.  Encourage decision makers to use these resources as needed. 
+
+Denials based on “undue hardship” must consider overall employer resources. 
+
+State clearly that the overall resources and options available to the employer are legally 
+relevant  in  determining  whether  a  requested  reasonable  accommodation  poses  an 
+undue  hardship,  not  just  the  budget  or  resources  of  an  individual  segment,  sub-
+component, or division within an agency or department. 
+
+Case  Illustration:    Feris  v.  Environmental  Protection  Agency,  EEOC 
+Appeal No. 01934828 (Aug. 10, 1995), request for reconsideration denied, 
+EEOC Request No. 05950936 (July 19, 1996).  Agency failed to establish 
+that  hiring  a  full-time  staff  interpreter  to  accommodate  complainant  and 
+eight  other  deaf  employees  at  headquarters  would  have  posed  an  undue 
+hardship,  where  the  agency  was  on  notice  that  its  contract  interpreter 
+arrangement was ineffective.  In reaching this conclusion, the Commission 
+cited,  among  other  things,  evidence  that  the  agency  failed  to  request 
+personnel  ceiling  relief  to  permit  hiring  a  staff  interpreter,  and  that  the 
+decision  not  to  hire  a  staff  interpreter  was  attributable  to  management 
+priorities  for  allocating  resources,  not  the  budget  shortfall  or  partial  hiring 
+freeze. 
+
+Require  upper-level  review  before  denying  an  accommodation  based  on  “undue 
+hardship.” 
+
+in 
+
+the  chain  of  command  who  can  determine  whether 
+
+Require  that  before  denying  an  accommodation  request  based  on  cost  or  operational 
+difficulty,  a  decision  maker  must  obtain  review  from  a  designated  office  or  individual 
+higher 
+the  proposed 
+accommodation would in fact pose an undue hardship. Because the employer’s overall 
+resources must be considered, an agency may want to have potential decisions to deny 
+a  requested  accommodation  due  to  undue  hardship  made  by  higher-level  officials  with 
+more  expertise  and  broader  authority  than  the  official  authorized  to  grant  an 
+accommodation request.  All denials of accommodation requests must be in writing and 
+must provide a specific explanation of the grounds for denial.  See Section VII, below. 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Specify who is responsible for actually providing any accommodations granted. 
+
+Specify  who  is  responsible  for  actually  providing  an  accommodation  after  the  agency 
+grants  a  request.    For  example,  the  procedures  could  specify  that  a  supervisor  who 
+grants  a  request  is  also  responsible  to  follow  through  and  make  any  necessary 
+arrangements  to  ensure  that  the  accommodation  is  provided  within  the  applicable  time 
+limit.  Otherwise, an agency risks insufficient follow-through after a request is granted. 
+
+Avoid conflicts of interest. 
+
+Where  an  agency’s  EEO  staff  participates  in  deciding  accommodation  requests,  an 
+actual or perceived conflict of interest may arise if a requester subsequently files an EEO 
+complaint  and  the  EEO  staff  is  responsible  for  determining  if  their  own  actions  were  in 
+accordance with the Rehabilitation Act. 
+
+Therefore,  do  not  assign  agency  EEO  staff  a  decision  making  role  in  processing 
+reasonable  accommodation  requests.    Limit  the  role  of  EEO  staff,  if  any,  to 
+administrative  tasks  such  as  referring  requests  to  a  designated  decision  maker  or 
+collecting and tracking information on requests.  
+
+In  the  alternative,  if  EEO  staff  is  given  a  decision  making  role  in  accommodation 
+requests,  provide  in  the  procedures  that  the  staff  member  will  recuse  him/herself  from 
+handling any EEO complaint on the same matter.  Recusal is a safeguard against actual 
+or apparent conflicts of interest, and can be used even by small agencies that have only 
+one or two EEO staff members by designating an agency official outside the EEO office 
+who will be authorized to handle EEO matters where a potential conflict of interest arises. 
+
+For example, procedures might include language of the following type:   “Any EEO Office 
+staff  member  who  has  any  involvement  in  processing  a  request  for  reasonable 
+accommodation should recuse him/herself from investigating or decision making on any 
+subsequent  EEO  counseling  contact  or  complaint  challenging  the  agency’s  handling  of 
+the accommodation request.”   
+
+IMPLEMENTATION TIPS 
+
+Consider making certain accommodations available to any employee. 
+
+Although  an  agency  is  not  legally  required  to  provide  an  accommodation  unless  the 
+requesting  applicant  or  employee  is  an  “individual  with  a  disability”  under  the 
+Rehabilitation  Act,  it  may  offer  accommodation  without  making  this  determination.      In 
+fact,  many  employers  choose  to  implement  procedures  for  uniformly  granting  requests 
+for  certain  types  of  accommodations  that  can  be  readily  and  inexpensively  provided 
+without  determining  whether  the  requester  is  an  individual  with  a  disability.      In  such 
+instances, an agency is free to notify the individual that no determination has been made 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+as  to  whether  he  or  she  is  an  individual  with  a  disability,  and  the  agency’s  decision  to 
+grant the request is not based on the Rehabilitation Act requirements. 
+
+Designate an agency expert as a resource and coordinator. 
+
+Consider  whether  it  would  be  useful  to  have  a  disability  program  manager  or  similar 
+designated  expert  to  serve  as  a  resource  and  oversee  the  agency’s  reasonable 
+accommodation  process.    See  13164  Policy  Guidance  at  question  9.    Some  agencies 
+have designated a single individual to coordinate for the agency overall, and others have 
+additionally  assigned  individuals  to  serve  that  function  at  the  regional,  local,  or  facility 
+level.  Agencies have utilized such individuals in a variety of ways, including:   
+
+(cid:131) 
+
+(cid:131) 
+
+(cid:131) 
+
+(cid:131) 
+
+(cid:131) 
+
+to  advise  managers  and  supervisors  who  are  processing  accommodation 
+requests;  
+
+to decide particular requests referred to them due to level of difficulty or nature of 
+the request;  
+
+to request and/or review medical documentation to determine if a requester is an 
+“individual with a disability”;  
+
+to  maintain  medical  information  in  confidential  files,  and  oversee  information 
+tracking; and  
+
+to  provide  ongoing  assessment  of  the  agency’s  reasonable  accommodation 
+program. 
+
+Provide training for all agency officials responsible for processing requests. 
+
+Make  sure  appropriate  training  is  provided  to  all  agency  officials  responsible  for  (1) 
+determining  whether  the  requester  is  an  “individual  with  a  disability”  under  the 
+Rehabilitation Act, and (2) engaging in the interactive process. 
+
+Search for a solution even if the employee has not proposed one. 
+
+Where  an  individual  requesting  reasonable  accommodation  is  able  to  identify  the 
+problem, but not a solution, some employers make the mistake of refusing to act on such 
+requests,  or  placing  the  burden  solely  on  the  employee  to  find  an  accommodation 
+solution.    Instead,  the  employer  should  engage  in  the  interactive  process  and  try  to 
+identify a solution, consulting outside resources if necessary. 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Search for alternatives if the employee’s proposed solution is ruled out. 
+
+Where  an  individual  requests  a  particular  accommodation  that  is  not  effective  or  would 
+pose an undue hardship, or is otherwise not legally required (e.g., removing an essential 
+job  function),  some  employers  mistakenly  discontinue  the  interactive  process.    The 
+employer  should  continue  the  interactive  process,  exploring  alternatives  until  either  a 
+reasonable  accommodation  is  found  or  the  employer  determines  no  accommodation  is 
+available.   
+
+Ensure  that  managers  and  supervisors  are  aware  of  the  range  of  possible  types  of 
+accommodations,  including:    making  physical  modifications  to  the  workplace;  acquiring 
+equipment  or  adaptive  devices;  modifying  existing  equipment;  modifying  policies; 
+restructuring a job (swapping or eliminating marginal functions), granting part-time work, 
+modifying  a  work  schedule;  providing  sign  language  interpreters  or  readers,  granting 
+leave  (use  of  accrued  paid  leave,  or  permitting  unpaid  leave),  permitting  telework,  or 
+reassignment to a vacant position. 
+
+Require  decision  makers  to  consult  with  a  higher-up  before  denying  a  request 
+based on undue hardship. 
+
+Require  decision  makers  to  consult  with  an  appropriate  official  before  denying  a 
+proposed accommodation on the basis of cost or operational difficulty.  Consultation with 
+the appropriate official in the chain of command, the disability program manager, or other 
+individual  who  can  determine  whether,  based  on  the  employer’s  resources  overall,  the 
+proposed  accommodation  would  pose  a  significant  difficulty  or  expense  will  reduce  the 
+risk that managers or supervisors will deny a  request based solely on the resources of 
+their individual office budgets or based merely on speculation. 
+
+Case Illustration:  Calero-Cerezo v. U.S. Department of Justice, 355 F.3d 
+6 (1st Cir. 2004).  Summary judgment for employer denied, where, among 
+other  things,  there  was  no  evidence  offered  in  support  of  the  employer’s 
+generalized contention that plaintiff’s accommodation request for a transfer 
+was unworkable and unprecedented, and there was no evidence that any 
+variants  of  plaintiff’s  proposal  were  considered  or  would  have  posed  an 
+undue hardship. 
+
+Consider implementing centralized funding mechanisms. 
+
+Consider implementing funding mechanisms that will avoid charging individual offices for 
+the cost of accommodations, for example: 
+
+(cid:131)  enter  into  a  partnership  with  the  Department  of  Defense  Computer/  Electronic 
+Accommodations  Program  (CAP),  http://www.tricare.osd.mil/cap,  which  offers 
+assistive technology, devices, and services at no cost to the partner agency; 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(cid:131)  establish  a  central  fund  for  all  accommodation  costs  not  covered  by  a  CAP 
+contract, based on funds allocated by the agency or by annual contributions from 
+the  sub-components  (note:    in  the  absence  of  a  central  fund,  agencies  might 
+consider  advising  their  sub-components  to  anticipate  expenses  for  reasonable 
+accommodations  and  include  those  expenses  as  a  part  of  their  budget  planning 
+requests each fiscal year); 
+
+(cid:131)  create  a  central  pool  of  staff  assistant  slots,  not  included  in  a  requesting  office's 
+personnel ceiling, to provide readers, interpreters, and other assistants throughout 
+the  agency,  as  authorized  under  the  non-competitive  Schedule  A  authority,  5 
+C.F.R. § 213.3102 (ll).  See, e.g., Attachment B (sample provision for making staff 
+assistant slots available). 
+
+Review and revise policies that may hinder prompt processing of requests. 
+
+Review  and  modify,  in  advance  of  a  specific  request,  any  policies  that  might  affect  the 
+agency's  ability  to  respond  promptly  to  requests  for  reasonable  accommodation.    See 
+13164 Policy Guidance at question 15.  Among the policies that should be reviewed are 
+those that affect:  
+
+(cid:131)  purchasing or leasing of equipment;  
+
+(cid:131)  hiring of, or contracting for, readers, interpreters, or other assistants; and 
+
+(cid:131) 
+
+flexibility to approve leave or to restructure work schedules.   
+
+Ensure individualized assessment of safety risks. 
+
+Ensure  that  managers  and  supervisors  conduct  an  individualized  assessment  of 
+objective  information  before  denying  a  requested  accommodation  because  of  safety 
+concerns.    An  individualized  assessment  requires  a  case-by-case  determination  of 
+whether  the  specific  risk  posed  by  the  individual  poses  a  high  probability  of  substantial 
+harm.  Agencies may also require that proposed denials based on direct threat concerns 
+be reviewed by specially-trained higher-level officials. 
+
+Case  Illustration:    Evanovich  v.  United  States  Postal  Service,  EEOC 
+Appeal No. 07A20029 (May 13, 2004).  Agency violated Rehabilitation Act 
+by  refusing  to  accommodate  employee  who  needed  to  perform  his  duties 
+while sitting in a chair rather than standing.  While the agency asserted that 
+the requested accommodation of a chair would present a tripping hazard to 
+other  employees,  it  made  no  effort  to  evaluate  the  actual  risk  of  potential 
+harm  from  use  of  a  chair  in  the  particular  location  where  this  employee 
+worked, and whether an alternative effective accommodation existed. 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III.  TIME LIMITS 
+
+BASIC ELEMENTS 
+(See 13164 Policy Guidance at questions 13-14): 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+Specify  the  time  frame  in  which  a  reasonable  accommodation  request  will 
+be granted or denied, absent extenuating circumstances. 
+
+Make  time 
+accommodations as short as reasonably possible.  
+
+limits  for  processing  requests  and  providing  reasonable 
+
+Require  expedited  processing  when  necessary,  for  example  to  enable  an 
+individual  to  apply  for  a  job  or  to  participate  in  a  specific  agency  activity 
+that is scheduled to occur shortly. 
+
+List  any  “extenuating  circumstances”  that  may  cause  delay,  limited  to 
+factors  that  could  not  reasonably  have  been  anticipated  or  avoided  in 
+advance of the request for accommodation. 
+
+Require  that  the  individual  be  notified  of  the  reason  for  any  delay  in 
+responding to a request for or providing a reasonable accommodation, and 
+that the individual be kept informed of the date on which the agency expects 
+to complete the process. 
+
+Require  the  agency  to  investigate  and  implement  temporary  measures  to 
+assist the individual with a disability during any period of processing delay.  
+
+DRAFTING TIPS  
+
+Make time limits mandatory. 
+
+Specifically  designate  a  time  period  within  which  all  accommodation  requests  must  be 
+processed  absent  extenuating  circumstances.      Use  of  mandatory  time  frames  as 
+required by E.O. 13164 is more effective than mere goals in ensuring timely processing 
+of  requests  and  avoiding  delays  which  can  constitute  a  denial  of  accommodation  in 
+violation of the Act. 
+
+Require prompt processing regardless of time limit. 
+
+Make clear that no matter what period of time is allowed, requests should be handled as 
+promptly  as  possible.    The  procedures  should  explain  and  illustrate  through  examples 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+that a failure to process some accommodation requests in a timely fashion may result in 
+“undue  delay”  in  providing  requested  accommodation  to  a  qualified  individual  with  a 
+disability, thereby violating the Rehabilitation Act. 
+
+Case  Illustration:      Reagins  v.  United  States  Postal  Service,  EEOC 
+Appeal  No.  01974481  (Apr.  6,  2000).    Agency  liable  for  denial  of 
+reasonable  accommodation  where  it  initially  placed  complainant  on  leave 
+without  pay  rather  than  search  for  a  reassignment  within  her  medical 
+restrictions.    The  Commission  noted  that  reassignment  could  have  been 
+provided by the agency when accommodation was originally requested, as 
+demonstrated by the fact that once complainant started to collect workers’ 
+compensation lost wages benefits and it became in the agency’s financial 
+interest to search for a vacancy, the agency then immediately offered her a 
+permanent limited duty position.  
+
+Use a reasonably quick time period. 
+
+Provide  a  reasonably  quick  time  period  for  processing  requests.    To  address  any 
+concerns about time that elapses while awaiting requested documentation or information 
+from  the  requester  or  his/her  health  care  provider,  the  procedures  can  provide  that  the 
+time limit will be frozen while waiting, and that the clock will restart when the response is 
+received.    Whether  by  using  such  a  mechanism  or  by  another  means,  make  sure  that 
+some designated time period applies once the agency receives the response.  
+
+the  employee  has  a  disability  and  needs 
+
+For  example,  an  agency’s  procedures  provide  that  a  decision  on  a  request  for 
+reasonable accommodation will be made within 15 days of the request, but that the time 
+limit  is  frozen  while  awaiting  requested  medical  information.  Three  days  after  an 
+accommodation  is  requested,  the  agency  determines  that  documentation  is  needed  to 
+substantiate  whether 
+the  requested 
+accommodation.  If the agency requests the needed medical documentation that day, the 
+agency  will  have  12  days  within  which  to  process  and  make  a  decision  on  the 
+accommodation  request  once  it  has  received  appropriate  documentation  from  the 
+employee.  This procedure allows an agency to exclude from the time frame the period 
+during which it is waiting to receive information it has requested from the individual or his 
+or  her  health  care  provider,  but  also  ensures  that  once  the  agency  receives  medical 
+information,  a  time  frame  applies  to  its  review  of  the  material,  completion  of  the 
+interactive process, and issuance of a decision on the accommodation request. 
+
+State when each time frame begins to run, and make sure there are no gaps. 
+
+State with specificity when each time frame begins to run.  For example, if an agency’s 
+procedures set a 15-day time limit for processing the request, but fail to specify whether 
+the time limit begins to run from the date the request was initially made or the date it is 
+referred to the decision maker, there will be uncertainty as to how the time limit applies. 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Make  sure  that  time  periods  apply  throughout  the  processing  of  an  accommodation 
+request.  For example, if an agency’s procedures set a 15-day time limit for processing 
+the request, but freeze the time limit indefinitely while reviewing medical documentation, 
+there will be an open-ended gap in the process during review of medical documentation 
+to which no time limit applies at all. This undermines the purpose of having time frames 
+in place to avoid undue delay in processing requests. 
+
+It  may  also  be  helpful  to  specifically  designate  someone,  such  as  a  Disability  Program 
+Manager,  to  oversee  adherence  to  these  time  frames  and  to  identify  this  person  in  the 
+procedures.  See “Designate an agency expert as a resource and coordinator” in Section 
+II, above (discussion of some possible roles and responsibilities for a Disability Program 
+Manager or equivalent position). 
+
+Define “extenuating circumstances” to time frames clearly. 
+
+Define the term “extenuating circumstances,” see 13164 Policy Guidance at question 14, 
+and  give  examples  which  illustrate  that  the  concept  is  very  limited,  including  only  such 
+things as waiting for needed medical information from an individual’s health care provider, 
+waiting for equipment that is on back-order and cannot be otherwise obtained, or other 
+factors outside an agency’s control.    
+
+Absent  clearly  and  accurately  defined  examples  of  what  are  and  are  not  extenuating 
+circumstances,  managers  may  think  departure  from  the  established  time  limits  is 
+warranted  where  in  fact  it  is  not.    For  instance,  listing  review  of  needed  medical 
+documentation  as  an  “extenuating  circumstance”  is  misleading.    Waiting  to  receive 
+medical  documentation  from  a  third  party  can  be  an  “extenuating  circumstance,”  but 
+review of the documentation once received should be subject to a time limit.  Similarly, it 
+would  be  erroneous  to  list  the  conduct  of  an  examination  or  review  of  medical 
+documentation  from  the  agency’s  own  physician  or  other  expert  as  an  “extenuating 
+circumstance.”    Generally,  delay  by  the  agency’s  chosen  medical  expert  is  not  an 
+“extenuating circumstance,” because he or she is generally considered to be within the 
+agency’s  control,  even  if  performing  services  on  a  contract  basis.    In  any  event,  as  a 
+practical  matter,  if  delays  are  occurring  with  respect  to  review  by  a  contract  medical 
+expert, the agency may address this in the terms of the contract. 
+
+Require expedited processing where needed. 
+
+Require  expedited  processing  in  the  event  of  a  time-sensitive  accommodation  request, 
+and  provide  examples  in  the  procedures  to  assist  managers  and  supervisors  in 
+understanding when this might be necessary, such as to enable an individual to apply for 
+a job or participate in a specific agency activity that is scheduled to occur shortly.   
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Require  processing  of  request  and  delivery  of  accommodation  within  the 
+designated time limit. 
+
+Provide  a  time  limit  that  addresses  both  the  time  allotted  to  process  the  request  and 
+deliver or implement the accommodation if granted.  Procedures that are unclear about 
+whether the processing time allotted includes actual delivery of the accommodation may 
+result in undue delay. 
+
+Provide for temporary measures in the event of delay. 
+
+Require  that  in  the  event  of  a  delay,  the  responsible  agency  official  should  confer  with 
+the individual and consider providing temporary measures. 
+
+For  example,  where  an  employee  requests  a  schedule  or  shift  change  as  an 
+accommodation  due  to  the  side  effects  of  medication,  the  agency  is  free  to  grant  the 
+accommodation  on  a  temporary,  provisional  basis  while  considering  the  request,  e.g., 
+obtaining  medical  documentation  and  determining  whether  or  not  the  employee  is  an 
+individual  with  a  disability  who  needs  the  accommodation  requested.    Similarly,  where 
+the agency grants a request for certain computer software for a vision-impaired individual 
+but there will be a delay in obtaining it, the services of a reader might be provided in the 
+interim.  In a situation where the agency agrees to make certain structural renovations, it 
+might  permit  the  individual  to  telework  temporarily  until  the  facility  is  accessible.  
+Including examples such as these in procedures will assist managers and supervisors to 
+understand when and how temporary measures might be utilized. 
+
+IMPLEMENTATION TIPS 
+
+Wherever possible requests should be processed in less time than the limit allows. 
+
+Ensure that managers and supervisors understand that the provision of a maximum time 
+limit in the procedures does not mean that they can or should take the full length of time 
+allotted in each case.  Many requests can be processed within days, and failure to do so 
+could  constitute  undue  delay  in  violation  of  the  Rehabilitation  Act.    Encourage  agency 
+officials not to take the full processing time allotted in a situation where a request can be 
+readily granted and provided in much less time than the procedures allow. 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IV.  MEDICAL INFORMATION 
+
+BASIC ELEMENTS 
+(See 13164 Policy Guidance at questions 16-19): 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+(cid:31) 
+
+Require  medical  documentation  only  when  needed  to  evaluate  the 
+accommodation request.  
+
+Explain  that  the  agency  may  request,  and  an  individual  requesting  an 
+accommodation  is  required  to  provide,  appropriate  medical  information 
+related  to  the  functional  impairment  and  the  requested  accommodation 
+where  the  disability  and/or  need  for  accommodation  is  not  obvious  or 
+already known.   
+
+Explain  that  the  agency  has  a  right  to  request  relevant  supplemental 
+medical information if the information submitted does not clearly explain (i) 
+the  nature  of 
+the  reasonable 
+accommodation, or otherwise clarify how the requested accommodation will 
+assist the employee to perform the essential functions of the job or to enjoy 
+the benefits and privileges of the workplace, or assist an applicant with the 
+application process.  
+
+the  disability,  or 
+
+the  need 
+
+for 
+
+(ii) 
+
+Explain the agency's right to have medical information reviewed by its own 
+medical expert at the agency’s expense.   
+
+Identify  the  types  of  medical  information  or  documentation  the  decision 
+makers may and may not request. 
+
+Encourage  decision-making  officials  to  identify  to  an  individual  who  has 
+provided insufficient documentation the information still needed.   
+
+State  the  circumstances  under  which  the  agency  may  ask  the  individual 
+requesting accommodation to be examined by the agency’s physician at the 
+agency’s expense. 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+DRAFTING TIPS  
+
+Expressly  warn  against  asking  for  medical  information  in  support  of  every 
+accommodation request. 
+
+Expressly state that the agency may not request medical information in support of every 
+accommodation  request,  but  rather  may  require  reasonable  information/documentation 
+where the disability and/or need for accommodation is not obvious or otherwise known. 
+Make clear that when this standard is met, the agency may only seek that documentation 
+which  is  reasonably  necessary  to  establish  that  the  requester  is  an  individual  with  a 
+disability and needs the accommodation requested.   
+
+Don’t inadvertently ask for more medical information than is permitted. 
+
+Be  careful  not  to  inadvertently  require  medical  documentation  beyond  what  the 
+Rehabilitation Act allows.  For example, procedures should not: 
+
+(cid:131)  use  a  form  (either  a  confirmation  of  request  form  or  a  request  for  medical 
+information  form)  that  requires  every  individual  requesting  accommodation  to 
+submit supporting medical documentation; 
+
+(cid:131)  advise  decision  makers  to  ask  for  medical  information  far  exceeding  what  is 
+reasonably necessary to assess a given request, such as all information defined 
+in 5 C.F.R. § 339.102;  
+
+(cid:131)  use  a  medical  release  form  that  constitutes  a  general  release  for  all  medical 
+
+records; or, 
+
+(cid:131)  use  a  pre-printed  form  to  request  medical  information  that  is  not  reasonably 
+necessary to determine if the requester is an individual with a disability and needs 
+accommodation. 
+
+For  example,  an  error  can  easily  occur  if  in  response  to  an  employee’s  request  for  a 
+different  type  of  keyboard  due  to  carpal  tunnel  syndrome,  the  decision  maker  requests 
+medical  information  using  a  pre-printed  general  medical  inquiry  form  that  asks  for 
+medical  information  on  a  variety  of  unrelated  physical  and  mental  conditions.    If  the 
+decision maker fails to delete those portions of the form that ask for records not related 
+the 
+to  carpal 
+Rehabilitation  Act,  because 
+the 
+accommodation request. 
+
+the  agency  has  violated 
+to 
+
+tunnel  syndrome,  even  unintentionally, 
+
+that  medical 
+
+information 
+
+relevant 
+
+is  not 
+
+Case Illustration:  McDonnell v. Navy, EEOC Appeal No. 01A04036 (Sept. 
+13,  2002).    Agency  violated  Rehabilitation  Act  by  delaying  provision  of 
+accommodation  for  four  weeks  while  it  awaited  supporting  medical 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+documentation  from  employee,  where  employee  had  previously  submitted 
+sufficient  documentation  to  demonstrate  he  was  an  individual  with  a 
+disability  and  needed  the  accommodation  requested.    Agency  violated 
+Rehabilitation Act both by making an improper disability-related inquiry for 
+unnecessary  medical  documentation,  and  by  delaying  the  provision  of 
+accommodation in the meantime.  
+
+Case Illustration: Gamelin v. United States Postal Service, EEOC Appeal 
+No.  01A22307  (Jan.  5,  2004).    The  Commission  rejected  the  agency’s 
+contention  that  diabetic  employee’s  doctors’  letters  were  insufficiently 
+detailed  to  show  her  need  for  a  schedule  change.    The  letters  explained 
+that  a  change  from  her  current  six-day,  split-shift  schedule  to  a  five-day, 
+40-hour per week schedule would permit her to avoid serious hypoglycemic 
+reactions  by  allowing  her  to  get  adequate  rest  and  have  more  regularly 
+scheduled times for eating, sugar testing, and insulin management.  
+
+Explain what types of medical information or documentation can be sought. 
+
+Explain the types of medical information or documentation that may be requested where 
+necessary  to  determine  if  the  requester  is  an  individual  with  a  disability  and  needs  the 
+accommodation requested, see 13164 Policy Guidance at question 17, such as:  
+
+(cid:131) 
+
+the  past,  present,  and  expected  future  nature,  severity  and  duration  of  the 
+impairment (e.g., functional limitations, symptoms, side effects of any treatments, 
+etc.);  
+
+(cid:131) 
+
+the activities the impairment limits;  
+
+(cid:131) 
+
+the extent of the limitations; and 
+
+(cid:131)  why 
+
+the 
+
+individual  requires  reasonable  accommodation  or 
+
+the  particular 
+reasonable  accommodation  requested,  and  how  the  reasonable  accommodation 
+will  assist  the  individual  to  apply  for  a  job,  perform  the  essential  functions  of  the 
+job, or enjoy a benefit of the workplace.   
+
+Avoid using any pre-printed medical information forms where possible.  Instead, provide 
+in the procedures that the agency official processing the request should determine on a 
+case-by-case  basis  whether  information  regarding  any  of  the  above  is  reasonably 
+needed in order to determine if the requester is an individual with a disability and needs 
+the accommodation requested. 
+
+Address how and when to obtain review by the agency’s own medical expert. 
+
+Explain in detail when and how agencies may have medical documentation reviewed by 
+a  medical  expert  and/or  require  the  requester  to  go  to  a  health  care  provider  of  the 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+agency’s  choice.    Explain  that  the  agency  will  pay  the  cost  of  having  its  own  medical 
+expert conduct an examination or review documentation.   
+
+to 
+
+in  response 
+
+the  agency’s 
+
+initial  request 
+
+For  example,  procedures  might  include  language  of  the  following  type:    “If  the 
+for  medical 
+information  submitted 
+documentation  does  not  clearly  explain  the  nature  of  the  disability  or  the  need  for 
+reasonable  accommodation, 
+the  agency  may  request  reasonable  supplemental 
+documentation.    The  processing  official  should  explain  to  the  requesting  individual  why 
+the documentation is insufficient and what information is needed.  The processing official 
+can  allow  the  individual  an  opportunity  to  provide  the  information,  or  may  alternatively 
+ask  the  individual  to  sign  a  limited  release  and  then  either  submit  a  list  of  specific 
+questions to the individual’s health care professional or have the agency’s own physician 
+contact  the  individual’s  health  care  provider.    If  this  does  not  result  in  sufficient 
+information, the agency may require the requester to go to a health care provider of the 
+agency’s  choice  at  the  agency’s  expense.”  See  generally  13164  Policy  Guidance  at 
+text preceding question 16 and at questions 18-19. 
+
+“Freeze” time frames while awaiting medical information. 
+
+Provide  in  the  procedures  that  when  a  decision  maker  requests  appropriate  medical 
+documentation all time frames freeze until the requester provides the documentation the 
+agency has requested.  This will address any agency concerns about timely processing, 
+yet will avoid misleading agency officials to conclude incorrectly that they have no legal 
+obligation to take action on the accommodation request if the medical documentation is 
+submitted by the requester after the agency’s specified deadline.  See Section III (Time 
+Limits, Drafting Tips). 
+
+Require action even if medical information is received belatedly. 
+
+Make  clear  that  while  agency  officials  need  not  provide  an  accommodation  while 
+awaiting  reasonably  requested  supporting  medical  documentation,  they  must  continue 
+processing  the  accommodation  request  when  the  documentation  is  ultimately  received, 
+even if the documentation is received after the time limit expires.     
+
+Consider different ways to utilize a disability program manager or other expert. 
+
+To  ensure  that  medical  documentation  requests  are  handled  appropriately,  some 
+agencies’  procedures  provide  that  if  a  supervisor  concludes  medical  information  is 
+necessary  to  process  an  accommodation  request,  the  request  must  be  forwarded  to  a 
+trained  disability  program  manager,  reasonable  accommodation  coordinator,  or  other 
+trained  expert  to  review  the  request  and,  if  necessary,  obtain  and  review  the  medical 
+documentation.  This method has three benefits: 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(cid:131) 
+
+(cid:131) 
+
+(cid:131) 
+
+it  leaves  difficult  legal  decisions  (such  as  whether  a  requester  is  a  qualified 
+individual with a disability) in the hands of someone with training and experience 
+in the area; 
+
+it  avoids  the  discomfort  some  individuals  experience  when  they  have  to  provide 
+medical information to supervisors and managers; and  
+
+it  lessens  the  chance  that  the  Rehabilitation  Act’s  confidentiality  rules  will  be 
+violated because it limits the number of people with access to confidential medical 
+information. 
+
+Some  agencies  provide  that  while  supervisors  are  not  required  to  do  so,  they  may 
+choose to seek the assistance of a trained agency expert to help obtain and/or evaluate 
+the documentation.  
+
+IMPLEMENTATION TIPS 
+
+Training on when and how much medical information may be requested. 
+
+is 
+
+imperative 
+
+that  all  staff  given  authority 
+
+It 
+to  review  and  evaluate  medical 
+documentation  receive  training  on  how  to  comply  with  the  Rehabilitation  Act  rules 
+regarding when and how much medical information and documentation may be required.   
+An agency must also ensure that all staff are aware that failing to abide by these rules is 
+an independent violation of the Rehabilitation Act, and that the rules protect all applicants 
+and  employees,  not  just  individuals  with  disabilities.  See  Reasonable  Accommodation 
+Guidance at question 8 and examples.  
+
+Case Illustration:  Vindiola v. United States Postal Service, EEOC Appeal 
+No.  07A20046  (Sept.  16,  2003).    While  the  agency’s  initial  request  for 
+fitness-for-duty information was reasonable following complainant’s seizure 
+at work during which he was injured, the agency exceeded the scope of the 
+disability-related 
+the 
+Rehabilitation  Act  when  it  made  follow-up  requests  for  unrelated  medical 
+history records, including all mental health records. 
+
+inquiries  and  medical  exams  permitted  under 
+
+Training on legal definition of “individual with a disability.” 
+
+All individuals authorized by an agency’s procedures to determine whether a requester is 
+an  “individual  with  a  disability”  under  the  Rehabilitation  Act  should  receive  specific 
+advance training regarding the definition of disability, taking into account relevant EEOC 
+guidance and federal sector appellate decisions as well as U.S. Supreme Court case law. 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Advance  explanation  to  management  regarding  what  information  they  will  be 
+provided. 
+
+If an agency adopts a system in which any needed medical information will be reviewed 
+and assessed solely by a disability program  manager or other expert, it should provide 
+appropriate  advance  explanation  to  supervisors  and  managers  about  the  implications.  
+Due  to  Rehabilitation  Act  confidentiality  rules,  the  expert  will  not  share  with  them  the 
+details  of  the  medical  condition,  but  rather  will  only  share  information  the  supervisor  or 
+restrictions  and 
+manager  needs 
+accommodations.    Absent  this  explanation  to  supervisors  and  managers,  they  may 
+mistakenly believe that they have a right to learn the specifics of an employee’s medical 
+condition  and  may  be  reluctant  to  cooperate  in  providing  accommodation  without 
+receiving this information.  
+
+the  necessary  work 
+
+i.e.,  about 
+
+to  know, 
+
+25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+V.   CONFIDENTIALITY OF MEDICAL INFORMATION  
+
+BASIC ELEMENTS 
+(See 13164 Policy Guidance at questions 20 and 26): 
+
+(cid:31) 
+
+(cid:31) 
+
+Explain  that  all  medical  information  must  be  kept  confidential, 
+meaning maintained in files separate from the individual’s personnel 
+file. 
+
+Explain to whom and under what circumstances medical information 
+may be disclosed. 
+
+DRAFTING TIPS 
+
+List  the  limited  circumstances  under  which  confidential  medical  information  may 
+be disclosed. 
+
+through 
+
+that  medical 
+
+information,  whether  obtained 
+
+reasonable 
+Specify 
+accommodation  process  or  otherwise,  may  only  be  disclosed 
+limited 
+the 
+circumstances described at question 20 of the Policy Guidance.    Explain that “medical 
+information”  includes  the  fact  that  someone  is  receiving  an  accommodation  or  has  a 
+disability,  as  well  as  any  information  concerning  an  individual’s  medical  condition  or 
+history, regardless of whether the information was provided voluntarily or in response to 
+a  disability-related  question.  See  EEOC  Enforcement  Guidance:  Preemployment 
+Disability-Related  Inquiries  and  Medical  Examinations  (Oct.  10,  1995),  available  at 
+http://www.eeoc.gov/policy/docs/preemp.html.   
+
+the 
+in 
+
+Procedures that provide less detailed explanations of the confidentiality obligation by, for 
+example,  stating  only  that  medical  information  must  be  kept  confidential  or  may  be 
+disclosed  “only  in  accordance  with  applicable  law,”  do  not  provide  specific  enough 
+information  to  allow  managers  and  supervisors  to  understand  their  confidentiality 
+obligations. 
+
+Provide examples. 
+
+Ensure that supervisors and managers understand how the confidentiality rules apply by 
+providing real-life examples in the procedures, such as: 
+
+(cid:131)  An  individual  requests  assistive  technology  for  his  computer  as  a  reasonable 
+accommodation.  The technology expert at the agency is consulted regarding the 
+appropriate  computer  equipment.    Although  the  expert  may  need  to  know  the 
+requester’s functional limitations to determine technical needs, she likely does not 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+need to know the requester’s underlying medical condition unless she is also the 
+decision maker on whether the request will be granted.  
+
+(cid:131)  An  individual  requests  and  receives  a  special  lumbar-support  chair  as  a 
+reasonable  accommodation.    The  other  employees  in  the  office  ask  their 
+supervisor  why  their  coworker  is  receiving  “special  treatment.”    The  supervisor 
+would violate the Rehabilitation Act if he revealed that the coworker received the 
+chair as a reasonable accommodation. There is no exception to the Rehabilitation 
+Act’s requirement of confidentiality that allows disclosure of medical information in 
+this  circumstance.    See  Reasonable  Accommodation  Guidance  at  question  42 
+(discussing suggested ways managers can respond to co-worker questions of this 
+sort,  for  example  by  emphasizing  that  it  is  the  employer’s  policy  to  assist  any 
+employee who encounters difficulties in the workplace, pointing  out that many of 
+the  workplace  issues  confronted  by  employees  are  personal,  and  that,  in  these 
+circumstances, it is the employer’s policy to respect employee privacy). 
+
+IMPLEMENTATION TIPS 
+
+Train  managers  and  supervisors  to  forward  medical  documentation  to  the 
+appropriate official. 
+
+Managers  and  supervisors  should  be  trained  to  submit  any  medical  documentation 
+obtained in connection with a request for reasonable accommodation to the designated 
+manager who maintains medical documentation for the employer.  If no such individual 
+has  been  designated,  the  manager  or  supervisor  should  be  instructed  to  keep  the 
+documentation in a separate medical file.   
+
+Educate  managers  and  supervisors  about  the  extent  of  the  confidentiality 
+obligation. 
+
+Make  sure  supervisors  and  managers  understand 
+the  Rehabilitation  Act 
+confidentiality obligation is not limited to the medical diagnosis.  The fact that someone 
+has  requested  an  accommodation,  or  that  something  is  being  provided  as  an 
+accommodation,  also  constitutes  confidential  medical  information.  See  Reasonable 
+Accommodation Guidance at question 42.  
+
+that 
+
+Make clear that the confidentiality obligation applies to everyone. 
+
+Supervisors and managers should be made aware that the confidentiality rules apply to 
+all applicants and employees, whether or not they are individuals with disabilities.  This 
+actually  simplifies  matters  for  supervisors  and  managers  because  they  can  operate  on 
+the premise that all medical information, regardless of how they obtained it or to whom it 
+applies, must be kept confidential. 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case Illustration:   Higgins v. Department of the Air Force, EEOC Appeal 
+No. 01A13571 (May 27, 2003).  The Commission held, in accordance with 
+EEOC policy guidance, that the Rehabilitation Act requires managers and 
+supervisors  to  keep  confidential  the  medical  information  of  all  applicants 
+and employees, whether or not they are individuals with disabilities.  
+
+Emphasize that violations of the confidentiality requirement are serious. 
+
+Supervisors and managers may feel that the confidentiality requirement is less stringent 
+than the Rehabilitation Act’s other nondiscrimination requirements and that a violation of 
+confidentiality will not result in liability for the agency.  Training should emphasize that a 
+violation  of  the  Rehabilitation  Act’s  medical  confidentiality  requirements  exposes  the 
+agency to liability, even if no other action is taken against the individual whose medical 
+information is disclosed. 
+
+Case Illustration:  Brunnell v. United States Postal Service, EEOC Appeal 
+No.  07A10009  (July  5,  2001).    Agency  violated  Rehabilitation  Act  by 
+placing  medical  information  in  complainant’s  official  personnel  file.    The 
+agency  was  ordered  to  pay  compensatory  damages  and  complainant’s 
+costs  incurred  in  prosecuting  the  claim,  as  well  as  to  train  managers  and 
+supervisors on the relevant law and to consider disciplinary action against 
+the responsible agency official. 
+
+Case  Illustration:    Tyson  v.  United  States  Postal  Service,  EEOC  Appeal 
+No.  01992086  (Aug.  23,  2002).    Agency  violated  Rehabilitation  Act  by 
+disclosing complainant’s medical condition and symptoms in a letter mailed 
+to  other  installations  seeking  a  vacancy  to  which  he  could  be  reassigned. 
+Although  the  other  managers  needed  to  be  alerted  to  complainant’s  work 
+restrictions and his need for accommodation, they had no need to know his 
+condition or symptoms. 
+
+Case Illustration:  Gianikos v. United States Postal Service, EEOC Appeal 
+No.  01A21992  (Oct.  16,  2003), request  for  reconsideration  denied,  EEOC 
+Request No. 05A40208 (Jan. 22, 2004).  Complainant’s former supervisor 
+violated 
+the  Rehabilitation  Act  by  disclosing  complainant’s  medical 
+condition  on  an  evaluation  form  sent  to  other  facilities  at  which  he  was 
+seeking a position.  Complainant did not need to show that the disclosure 
+was  the  cause  of  his  non-selection  to  establish  a  violation  of  the 
+Rehabilitation Act.  The agency was ordered to remove all documentation 
+containing  medical  information  from  complainant’s  work  folder  and  train 
+various  management  officials,  with  the  issues  of  compensatory  damages 
+and attorney’s fees remanded to an Administrative Judge. 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VI.    REASSIGNMENT 
+
+BASIC ELEMENTS 
+(See 13164 Policy Guidance at questions 21-23): 
+
+(cid:31) 
+
+(cid:31)   
+
+Explain  when  reassignment  will  be  required  as  a  reasonable 
+if  the  agency  determines  that  no  reasonable 
+accommodation 
+accommodation will permit the employee with a disability to perform 
+the essential functions of his or her current position. 
+
+Identify  the  agency  personnel  responsible  for  conducting  the  search 
+for a reassignment, and require these individuals to consult with the 
+affected employee as necessary to determine:  
+
+•  whether there are limits on the search the employee would like 
+
+the agency to conduct;  
+
+•  whether the employee is qualified for a particular job; and  
+
+•  whether 
+
+the 
+
+reasonable 
+accommodation  to  perform  the  essential  functions  of  a  new 
+position. 
+
+employee  would 
+
+need 
+
+a 
+
+DRAFTING TIPS 
+
+Explain that reassignment may not be considered unless the employee cannot be 
+accommodated in his or her current position, or the employee voluntarily agrees. 
+
+Make  clear  that  reassignment  is  the  accommodation  of  last  resort,  i.e.,  unless  the 
+employee  voluntarily  agrees,  the  employer  cannot  resort  to  reassignment  unless  the 
+employee  cannot  be  accommodated  in  his  or  her  current  position.  State  that  an 
+individual with a disability should not be required to accept a reassignment if there is an 
+accommodation  that  would  allow  the  individual  to  remain  in  his  or  her  current  job  and 
+does  not  pose  an  undue  hardship.    For  more  detailed  information  regarding  the  nature 
+and scope of the reassignment obligation, see Reasonable Accommodation Guidance at 
+text preceding question 25 and at questions 25-31. 
+
+Case Illustration:  Coe v. United States Postal Service, EEOC Appeal No. 
+01A20972  (Aug.  11,  2003).  Agency  violated  Rehabilitation  Act  by 
+reassigning  complainant  to  another  facility  due  to  her  medical  restrictions 
+(knee  arthritis),  instead  of  providing  the  accommodations  she  had 
+requested to enable her to remain in her clerk job (a ramp and a modified 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+failed 
+
+  The  agency 
+
+the  requested 
+work  schedule). 
+accommodations  would  have  posed  an  undue  hardship.    Unless  the 
+employee  voluntarily  agrees  to  the  reassignment  as  an  accommodation 
+solution, reassignment is the accommodation of last resort.  See also Angin 
+& Angin v. United States Postal Service, EEOC Appeal Nos. 01980302 and 
+01982262 (Aug. 22, 2001). 
+
+to  show 
+
+that 
+
+Explain when reassignment must be considered prior to termination. 
+
+Reassignment  must  be  considered  as  an  accommodation  prior  to  terminating  an 
+individual  with  a  disability  who  cannot  be  accommodated  in  his  or  her  current  position.  
+See  13164  Policy  Guidance  at  questions  21-22.    Reassignment  should  be  considered 
+even if not specifically requested, if the employee cannot be accommodated in his or her 
+position.    For  more  detailed  information,  see  Reasonable  Accommodation  Guidance  at 
+text preceding question 25 and at questions 25-31. 
+
+Case  Illustration:    Philippe  v.  Social  Security  Administration,  EEOC 
+Appeal No. 01A12653 (May 15, 2003).  Agency violated Rehabilitation Act 
+when  it  denied  complainant’s  accommodation  request  for  transfer  that 
+would permit her to have a shorter commute needed to avoid exacerbating 
+her  seizure  disorder.    Compensatory  damages  available  because  agency 
+failed to make good faith effort to accommodate. 
+
+Case  Illustration:    Rowlette  v.  Social  Security  Administration,  EEOC 
+Appeal No. 01A10816 (Aug. 1, 2003). Complainant, a claims examiner with 
+stress-induced  eating  disorder,  could  no  longer  perform  an  essential 
+function  of  her  job  (interviewing  members  of  the  public).    Agency  violated 
+Rehabilitation  Act  by  terminating  complainant  instead  of  reassigning  her.  
+Testimony  by  complainant,  her  former  supervisor,  and  an  agency  staffing 
+specialist  established  that  various  positions  for  which  complainant  was 
+qualified were available for reassignment during the relevant time period. 
+
+Include practical guidance regarding reassignment. 
+
+Offer  detailed  practical  guidance  regarding  reassignment  as  an  accommodation  to 
+ensure that decision makers and requesters have a clear idea of what will happen in the 
+process and when it will happen.  Address details such as:  
+
+(cid:131) 
+
+(cid:131) 
+
+the  circumstances  when  it  would  be  appropriate  to  consider  reassignment  as  a 
+reasonable accommodation;  
+
+the  process  for  initiating  a  search  and  developing  search  parameters,  including 
+identifying  the  decision  maker  responsible  for  conducting  the  search,  the  type  of 
+search that would be done (i.e., identifying vacant positions which were equivalent 
+to,  or  at  a  lower  grade  than  the  previous  position,  that  the  individual  with  the 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+disability was qualified to perform), and the scope and the duration of the vacancy 
+search;7 
+
+(cid:131)  extending an offer for the reassigned position;  
+
+(cid:131)  processing acceptance or rejection of the agency offer; and  
+
+(cid:131)  what  happens  when  no  positions  are  identified  (i.e.,  a  final  decision  explaining 
+
+why an accommodation cannot be provided). 
+
+Insufficient  practical  guidance  on  the  steps  for  considering  reassignment  may  lead  a 
+supervisor or manager mistakenly to conclude that a reassignment is not available in a 
+particular situation, resulting in a violation of the Rehabilitation Act. 
+
+Case Illustration:  Dalton v. Department of the Interior, EEOC Appeal No. 
+01940693 (Jan. 4, 1995). When complainant’s office was transferred from 
+Washington,  D.C.  to  Colorado,  he  advised  the  agency  that  medical  risks 
+posed  by  his  disability  precluded  a  cross-country  move.  Prior  to  issuing  a 
+termination  notice,  the  deciding  official  never  personally  investigated 
+reassignment in the Washington area, but merely assumed that Personnel 
+had looked into it. The Chief of the Personnel Division stated that he "may" 
+have  talked  with  appellant  about  the  possibility  of  locating  an  alternative 
+position  for  him  in  Washington,  and  that  he  was  "pretty  sure"  that  there 
+were no positions open with the bureau in the Washington DC area.  Under 
+these  facts,  EEOC  held  that  the  agency  failed  in  its  duty  to  reasonably 
+investigate options for reassigning appellant to a vacant position for which 
+he was qualified.  
+
+Emphasize the importance of communication. 
+
+Emphasize  the  importance  of  communicating  with  the  employee  to  find  out  his  or  her 
+current  job  tasks  and  skills  level,  the  limits  the  employee  may  want  to  place  on  the 
+vacancy search, and the other types of jobs within the agency that the employee may be 
+able to perform.  Lack of communication between the decision maker and requester may 
+lead  to  a  mistaken  denial  of  an  accommodation  request  (if,  for  example,  the  decision 
+maker is not fully aware of the requester’s skills and abilities) or to unnecessary use of 
+
+     7An employer’s obligation to offer reassignment to a vacant position is not limited to 
+vacancies  within  an  employee’s  office,  branch,  agency,  department,  facility,  personnel 
+system (if the employer has more than a single personnel system), or geographical area.  
+This  is  true  even  if  the  employer  has  a  policy  of  prohibiting  transfers  from  one  office, 
+branch, agency, department, facility, personnel system, or geographical area to another.  
+The extent to which an employer must search for a vacant position will be an issue of 
+undue hardship.  See Reasonable Accommodation Guidance at question 27. 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+resources  (such  as  searching  for  a  vacant  position  in  geographic  area(s)  to  which  the 
+requester is unwilling to be reassigned even if a vacancy is available there). 
+
+IMPLEMENTATION TIPS 
+
+Ask what reassignments the requester is willing to accept. 
+
+If  reassignment  is  being  considered,  the  responsible  official  should  explain  to  the 
+employee why the agency has concluded that the employee cannot be accommodated in 
+his or her current position, and should find out (and document) what parameters, if any, 
+the employee has with respect to the reassignment.  For example, the responsible official 
+should inquire whether: 
+
+(cid:131) 
+
+(cid:131) 
+
+(cid:131) 
+
+(cid:131) 
+
+the  employee  is  willing  to  be  reassigned  outside  the  facility  or  outside  the 
+commuting area, and if so, to what locations;  
+
+the employee is willing to be reassigned to a different type of position for which he 
+or she may be qualified, and if so to what type(s);  
+
+the  employee  is  willing  to  be  reassigned  to  a  different  sub-component  of  the 
+department, and if so, to which one(s);  
+
+the employee is willing, if no position is available at his or her current grade level, 
+to be reassigned to a lower-grade position, and if so, down to what grade.  
+
+The  agency  can  then  conduct  the  search  within  the  parameters  the  employee  has  set.  
+This  method  takes  account  of  the  employee’s  preferences  while  at  the  same  time 
+potentially minimizing the scope of the vacancy search the employer needs to conduct. 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VII. 
+
+DENIALS OF REASONABLE ACCOMMODATION 
+
+BASIC ELEMENTS 
+(See 13164 Policy Guidance, Sections F and H): 
+
+(cid:31) 
+
+(cid:31) 
+
+Explain  that  denials  of  requests  for  reasonable  accommodation  must  be  in 
+writing and specifically explain the reasons a request was denied (e.g., why 
+the medical documentation is inadequate to establish that the individual has 
+a  disability  or  needs  reasonable  accommodation,  why  the  requested 
+accommodation  would  not  be  effective,  or  why  the  accommodation  would 
+pose an undue hardship).  
+
+Make  clear  that  denials  of  requests  for  reasonable  accommodation  must 
+include information about the individual's right to file an EEO complaint and 
+to  invoke  other  statutory  processes,  as  appropriate,  as  well  as  the 
+availability of the informal dispute resolution process.   
+
+DRAFTING TIPS 
+
+Explain  that  denials  of  reasonable  accommodation  requests  must  specifically 
+describe the reasons for denial. 
+
+to 
+
+  Attach 
+
+the  procedures  a 
+
+Provide  a  clear  explanation  in  the  procedures  as  to  how  specific  the  reasons  for  denial 
+form  entitled  “Denial  of  Reasonable 
+should  be. 
+Accommodation Request” and state that decision makers should use the attached form.  
+Decision  makers  should  be  told  that  in  addition  to  checking  the  box  that  correctly 
+describes  the  reasons  for  the  denial  in  question  (e.g.,  “accommodation  ineffective,” 
+“accommodation  would  cause  undue  hardship,”  etc.),  they  should  provide  a  detailed 
+description of why the accommodation would, for example, be ineffective or cause undue 
+hardship.  See, e.g., Attachment C (sample denial form that requires decision makers to 
+fill out a checklist as well as provide a narrative explanation). 
+
+Procedures  which  fail  to  provide  a  denial  form  or  which  use  a  less  detailed  form  may 
+cause supervisors and managers to omit or misstate important information. 
+
+Explain that denials must be in writing and include certain specific information. 
+
+State that denials, in addition to being in writing and including the specific reasons for the 
+denial, must also include the following information: 
+
+(cid:131) 
+
+the identity of the employee or office that made the decision;  
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(cid:131) 
+
+if a specific requested accommodation has been denied and another offered in its 
+place, the reasons for the denial and the reasons the agency believes the chosen 
+accommodation will be effective;  
+
+(cid:131) 
+
+information about the individual’s right to file an EEO complaint and to invoke other 
+statutory processes; and  
+
+(cid:131) 
+
+information about the availability of the informal dispute resolution process.  
+
+The  best  way  to  make  certain  that  all  denials  are  in  writing  and  include  the  necessary 
+information is to require decision makers to use a pre-printed denial form and attach that 
+denial  form  to  the  procedures.  See,  e.g.,  Attachment  C  (sample  denial  form  with  pre-
+printed  information  regarding  filing  rights;  this  form  can  be  adapted  to  incorporate 
+information regarding an agency’s own particular reconsideration procedures).   
+
+IMPLEMENTATION TIPS 
+
+Encourage decision makers to consult with an expert. 
+
+Notwithstanding  that  an  agency’s  procedures  may  give  supervisors  or  managers  the 
+authority  to  deny  requests  on  their  own,  a  good  practice  even  for  experienced  decision 
+makers is never to deny an accommodation request without consulting a knowledgeable 
+resource.  The agency’s disability program manager or other reasonable accommodation 
+expert  has  access  to  numerous  resources  and  usually  has  more  experience  than  other 
+decision makers at the agency.  While a particular requested reasonable accommodation 
+may seem like a clear case of “undue hardship” to a supervisor or manager, the agency 
+expert, with access to objective information about the agency’s available resources, may 
+see the situation differently.  
+
+Case  Illustration:      Forde  v.  United  States  Postal  Service,  EEOC  Appeal 
+No. 01A12670 (Oct. 9, 2003).  Agency failed to establish that restructuring 
+complainant’s  job  by  assigning  certain  marginal  functions  to  co-workers 
+would  pose  an  undue  hardship.    The  agency  manager  testified  that 
+assigning  someone  else  the  tasks  that  complainant  could  not  perform 
+"would impact [the manager’s] operation," but provided no description of the 
+impact.    The  manager  also  testified  that  this  accommodation  would  affect 
+other employees, and that she was “not saying that it could not be done, but 
+it's  normally  not  done."    The  Commission  found  these  to  be  conclusory 
+statements  that  were  insufficient  to  demonstrate  the  impact  the  agency's 
+operations  or  its  other  employees.    In  reaching  this  conclusion,  the 
+Commission  also  relied  on  testimony  establishing  that  employees  traded 
+functions  on  a  frequent  basis  and  that  employees  had,  in  the  past,  been 
+excused from various duties. 
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIII.  INFORMATION TRACKING 
+
+BASIC ELEMENTS 
+(See 13164 Policy Guidance at Section G): 
+
+(cid:31) 
+
+(cid:31) 
+
+Ensure  that  the  agency’s  systems  of  record  keeping  track  the 
+processing of requests for reasonable accommodation.  
+
+Explain  that  while  the  an  agency  is  not  required  to  maintain  a 
+particular  record  keeping  system,  documents,  or  databases,  all 
+agencies must be able to identify at least the following information: 
+
+(cid:131) 
+
+(cid:131) 
+
+(cid:131) 
+
+(cid:131) 
+
+(cid:131) 
+
+(cid:131) 
+
+(cid:131) 
+
+(cid:131) 
+
+the  number  of  reasonable  accommodations,  by  type,  that  have 
+been  requested  for  the  application  process  and  whether  those 
+requests have been granted or denied; 
+
+jobs 
+
+(occupational  series,  grade 
+
+level,  and  agency 
+the 
+component)  for  which  reasonable  accommodations  have  been 
+requested; 
+
+the  types  of  reasonable  accommodations  that  have  been 
+requested for each of those jobs;  
+
+the  number  of  reasonable  accommodations,  by  type,  for  each 
+job 
+the  number  of 
+that  have  been  approved,  and 
+accommodations, by type, that have been denied;  
+
+the  number  of  requests  for  reasonable  accommodations,  by 
+type, that relate to the benefits or privileges of employment, and 
+whether those requests have been granted or denied;  
+
+reasons 
+
+the 
+accommodation;  
+
+for  denial  of 
+
+requests 
+
+for 
+
+reasonable 
+
+the  amount  of  time  taken  to  process  each  request  for 
+reasonable accommodation; and  
+
+the sources of technical assistance that have been consulted in 
+trying to identify possible reasonable accommodations. 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DRAFTING TIPS 
+
+Require the completion of a Reasonable Accommodation Reporting Form. 
+
+Explain that after a reasonable accommodation request is granted or denied, the decision 
+maker  should  complete  a  Reasonable  Accommodation  Reporting  form,  which  tracks  all 
+the required information.  Attach the form to the procedures.  Provide instructions on who 
+is to complete the form and when, and that it be sent, along with any other documentation 
+collected  during  the  reasonable  accommodation  process,  to  an  individual  designated  to 
+cull and maintain the information, such as the agency disability program manager.  See, 
+e.g., Attachment D (sample Reasonable Accommodation Reporting Form). 
+
+Provide time periods for maintaining records. 
+
+Explain that records related to a particular individual who has requested accommodation 
+will  be  maintained  for  the  duration  of  the  employee’s  tenure.    This  helps  ensure  that  an 
+individual is not asked to provide medical information that has previously been submitted.      
+
+Explain  that  information  or  any  cumulative  records  used  to  track  the  employer’s 
+performance with regard to reasonable accommodation will be retained for at least three 
+years.  Tracking performance over a three year period is critical to enable an agency to 
+assess whether it has adequately processed and provided reasonable accommodation. 
+
+IMPLEMENTATION TIPS 
+
+Designate someone to maintain and analyze the collected information. 
+
+Assign  someone  to  analyze  the  information  collected  to  measure  the  performance  of  a 
+reasonable  accommodation  program,  determine  areas  that  require  further  training  or 
+revisions to the procedures, and hold decision makers accountable.   
+
+For  example,  some  agencies  have  implemented  a  computerized  tracking  system  for  all 
+the  information  required  by  E.O.  13164,  with  the  ability  to  generate  statistical  reports 
+analyzing the data in various ways. 
+
+36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IX.  INFORMAL DISPUTE RESOLUTION 
+
+BASIC ELEMENTS 
+(See 13164 Policy Guidance, at Section H): 
+
+(cid:31) 
+
+Encourage the use of informal dispute resolution processes that allow 
+individuals  with  disabilities  to  obtain  prompt  reconsideration  of 
+denials of reasonable accommodation. 
+
+DRAFTING TIPS 
+
+Provide for multiple levels of reconsideration. 
+
+Make  clear  that  the  reconsideration  process  should  provide  for  reconsideration  by  the 
+original decision maker AND a second level of reconsideration by an agency official who 
+was  not  involved  in  the  original  decision.    Providing  independent  review  will  enhance 
+applicants’ and employees’ trust in the fairness of the process. 
+
+Explain the right to file an EEO complaint and the other statutory rights. 
+
+Explain  that  decision  makers  should  use  a  pre-printed  denial  form,  attached  to  the 
+procedures, whenever a request is denied.  In addition to explaining the reasons for the 
+denial, as discussed above, the form contains a complete statement of the notice of rights, 
+such  as  the  right  to  file  a  complaint  in  the  EEO  process.    This  avoids  the  risk  of  the 
+decision  maker  forgetting  to  provide  the  notice  of  rights  in  some  cases,  or  of  incorrectly 
+explaining  the  rights.    It  also  ensures  that  the  requester  will  be  aware  that  invoking  the 
+reconsideration process does not toll the time frame for filing an EEO complaint, or other 
+time  frames  which  begin  running  upon  receipt  of  the  agency’s  original  decision  denying 
+accommodation.  
+
+IMPLEMENTATION TIPS 
+
+Ensure alternative dispute resolution process is accessible. 
+
+All  alternative  dispute  resolution  processes  must  be  accessible  to  individuals  with 
+disabilities.    Such  employer-provided  dispute  resolution  mechanisms  are  a  benefit  or 
+privilege  of  employment  for  those  employees  eligible  to  participate,  and  as  such  the 
+employer  may  be  obligated  to  provide  reasonable  accommodation  if  requested  for  the 
+dispute resolution process itself.   
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+X.   
+
+Final  Steps:    Adoption,  Dissemination 
+and Training 
+
+E.O.  13164  required  that  federal  agencies  establish  reasonable  accommodation 
+procedures  and  submit  them  to  the  EEOC  by  July  2001.    Any  agency  that  has  not 
+submitted  procedures  to  the  EEOC,  made  any  necessary  revisions  based  on  EEOC’s 
+feedback,  and  completed  final  adoption  and  issuance  of  reasonable  accommodation 
+procedures is not in compliance with E.O. 13164.  In addition, since maintaining a model 
+EEO  program  under  EEOC  Management  Directive  715  requires  adoption  and 
+dissemination  of  complete  reasonable  accommodation  procedures,  an  agency  that  has 
+failed to do so is not in compliance with the Management Directive. 
+
+EEOC’s 13164 Policy Guidance, at § I.C., explains that each agency must make copies of 
+its  reasonable  accommodation  procedures  readily  available  to  all  employees,  and  must 
+also educate employees about its procedures.  
+
+While agencies are not required to state in the procedures how dissemination or training 
+on the procedures will occur, agencies may choose to do so.  Regardless, each agency 
+must take whatever steps are necessary to disseminate their reasonable accommodation 
+procedures,  and  any  accompanying  forms,  in  a  variety  of  ways  to  ensure  access  by  all 
+applicants and employees, and to provide appropriate training. 
+
+(cid:131)  Suggested means of dissemination include providing copies to new employees as 
+part  of  the  standard  orientation  process,  and  providing  copies  and  updates  to  all 
+managers,  supervisors,  and  human  resources  staff  at  periodic  meetings  or  equal 
+employment  opportunity  training,  posting  the  procedures  in  appropriate  locations 
+on the agency’s Intranet and/or on its Internet website, and making the procedures 
+available  in  designated  locations  such  as  agency  libraries,  EEO  offices,  and 
+personnel/human resources offices.   
+
+(cid:131)  Where procedures are posted electronically, it may be helpful to e-mail a notice to 
+all employees providing a web link to the document.  In addition, periodic e-mails to 
+all  employees  or  specifically  for  managers  and  supervisors,  containing  special 
+directions,  reminders,  or  updates  is  a  helpful  means  of  effectively  disseminating 
+the procedures and operational advice. 
+
+(cid:131)  As detailed throughout the prior sections of this report, appropriate training on each 
+step in an agency’s procedures, and the relevant Rehabilitation Act provisions as 
+interpreted in EEOC federal sector appellate decisions and in EEOC guidance, is 
+critical  to  successful  implementation.    Such  training  should  be  provided  to  all 
+agency staff that has any role in the reasonable accommodation process. 
+
+38 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONCLUSION 
+
+Written  procedures  are  an  excellent 
+
+reasonable 
+accommodation process and ensuring compliance with Section 501 of the Rehabilitation 
+Act.  Many of the strategies outlined in this report will enhance agency efforts to be model 
+employers  pursuant  to  29  C.F.R.  § 1604.203(a)  and  to  achieve  the  federal  sector  EEO 
+goals set forth in EEOC Management Directive 715. 
+
+for  managing 
+
+tool 
+
+the 
+
+The  development  and  maintenance  of  reasonable  accommodation  procedures 
+pursuant  to  E.O.  13164  is  an  ongoing  process,  in  which  agencies  will  learn  through 
+practical experience what revisions may be useful, and periodically update their existing 
+procedures.    With  respect  to  any  future  changes  to  agency  procedures,  the  Executive 
+Order  requires  that  each  agency  or  agency  component  submit  to  the  EEOC  any 
+modifications to its reasonable accommodation procedures at the time the modifications 
+are  adopted.    EEOC  is  available  on  an  ongoing  basis,  however,  to  provide  technical 
+assistance as requested to agencies that are contemplating revisions to their procedures.   
+
+Submission  of  procedures  as  well  as  requests  for  technical  assistance  should  be 
+
+directed to: 
+
+Director, Federal Sector Programs 
+Office of Federal Operations 
+Equal Employment Opportunity Commission 
+1801 L Street, N.W. 
+Washington, D.C.  20507 
+Telephone: (202) 663-4599 
+TTY: (202) 663-4593 
+
+July 2005 
+
+39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SELECTED EEOC RESOURCES ON DISABILITY ISSUES 
+
+Policy Guidance on Exec. Order 13164:  Establishing Procedures to Facilitate the 
+Provision of Reasonable Accommodation 
+http://www.eeoc.gov/policy/docs/accommodation_procedures.html 
+
+Enforcement Guidance: Reasonable Accommodation and Undue Hardship Under 
+the ADA (as revised, 10/17/02) 
+http://www.eeoc.gov/policy/docs/accommodation.html 
+
+Enforcement Guidance: Disability-Related Inquiries & Medical Examinations of 
+Employees Under the ADA  
+http://www.eeoc.gov/policy/docs/guidance-inquiries.html 
+
+Policy Guidance on Exec. Order 13145: To Prohibit Discrimination in Federal 
+Employment Based on Genetic Information  
+http://www.eeoc.gov/policy/docs/guidance-genetic.html 
+
+Instructions for EEOC Field Offices: Analyzing ADA Charges After Supreme Court 
+Decisions Addressing "Disability" and "Qualified"  
+http://www.eeoc.gov/policy/docs/field-ada.html 
+
+Enforcement Guidance on Application of the ADA to the Contingent Workers 
+Placed By Temporary Agencies & Other Staffing Firms  
+http://www.eeoc.gov/policy/docs/guidance-contingent.html 
+
+Enforcement Guidance on the ADA and Psychiatric Disabilities   
+http://www.eeoc.gov/policy/docs/psych.html 
+
+Enforcement Guidance on the Effect of Representations Made in Applications for 
+Benefits on the Determination of Whether a Person is a "Qualified Individual with a 
+Disability" Under the ADA  
+http://www.eeoc.gov/policy/docs/qidreps.html 
+
+Enforcement Guidance: Workers' Compensation & the ADA  
+http://www.eeoc.gov/policy/docs/workcomp.html 
+
+Enforcement Guidance:  Preemployment Disability-Related Questions & Medical 
+Examinations  
+http://www.eeoc.gov/policy/docs/preemp.html 
+
+Compliance Manual Section 902: Definition of the Term Disability  
+http://www.eeoc.gov/policy/docs/902cm.html 
+
+40 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interim Enforcement Guidance on the Application of the ADA to Disability-Based 
+Distinctions in Employer Provided Health Insurance  
+http://www.eeoc.gov/policy/docs/health.html 
+
+FMLA, ADA, and Title VII  
+http://www.eeoc.gov/policy/docs/fmlaada.html 
+
+Q&A:  Intellectual Disabilities in the Workplace & the ADA  
+http://www.eeoc.gov/facts/intellectual_disabilities.html 
+
+Q&A:  Epilepsy in the Workplace & the ADA  
+http://www.eeoc.gov/facts/epilepsy.html  
+
+Q&A:  Diabetes in the Workplace & the ADA  
+http://www.eeoc.gov/facts/diabetes.html  
+
+Job Applicants and the ADA  
+http://www.eeoc.gov/facts/jobapplicant.html  
+
+Telework as a Reasonable Accommodation  
+http://www.eeoc.gov/facts/telework.html 
+
+The ADA:  A Primer for Small Business 
+ http://www.eeoc.gov/ada/adahandbook.html 
+
+Obtaining and Using Employee Medical Information as Part of Emergency 
+Evacuation Procedures  
+http://www.eeoc.gov/facts/evacuation.html 
+
+Interim Report on Best Practices for the Employment of People with Disabilities in 
+State Government  
+http://www.eeoc.gov/initiatives/nfi/int_states_best_practices_report.html  
+
+How to Comply with the ADA: A Guide for Restaurants & Other Food Service 
+Employers 
+http://www.eeoc.gov/facts/restaurant_guide.html 
+
+Q & A for Mediation Providers: Mediation and the ADA 
+http://www.eeoc.gov/mediate/ada/ada_mediators.html 
+
+Q & A for Parties to Mediation: Mediation and the ADA 
+http://www.eeoc.gov/mediate/ada/ada_parties.html 
+
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ATTACHMENT A:   SAMPLE FORM 
+
+CONFIRMATION OF REQUEST 
+FOR REASONABLE ACCOMMODATION 
+
+1. 
+
+____________________________       
+Applicant’s or Employee’s Name 
+
+_____________________________         
+Applicant’s or Employee’s Tel. No. 
+
+Today’s Date ________________        
+
+______________________________ 
+Employee’s Office 
+
+Date of Request ______________       
+
+2. 
+
+ACCOMMODATION REQUESTED. (Be as specific as possible, e.g., adaptive 
+equipment, reader, interpreter) 
+
+3. 
+
+REASON FOR REQUEST. 
+
+If accommodation is time sensitive, please explain: 
+
+Return Form to Disability Program Manager 
+
+(Disability Program Manager will assign number) 
+
+4. 
+
+Log No.: __________________________                              
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ATTACHMENT B:    
+SAMPLE LANGUAGE REGARDING CREATION OF STAFF ASSISTANT SLOTS 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+STAFF ASSISTANT SLOTS.  The [name of federal agency] will make staff assistants 
+available, if appropriate.  Staff assistants are sign language interpreters, readers, and 
+assistants who perform physical tasks that an employee cannot perform because of a 
+disability.  For example, an investigator with limited or no upper extremity mobility may need 
+assistance in physically organizing a charge file.  The investigator will perform the essential 
+functions of the position -- e.g., conduct the investigation and draft documents -- and the 
+assistant would only perform the physical task. 
+
+REQUEST FOR STAFF ASSISTANT SLOTS.  Requests for hiring a staff assistant must be 
+referred to the Disability Program Manager from the staff member who received the request.  
+The Disability Program Manager will first determine whether staff assistants already hired by 
+the agency can fulfill an employee’s needs.  The Disability Program Manager also will 
+determine if an employee’s needs could be met by contracting for services (e.g., a contract 
+interpreter), and if so, will make the necessary arrangements.  If the Disability Program 
+Manager approves the request to hire a staff assistant, the employee’s Office Director, in 
+consultation with the Office of Human Resources, if necessary, should prepare a Request 
+for Personnel Action (SF-52) and a position description.  The employee with a disability 
+must play an integral part in the interview and selection process of an interpreter, reader, or 
+assistant.  
+
+USE OF STAFF ASSISTANTS.  The staff assistant slots are to be used only to hire 
+interpreters, readers, and assistants as a reasonable accommodation for employees with 
+disabilities.  Staff hired shall be shared to provide assistance to more than one employee 
+with a disability, where appropriate.  These staff assistants may not be assigned any other 
+duties unless the person they were hired to assist has no work for them to perform at that 
+time.  Before assigning other duties to the assistant, the employee with the disability shall be 
+consulted to determine when assistant services are not needed.  If the supervisor is not the 
+employee with a disability, s/he must consult with the employee with a disability regarding 
+the staff assistant’s performance evaluation.  
+
+In no case should a staff assistant be called upon -- by management or by the employee(s) 
+to whom he or she is assigned -- to perform the essential functions of the job held by the 
+employee with the disability. 
+
+HIRING AUTHORITY.  Readers, interpreters, or assistants hired to fill approved positions 
+may be appointed under the non-competitive Schedule A authority, 5 C.F.R. 213.3102 (ll).  
+Persons with disabilities hired as readers, interpreters, or assistants may also be hired 
+under the 213.3102 (u) authority. 
+
+RELEASE OF POSITIONS.  When the need for a staff assistant is reduced or eliminated, 
+the Administrative Officer or Personnel Management Specialist shall notify the Disability 
+Program Manager, who will take appropriate steps. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         DENIAL OF REASONABLE ACCOMMODATION REQUEST 
+
+ATTACHMENT C:  SAMPLE FORM 
+
+(Must complete numbers 1-4; complete number 5, if applies) 
+
+1. 
+
+2. 
+
+Name of Individual requesting reasonable accommodation:  
+
+Type(s) of reasonable accommodation requested: 
+
+3.  Request for reasonable accommodation denied because (may check 
+
+more than one box): 
+
+_____ Accommodation Ineffective                                         
+_____ Accommodation Would Cause Undue Hardship 
+_____ Medical Documentation Inadequate 
+_____ Accommodation Would Require  
+               Removal of an Essential Function 
+_____ Accommodation Would Require Lowering  
+               of Performance or Production Standard 
+_____ Other (Please identify)  ____________________ 
+
+4. 
+
+Detailed Reason(s) for the denial of reasonable accommodation (Must be 
+specific, e.g., why accommodation is ineffective or causes undue 
+hardship): 
+
+5. 
+
+If the individual proposed one type of reasonable accommodation which 
+is being denied, but rejected an offer of a different type of reasonable 
+accommodation, explain both the reasons for denial of the requested 
+accommodation and why you believe the chosen accommodation would 
+be effective. 
+
+(Over) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+If an individual wishes to request reconsideration of this decision, s/he may 
+
+take the following steps:    
+
+             [outline reconsideration steps in agency procedures, e.g.: 
+
+$ 
+
+First, ask the decision maker to reconsider his/her denial.  Additional 
+information may be presented to support this request. 
+
+$ 
+
+If the decision maker does not reverse the denial: 
+
+$ 
+
+$ 
+
+$ 
+
+and the decision maker was the individual’s supervisor, the 
+individual can ask the Office Director to do so. 
+
+and the decision maker was the Office Director, the individual can 
+ask the Disability Program Manager to do so. 
+
+and the decision maker was the Disability Program Manager, the 
+individual can ask the official designated by the Director of the 
+Equal Employment Opportunity Office to do so.] 
+
+7. 
+
+C 
+
+C 
+
+If a federal applicant or employee wishes to file an EEO complaint, or 
+pursue MSPB and union grievance procedures, s/he must take the 
+following steps: 
+
+For an EEO complaint pursuant to 29 C.F.R. ' 1614, contact an EEO 
+
+counselor in the Equal Employment Opportunity office within 45 days from the 
+date of this notice of denial of reasonable accommodation; or 
+
+For a collective bargaining claim, file a written grievance in accordance 
+
+with the provisions of the Collective Bargaining Agreement; or 
+
+C 
+
+Initiate an appeal to the Merit Systems Protection Board within 30 days of an 
+appealable adverse action as defined in 5 C.F.R. ' 1201.3. 
+
+____________________________ 
+Name of Deciding Official 
+
+_____________________________ 
+Signature of Deciding Official 
+
+Date reasonable accommodation denied  _______________________________                
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ATTACHMENT D: SAMPLE FORM 
+  REASONABLE ACCOMMODATION INFORMATION REPORTING FORM 
+    (to be completed by the manager or other official who processed the accommodation request) 
+
+ 1. 
+
+Reasonable accommodation: (check one) 
+
+_____ 
+
+Approved 
+
+_____ 
+
+Denied  (If denied, attach copy of the written denial 
+letter/memo that was sent to individual) 
+
+  2.  Date reasonable accommodation requested: 
+
+Who received request: _________________________ 
+
+  3.  Date reasonable accommodation request referred to decision maker 
+
+(i.e., supervisor, Office Director, Disability Program Manager, Personnel 
+Management Specialist): 
+
+Name of decision maker: __________________________ 
+
+  4.  Date reasonable accommodation approved or denied: 
+
+  5.  Date reasonable accommodation provided (if different from date 
+
+approved): 
+
+  6. 
+
+If time frames outlined in the Reasonable Accommodation Procedures 
+were not met, please explain why. 
+
+7.  Job held or desired by individual requesting reasonable accommodation 
+
+(including occupational series, grade level, and office): 
+
+                                                                (Over) 
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          
+ 
+8.       Reasonable accommodation needed for: (check one)   
+
+            Application Process 
+
+            Performing Job Functions or Accessing the Work Environment   
+
+            Accessing a Benefit or Privilege of Employment  (e.g., attending a           
+training program or social event) 
+
+ 9. 
+
+Type(s) of reasonable accommodation requested (e.g., adaptive 
+equipment, staff assistant, removal of architectural barrier): 
+
+10. 
+
+Type(s) of reasonable accommodation provided (if different from what 
+was requested): 
+
+11.  Was medical information required to process this request?  If yes, 
+
+explain why. 
+
+12.  Sources of technical assistance, if any, consulted in trying to identify 
+possible reasonable accommodations (e.g., Job Accommodation 
+Network, disability organization, Disability Program Manager):  
+
+13.  Comments: 
+
+  Submitted by:                                                      Phone:  __________________   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-24a   FY 2021   Contract Staff Resources-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-24a   FY 2021   Contract Staff Resources.xlsx",
+    "file_size": 23013,
+    "file_hash": "a08d3a1ee08722256da14150c1bda9a3c29d3b7be5b36635581c6e23b2a09cc9",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.807682",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.807682",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

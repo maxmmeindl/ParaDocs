@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-Merge Result-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Merge Result.pdf",
+    "file_size": 268395065,
+    "file_hash": "34cf43fe715af07e05fe19880b13576a0737dee5661bcb2f07cf08276093c2f5",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:55.483744",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:55.483744",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

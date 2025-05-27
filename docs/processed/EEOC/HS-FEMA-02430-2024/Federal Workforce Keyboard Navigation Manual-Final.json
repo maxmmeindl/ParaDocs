@@ -1,0 +1,32 @@
+{
+  "document_id": "EEOC-Federal Workforce Keyboard Navigation Manual-Final-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Federal Workforce Keyboard Navigation Manual-Final.pdf",
+    "file_size": 1707976,
+    "file_hash": "c9c8c308526c3a66d9915ed852a374b1480d86ca63603e0732dff83e3896535e",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:21.691827",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:21.691827",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

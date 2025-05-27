@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-RA, LEGAL CITES dAVID fRAM-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RA, LEGAL CITES dAVID fRAM.eml",
+    "file_size": 2649317,
+    "file_hash": "1fb139ce7f79a7bd7a247448bb8fead8d619829cbf5af348e5cd192b8179a065",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:29.782732",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:29.782732",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

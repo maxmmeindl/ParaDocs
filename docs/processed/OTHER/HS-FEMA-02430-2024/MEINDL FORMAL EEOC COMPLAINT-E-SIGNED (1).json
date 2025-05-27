@@ -1,0 +1,33 @@
+{
+  "document_id": "OTHER-MEINDL FORMAL EEOC COMPLAINT-E-SIGNED (1)-20250526",
+  "document_type": [
+    "EEOC_Charge",
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "MEINDL FORMAL EEOC COMPLAINT-E-SIGNED (1).eml",
+    "file_size": 7250109,
+    "file_hash": "3c3975b974b682a8b32427f219a1bd23b1416ac39cd28efefbfc879c786c5069",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:28.788028",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:28.788028",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events.docx",
+    "file_size": 33081,
+    "file_hash": "efd244250d5ab346970a7652b82c43fd08911f4e5c5ae82c45c868ae01be7571",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.055883",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.055883",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

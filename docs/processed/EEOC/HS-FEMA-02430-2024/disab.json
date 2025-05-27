@@ -1,0 +1,32 @@
+{
+  "document_id": "EEOC-disab-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "disab.pdf",
+    "file_size": 521256,
+    "file_hash": "ebe73c94e082acbd6693a922c85936c882a72c58baf196f883957c43a2440c3f",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:21.399442",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:21.399442",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

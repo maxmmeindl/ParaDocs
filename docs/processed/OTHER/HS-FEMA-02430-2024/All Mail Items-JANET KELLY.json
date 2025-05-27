@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-All Mail Items-JANET KELLY-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "All Mail Items-JANET KELLY.pdf",
+    "file_size": 16652904,
+    "file_hash": "48b8db6df58944b99bd127b297911c988fdd15d35d8c53aaa7b7e431849df979",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:52.363367",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:52.363367",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

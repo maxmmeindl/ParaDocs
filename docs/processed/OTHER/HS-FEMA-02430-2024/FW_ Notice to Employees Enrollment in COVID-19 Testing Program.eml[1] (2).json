@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-FW_ Notice to Employees Enrollment in COVID-19 Testing Program.eml[1] (2)-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_ Notice to Employees Enrollment in COVID-19 Testing Program.eml[1] (2).eml",
+    "file_size": 6172972,
+    "file_hash": "c3ae85c8d7ce71cf4b113f0abc00af5aa87e64541670d8a257486b31975cf13f",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:28.018187",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:28.018187",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-Automatic reply_ Timesheet FMLA (2)-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Automatic reply_ Timesheet FMLA (2).eml",
+    "file_size": 15157,
+    "file_hash": "b69c84fc4a77054c65212a0d211e634aaf2d97955aec71e2c6d8f2b0315eeca7",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:24.576493",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:24.576493",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

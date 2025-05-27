@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-806726-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "806726.pdf",
+    "file_size": 1249996,
+    "file_hash": "f04819a395ab3c352c25911f91f080dd23c235024b2166c397344ba20f00f133",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:59.260502",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:59.260502",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

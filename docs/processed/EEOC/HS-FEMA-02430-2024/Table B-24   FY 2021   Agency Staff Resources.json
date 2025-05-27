@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-24   FY 2021   Agency Staff Resources-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-24   FY 2021   Agency Staff Resources.xlsx",
+    "file_size": 23210,
+    "file_hash": "1162ac92c5fd4c75fa807e69ad5a11630937e98f9c87070728f5219997e305db",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.788144",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.788144",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

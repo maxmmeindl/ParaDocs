@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RE_ C3MP Cloud Access Request (1)-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RE_ C3MP Cloud Access Request (1).pdf",
+    "file_size": 387857,
+    "file_hash": "49055da110068deca7ca76993047d7afc90a180525df852f49d11441a9692b5a",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:19.671889",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:19.671889",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

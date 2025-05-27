@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-TELEWORK REQUEST FOR 07242018-PLUS 4 HOURS SICK DAY-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "TELEWORK REQUEST FOR 07242018-PLUS 4 HOURS SICK DAY.pdf",
+    "file_size": 247244,
+    "file_hash": "80ce85bb42f55b67e8a2ed078a75ca8b81f308ac12838c60fe01beccbe222388",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:21.165357",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:21.165357",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

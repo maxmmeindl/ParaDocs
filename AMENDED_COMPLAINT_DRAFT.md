@@ -15,17 +15,17 @@ v.
 
 ### I. INTRODUCTION AND EXTRAORDINARY VIOLATIONS
 
-1. **This case presents one of the most extreme violations of federal disability law in government history: FEMA ignored Complainant's reasonable accommodation request for 1,340 days (3.7 years)** - a delay that exceeds the statutory 45-day requirement by 2,878% and demonstrates not merely negligence, but deliberate indifference to the rights of employees with disabilities.
+1. **This case presents one of the most serious violations of federal disability law in government history: FEMA ignored Complainant's reasonable accommodation request for 1,340 days (3.7 years)** - a delay that exceeds the statutory 45-day requirement by 2,878% and demonstrates not merely negligence, but deliberate indifference to the rights of employees with disabilities.
 
 2. This extraordinary 1,340-day violation is not an isolated incident but rather the most egregious example of FEMA's systemic failure to comply with federal disability laws. As revealed by FEMA's FOIA response dated May 2, 2025 (2025-FEFO-01396), the Agency claims it maintains "no responsive records" for reasonable accommodation approval/denial rates by age group spanning 2017-2025, despite clear federal mandates requiring such tracking under FEMA Manual 1430.1, Manual 123-6-1, and Instruction 256-022-01.
 
-3. The complete absence of legally-mandated tracking data for over seven years, combined with the pattern of extreme delays affecting Complainant (RAR0023278: 1,275 days; RAR0023261: 1,205 days; RAR0042452: 995 days), reveals a deliberate indifference that resulted in Complainant's constructive discharge and subsequent retaliatory termination.
+3. The complete absence of legally-mandated tracking data for over seven years, combined with the pattern of serious delays affecting Complainant (RAR0023278: 1,275 days; RAR0023261: 1,205 days; RAR0042452: 995 days), reveals a deliberate indifference that resulted in Complainant's constructive discharge and subsequent retaliatory termination.
 
 ### II. CONTINUING VIOLATION DOCTRINE
 
 4. Complainant invokes the continuing violation doctrine as the discriminatory conduct alleged herein constitutes an ongoing pattern and practice that continued through his termination:
 
-   a. **Pattern of RA Delays:** The pattern began with RAR001234 (196-day delay) in 2018 and continued through multiple requests, each experiencing increasingly extreme delays.
+   a. **Pattern of RA Delays:** The pattern began with RAR001234 (196-day delay) in 2018 and continued through multiple requests, each experiencing increasingly serious delays.
 
    b. **Systemic Policy Violations:** FEMA's admitted failure to track RA data as required by federal law constitutes a continuing violation that affected every RA request processed (or ignored) by the Agency.
 
@@ -117,7 +117,7 @@ v.
 
 ### VI. EXCEPTIONAL CIRCUMSTANCES
 
-12. The 1,340-day delay alone warrants summary judgment on liability, as no reasonable factfinder could conclude such extreme delay complies with federal law. This violation is so severe it constitutes:
+12. The 1,340-day delay alone warrants summary judgment on liability, as no reasonable factfinder could conclude such serious delay complies with federal law. This violation is so severe it constitutes:
     - **Per se discrimination** under controlling precedent
     - **Willful violation** supporting punitive damages
     - **Continuing violation** extending statutory deadlines
@@ -130,7 +130,7 @@ v.
 
 ### VII. DEMAND FOR ADMINISTRATIVE HEARING
 
-Complainant demands a full evidentiary hearing before an EEOC Administrative Judge on all claims alleged herein, recognizing that the 1,340-day violation creates virtually automatic liability requiring only determination of appropriate damages.
+Complainant demands a full evidentiary hearing before an EEOC Administrative Judge on all claims alleged herein, recognizing that the 1,340-day violation creates virtually likely liability requiring only determination of appropriate damages.
 
 RESPECTFULLY SUBMITTED this ___ day of _______, 2025.
 

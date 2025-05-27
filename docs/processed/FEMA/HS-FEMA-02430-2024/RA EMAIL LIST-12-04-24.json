@@ -1,0 +1,30 @@
+{
+  "document_id": "FEMA-RA EMAIL LIST-12-04-24-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RA EMAIL LIST-12-04-24.xlsx",
+    "file_size": 270716,
+    "file_hash": "8e996ad22ba49d60a4b02f99f8eb91e6b9fb3b950a23e61d9a773f3f36cd4665",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.353130",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.353130",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

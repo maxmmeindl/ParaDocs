@@ -1,0 +1,75 @@
+# Dashboard Fix Patch for ParaDocs Project
+# Generated: 2025-01-27
+# Apply with: git apply fix_dashboard.diff
+#
+# This patch fixes broken references caused by flattening the repository
+# (removal of paradocs-agent/ subdirectory)
+
+# Fix broken PDF links in CORRECTED_MASTER_INDEX_VERIFIED.html
+# These links pointed to paradocs-agent/downloaded/ which no longer exists
+# Updated to point to downloaded/ in the root directory
+diff --git a/CORRECTED_MASTER_INDEX_VERIFIED.html b/CORRECTED_MASTER_INDEX_VERIFIED.html
+index 1234567..abcdef0 100644
+--- a/CORRECTED_MASTER_INDEX_VERIFIED.html
++++ b/CORRECTED_MASTER_INDEX_VERIFIED.html
+@@ -223,7 +223,7 @@
+                         <td>Formal EEO Complaint</td>
+                         <td>2024-02-29</td>
+                         <td>
+-                            <a href="paradocs-agent/downloaded/eeoc%20complaint%20signed-rev1-min-bookmarked_compressed.pdf">View PDF</a>
++                            <a href="downloaded/eeoc%20complaint%20signed-rev1-min-bookmarked_compressed.pdf">View PDF</a>
+                         </td>
+                     </tr>
+                     <tr>
+@@ -233,7 +233,7 @@
+                         <td>Letter of Acceptance</td>
+                         <td>2024-04-02</td>
+                         <td>
+-                            <a href="paradocs-agent/downloaded/LOA%20HS-FEMA-02430-2024.pdf">View PDF</a>
++                            <a href="downloaded/LOA%20HS-FEMA-02430-2024.pdf">View PDF</a>
+                         </td>
+                     </tr>
+                     <tr>
+@@ -243,7 +243,7 @@
+                         <td>Report of Investigation</td>
+                         <td>2024-08-14</td>
+                         <td>
+-                            <a href="paradocs-agent/downloaded/">View ROI Folder</a>
++                            <a href="downloaded/">View ROI Folder</a>
+                         </td>
+                     </tr>
+                     <tr>
+@@ -253,7 +253,7 @@
+                         <td>Election to Proceed</td>
+                         <td>2024-08-30</td>
+                         <td>
+-                            <a href="paradocs-agent/downloaded/Election%20Letter%20-%20HS-FEMA-02430-2024.pdf">View PDF</a>
++                            <a href="downloaded/Election%20Letter%20-%20HS-FEMA-02430-2024.pdf">View PDF</a>
+                         </td>
+                     </tr>
+                 </tbody>
+
+# Optional: Add redirect notice for backward compatibility
+# This creates a simple JavaScript redirect for the old paradocs-agent path
+diff --git a/paradocs-agent/index.html b/paradocs-agent/index.html
+new file mode 100644
+index 0000000..1234567
+--- /dev/null
++++ b/paradocs-agent/index.html
+@@ -0,0 +1,15 @@
++<!DOCTYPE html>
++<html>
++<head>
++    <meta charset="UTF-8">
++    <title>Redirecting...</title>
++    <script>
++        // Redirect from old paradocs-agent paths to new structure
++        var oldPath = window.location.pathname;
++        var newPath = oldPath.replace('/paradocs-agent/', '/');
++        window.location.replace(newPath);
++    </script>
++</head>
++<body>
++    <p>Redirecting to new location...</p>
++</body>
++</html> 

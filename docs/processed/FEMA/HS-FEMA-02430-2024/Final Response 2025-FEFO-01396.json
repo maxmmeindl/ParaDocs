@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Final Response 2025-FEFO-01396-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Final Response 2025-FEFO-01396.pdf",
+    "file_size": 316711,
+    "file_hash": "95153d6f5cc6bedea78b22b06ed016128b61a29ff724b7b0e5fa8c589c9dc868",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:10.243886",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:10.243886",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

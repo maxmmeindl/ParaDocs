@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-FW_ Max Meindl Reasonable Accommodation Request-20250526",
+  "document_type": [
+    "Interactive_Process"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_ Max Meindl Reasonable Accommodation Request.pdf",
+    "file_size": 457094,
+    "file_hash": "812a6f7bf337766e1f5221a535c4ed563fa0651bc5fbc4db4dda8af46036a45c",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:11.037506",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:11.037506",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

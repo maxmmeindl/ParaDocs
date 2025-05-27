@@ -1,0 +1,91 @@
+In, Anthony
+Kusy, Alma; Washington, Anita M; Weatherall, Micki; Teter, Sean; Davis, Henry; Smith , Anthony; Smith, David;
+Quinones Crespo, Joel; Meindl, Max
+FW: Remote Work Agreements and webTA
+Tuesday, March 19, 2024 8:41:03 AM
+
+From:
+To:
+
+Subject:
+Date:
+
+Team
+
+Please see below
+
+v/r
+
+Tony
+
+Anthony In
+Infrastructure Branch Director| Recovery Division | Region 6
+Cell Number 202-615-6165
+Anthony.in@fema.dhs.gov
+“Humble yourself, be kind to each other and always remember to Do the Right Thing”.
+
+Federal Emergency Management Agency
+fema.gov
+
+ WARNING:  This document is FOR OFFICIAL USE ONLY (FOUO) and may contain PRIVACY SENSITIVE information.  Any misuse
+or unauthorized access may result in both civil and criminal penalties.  It is to be controlled, stored, handled, transmitted,
+distributed, and disposed of in accordance with DHS policy relating to FOUO information.  This information shall not be
+distributed beyond the original addressees without prior authorization of the originator. This communication, along with any
+attachments, is covered by Federal and State law governing electronic communications and may contain restricted and legally
+privileged information.  If the reader of this message is not the intended recipient, you are hereby notified that any
+dissemination, distribution, use or copying of this message is strictly prohibited.  If you have received this in error, please reply
+immediately to the sender and delete this message. 
+
+From: Lee Burgess, Stacie <stacie.leeburgess@fema.dhs.gov> 
+Sent: Monday, March 18, 2024 4:03 PM
+To: Bowen, Justin <Justin.Bowen@fema.dhs.gov>; Mckenzie, Rachel
+<rachel.mckenzie@fema.dhs.gov>; Sperry, Cheryl <Cheryl.Sperry@fema.dhs.gov>; Halbert, Brandy
+<brandy.halbert@fema.dhs.gov>; In, Anthony <anthony.in@fema.dhs.gov>
+Cc: Canaday, Kathy <Kathy.Canaday@fema.dhs.gov>; Hunter, Jodi <Jodi.Hunter@fema.dhs.gov>; Lee
+Burgess, Stacie <stacie.leeburgess@fema.dhs.gov>
+Subject: Remote Work Agreements and webTA
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hello, 
+
+After verifying with payroll, we need to ensure the webTA transaction codes are updated for those
+who have remote work agreements. 
+Please advise your teams to update their default schedules to 01-Remote Work Regular Time.
+
+One way to update:
+From Employee Main Menu
+Select Default Schedule
+Select New 
+Select Transaction Code: 01-Remote Work Regular Time (approx. 3/4 of the way down the list)
+Save
+Select Edit – update accounting line as applicable
+Update hours to reflect schedule
+
+Delete any Telework Home and Regular Base Pay lines 
+
+Note: The transaction would remain the same (but the accounting line would be different) if
+deployed virtually. 
+
+I’m around 6:30am-3:00pm CST if assistance is needed – TEAMs would be best to share screens.
+
+Stacie Lee Burgess 
+Recovery Division | DHS FEMA Region 6
+Mobile: 202-615-5386
+Stacie.LeeBurgess@fema.dhs.gov
+
+Federal Emergency Management Agency
+fema.gov
+
+ 
+ 
+ 
+

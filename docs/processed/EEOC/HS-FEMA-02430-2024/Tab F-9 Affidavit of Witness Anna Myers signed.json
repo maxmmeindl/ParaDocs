@@ -1,0 +1,32 @@
+{
+  "document_id": "EEOC-Tab F-9 Affidavit of Witness Anna Myers signed-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Tab F-9 Affidavit of Witness Anna Myers signed.pdf",
+    "file_size": 287583,
+    "file_hash": "e4e726677b4b5ed801a0b04e6970dcb4f14875fdfdc6042c2683da5d3072869f",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:22.586318",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:22.586318",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

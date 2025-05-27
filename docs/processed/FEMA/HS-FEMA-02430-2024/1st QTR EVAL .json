@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-1st QTR EVAL -20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "1st QTR EVAL .pdf",
+    "file_size": 170274,
+    "file_hash": "6a69de13126ec5d9b9a407c09a47cc1808d3100f98dc7acd93824f62c1c35fca",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:58.096714",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:58.096714",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

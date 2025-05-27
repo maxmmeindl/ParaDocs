@@ -1,0 +1,32 @@
+{
+  "document_id": "EEOC-Policy Guidance on Executive-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Policy Guidance on Executive.pdf",
+    "file_size": 8045381,
+    "file_hash": "fb9ae730e0d3f2b252495f7071dd2d4c4a6436198d28b129bf725f548bc55c70",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:22.341673",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:22.341673",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

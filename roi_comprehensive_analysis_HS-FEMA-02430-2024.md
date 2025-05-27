@@ -4,7 +4,7 @@
 
 ## CRITICAL FINDING: 1,340-DAY ACCOMMODATION VIOLATION
 
-### Severity: EXTREME
+### Severity: serious
 - **Days Pending**: 1,340 days (3.7 years)
 - **Federal Standard**: 30 days
 - **Violation Magnitude**: 44.7x the legal requirement
@@ -16,7 +16,7 @@
 ### 2020-09-01 - First Accommodation Request Submitted
 - **Type**: accommodation_request
 - **Details**: Request for reasonable accommodation (specific type from ROI)
-- **VIOLATION**: Extreme violation - 44.7x federal timeline
+- **VIOLATION**: serious violation - 44.7x federal timeline
 - **Reference**: ROI Part 1, pp. XX
 
 ### 2023-11-09 - Telework Accommodation Request

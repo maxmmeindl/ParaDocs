@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Visio-Hurricane IDA 4611 DR ORG Chart start up v14-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Visio-Hurricane IDA 4611 DR ORG Chart start up v14.pdf",
+    "file_size": 194332,
+    "file_hash": "0c846d1c7b7839ef6428f5974ed791a3fdbcf822594a46d5e3040732be94381f",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:21.245221",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:21.245221",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

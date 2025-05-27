@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Extension of Counseling_ HS-FEMA-03389-2024 Meindl M_ signed-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Extension of Counseling_ HS-FEMA-03389-2024 Meindl M_ signed.pdf",
+    "file_size": 396109,
+    "file_hash": "3b37cd279bca8f1547acdd74d8156759e8991b54ba4827dc9786f79ab6270b3c",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:09.428376",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:09.428376",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

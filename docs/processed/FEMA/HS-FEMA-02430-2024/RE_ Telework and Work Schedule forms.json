@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RE_ Telework and Work Schedule forms-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RE_ Telework and Work Schedule forms.pdf",
+    "file_size": 1943614,
+    "file_hash": "1bfeec7520877bbc7261e6792a9d576054e03dcb84706dcfafd821f47faa6b47",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:20.716579",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:20.716579",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

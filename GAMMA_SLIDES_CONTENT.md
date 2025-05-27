@@ -114,7 +114,7 @@
 ### For Settlement:
 - Per se retaliation (termination during EEO)
 - 1,340-day violation is indefensible
-- No interactive process = automatic violation
+- No interactive process = likely violation
 - ROI missing critical evidence
 
 ### For Hearing:

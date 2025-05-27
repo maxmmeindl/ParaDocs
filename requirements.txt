@@ -1,0 +1,75 @@
+# ParaDocs Python Requirements
+# Legal Document Management System Dependencies
+
+# Core dependencies
+requests>=2.31.0
+python-dateutil>=2.8.2
+
+# Document processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+openpyxl>=3.1.2
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# OCR capabilities (optional but recommended)
+pytesseract>=0.3.10
+pdf2image>=1.16.3
+Pillow>=10.0.0
+
+# Email processing
+email-validator>=2.0.0
+python-magic>=0.4.27
+
+# Data validation
+jsonschema>=4.19.0
+pydantic>=2.4.0
+
+# Search and indexing
+whoosh>=2.7.4
+
+# Natural Language Processing (for keyword extraction)
+spacy>=3.6.0
+nltk>=3.8.1
+
+# Web framework (for future web interface)
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# Database (for future use)
+sqlalchemy>=2.0.0
+alembic>=1.12.0
+
+# Utilities
+python-dotenv>=1.0.0
+click>=8.1.7
+rich>=13.6.0
+tqdm>=4.66.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-asyncio>=0.21.0
+
+# Development
+black>=23.9.0
+flake8>=6.1.0
+mypy>=1.5.0
+pre-commit>=3.4.0
+
+# Security
+cryptography>=41.0.0
+
+# Logging and monitoring
+structlog>=23.1.0
+
+# Type hints
+typing-extensions>=4.8.0
+
+# Additional OCR/Text extraction utilities
+pdfminer.six>=20221105
+mailparser>=3.15.0
+extract-msg>=0.28.4
+
+# New dependency
+rapidfuzz>=3.6.1 

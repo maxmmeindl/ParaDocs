@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-ANTHONY IN-All Mail Items-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "ANTHONY IN-All Mail Items.pdf",
+    "file_size": 21175177,
+    "file_hash": "63a8436d01958d73f09d336000790bf56f2a80ac884e0c7e15a35280d1c7554d",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:02.456624",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:02.456624",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RAR0023278 for COVID-19 Vaccine Exemption (for ...(4)-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RAR0023278 for COVID-19 Vaccine Exemption (for ...(4).pdf",
+    "file_size": 166066,
+    "file_hash": "c2cc1554593c7a6f43813611b5f030bf2e4566390be4985f49ed864e6cb75a8c",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:18.734161",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:18.734161",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

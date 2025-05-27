@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RE_ PA Calendar(3)-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RE_ PA Calendar(3).pdf",
+    "file_size": 358935,
+    "file_hash": "62286c77295d22ea2c17dc6d2f5db3fc2683ea28b09757556c5f1f940f4d57a0",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:20.197215",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:20.197215",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

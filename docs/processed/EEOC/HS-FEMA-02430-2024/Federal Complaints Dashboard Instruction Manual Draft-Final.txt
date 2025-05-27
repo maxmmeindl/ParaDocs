@@ -1,0 +1,333 @@
+Federal Complaints Dashboard 
+
+Version 2.0 
+
+U.S. Equal Employment Opportunity Commission 
+
+Office of Federal Operations 
+
+ May 2024 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+
+Overview of the Federal Complaints Dashboard .................... Error! Bookmark not defined. 
+
+ Navigating Through the Federal Complaints Dashboard ..................................................... 4 
+
+Step 1: Select Your Topic ........................................................ Error! Bookmark not defined. 
+
+Step 2: Launch the Selected Dashboard Page ................... Error! Bookmark not defined. 
+
+Step 3: Select the Agency to View the Statistics .................. Error! Bookmark not defined. 
+
+Step 4: Select the Fiscal Years to View the Statistics ............ Error! Bookmark not defined. 
+
+Step 5: Select the Basis to View the Statistics ...................................................................... 7 
+
+Step 6: Select the Issues to View the Statistics ..................................................................... 8 
+
+Item List ........................................................................................................................................ 9 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Overview of the Federal Complaints Dashboard 
+
+The Federal Complaints Dashboard (FCD) reports agency-level federal sector 
+complaint data starting from fiscal year (FY) 2013.  The FCD complements the 
+complaint tables, also known as B-Tables found on the U.S. Equal Employment 
+Opportunity Commission’s Federal Sector Reports webpage. The EEOC collects this 
+data from the Annual Federal Equal Employment Opportunity Statistical Report of 
+Discrimination Complaints (Form 462), which are submitted and certified by Federal 
+agencies.    
+
+The Federal Complaints Dashboard allows the user to view key complaint statistics for 
+all Form 462 agencies. Currently, the dashboard consists of the following topics: 
+
+•  Federal Sector EEO: At a Glance 
+
+• 
+
+Investigations 
+
+•  Counselings and Complaints 
+
+•  Closures 
+
+•  Closures with Benefits 
+
+•  ADR (Informal and Formal) 
+
+•  Bases 
+
+• 
+
+Issues 
+
+Additional functionality and content will be added as we continue to develop this 
+platform. 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Navigating Through the Federal Complaints Dashboard 
+
+To access the FCD, visit EEOC’s Federal Sector Reports webpage. Navigate to the Federal 
+Complaints Dashboard page found under the “Annual Reports on the Federal 
+Workforce” section. The Federal Complaints Dashboard page provides an overview of 
+the dashboard and additional resources, including a link to the Federal Complaints 
+Dashboard, and a link to the section 508 compliant excel data tables used to create this 
+dashboard. To access the dashboard, select the Federal Complaints Dashboard link.  
+
+Step 1: Select Your Topic 
+
+After navigating to the dashboard, the first page will be the Federal Complaints 
+Dashboard Homepage. On the FCD Homepage, the user can select from a variety of 
+topics: 
+
+•  Federal Sector EEO: At a Glance 
+
+• 
+
+Investigations 
+
+•  Counselings and Complaints 
+
+•  Closures 
+
+•  Closures with Benefits 
+
+•  ADR (Informal and Formal) 
+
+Figure 1. Federal Complaints Dashboard Homepage 
+
+Step 2: Launch the Selected Dashboard Page 
+
+On the FCD Homepage, select your topic to launch its dashboard page. On each 
+
+4 
+
+ 
+ 
+dashboard page there are variety of functions available to review the data, for instance 
+filters, charts, and graphs. After reviewing the selected data, the user can return to the 
+FCD homepage by selecting the HOME button at the bottom of each page. Repeat the 
+process on the FCD homepage, to launch another dashboard page. 
+
+Figure 2. Launch the Selected Dashboard Page 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3. Return to the Homepage 
+
+Step 3: Select the Agency to View the Statistics 
+
+Select one or multiple agencies using the “Agency Name” option. This option filters the 
+data to the selected agencies. As you cycle through the list of agencies, the data 
+displayed on the page will change accordingly. 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+Figure 4. Select the Agency 
+
+Step 4: Select the Fiscal Years to View the Statistics 
+
+Select one or multiple fiscal years using the “Fiscal Year” option. This option filters the data 
+to the selected fiscal years. The fiscal years range from 2013 to 2020. As you cycle through 
+the fiscal years, the data displayed on the page will change accordingly. 
+
+Figure 5. Select the Fiscal Year 
+
+Step 5: Select the Basis to View the Statistics 
+
+Select one or multiple bases using the “Basis” option. This option filters the data to the 
+selected bases. As you cycle through the list of bases, the data displayed on the page will 
+change accordingly. 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6. Select the Basis 
+
+Step 6: Select the Issues to View the Statistics 
+
+Select one or multiple issues using the “Issue” option. This option filters the data to the 
+selected issues. As you cycle through the list of issues, the data displayed on the page will 
+change accordingly. 
+
+Figure 7. Select the Issue 
+
+8 
+
+ 
+ 
+ 
+ 
+Data Item 
+
+Agency 
+
+Item List 
+
+Definition 
+
+A list of Form 462 parent and/or sub- 
+component data agencies 
+
+Agency Investigations 
+
+Total investigations completed by 
+
+Complaint Closures-APD 
+
+agency investigations. 
+
+Average processing days for all 
+complaints closed at an agency. 
+
+Contract Investigations 
+
+Total investigations completed by 
+
+Formal ADR Offer Rate 
+
+Informal ADR Offer Rate 
+
+Investigations-APD 
+
+Total Counselings 
+
+Total Complaints 
+
+Total Closures 
+
+Total Investigations 
+
+Total Investigations Costs 
+
+contract investigators. 
+
+The number of ADR offers made to 
+individuals for formal complaints. 
+
+The number of ADR offers made to 
+individuals for pre-complaint counselings. 
+
+Average Processing Days for completed 
+agency and contract investigations. 
+
+Total EEO counselings reported by an 
+agency during the fiscal year. 
+
+Total EEO complaints reported by an 
+agency during the fiscal year. 
+
+Total complaints closed at an agency 
+during the fiscal year. 
+
+Total investigations completed at an 
+agency. 
+
+Total cost of investigations completed by 
+agency and contract investigators. 
+
+Total Monetary Benefits for Complaint 
+Closures 
+
+Total monetary benefits awarded for 
+complaints closed at an agency. 
+
+Total Workforce 
+
+Total permanent and seasonal 
+employees at the agency. 
+
+Types of Complaint Closures 
+
+How a complaint is closed at an agency, 
+
+whether settlement, finding, withdrawal, 
+etc. 
+
+9 
+
+ 
+ 
+

@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Your request  for Telework_ 100% has been received-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Your request  for Telework_ 100% has been received.pdf",
+    "file_size": 162937,
+    "file_hash": "123d040a27e35f284d949883f0f8fc5b622df718ce0eb16ea395c869468a6b03",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:21.274272",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:21.274272",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

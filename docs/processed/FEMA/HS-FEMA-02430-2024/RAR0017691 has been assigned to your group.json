@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RAR0017691 has been assigned to your group-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RAR0017691 has been assigned to your group.pdf",
+    "file_size": 178487,
+    "file_hash": "c14edcba90e09297219bdfe201a6fc733b744261122367a407b00223a1da0446",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:18.448481",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:18.448481",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

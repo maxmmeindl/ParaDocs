@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Request to consider Reassignment - Reasonable Accommodation of Last Resort-20250526",
+  "document_type": [
+    "Interactive_Process"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Request to consider Reassignment - Reasonable Accommodation of Last Resort.pdf",
+    "file_size": 4839045,
+    "file_hash": "9dac458aa59d39a46966a6240f36a2177b23573732a2481827429d0090db34cc",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:19.623331",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:19.623331",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

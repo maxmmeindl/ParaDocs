@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-FW_  FEMA Employee-Exempt -20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_  FEMA Employee-Exempt .pdf",
+    "file_size": 240840,
+    "file_hash": "80bde6c82ea601d590532d948c6947dde2c1c193b82b4a9f8c03aeb36bd72a11",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:10.509456",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:10.509456",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

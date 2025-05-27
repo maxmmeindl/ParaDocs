@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Hurricane IDA 4611 DR ORG Chart 01.28.2022-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Hurricane IDA 4611 DR ORG Chart 01.28.2022.pdf",
+    "file_size": 547634,
+    "file_hash": "de404fca53d631a984a0ca7aa7099c706f4adf4e6967fa32612dfd91aab2b2de",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:12.182490",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:12.182490",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

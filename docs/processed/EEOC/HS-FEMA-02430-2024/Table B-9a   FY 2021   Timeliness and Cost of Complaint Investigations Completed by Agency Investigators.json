@@ -1,0 +1,31 @@
+{
+  "document_id": "EEOC-Table B-9a   FY 2021   Timeliness and Cost of Complaint Investigations Completed by Agency Investigators-20250526",
+  "document_type": [
+    "EEOC_Charge",
+    "Timeline_Document"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-9a   FY 2021   Timeliness and Cost of Complaint Investigations Completed by Agency Investigators.xlsx",
+    "file_size": 16228,
+    "file_hash": "2e0f9513cf56b03bd5415c8ce405aa964dd0962aaf991df72d12beae1dabe19b",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:24.310355",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:24.310355",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

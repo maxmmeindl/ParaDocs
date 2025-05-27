@@ -1,0 +1,32 @@
+{
+  "document_id": "EEOC-Tab F-8 Affidavit of Witness Traci Brasher_ final-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Tab F-8 Affidavit of Witness Traci Brasher_ final.pdf",
+    "file_size": 414131,
+    "file_hash": "6fd107c685d93b870aa0e9221ec052c5999b184ce329abe889c7ec2711da546d",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:22.535629",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:22.535629",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

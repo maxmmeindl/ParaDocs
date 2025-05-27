@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-Update on your Employee Rights claim..eml (10.6 KB)-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Update on your Employee Rights claim..eml (10.6 KB).msg",
+    "file_size": 32768,
+    "file_hash": "5cdb5b7582564fc7561c14b830d7f1dc0ac7e7103a84424b0f6fff08f0b079cd",
+    "mime_type": "application/vnd.ms-outlook"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:32.168411",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:32.168411",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

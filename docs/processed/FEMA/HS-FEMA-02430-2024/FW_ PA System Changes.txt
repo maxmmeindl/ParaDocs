@@ -1,0 +1,162 @@
+From:
+To:
+
+Subject:
+Date:
+Attachments:
+
+In, Anthony
+Weatherall, Micki; Washington, Anita M; Smith , Anthony; Smith, David; Meindl, Max; Quinones Crespo, Joel;
+Davis, Henry; Teter, Sean
+FW: PA System Changes
+Thursday, December 7, 2023 2:24:49 PM
+GM Jan 8-12 Closeout and Obligation Training.pdf
+PA Stand Down XVI PDB Presentation Deck.pdf
+
+Changes to EMMIE and GM. See below.
+
+v/r
+
+Tony
+
+Anthony In
+Infrastructure Branch Director 4652-NM| Recovery Division | Region 6
+Cell Number 202-615-6165
+Anthony.in@fema.dhs.gov
+
+Federal Emergency Management Agency
+fema.gov
+
+ WARNING:  This document is FOR OFFICIAL USE ONLY (FOUO) and may contain PRIVACY SENSITIVE information.  Any misuse
+or unauthorized access may result in both civil and criminal penalties.  It is to be controlled, stored, handled, transmitted,
+distributed, and disposed of in accordance with DHS policy relating to FOUO information.  This information shall not be
+distributed beyond the original addressees without prior authorization of the originator. This communication, along with any
+attachments, is covered by Federal and State law governing electronic communications and may contain restricted and legally
+privileged information.  If the reader of this message is not the intended recipient, you are hereby notified that any
+dissemination, distribution, use or copying of this message is strictly prohibited.  If you have received this in error, please reply
+immediately to the sender and delete this message. 
+
+From: Simko, Donald <Donald.Simko@fema.dhs.gov> 
+Sent: Thursday, December 7, 2023 12:17 PM
+To: Collins, Jeremy M <Jeremy.Collins2@fema.dhs.gov>; Kundrock, Christopher
+<christopher.kundrock@fema.dhs.gov>; Black Rivera, Michele <Michele.Black-
+Rivera@fema.dhs.gov>; Salimi Galankashi, Mehregan <mehregan.salimi.galankashi@fema.dhs.gov>;
+Sawney, Anthony <Anthony.Sawney@fema.dhs.gov>; Reyes, Luis <Luis.Reyes3@fema.dhs.gov>;
+Williams, Eddie <Eddie.Williams@fema.dhs.gov>; Richardson, Derek
+<derek.richardson.2@fema.dhs.gov>; Mckenzie, Rachel <rachel.mckenzie@fema.dhs.gov>; Halbert,
+Brandy <brandy.halbert@fema.dhs.gov>; In, Anthony <anthony.in@fema.dhs.gov>; Bowen, Justin
+<Justin.Bowen@fema.dhs.gov>
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cc: Canaday, Kathy <Kathy.Canaday@fema.dhs.gov>; Hunter, Jodi <Jodi.Hunter@fema.dhs.gov>
+Subject: FW: PA System Changes
+
+Please see attached.  Feel free to share internally. 
+
+Donald Simko
+Branch Chief | Public Assistance | Region VI
+Office: (940) 591-2712 | Mobile: (202) 322-9591
+donald.simko@fema.dhs.gov
+
+Federal Emergency Management Agency
+fema.gov
+
+From: Hildebrand, Rachel <Rachel.Hildebrand@fema.dhs.gov> 
+Sent: Thursday, December 7, 2023 1:01 PM
+To: FEMA-Recovery-PA Regional Branch Chiefs <FEMA-Recovery-PA-Regional-Branch-
+Chiefs@fema.dhs.gov>
+Cc: Pesapane, Robert <Robert.Pesapane@fema.dhs.gov>; Wells, Tod <Tod.Wells@fema.dhs.gov>;
+FEMA-Recovery-PA Regional Deputy Branch Chiefs <FEMA-Recovery-PA-Regional-Deputy-Branch-
+Chiefs@fema.dhs.gov>; FEMA Recovery Senior Managers Regions
+<FEMARecoverySeniorManagersRegions@fema.dhs.gov>; FEMA-Recovery-PA-Senior Leadership
+<FEMA-Recovery-PA-Senior-Leadership@fema.dhs.gov>; FEMA-Recovery-PA-Supervisors <FEMA-
+Recovery-PA-Supervisors@fema.dhs.gov>
+Subject: PA System Changes
+
+Good afternoon,
+This email communicates PA system changes that are further detailed in the attached .pdf
+slide deck. We intended to brief these changes at the Dec standdown which has been
+postponed. Additional information and external messaging will be sent next Friday,
+December 15.
+
+1.  EMMIE PA Functions to GM
+
+We have been piloting Grants Manager closeout functionality in Region 8 and are
+in the final stages of transferring the remaining EMMIE functions to Grants
+Manager and Grants Portal (GM/GP). All EMs and DRs declared on or after January
+15th will fully be processed in GM/GP and will not need EMMIE for closeout,
+obligation, or reporting. To facilitate this transition, we are requesting regions to
+provide two (2) individuals from each region to participate in Grants Manager
+Train-the-Trainer sessions. The individuals should have closeout and obligation
+responsibilities and experience and have the capacity and desire to deliver future
+trainings to the respective region’s internal staff and external SLTT partners.
+Please send your recommendations to fema-pa-tdb-webinars@fema.dhs.gov, and
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+include: Name, FEMA Cell #, Title, Supervisor name and title, and whether they
+have GM login access.
+
+Training details are as follows (additional info in the attached .pdf):
+
+Title:                Grants Manager for Closeout and Obligations
+Dates:             January 8 – 12, 2024 (5 days)
+Time:               8:00 a.m. - 5:00 p.m. (Central)                           
+Location:         Virtual Classroom
+Deadline:      Register by Friday, December 15, 2023, 4:00 p.m. (Central)
+
+2.  EMMIE FMAG Functions to FEMA GO
+
+We will begin rolling out FMAG in FEMA GO with a Region 6 pilot at the end of
+March 2024. We are planning to do national rollout for all new FMAG declarations in
+May 2024. We are in close coordination with regional FMAG staff as we plan the
+rollout.
+
+3.  Change Control Tool (CCT) to ServiceNow
+
+As part of our continuous improvement effort and the decommissioning of
+InfoPath, on December 22, 2023, the Public Assistance Change Control Tool (CCT)
+and the Customer Experience Support Section Log will be replaced with the FEMA
+ServiceNow Portal. Using the new PA Customer Assistance and Continuous
+Improvement form, end users will have the ability to:
+
+·         Request assistance with Grants Manager, Grants Portal, or available
+
+program tools.
+
+·         Report a PA system outage or performance issue.
+
+·         Suggest a change/improvement.
+
+In the coming weeks, additional information will be provided to help with this
+transition.
+
+Thank you for joining us in these exciting new changes to better serve Public Assistance
+customers!
+
+Rachel Hildebrand
+Chief | Program Design Branch | Public Assistance Division
+Mobile: (202) 714-9731
+Rachel.Hildebrand@fema.dhs.gov | Pronouns: she/her
+
+ 
+ 
+ 
+ 
+ 
+

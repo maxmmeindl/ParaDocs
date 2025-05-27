@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-15   FY 2021   Complaints Closed with Findings of Discrimination-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-15   FY 2021   Complaints Closed with Findings of Discrimination.xlsx",
+    "file_size": 16507,
+    "file_hash": "c14e6b86d8cb851e855dfd3a2717546075439cd09736f1e2c5be71c72ef65575",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.573521",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.573521",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "EEOC-MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info (2)-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info (2).pdf",
+    "file_size": 321031,
+    "file_hash": "11962b1dab3af94f613e65f30b655033cde258e0d50afe5f3079ae3fca2068b4",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:22.028901",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:22.028901",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

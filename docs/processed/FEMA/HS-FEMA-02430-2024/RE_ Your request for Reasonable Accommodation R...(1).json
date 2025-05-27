@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RE_ Your request for Reasonable Accommodation R...(1)-20250526",
+  "document_type": [
+    "Interactive_Process"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RE_ Your request for Reasonable Accommodation R...(1).pdf",
+    "file_size": 278154,
+    "file_hash": "2fb5352671a41ca743c8fbff94f95adbefb03259e5484b7af320513a1fd4dfdf",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:21.134069",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:21.134069",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-draft.eml[1] (2)-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "draft.eml[1] (2).eml",
+    "file_size": 427130,
+    "file_hash": "4cc354e00f93a6cab7b73d1d162b10c18b4d98198c1af26bf70d9ef8f0d68384",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:24.623290",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:24.623290",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

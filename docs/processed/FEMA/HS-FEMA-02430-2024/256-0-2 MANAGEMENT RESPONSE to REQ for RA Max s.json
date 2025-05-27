@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-256-0-2 MANAGEMENT RESPONSE to REQ for RA Max s-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "256-0-2 MANAGEMENT RESPONSE to REQ for RA Max s.pdf",
+    "file_size": 1342663,
+    "file_hash": "8b47f72eaacbc44505c9d18fe0f80825a91d633f2a87f95ac7491f32ff0d5752",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:58.337427",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:58.337427",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

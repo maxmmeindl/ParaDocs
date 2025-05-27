@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.pdf",
+    "file_size": 305232,
+    "file_hash": "83a8f3a836148c6c772799ba47fee15d5afadd75be493539564722ed4c4e7bc4",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:12.410157",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:12.410157",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

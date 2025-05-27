@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-TONY IN CHAT RECORD-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "TONY IN CHAT RECORD.docx",
+    "file_size": 121765,
+    "file_hash": "27fece07d87b41244a415b49e6a6fdb188e06b293945575b7fd144b892486c0b",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.101213",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.101213",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

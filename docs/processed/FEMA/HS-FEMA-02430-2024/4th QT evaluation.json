@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-4th QT evaluation-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "4th QT evaluation.pdf",
+    "file_size": 216453,
+    "file_hash": "2c3045bf8d8bdfb95875b527ec587dc6ea0637beef3f8d2133efc86873c8a7a1",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:59.198267",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:59.198267",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

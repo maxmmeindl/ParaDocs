@@ -136,7 +136,7 @@ I've created three different email indexing tools to help you organize and analy
 - **Supports damages** calculations
 
 ### The 1,340-Day Violation:
-The email index clearly shows this extreme violation is your strongest evidence:
+The email index clearly shows this serious violation is your strongest evidence:
 - Email sent: September 15, 2020
 - Response: **NEVER**
 - Days waiting: **1,340**

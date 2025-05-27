@@ -16,7 +16,7 @@ I need your help securing justice in what may be the most egregious federal disa
 
 - **Damages Demand:** $5 million (realistically $2-3M settlement)
 - **Your Fee Potential:** $800K-$1.2M (court-ordered or contingency)
-- **Liability:** Essentially automatic (1,340-day delay = 2,878% over legal limit)
+- **Liability:** Essentially likely (1,340-day delay = 2,878% over legal limit)
 - **Case Status:** ADR scheduled, ready for aggressive negotiation
 
 ## **Why This Case is Worth Millions**
@@ -103,7 +103,7 @@ We have:
 
 ## **Time is Money - Yours and Mine**
 
-At 74, every day matters to me. For you, the ADR is a chance for a quick, massive fee. We walk in strong, demand $5 million, and likely walk out with $2-3 million within 60-90 days. No drawn-out litigation, no endless discovery - just a shocking set of facts that demands compensation.
+At 74, every day matters to me. For you, the ADR is a chance for a quick, massive fee. We walk in strong, demand $5 million, and likely walk out with $2-3 million within 60-90 days. No drawn-out litigation, no endless discovery - just a significant set of facts that demands compensation.
 
 ## **Your Decision Point**
 

@@ -1,0 +1,4105 @@
+FEMA MANUAL 252-11-1  
+CADRE OF ON-CALL RESPONSE/RECOVERY EMPLOYEE (CORE) 
+PROGRAM 
+APPROVAL DATE: 08/25/2015 
+
+DEPARTMENT OF HOMELAND SECURITY 
+
+FEDERAL EMERGENCY MANAGEMENT AGENCY 
+
+OFFICE OF THE CHIEF COMPONENT HUMAN CAPITAL OFFICER 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Foreword 
+
+The Federal Emergency Management Agency (FEMA) intends to achieve business and 
+management excellence by providing guidance and policy direction for the 
+administration of FEMA’s Cadre of On-call Response/Recovery Employees (COREs). 
+FEMA’s most valuable resource is its workforce; permanent and temporary employees 
+who are focused on and committed to leading America to prepare for, prevent, respond 
+to, and recover from all-hazards incidents. FEMA relies upon its temporary personnel, in 
+particular, to carry out its role in incident management and support operations and to 
+augment FEMA’s permanent workforce.   
+
+The objective of the CORE Program is to attract and maintain a pool of highly skilled 
+and motivated temporary personnel who are well trained and ready to respond and 
+deliver quality and timely services to survivors and communities impacted by all-hazards 
+incidents. The publication of this Manual will ensure consistent policy application and 
+enable FEMA to better manage COREs in a cost effective and efficient manner, while 
+offering the necessary incentives to recruit a professional incident workforce capable of 
+assisting disaster survivors in their time of greatest need. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+
+Foreword ......................................................................................................................... 2 
+
+CHAPTER 1: GENERAL INFORMATION ...................................................................... 7 
+
+1-1.  Purpose ................................................................................................................ 7 
+
+1-2.  Applicability and Scope ........................................................................................ 7 
+
+1-3.  Authorities............................................................................................................. 7 
+
+1-4.  References ........................................................................................................... 7 
+
+1-5.  Policy .................................................................................................................... 9 
+
+1-6.  Definitions ........................................................................................................... 10 
+
+1-7.  Responsibilities ................................................................................................... 15 
+
+1-8.  Reporting Requirement ...................................................................................... 24 
+
+1-9.  Forms Prescribed ............................................................................................... 24 
+
+1-10.  No Private Right ................................................................................................. 24 
+
+1-11.  Questions ........................................................................................................... 24 
+
+CHAPTER 2: RECRUITMENT AND HIRING ............................................................... 25 
+
+2-1.  General ............................................................................................................... 25 
+
+2-2.  Staffing Plans ..................................................................................................... 25 
+
+2-3.  Annual Direct Charge CORE Certification .......................................................... 26 
+
+2-4.  Procedures for Soliciting Candidates .................................................................. 27 
+
+2-5.  Name Request .................................................................................................... 30 
+
+2-6. 
+
+Interviews ........................................................................................................... 30 
+
+2-7.  Reference Checks .............................................................................................. 31 
+
+2-8. 
+
+Job Offers ........................................................................................................... 31 
+
+2-9.  Notification to Applicants .................................................................................... 32 
+
+2-10.  Recordkeeping Requirements ............................................................................ 32 
+
+CHAPTER 3: APPOINTMENTS ................................................................................... 33 
+
+3-1.  Eligibility for Appointment ................................................................................... 33 
+
+3-2.  CORE Appointments .......................................................................................... 33 
+
+3-3.  Conditions of Employment .................................................................................. 34 
+
+3-4.  Directed Work Location ...................................................................................... 35 
+
+3-5.  Oath of Office ..................................................................................................... 35 
+
+3-6.  Government Property ......................................................................................... 35 
+
+3 
+
+ 
+ 
+3-7.  Reassignments to a New Position ...................................................................... 36 
+
+3-8.  Detail Assignments ............................................................................................. 36 
+
+3-9.  Reappointment Procedures ................................................................................ 37 
+
+3-10.  Resignation......................................................................................................... 37 
+
+CHAPTER 4: COMPENSATION PROVISIONS ........................................................... 38 
+
+4-1.  Applicability......................................................................................................... 38 
+
+4-2.  Establishment of CORE Pay Plan ...................................................................... 38 
+
+4-3.  Conversion Actions ............................................................................................. 38 
+
+4-4.  Position Management and Classification ............................................................ 38 
+
+4-5.  Locality Pay ........................................................................................................ 38 
+
+4-6.  Cost of Living Increase ....................................................................................... 39 
+
+4-7.  Pay Ceilings and Premium Pay .......................................................................... 39 
+
+4-8.  Recruitment, Relocation, or Retention Incentives ............................................... 39 
+
+4-9.  Offset Provision for Civilian Retirees .................................................................. 41 
+
+CHAPTER 5: COMPENSATION (PAY BANDS) .......................................................... 42 
+
+5-1.  General ............................................................................................................... 42 
+
+5-2.  Setting Basic Rate of Pay ................................................................................... 42 
+
+5-3.  Pay Adjustments ................................................................................................. 43 
+
+5-4.  Merit-Based Increase ......................................................................................... 43 
+
+5-5.  Promotion ........................................................................................................... 44 
+
+5-6.  Change to a Lower Pay Band ............................................................................. 44 
+
+CHAPTER 6: COMPENSATION (GRADES AND STEPS) .......................................... 46 
+
+6-1.  General ............................................................................................................... 46 
+
+6-2.  Setting Basic Rate of Pay ................................................................................... 46 
+
+6-3.  Pay Adjustments ................................................................................................. 47 
+
+6-4.  Step Increases .................................................................................................... 48 
+
+6-5.  Promotion ........................................................................................................... 49 
+
+6-6.  Change to Lower Grade ..................................................................................... 49 
+
+CHAPTER 7: BENEFITS .............................................................................................. 51 
+
+7-1.  General ............................................................................................................... 51 
+
+7-2.  Health Benefits ................................................................................................... 51 
+
+7-3.  FEDVIP (Dental and Vision) Program ................................................................ 52 
+
+7-4.  Life Insurance ..................................................................................................... 52 
+
+4 
+
+ 
+7-5.  Retirement .......................................................................................................... 52 
+
+7-6.  Thrift Savings Plan ............................................................................................. 53 
+
+7-7.  Federal Long-Term Care Insurance Program ..................................................... 53 
+
+7-8.  Flexible Spending Accounts ............................................................................... 53 
+
+7-9.  Employee Assistance Program (EAP) ................................................................ 53 
+
+7-10.  Transit Subsidy Program .................................................................................... 53 
+
+CHAPTER 8: PERFORMANCE MANAGEMENT ......................................................... 55 
+
+8-1.  General ............................................................................................................... 55 
+
+8-2.  Performance Management for CORE-Is ............................................................. 55 
+
+8-3.  Deployment Performance Management ............................................................. 55 
+
+CHAPTER 9: AWARDS AND RECOGNITION ............................................................. 57 
+
+9-1.  Awards and Recognition Program ...................................................................... 57 
+
+CHAPTER 10: SCHEDULING OF WORK AND TELEWORK ...................................... 58 
+
+10-1.  Scheduling of Work and Telework ...................................................................... 58 
+
+CHAPTER 11: PROCEDURES FOR MISCONDUCT AND POOR PERFORMANCE .. 59 
+
+11-1.  General ............................................................................................................... 59 
+
+11-2.  Addressing Misconduct ...................................................................................... 59 
+
+11-3.  Addressing Poor Performance ............................................................................ 62 
+
+11-4.  Deployment Scenarios ....................................................................................... 64 
+
+11-5.  Arrest, Indictment, and other Allegations of Misconduct ..................................... 64 
+
+11-6.  The Appeal Process ........................................................................................... 66 
+
+11-7.  Allegations of Discrimination............................................................................... 66 
+
+11-8.  Allegations of Fraud, Waste, Abuse, and Mismanagement ................................ 66 
+
+CHAPTER 12: RIGHTSIZING ....................................................................................... 67 
+
+12-1.  General ............................................................................................................... 67 
+
+12-2.  Rightsizing Plan .................................................................................................. 67 
+
+12-3.  Notice ................................................................................................................. 68 
+
+12-4.  Retention Criteria ................................................................................................ 68 
+
+12-5.  Transitional Options for Released COREs ......................................................... 70 
+
+CHAPTER 13: ABSENCE AND LEAVE ....................................................................... 71 
+
+13-1.  Absence and Leave Policy ................................................................................. 71 
+
+CHAPTER 14: TRAINING AND ETHICS ...................................................................... 72 
+
+14-1.  Training Provisions ............................................................................................. 72 
+
+5 
+
+ 
+14-2.  Ethics Requirements .......................................................................................... 72 
+
+CHAPTER 15: CONTINUING SERVICE AGREEMENTS ............................................ 74 
+
+15-1.  Service Agreement ............................................................................................. 74 
+
+15-2.  Terminations of a CSA ....................................................................................... 74 
+
+15-3.  Debt Recovery .................................................................................................... 74 
+
+6 
+
+ 
+ 
+ 
+ 
+CHAPTER 1:  GENERAL INFORMATION 
+
+1-1.  Purpose 
+
+This Manual establishes the policies and procedures for FEMA’s Cadre of On-
+call Response/Recovery Employees (CORE) Program. FEMA will achieve 
+consistency and facilitate the equitable and effective management of all COREs 
+through the implementation of the policies and procedures set forth in this 
+Manual. 
+
+1-2.  Applicability and Scope 
+
+A.  The provisions of this Manual apply to all FEMA COREs, unless otherwise 
+
+indicated. 
+
+B.  FD 010-7, Incident Management Assistance Team (IMAT) Program Directive 
+(IMAT Directive), is applicable to COREs who receive CORE-I appointments, 
+also known as CORE-Incident Management Assistance Team (IMAT) 
+Members or Pilot IMATs. Inconsistencies between this Manual and the IMAT 
+Directive are resolved in favor of the IMAT Directive. 
+
+C.  The Attorney Hiring and Promotion Plan (AHPP), dated April 21, 2014, 
+provides pay setting, pay adjustments, and promotion policy for CORE 
+Attorneys. Inconsistencies between this Manual and the AHPP are resolved 
+in favor of the AHPP. 
+
+1-3.  Authorities 
+
+Section 306 of the Robert T. Stafford Disaster Relief and Emergency Assistance 
+Act, Pub. L. No. 93-288, as amended (Stafford Act), codified at 42 U.S.C. §§ 
+5121 et seq., provides FEMA with authority “to appoint and fix the compensation 
+of such temporary personnel as may be necessary, without regard to the 
+provisions of title 5, United States Code, governing appointments in the 
+competitive service.”  
+
+1-4.  References 
+
+The following list is not an exhaustive list of statutes, regulations, DHS and 
+FEMA directives and manuals, policies, and guidance memorandums applicable 
+to COREs. 
+
+A.  FEMA Policy 401-123-1, Equal Employment Opportunity (EEO) Policy 
+
+Statement, October 1, 2014.  
+
+B.  Memorandum from the DHS Chief Human Capital Officer, Annual Leave 
+
+Enhancements, February 17, 2006. 
+
+C.  DHS Instruction 121-01-007, DHS Personnel Suitability and Security 
+
+Program, June 2009. 
+
+D.  DHS Management Directive 254-02, Employee Assistance Program, May 31, 
+
+2007. 
+
+7 
+
+ 
+ 
+ 
+ 
+E.  DHS Management Directive 0810.1, The Office of Inspector General, June 
+
+10, 2004. 
+
+F.  DHS Management Directive 3120.2, Employment of Non-Citizens, March 22, 
+
+2004. 
+
+G.  Memorandum from the Deputy Administrator, Every Employee an Emergency 
+
+Manager—Action Items, January 20, 2012.  
+
+H.  FEMA Directive (FD) 010-7, Incident Management Assistance Team (IMAT) 
+
+Program Directive, January 12, 2015. 
+
+I.  FEMA Directive 010-9, FEMA Incident Workforce Cadre Management, June 
+
+9, 2015. 
+
+J.  FEMA Directive 122-1, International Travel, October 24, 2011. 
+
+K.  FEMA Directive 122-2, Local Travel Reimbursement, March 12, 2013. 
+
+L.  FEMA Directive 122-4, Payment of Official Travel Expenses from a Non-
+
+Federal Source, June 27, 2013. 
+
+M.  FEMA Directive 122-7, Premium Class Travel, September 19, 2013. 
+
+N.  FEMA Directive 122-8, Invitational Travel, February 7, 2014. 
+
+O.  FEMA Directive 122-9, Travel Charge Card, April 18, 2014. 
+
+P.  FEMA Directive 119-6, Employee Physical Fitness Program, February 2, 
+
+2012. 
+
+Q.  FEMA Directive 141-1, Records Management Program Directive, March 6, 
+
+2014. 
+
+R.  FEMA Manual (FM) 106-1-1, Scheduling of Work, March 5, 2014. 
+
+S.  FEMA Manual 123-9-1, Telework, January 9, 2013. 
+
+T.  FEMA Manual 123-20-1, Drug-Free Workplace Program, July 28, 2014. 
+
+U.  FEMA Manual 253-2-1, Premium Pay, February 11, 2014. 
+
+V.  FEMA Manual 255-1-1, FEMA Employee Performance Management Program 
+
+(EPMP), February 21, 2013. 
+
+W. FEMA Manual 255-4-1, Employee Awards and Recognition, September 26, 
+
+2013. 
+
+X.  FEMA Manual 109-2-1, Privacy Program, June 4, 2013. 
+
+Y.  FEMA Manual 3300.3, FEMA Absence and Leave Policy, July 31, 2001. 
+
+Z.  FEMA Manual 6200.1, Travel Regulations, November 25, 1988. 
+
+AA. Memorandum from the FEMA Chief Counsel, Appointment and 
+
+Compensation of Stafford Act Employees Under Section 306(b)(1) of the 
+Stafford Act, June 25, 2012. 
+
+BB. Attorney Hiring and Promotion Plan, April 21, 2014. 
+
+8 
+
+ 
+CC.FEMA Interview and Selection Guidance, June 4, 2014. 
+
+DD.FEMA Budget Guidance on use of DRF/DRS resources, March 2015. 
+
+1-5.  Policy 
+
+A.  The authority provided by the Stafford Act allows FEMA to manage its CORE 
+Program without being required to apply all of the provisions of Title 5, United 
+States Code, and its implementing regulations. FEMA chooses, as a matter of 
+policy, to administratively implement some Title 5 provisions and, in other 
+circumstances, to use its Stafford Act authority to create and administer its 
+own policies to more effectively manage Stafford Act employees consistent 
+with the intent and program needs for these positions. In all circumstances, 
+FEMA intends to develop and implement policies that are fair and equitable to 
+its CORE workforce and that are consistently understood and implemented by 
+FEMA managers and supervisors. 
+
+B.  COREs are hired to directly support the response and recovery efforts related 
+
+to disasters and are funded out of the Disaster Relief Fund (DRF). As 
+temporary employees, COREs cannot replace the work performed and 
+funded through annual appropriations by permanent full-time staff. COREs 
+can perform Stafford Act duties that are not otherwise funded in FEMA’s 
+budget and can be charged to an open disaster. The use of COREs must be 
+reviewed and validated on a recurring basis to ensure a continued need for 
+the positions and consistent funding decisions across FEMA. 
+
+C.  FEMA shall: 
+
+1.  Staff positions with the best qualified persons available; 
+
+2.  Develop and use COREs to the maximum extent possible consistent with 
+
+the completion of FEMA’s mission and the Stafford Act; 
+
+3.  Establish CORE positions with a minimum of two-year appointments 
+(unless otherwise justified for less than two years based on workload 
+analyses) based on requests from Offices and Directorates authorized to 
+fill CORE positions. Offices and Directorates will request the renewal of a 
+CORE’s appointment prior to the CORE’s expiration date, subject to 
+funding (see section 3-9); 
+
+4.  Require COREs to sign a Conditions of Employment letter at the time of 
+
+hiring and reappointment; 
+
+5.  Ensure that all personnel actions are taken without regard to political, 
+
+religious, or labor organization affiliation or non-affiliation, marital or family 
+status, race, color, gender, sexual orientation, national origin, disability, 
+genetic information, age, or prior Equal Employment Opportunity (EEO) 
+activity; without regard to criteria unrelated to the position, such as 
+personal friendship or patronage, and that selections are based solely on 
+job-related criteria; and do not fall within prohibited personnel practices 
+identified at 5 U.S.C. § 2302(b);  
+
+9 
+
+ 
+ 
+6.  Establish a pay system that will improve the ability of FEMA to attract and 
+
+retain quality candidates and employees; 
+
+7.  Ensure that equal pay is provided for work of equal value, with appropriate 
+consideration of both national and local pay rates paid by employers in the 
+private sector, and that appropriate incentives and recognition should be 
+provided for excellence in performance; and 
+
+8.  Provide effective education and training, consistent with Stafford Act 
+duties, which will result in enhanced organizational and individual 
+performance. 
+
+D.  COREs must: 
+
+1.  Maintain high standards of integrity, conduct, and concern for the public 
+
+interest; and 
+
+2.  Be prepared at all times to deploy or work from alternate work locations 
+
+other than their normal official duty station. 
+
+E.  COREs may be terminated at any time, with cause (poor performance or 
+
+misconduct), or without cause (such as when workload or funding diminishes 
+or ends). 
+
+F.  A CORE may be subject to removal if the CORE declines a deployment 
+
+request without reasonable cause. 
+
+1-6.  Definitions 
+
+A.  Algorithm. A formula for allocating a CORE’s salary and benefits across 
+
+multiple disaster declarations. The allocation should correlate to the estimated 
+amount of time the CORE performs work attributable to each declaration. 
+
+B.  Annual Direct Charge CORE Certification. The annual process for verification 
+of Disaster Relief Fund (DRF) related duties and the continued need for all 
+CORE positions.   
+
+C.  Appointment. A personnel action that results in an individual becoming a 
+FEMA employee. Individuals, who accept CORE positions, are given 
+excepted service appointments with FEMA under the Stafford Act. Generally, 
+appointments may not be effective prior to the date of approval by the 
+appointing official and are only effective from the date of acceptance of the 
+offer of employment and entrance on duty, unless a later date is stated on the 
+SF-52, or other approving document. 
+
+D.  Ancillary Support. Personnel directly supporting disaster operations from their 
+
+daily duty station. 
+
+E.  Backfill. Hiring an employee to fill a previously approved vacant funded 
+
+position. 
+
+F.  Basic pay. The rate of pay fixed by administrative action for the position held 
+before any deductions, but exclusive of additional pay of any other kind, 
+including premium pay. 
+
+10 
+
+ 
+ 
+G.  Career path. A progression of positions in one or more occupational series 
+
+leading to an increase in responsibility and proficiency. 
+
+H.  Confidential Financial Disclosure (OGE Form 450) Filer. A CORE who, 
+
+because of the duties of his or her assigned position, must file confidential 
+financial disclosure reports (OGE Form 450s) as directed by the Office of 
+Government Ethics and FEMA’s Office of the Chief Counsel pursuant to 5 
+C.F.R. § 2634 Subpart I. COREs in these positions are assigned FEMA 
+duties that involve the exercise of significant discretion in certain sensitive 
+areas. OGE Form 450 disclosures serve to ensure confidence in the integrity 
+of FEMA operations by identifying and preventing potential conflicts of 
+interest. If a CORE’s position description indicates duties requiring a 
+confidential financial disclosure, timely filing of OGE Form 450 is a condition 
+of employment. 
+
+I.  Continuing Service Agreement (CSA). A written agreement between FEMA 
+
+and a CORE under which the CORE agrees to a specified period of 
+employment with FEMA in return for a monetary incentive or participation in a 
+training or developmental program. 
+
+J.  Conversion Action. The process by which a non-CORE FEMA employee is 
+
+appointed to a CORE position.  
+
+K.  CORE-I (IMAT CORE). A CORE assigned full-time to an IMAT and to an 
+
+IMAT position description. CORE-Is receive four-year appointments and are 
+the first FEMA personnel deployed to an incident, serving in leadership roles 
+as part of an IMAT. When not deployed, IMAT CORE base salaries are paid 
+from the Disaster Readiness and Support (DRS) account; however, when 
+deployed their salaries are paid by the disaster (under the declaration). IMAT 
+COREs are non-direct charge COREs and new, backfill, or reassignment 
+actions are not subject to direct charge CORE requirements. 
+
+L.  Declaration. Declarations for DRF-funded events, including major disasters, 
+
+emergencies, fire management declarations, and disasters under the 
+Compact of Free Association. 
+
+M.  Demotion. A change to a lower grade or pay band and a decrease in pay as a 
+
+result of an adverse action or poor performance.  
+
+N.  Direct Charge CORE. Employees whose primary duty is to carry out Stafford 
+
+Act functions in support of open, active declarations or pre-event surge 
+activities to an event for which a declaration is reasonably likely and 
+imminent. The salary of a Direct Charge CORE is charged to Major Disasters, 
+Emergencies, Fire Management Assistance Grants or the Disaster Surge 
+account. Direct Charge COREs working on specific events should charge 
+their time directly to those events. Direct Charge COREs working on multiple 
+events or working as a part of a distributed group defined below should 
+charge their time to an algorithm that accurately reflects the amount of work 
+performed for each of those events. Specifically, the salary of a Direct Charge 
+CORE may be structured in one of the following ways: 
+
+11 
+
+ 
+1.  Specific Declaration: Salary is based on work performed on a single, 
+
+specific declaration.  
+
+2.  Multiple Declarations: Salary is based on work that provides services to 
+multiple declarations and is charged based on an established algorithm.  
+
+3.  Distributed Group Activities: Activities comprised of non-segregable 
+
+declaration and non-declaration related functions that will be performed 
+collectively by COREs and non-COREs. The number of COREs carrying 
+out a particular Distributed Group Activity is based on the percentage of 
+time required for the disaster related functions of that Distributed Group 
+Activity. Charges are allocated across multiple disasters based on an 
+established algorithm for the Distributed Group Activity.1  
+
+Duties related to preparedness, readiness, and planning for future events are 
+not allowable Direct Charge CORE duties. Charging a CORE’s salary to 
+declarations when the duties performed by the CORE do not support those 
+declarations could result in a violation of the Anti-Deficiency Act (ADA) and 
+result in adverse actions against the responsible officials. 
+
+O.  Distributed Group Activity Baseline. The ratio of COREs and non-COREs 
+carrying out a particular Distributed Group Activity as determined by the 
+percentage declaration and non-declaration functions performed for that 
+Activity based on verifiable workload data and evaluation of current or past 
+budget justification materials. 
+
+P.  FEMA Qualification System (FQS). A performance-based system for 
+
+certifying FEMA employees as “Qualified” or “Trainee” in IM and IS positions; 
+certification is based on successful completion of required experience, 
+required training, and demonstrated performance (see FEMA Directive 010-9, 
+Incident Workforce Cadre Management, dated June 9, 2014). 
+
+Q.  Fitness Determination. “Fitness” means “the level of character and conduct 
+determined for an individual to perform work for or on behalf of a Federal 
+agency as an employee in the excepted service (other than a position subject 
+to suitability) or as a contractor employee.” Executive Order 13,488, § 2(d); 
+implemented in DHS Instruction 121-01-007, Chapter 3. 
+
+R.  IM CORE. A CORE assigned to a two-year appointment and whose primary 
+job duty is to perform an FQS incident management position. When not 
+deployed, IM CORE base salaries are paid from the Disaster Readiness and 
+Support (DRS) account; however, when deployed their salaries are paid by 
+the disaster (under the declaration). IM COREs are non-direct charge COREs 
+
+1 For example, OCFO’s FEMA Finance Center has a Distributed Group Activity that processes and pays invoices 
+related to both disaster and non-disaster activities. Determining the number of CORE positions that should populate 
+this Distributed Group Activity requires an analysis of the ratio of disaster functions versus non-disaster functions. If 
+the analysis concludes that 70% of the functions are disaster related and the entire Distributed Group Activity 
+requires 10 positions, then the analysis would justify 7 CORE positions out of the 10 needed to perform those 
+functions. 
+
+12 
+
+ 
+                                                           
+and new, backfill, or reassignment actions are not subject to direct charge 
+CORE requirements 
+
+S.  Incident Management (IM). The incident-level operation of the Federal role in 
+emergency response, recovery, logistics, and mitigation. Responsibilities 
+include the direct control and employment of resources, management of 
+incident offices, operations, and delivery of Federal assistance through all 
+phases of response and recovery. 
+
+T.  Incident Support (IS). The coordination of all Federal resources that support 
+emergency response, recovery, logistics, and mitigation. Responsibilities 
+include the deployment of national-level assets, support of national objectives 
+and programs affected during the disaster, and support of incident operations 
+with resources, expertise, information, and guidance. 
+
+U.  Locality Payment. A locality-based comparability payment (see 5 U.S.C. § 
+
+5304 and 5 C.F.R. Part 531, subpart F). 
+
+V.  Mission Essential. Personnel who perform a limited set of FEMA functions 
+that must be continued throughout, or resumed rapidly after, a disruption of 
+normal activities. 
+
+W. Non-Direct Charge CORE. COREs whose salaries are partially or wholly 
+funded by the DRS account within the DRF. These employees’ functions 
+support operational readiness, response, and recovery functions of the 
+Stafford Act that are not directly attributable to the response and recovery 
+efforts of any specific declaration or pre-event surge activities to an event for 
+which a declaration is reasonably likely and imminent. Examples of Non-
+Direct Charge COREs include IM and IMAT COREs when not deployed or 
+working for an open disaster.  
+
+X.  Offices and Directorates. Office of the Administrator, Office of Chief Counsel, 
+Office of the Chief Financial Officer, Office of External Affairs, Office of Policy 
+and Program Analysis, Office of Response and Recovery, Response 
+Directorate, Recovery Directorate, Logistics Management Directorate, 
+Protection and National Preparedness, National Preparedness Directorate, 
+National Continuity Programs Directorate, Grant Programs Directorate, 
+Mission Support, Office of the Chief Administrative Officer, Office of the Chief 
+Component Human Capital Officer, Office of the Chief Information Officer, 
+Office of the Chief Procurement Officer, Office of the Chief Security Officer, 
+Federal Insurance and Mitigation Administration, FIA Mitigation, FIA 
+Insurance, United States Fire Administration, and Offices of Regional 
+Administrators. 
+
+Y.  Pay Adjustment. Any increase or decrease in a CORE’s basic pay when there 
+is no change in the duties or responsibilities of the CORE’s position within the 
+same career path and pay plan (see sections 5-3 and 6-3). 
+
+Z.  Pay Band. A range of pay for a group or categories of employees that FEMA 
+
+established according to FEMA’s Stafford Act authority. 
+
+13 
+
+ 
+AA. Permanent Full-Time (PFT). A permanent FEMA employees who meets the 
+
+definition of “employee” under 5 U.S.C. § 2105. 
+
+BB. Post-Action Review. An internal control established to ensure compliance 
+
+with the Annual Direct Charge CORE Certification review and documentation 
+requirements established for Direct Charge CORE positions.   
+
+CC.Program Area. A discrete subdivision within an Office, Division, Branch, or 
+
+Unit that performs work that is substantially different from the work performed 
+by other subdivisions. 
+
+DD.Promotion. A personnel action that moves a CORE (1) to a higher grade; (2) 
+from one pay band to a higher pay band in the same career path; or (3) to a 
+position in another career path in combination with an increase in the CORE’s 
+basic pay. 
+
+EE. Qualifying Life Event (QLE). OPM designated events deemed acceptable to 
+the IRS that may allow premium conversion participants to change their 
+participation election for premium conversion outside of an open season. For 
+more information, see OPM’s Healthcare Reference Materials for a listing of 
+the authorized Qualifying Life Events. 
+
+FF.Reassignment. A personnel action that moves a CORE from one position to 
+another without promotion or change to a lower pay band, grade, or step, at 
+management discretion and based on necessary approvals. Reassignment 
+includes: (1) movement to a position in a new occupational series, or to 
+another position in the same series; (2) assignment to a position that has 
+been reclassified due to the introduction of a new or revised classification or 
+job grading standard; (3) assignment to a position that has been reclassified 
+as a result of a position review; and (4) movement to a different position at the 
+same band but with a change in salary that is the result of a different locality 
+payment. 
+
+GG. Relative. A father, mother, son, daughter, brother, sister, uncle, aunt, first 
+
+cousin, nephew, niece, husband, wife, unmarried domestic partner, father-in-
+law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, 
+stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half-
+brother, or half-sister. The definition of “relative” for sick leave, Family Medical 
+Leave Act (FMLA), and other leave purposes may be different; for more 
+information see FEMA Manual 3300.3, Absence and Leave. 
+
+HH.Rightsizing. The process by which FEMA reduces CORE staff levels in 
+
+response to changed conditions such as a diminished workload, or budgetary 
+or statutory changes. 
+
+II.  Selecting Official. A FEMA employee who is authorized to make a hiring 
+
+decision. 
+
+JJ. Specialized Experience Statement. A written description of any specialized 
+
+experience that a candidate must possess in order to be considered minimally 
+qualified for the vacancy. Any candidate who does not meet the specialized 
+
+14 
+
+ 
+experience requirements will not be referred to Office or Directorate by 
+OCCHCO.  
+
+KK. Supervisor. An employee who accomplishes work through the direction of 
+other people. A supervisor must spend at least 25 percent of their time 
+exercising independent judgment over other employees on matters relating 
+to, but not limited to, work assignments, performance management, 
+administration, training, and property accountability. 
+
+LL. Supervisor of Record. The supervisor of record has the delegated authority to 
+assign work, discipline, and remove a CORE from federal employment in 
+accordance with the procedures found in Chapter 11 (discipline) and Chapter 
+8 (performance management).  
+
+MM. Temporary Duty Supervisor. The individual (PFT, CORE, or Reservist) on-
+site or in virtual communication with deployed PFTs, COREs, or Reservists 
+and authorized to exercise independent judgment to assign work. The 
+temporary duty supervisor is not authorized to take personnel actions against 
+a CORE under his or her functional authority, unless the temporary supervisor 
+is also the supervisor of record. 
+
+1-7.  Responsibilities 
+
+A.  FEMA Administrator or Deputy Administrator is responsible for: 
+
+1.  Approving details of COREs to perform non-Stafford Act activities; and 
+
+2.  Approving written recommendations for pay of recruitment, relocation, and 
+retention incentives that are greater than 25% of a CORE’s base pay and, 
+if approved, forwarding concurrence to the head of the requesting Office 
+or Directorate and to OCCHCO. 
+
+B.  Associate Administrators, Headquarters’ Office Chiefs Reporting Directly to 
+
+the Administrator, and Regional Administrators are responsible for: 
+
+1.  Reviewing and approving the creation or renewal of Direct Charge CORE 
+positions, confirming funding, and forwarding to OCCHCO for requisite 
+personnel processing actions; 
+
+2.  Conducting an annual certification of Direct Charge CORE positions 
+
+approved by authorized officials based on required supporting 
+documentation and any follow-up, including referrals to the Office of Chief 
+Counsel (OCC) or appropriate offices for further action (see section 2-3); 
+
+3.  Ensuring that all personnel involved in the hiring of COREs are familiar 
+with the appropriate legal use of CORE positions, the funding factors 
+involved in the hiring process, and comply with all legal and budgetary 
+requirements; 
+
+4.  Ensuring all baselines are established and validated on a recurring basis 
+
+for Distributed Group Activity Direct Charge COREs and all new baselines 
+or baseline changes are approved by OCFO; 
+
+15 
+
+ 
+ 
+5.  Certifying that all Direct Charge COREs are carrying out only DRF-related 
+
+duties performed on open, active disasters; 
+
+6.  Providing timely, supporting documentation to OCFO and any oversight 
+
+organization to complete post-action reviews (see section 2-3); 
+
+7.  Reviewing requests for recruitment, relocation, or retention incentives that 
+require approval by the Administrator and, if in concurrence, sending the 
+request to OCCHCO, OCFO, and the Administrator for approval; and 
+
+8.  Reviewing requests for recruitment, relocation, or retention incentive 
+
+repayment waivers and, if in concurrence, transmitting to OCCHCO for 
+review.  
+
+C.  Assistant Administrators, Deputy Associate Administrators, and Office 
+
+Directors Not Reporting Directly to the Administrator are responsible for: 
+
+1.  Requesting to advance a CORE’s initial rate of pay to step five or greater 
+
+of the grade; 
+
+2.  Reviewing requests for recruitment, relocation, or retention incentive 
+
+repayment waivers that do not require approval by the Administrator and, 
+if in concurrence, transmitting to OCCHCO and OCFO for review and 
+approval; and 
+
+3.  Ensuring all CORE hiring actions submitted for higher level approval meet 
+
+the standards promulgated herein. 
+
+D.  Headquarters Office or Directorate Chiefs or Regional Administrators are 
+
+responsible for: 
+
+1.  Approving the reassignment of a CORE based on workload needs and 
+
+subject to funding; 
+
+2.  Conducting workload analyses to justify the need for new or continued use 
+
+of CORE positions; 
+
+3.  Submitting staffing plans to OCCHCO with the requested number of 
+
+CORE positions by title, series, grade, and duty station for OCCHCO’s 
+approval which should also support Disaster Spend Plans required by 
+OCFO; 
+
+4.  Coordinating with OCCHCO to announce and hire CORE positions; 
+
+5.  Renewing CORE appointments based on workload needs and subject to 
+
+funding; 
+
+6.  Approving recruitment, relocation, or retention incentives that do not need 
+
+Administrator approval; and 
+
+7.  Approving Functional Area SMEs in the event of a rightsizing. 
+
+E.  Office of Chief Counsel (OCC) is responsible for: 
+
+1.  Reviewing and advising on legal sufficiency of FEMA matters to include: 
+
+spending legislation, fiscal policy and potential ADA violations;  
+
+16 
+
+ 
+2.  Providing guidance, as necessary, regarding the appropriate use of the 
+
+Disaster Relief Fund to charge CORE salaries; 
+
+3.  Supporting OCFO and OCCHO in conducting the Annual Post-Action 
+
+Review of direct charge COREs; 
+
+4.  Reviewing and approving the use of COREs for limited non-Stafford Act 
+
+activities in furtherance of FEMA’s mission; 
+
+5.  Providing all COREs entering Federal service with an Initial Ethics 
+
+Orientation as required by 5 C.F.R. § 2638.703; 
+
+6.  Identifying all COREs that need to be designated as Confidential Financial 
+Disclosure filers who must complete annual ethics training as required by 
+5 C.F.R. § 2638.705, and auditing the content of said training for 
+compliance with 5 C.F.R. § 2638.704; 
+
+7.  Notifying all COREs of the requirement to file a new entrant report within 
+30 days of assuming a position designated as requiring a Confidential 
+Financial Disclosure Report per 5 C.F.R. § 2634.903(b); 
+
+8.  Notifying all COREs designated as Confidential Financial Disclosure filers 
+
+to file annual reports as required by 5 C.F.R. § 2634.903(a); 
+
+9.  Reviewing Confidential Financial Disclosure reports, and providing 
+advisory opinions to COREs, as appropriate, with regard to real or 
+apparent conflicts of interest identified in the CORE’s financial disclosure 
+report; 
+
+10. Designating ethics attorneys to provide ethics advice to COREs; 
+
+11. Providing legal review of performance and disciplinary actions; and 
+
+12. Providing legal advice on policy development and implementation. 
+
+F.  Office of the Chief Financial Officer (OCFO) is responsible for: 
+
+1.  Managing use and oversight of the DRF; 
+
+2.  Ensuring the establishment of internal controls designed to prevent and 
+detect non-compliance with applicable laws, standards, and accounting 
+principles; 
+
+3.  Reviewing and approving initial baseline and subsequent baseline 
+
+adjustments for “distributed group” CORE positions; 
+
+4.  Working with OCC and OCCHCO on the Annual Post-Action Review of 
+
+direct charge COREs; 
+
+5.  Conducting periodic audits and annual certifications of Direct Charge 
+CORE positions and post-action reviews to validate and verify that all 
+Direct Charge CORE duties are DRF-related and the appropriate 
+approvals and documentation are evident, and taking action as 
+appropriate on potential ADA violations; 
+
+17 
+
+ 
+6.  Referring instances that cannot be validated or verified as DRF-related 
+
+duties to OCC or appropriate offices for further action;  
+
+7.  Determining whether funding exists for each recruitment, relocation, or 
+
+retention incentive request; and 
+
+8.  Establishing an annual awards cap for COREs subject to funding. 
+
+G.  Associate Administrator for Mission Support is responsible for reviewing all 
+
+workload analysis disputes between the head of an Office or Directorate and 
+OCCHCO and issuing a final decision. 
+
+H.  Associate Administrator for Response and Recovery is responsible for 
+
+deciding appeals from an FCO decision on whether to demobilize a CORE 
+due to misconduct. 
+
+I.  Office of the Chief Administrative Officer (OCAO) is responsible for: 
+
+1.  Maintaining responsibility for the management and oversight of all 
+
+Government-owned personal property within FEMA and for enforcing all 
+applicable statutes, rules, regulations, and official guidance relating to 
+Government-owned personal property; and 
+
+2.  Administering the transit subsidy program. 
+
+J.  Office of the Chief Component Human Capital Officer (OCCHCO) is 
+
+responsible for: 
+
+1.  Approving and administering all human capital programs and policies to 
+
+include appointment and compensation programs; 
+
+2.  Providing timely information to COREs regarding available benefit options, 
+election periods, and technical direction on how to apply for available 
+benefit options; 
+
+3.  Making final decisions on all pay setting and requests for adjustments for 
+
+CORE pay; 
+
+4.  In consultation with the requesting Office or Directorate, approving 
+
+workload analyses and staffing plans submitted by an Office or Directorate 
+to justify CORE positions; 
+
+5.  Providing Offices and Directorates with a list of COREs and their not-to-
+
+exceed expiration dates who are assigned to the Office or Directorate on a 
+biweekly basis; 
+
+6.  In consultation with the requesting Office or Directorate, revalidating the 
+request based on position management for a CORE position prior to the 
+expiration of the position when an Office or Directorate requests a renewal 
+of a CORE position; 
+
+7.  Providing support for post-action reviews and the annual certifications, as 
+
+well as supporting OCFO in execution of its responsibilities; 
+
+18 
+
+ 
+8.  Approving and administering the recruitment, appointment, placement, 
+
+and separation of COREs, including setting the length of the appointment 
+term; 
+
+9.  Providing advice, guidance, training, and direct support to temporary duty 
+
+supervisors and supervisors of record regarding how to properly document 
+and address performance and misconduct;  
+
+10. Coordinating affirmative employment programs with the Office of Equal 
+
+Rights; 
+
+11. Establishing and maintaining personnel records; 
+
+12. Assuming responsibility for all EAP operations within FEMA; 
+
+13. Administering the performance management and awards and recognition 
+
+programs; 
+
+14. Through the Human Resources cadre, ensuring that any demobilized 
+CORE who has been deployed for at least 20 days has been issued a 
+performance evaluation prior to departing the incident work site; 
+
+15. Coordinating with OCC Ethics and supervisors of record to properly 
+designate positions as Confidential Financial Disclosure filers and 
+providing OCC Ethics with monthly reports identifying when a CORE has 
+been appointed to or is no longer serving in a position designated as a 
+Confidential Financial Disclosure filer; 
+
+16. Providing technical guidance to Offices and Directorates in the planning of 
+
+rightsizing procedures and approving the execution of rightsizing 
+procedures; 
+
+17. Providing direct support to COREs with respect to individual issues 
+
+requiring action in connection with the administration of pay, benefits, and 
+other personnel matters; 
+
+18. Reviewing and approving requests for recruitment, relocation, or retention  
+
+incentives;  
+
+19. Administering FEMA’s Drug-Free Workplace program; and 
+
+20. Providing information to managers and supervisors regarding the 
+
+procedures for performance and disciplinary actions, recommendations for 
+disposition in each case; and any relevant appeal process. 
+
+K.  Office of the Chief Security Officer (OCSO) is responsible for: 
+
+1.  Using standardized policies and procedures for verifying applicants’ 
+
+personal identity; 
+
+2.  Determining the fitness of applicants and COREs by conducting 
+
+background checks; and 
+
+3.  Authorizing facility access and issuing identification badges for COREs in 
+
+a manner that ensures nationwide consistency across the CORE program.   
+
+19 
+
+ 
+L.  Division Chiefs are responsible for reviewing and providing a final decision on 
+
+any hire via name request within their area of responsibility. 
+
+M.  Second Level Supervisors are responsible for: 
+
+1.  Overseeing the use of COREs consistent with the requirements 
+
+established herein; 
+
+2.  Requesting to advance a CORE’s basic rate of pay to step two, three, or 
+four of the grade in conjunction with the CORE’s supervisor of record; 
+
+3.  In coordination with OCCHCO, reviewing and issuing final decisions on 
+
+disciplinary action appeals; 
+
+4.  In coordination with OCCHCO, reviewing and issuing final decisions on all 
+
+actions to terminate a CORE’s position for lack of FEMA need; 
+
+5.  Reviewing and providing a final decision on all requests for merit-based 
+increases, step increases, and to set pay for a new hire above the 
+minimum rate for the position; and 
+
+6.  Developing a Rightsizing Plan. 
+
+N.  Federal Coordinating Officers (FCO) are responsible for deciding to 
+
+demobilize a CORE due to misconduct. 
+
+O.  Cadre Coordinators are responsible for: 
+
+1.  Establishing and implementing individual performance goals on an annual 
+
+basis for each position in the cadre, utilizing the position-specific 
+behaviors found in the position’s PTB or any other sources approved by 
+OCCHCO, and consulting with employees with Incident Management 
+Titles in the cadre on the substance of the performance goals insofar as 
+practical; and 
+
+2.  Receiving and reviewing completed evaluations for their cadre personnel. 
+
+Completed evaluations will be archived for each employee. 
+
+P.  Selecting Officials are responsible for:  
+
+1.  Recruiting and selecting COREs in accordance with this Manual, 
+
+transmitting any request for hire via name request to his or her program 
+area’s Division Chief (or higher) for review; and 
+
+2.  Documenting the reasons for the selection of any CORE, and ensuring 
+that all relevant records documenting such reasons are transmitted to 
+OCCHCO for retention, including all interview notes. 
+
+Q.  Supervisors of Record are responsible for: 
+
+1.  Ensuring COREs are used for authorized purposes as outlined herein; 
+
+2.  Providing day-to-day supervision of the performance and conduct of 
+
+COREs under their supervision; 
+
+3.  Assigning and evaluating work performed by a CORE when a CORE is 
+
+not deployed; 
+
+20 
+
+ 
+4.  Requesting to renew appointments based on a workload analyses and 
+
+staffing plan, subject to funding; 
+
+5.  Requesting pay adjustments, conversion actions, and pay settings when a 
+
+CORE voluntarily requests a change to a lower pay band or rate; 
+
+6.  Requesting to advance a CORE’s basic rate of pay to step two, three, or 
+four of the grade in conjunction with the CORE’s second level supervisor; 
+
+7.  Initiating all recommendations for merit-based pay and step increases; 
+
+8.  Establish performance and development plans, and evaluating employee 
+
+performance in accordance with FEMA Manual 255-1-1; 
+
+9.  Recommending performance awards consistent with FEMA guidelines; 
+
+10. Retaining performance appraisals and all other documents related to the 
+
+performance and/or conduct of COREs under their direct supervision, for a 
+duration to be determined by FD 141-1, FEMA Records Management 
+Program and relevant Equal Employment Opportunity Commission 
+(EEOC) regulations, if applicable; 
+
+11. Submitting all requests for recruitment, relocation, or retention incentives  
+
+to the head of their Office or Directorate for approval; 
+
+12. Communicating proper conduct and performance standards to COREs 
+
+consistent with FEMA policy; 
+
+13. Receiving all deployment evaluations for COREs under their direct 
+
+supervision and completing applicable progress reviews and annual 
+performance ratings, considering as appropriate any deployment 
+evaluations provided to the CORE by the temporary duty supervisor while 
+deployed; 
+
+14. Coordinating with OCC Ethics and OCCHCO to properly designate 
+
+positions as Confidential Financial Disclosure Filers, and ensure that 
+COREs complete required new entrant and annual ethics training 
+requirements; 
+
+15. Approving a CORE’s work schedule, telework schedule (if requested), and 
+
+time and attendance records; 
+
+16. Monitoring a CORE’s performance while teleworking in accordance with 
+
+FM 123-9-1; 
+
+17. Coordinating with COREs under their supervision to identify any real or 
+
+apparent conflicts of interest or other standards of conduct issues prior to 
+deployment, raising any such issues to the appropriate ethics counselor 
+and, if applicable, mitigating any of these issues in accordance with 
+recommendations from the ethics counselor and the temporary duty 
+supervisor; 
+
+18. Providing performance feedback and mentoring to maximize the success 
+
+of a CORE in achieving performance goals and objectives; 
+
+21 
+
+ 
+19. Coordinating with OCCHCO’s Employee Relations Specialists to 
+
+document incidents of poor performance and misconduct as they occur, 
+and following up with the CORE to ensure that he or she understands the 
+seriousness of his or her performance deficiencies or misconduct; 
+
+20. Initiating personnel actions against COREs, to include discipline or 
+removal for misconduct or poor performance after consulting with 
+OCCHCO, and ensuring that any such actions are consistent with Merit 
+Systems and EEO principles; 
+
+21. In coordination with OCCHCO, documenting the reasons for all other 
+
+personnel actions, including assignments, reassignments, promotions, 
+demobilizations, rightsizing, and non-renewal of CORE appointments, and 
+ensuring that such documentation is forwarded to OCCHCO along with 
+any request or recommendation for personnel action; 
+
+22. Collecting all government equipment prior to the effective date of a 
+
+CORE’s removal or resignation; 
+
+23. Overseeing and managing the resignation process when a CORE submits 
+a resignation notification and forwarding all documentation to OCCHCO 
+for processing; 
+
+24. In coordination with OCCHCO, adopting the rightsizing procedures 
+
+provided in this Manual; and 
+
+25. Ensuring the professional development for COREs under their 
+
+supervision. 
+
+R.  Temporary Duty Supervisors are responsible for: 
+
+1.  Ensuring COREs are used for authorized purposes as outlined herein; 
+
+2.  Providing day-to-day supervision of the performance and conduct of 
+
+deployed COREs; 
+
+3.  Communicating proper conduct and performance standards to deployed 
+
+COREs, included but not limited to, the basis for a deployment 
+performance evaluation consistent with FEMA policy; 
+
+4.  Completing performance evaluations for all COREs under their functional 
+
+authority who are deployed for at least 20 days, and transmitting 
+performance evaluation records to the CORE’s supervisor of record within 
+30 days of the date of the demobilization; and 
+
+5.  Advising the CORE and consulting with OCCHCO regarding issues of 
+CORE misconduct and poor performance and referring allegations of 
+misconduct to the CORE’s supervisor of record for review and 
+coordination with OCCHCO prior to initiating disciplinary action.    
+
+S.  COREs are responsible for the following, including, but not limited to: 
+
+1.  Performing assigned duties and responsibilities acceptably; 
+
+22 
+
+ 
+2.  Conducting themselves in a manner that will bring credit to FEMA and 
+
+supervisors directing their work, and observing the spirit and letter of the 
+laws and regulations which govern the conduct of COREs; 
+
+3.  Signing and complying with the terms and conditions of their appointments 
+(including any conditions relating to receiving a security clearance), and 
+other applicable FEMA directives; 
+
+4.  Working at a Directed Work Location if directed by a supervisor or other 
+
+properly designated FEMA official; 
+
+5.  Reviewing benefit options and making selections within prescribed 
+
+election periods; 
+
+6.  Properly using, caring for, and protecting any assigned government 
+
+property issued to them by FEMA. 
+
+7.  Completing and signing a Self Certification of Health and Safety Checklist 
+prior to beginning work, if the CORE’s home is his or her official duty 
+station; 
+
+8.  Following FEMA’s Absence and Leave and Scheduling of Work policies 
+
+and procedures; 
+
+9.  Completing Initial Ethics Orientation within 90 days of entry on duty as 
+
+required by 5 C.F.R. § 2638.703; 
+
+10. Complying with the ethics statutes in Title 18, United States Code, and the 
+implementing ethics regulations promulgated by the Office of Government 
+Ethics and DHS. COREs should seek guidance from his or her designated 
+ethics attorney if issues arise that may be governed by these laws and 
+regulations (contact FEMA’s Privacy Office for additional information and a 
+listing of OCC Ethics Counselors);  
+
+11. If designated as a Confidential Financial Disclosure filer, timely filing New 
+Entrant and Annual OGE Form 450 reports (as required by 5 C.F.R. § 
+2634 Subpart I); 
+
+12. Completing annual ethics training, FQS training, and other required 
+
+training; 
+
+13. If the CORE is a reemployed civilian retiree receiving an annuity, providing 
+a copy of his or her most recent annuity notice and all subsequent notices 
+of change, indicating the monthly annuity amounts to OCCHCO prior to or 
+at the time of appointment; 
+
+14. Signing and complying with the conditions of a Continued Service 
+
+Agreement (CSA) if approved to receive a recruitment, relocation, or 
+retention incentive; 
+
+15. Signing and abiding by the conditions of a CSA if selected to participate in 
+
+a leadership development program; 
+
+16. Returning all FEMA-owned equipment before separating from FEMA; and 
+
+23 
+
+ 
+17. Engaging in activities to promote their professional development. 
+
+1-8.  Reporting Requirement 
+
+The CORE program will be evaluated periodically to ensure that stated objectives 
+are being met. Recommendations for improvement will be forwarded to the Chief 
+Component Human Capital Officer and the Chief Financial Officer.  
+
+1-9.  Forms Prescribed 
+
+A.  FEMA Form 252-11-1-1, Request for CORE Action. 
+
+B.  FEMA Form 30-35, Telephone Reference Check. 
+
+C.  FEMA Form 106-1-1-1, Request for Work Schedule. 
+
+D.  FEMA Form 119-7-1-3, Custody Receipt for Government Property On 
+
+Personal Charge. 
+
+E.  FEMA Form 123-9-0-1, Telework Application and Agreement Form. 
+
+F.  FEMA Form 123-9-0-2, Employee Self Certification Health and Safety 
+
+Checklist. 
+
+G.  FEMA Form 254-1-1, Public Transportation Benefit Program Application. 
+
+H.  Standard Form-50, Notification of Personnel Action. 
+
+I.  Standard Form-52, Request for Personnel Action. 
+
+J.  Standard Form 2809, Health Benefits Election Form. 
+
+K.  TSP-1 Thrift Saving Plan Election Form. 
+
+1-10.  No Private Right 
+
+Nothing in this Manual shall be interpreted to create any right or benefit, 
+substantive or procedural, enforceable at law by any party in any administrative 
+or civil matter. 
+
+1-11.  Questions 
+
+Questions concerning the CORE Program should be addressed to OCCHCO at 
+202-212-3962. Questions concerning the funding or certification process for 
+Direct Charge CORE positions or requests for Distributed Cost COREs should be 
+addressed to OCFO Field Based Operations at FEMA-fbo-action-
+tracker@fema.dhs.gov.  
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER 2:  RECRUITMENT AND HIRING 
+
+2-1.  General 
+
+A.  FEMA Offices and Directorates will identify the Selecting Official for each hire. 
+
+B.  FEMA Offices and Directorates may elect to recruit and hire candidates via a 
+vacancy announcement as specified in section 2-4, or via a name request 
+pursuant to section 2-5. FEMA maintains the flexibility to use alternative hiring 
+procedures not specified in this Chapter when necessary to meet its mission 
+requirements. 
+
+C.  Nepotism is prohibited by 5 U.S.C. § 3110 and is also a “prohibited personnel 
+practice” under 5 U.S.C. § 2302(b)(7). Under 5 U.S.C. § 3110, a public official 
+is prohibited from appointing, employing, promoting, advancing, or advocating 
+for appointment, employment, promotion, or advancement of a relative in or to 
+a civilian position in FEMA in which the public official is serving or over which 
+the public official exercises jurisdiction or control of any individual who is a 
+relative of the public official. Upon determining that a minimally qualified 
+candidate is a relative or the relative of the Selecting Official, or of someone 
+in the chain of command of the Selecting Official, the program office must 
+refrain from taking action on the job vacancy and contact the servicing HR 
+Specialist for guidance. Supervision of a relative is not generally considered 
+to be “nepotism” but is prohibited as it presents an apparent conflict of 
+interest. Supervision of employees with whom the supervisor has a “covered 
+relationship” may also be an apparent conflict of interest (see 5 C.F.R. § 
+2635.502). 
+
+2-2.  Staffing Plans 
+
+A.  Offices and Directorates authorized to fill CORE positions will conduct 
+workload analyses every three years, or earlier if needed based on 
+operational changes, to forecast and plan for future work and skills 
+requirements based on historical data, technical estimates, directed 
+requirements, and approved staffing models.  
+
+1.  The workload analysis will first identify all activities performed by each 
+
+position (e.g., PFT, CORE, and Reservist) within an Office or Directorate, 
+and designate current and planned future activities.  
+
+2.  The analysis will estimate how frequent the activity is performed, and the 
+amount of time an employee will need to complete each of the identified 
+activities for which a Distributed Group Activity Baseline has not been 
+approved or is being modified. 
+
+3.  The analysis may identify shortages or overages in current staffing needs, 
+which will be documented and maintained by the Offices and Directorates 
+until superseded by a subsequent workload analysis or other staffing 
+initiative.  
+
+25 
+
+ 
+ 
+B.  Based on the workload analysis, Offices and Directorates requesting CORE 
+
+positions will develop and submit staffing plans, subject to funding, to 
+OCCHCO with the number of CORE positions by title, series, grade, and duty 
+station.  
+
+1.  OCCHCO will review the entity’s requested number of CORE positions 
+
+and proposed length of appointment based on the workload analysis and 
+staffing plan.  
+
+2.  Upon OCCHCO’s review and approval of the staffing plan, OCCHCO will 
+submit the plans to OCFO for approval if the plan includes a non-Direct 
+Charge CORE, or a Distributed Group Activity Direct Charge CORE if the 
+distributed group activity baseline has not been approved or has changed 
+since the last approval. 
+
+3.  Upon any needed confirmation from OCFO, OCCHCO will authorize an 
+
+Office or Directorate to create or renew a set number of CORE Positions. 
+
+4.  The Associate Administrator for Mission Support will review and resolve 
+any disputes between an Office or Directorate and OCCHCO regarding 
+the approval of a workload analysis or staffing plan.   
+
+C.  Any request to add, move, rightsize, or adjust a CORE position (if rightsizing 
+a position, see Chapter 12, Rightsizing) made between workload analysis 
+cycles or that does not align with the current staffing plan must be submitted 
+by the head of the Office or Directorate and will require a reexamination of the 
+most recent workload analysis to determine whether the identified shortages 
+or additional work exists to justify the requested position, its length, and pay 
+band or grade. Upon OCCHCO’s review and approval of the staffing plan, 
+OCCHCO will submit the plans to OCFO for approval if the plan includes a 
+non-Direct Charge CORE, or a Distributed Group Activity Direct Charge 
+CORE if the distributed group activity baseline has not been approved or has 
+changed since the last approval. 
+
+D.  Duty stations for COREs will be established by the supervisor of record in 
+
+conjunction with OCCHCO. 
+
+2-3.  Annual Direct Charge CORE Certification 
+
+A.  An Annual Direct Charge CORE certification, validating and verifying the 
+
+CORE’s performance of DRF related duties and the continued need for all 
+CORE positions (which have not been requested or funded elsewhere in 
+FEMA’s budget), is required by the Assistant Administrator, Associate 
+Administrator, Regional Administrator, and any FEMA employee reporting 
+directly to the Administrator. 
+
+B.  CORE positions must be used to execute functions or activities funded solely 
+
+by the DRF or DRS account and are not charged elsewhere in FEMA’s 
+budget. COREs may be used to administer support to FEMA’s non-
+permanent workforce hired under the Stafford Act, performing duties 
+including, but not limited to, hiring and staffing, training and development, 
+
+26 
+
+ 
+ 
+personnel and payroll processing, legal support, developing and 
+implementing disaster policies and decisions, supervising Stafford Act 
+employees, maintaining information technology and telecommunications 
+services for Stafford Act employees or events, financial management, 
+property and facility management, and auditing and program oversight. 
+OCFO and OCC will provide Directorates and Offices with supplemental 
+guidance on the proper use of CORE positions as needed. 
+
+C.  Offices and Directorates must also electronically maintain documentation 
+supporting the creation, backfilling or reassignment of CORE positions. 
+Offices and Directorates will maintain workload analyses, position 
+justifications, and staffing plans. The electronic files2 are also subject to 
+independent post-action compliance review by OCFO and/or OCCHCO.   
+
+D.  Documentation requirements for “Direct Charge” COREs  
+
+1. Comprehensive list of all COREs to include position title, area assigned, 
+
+branch/office, duty station, grade, PIN, and CORE type.  
+
+2. Algorithm(s), to include methodology and frequency of analysis, used to 
+
+determine allocation of salary costs to open active disasters. 
+
+3. A description of duties for each position or group of positions performing 
+the same work that validates the relationship of work being performed to 
+open, active disasters. Example: This Public Assistance (PA) Specialist 
+will: (1) be responsible for the closeout of project worksheets, (2) deploy to 
+disasters to support the development and obligation of PA projects, and (3) 
+conduct eligibility review of public assistance projects.  
+
+4. Baselines and supporting documentation for establishing the baselines for 
+
+Distributed Activity Group “Direct-Charge” COREs.  
+
+5. Documentation shall be maintained on OCFO’s SharePoint (see footnote 
+2) and shall be made available to the OCFO and/or OCCHCO for review. 
+Files must be maintained in accordance with the most current DHS records 
+retention policy. 
+
+2-4.  Procedures for Soliciting Candidates 
+
+FEMA uses the procedures listed below to hire qualified candidates for CORE 
+appointments unless a name request procedure is used (see section 2-5). 
+
+A.  To advertise a CORE position, an Office or Directorate shall submit a 
+
+Standard Form (SF-52) to OCCHCO with a position description. If desired, 
+the Office or Directorate may also submit a draft vacancy announcement or 
+instead, request that OCCHCO draft it. Additionally, the Office or Directorate 
+may, but is not required to, submit a specialized experience statement and 
+any assessment screen-out questions that should be included in the 
+announcement for the purpose of screening out applicants who are not 
+
+2 Electronic files should be uploaded to https://portalapps.fema.net/apps/ocfocore/Pages/default.aspx.  
+
+27 
+
+ 
+ 
+                                                           
+minimally qualified for the position. Upon receipt of all required and optional 
+documentation, the HR Specialist prepares (or reviews, if submitted) the 
+Vacancy Announcement and sends the draft to the Office or Directorate for 
+final approval. 
+
+B.  The Office or Directorate, in consultation with the HR Specialist, may search 
+for qualified candidates utilizing one or more of the following recruitment 
+sources: 
+
+1.  An email to all FEMA employees, FEMA employees who reside in a 
+
+specific geographic area, or FEMA employees who already work in the 
+Office or Directorate advertising the position; 
+
+2.  Electronic posting on OPM’s USAJOBS website (https://usajobs.gov); 
+
+3.  Outside sources, including but not limited to, other Federal agencies, state 
+
+employment services, state and local emergency management 
+organizations, professional societies, minority organizations, local 
+colleges/universities and other educational facilities and sources; or 
+
+4.  Other sources which, as approved by OCCHCO, will provide adequate 
+
+competition. 
+
+C.  At a minimum, the vacancy announcement posted through USA Jobs must 
+
+include: 
+
+1.  FEMA’s name; 
+
+2.  Announcement number (for USA Jobs announcements only); 
+
+3.  Title, series, and grade of the position, including promotion potential; 
+
+4.  Opening and closing dates (except in the case of open announcements); 
+
+5.  Duty location; 
+
+6.  Number of vacancies; 
+
+7.  Major duties of the position; 
+
+8.  Length of appointment; 
+
+9.  Qualification requirements; 
+
+10. How to apply, including required supporting documentation; 
+
+11. Statement that the appointment(s) is excepted from the competitive 
+
+service, and are authorized under the Stafford Act; 
+
+12. Statement that the selectee must sign a “conditions of employment” form; 
+
+13. Statement that the selectee is subject to the “Every Employee Is An 
+
+Emergency Manager” Memorandum, requiring capability to deploy for up 
+to 30 consecutive days and changes to work locations, including a 
+requirement to work at home in the event of emergencies or when 
+otherwise directed; 
+
+14. Equal employment opportunity statement; and 
+
+28 
+
+ 
+15. Reasonable accommodation statement. 
+
+D.  All other vacancy announcement postings, authorized by section 2-4.B., must 
+
+include, at a minimum: 
+
+1.  Title, series, and grade of the position, including promotion potential; 
+
+2.  Opening and closing dates (except in the case of open announcements); 
+
+3.  Duty location; 
+
+4.  Major duties of the position; 
+
+5.  Length of appointment; 
+
+6.  How to apply, including required supporting documentation; 
+
+7.  Statement that the appointment(s) is excepted from the competitive 
+
+service, and are authorized under the Stafford Act; 
+
+8.  Statement that the selectee must sign a “conditions of employment” form; 
+
+and 
+
+9.  Statement that the selectee is subject to the “Every Employee Is An 
+
+Emergency Manager” Memorandum, requiring capability to deploy for up 
+to 30 consecutive days and changes to work locations, including a 
+requirement to work at home in the event of emergencies or when 
+otherwise directed. 
+
+E.  Vacancy Announcements that are restricted to a particular geographical area 
+or to FEMA employees will clearly identify any such restrictions and indicate 
+that non-compliant applications will not receive consideration. 
+
+F.  Once the Office or Directorate has approved the vacancy announcement, the 
+Staffing HR Specialist posts the vacancy announcement via the sources 
+previously agreed upon and notifies the Office or Directorate that the position 
+has been posted. 
+
+G.  Vacancy announcements shall be posted for a minimum of five days. If 
+requested, OCCHCO may approve a shorter posting for good cause. 
+
+H.  Minimum qualifications: Normally, OCCHCO reviews all submitted 
+
+applications to ensure that applications have met the minimum qualifications 
+and eligibility requirements and then refers all candidates deemed minimally 
+qualified to the Selecting Official via a Certificate of Eligibles (CERT). 
+Selecting Officials may request to receive all applications prior to OCCHCO’s 
+review, in which case OCCHCO will conduct its review prior to issuance of 
+any offer. Final qualification determinations are made by OCCHCO. 
+
+I.  After a selection is made, the Selecting Official shall provide all selection 
+
+documentation to OCCHCO for retention in accordance with A and B above 
+(see section 3-9). The Selecting Official will indicate the action taken 
+(selection, non-selection, declination, etc.) on each CERT and will return the 
+CERT to the HR Specialist by the expiration date of the CERT, unless an 
+extension is authorized by OCCHCO. 
+
+29 
+
+ 
+2-5.  Name Request 
+
+A.  In lieu of utilizing the hiring procedures specified in section 2-4, Offices and 
+Directorates may hire qualified candidates (eligible U.S. citizens, current 
+Federal employees, or current FEMA COREs) via a name request to meet a 
+hiring need or to promote a CORE to a grade outside of the CORE’s current 
+position ladder. Such a promotion must include the same justification and 
+approval established for name request hires (see Chapters 5 and 6 for more 
+information on promotions). 
+
+B.  The Office or Directorate must submit a justification that describes the 
+
+individual’s qualifications with the SF-52 and resume. 
+
+C.  Any name request must be approved in writing by the requesting 
+
+organization’s Division Chief (or higher). 
+
+D.  Name requests may be approved even if the Office or Directorate has not 
+
+posted a vacancy announcement for the position or otherwise competed the 
+position. 
+
+E.  The HR Specialist will review the package to determine if the applicant meets 
+the basic qualifications for the position and promptly notify the Selecting 
+Official if the applicant is not minimally qualified. 
+
+F.  Name request hiring actions must follow the interview, reference check, and 
+
+job offer procedures outlined below. 
+
+2-6. 
+
+Interviews 
+
+Interviews are conducted for candidates referred to the supervisor as a means of 
+obtaining supplemental information on their qualifications. 
+
+A.  At a minimum, the Selecting Official must interview the candidate selected for 
+the position. The Selecting Official may designate one or more appropriate 
+persons to conduct or participate in the interviews.  
+
+B.  The Selecting Official should ask all candidates the same job-related 
+
+questions and document the responses in writing. The Selecting Official 
+should maintain such documentation for a minimum of two years. The 
+Selecting Official should ask the same questions, in the same order, of all 
+interviewed candidates. Follow-up questions to clarify information are 
+permissible. It is preferable to conduct interviews in person and to use the 
+same interview method for all applicants.  
+
+C.  The Selecting Official should not ask questions regarding a candidate’s race, 
+religion, sex, family status, national origin, religion, age, genetic background, 
+health history, disability, political affiliation, or any other prohibited questions 
+found in FEMA’s Interview and Selection Guidance, June 4, 2014.  
+
+D.  The Selecting Official or his or her designee(s) may conduct a subsequent 
+
+interview or contact one or more of the candidates for additional or clarifying 
+information after completing and evaluating the initial interviews. The 
+
+30 
+
+ 
+ 
+ 
+supervisor should consult with the HR Specialist if a subsequent interview is 
+deemed advisable to ensure that the reason for the subsequent interview is 
+related to the requirements of the position. 
+
+E.  Interview notes must be retained in accordance with section 2-10 and must 
+
+not be destroyed. 
+
+F.  In accordance with the Every Employee is an Emergency Manager (EE-EM) 
+initiative,3 all employees conducting hiring interviews must explain and 
+reiterate, using a set of standard questions and briefing points, the EE-EM 
+vision that all COREs must be willing to receive incident support or incident 
+management assignments. Additionally, all new COREs are required to sign 
+an acknowledgment form confirming their understanding of the EE-EM policy. 
+The supervisor must ensure that the EE-EM vision is explained in all initial 
+interviews and that any candidate who is referred for hire or further 
+examination has completed the applicable acknowledgment form. This form 
+can be obtained from the serving HR Specialist. 
+
+G.  All new COREs must acknowledge the requirement to work at a Directed 
+
+Work Location, which may be the CORE’s Residence of Record or another 
+alternate duty location, in the event of office closures, emergencies, or when 
+otherwise directed. 
+
+2-7.  Reference Checks 
+
+The Selecting Official must check and document a candidate’s references before 
+the candidate receives a job offer. Reference checking is a vital part of a 
+successful hiring strategy and is primarily used to verify information provided by 
+the candidate; better predict the candidate’s on-the-job success; and gain 
+additional information about the candidate’s qualifications for the position. 
+Selecting Officials may use FEMA Form 30-35, Telephone Reference Check, to 
+satisfy the requirement to document reference checks. Selecting Officials should 
+coordinate with OCCHCO prior to deciding not to hire a candidate because of a 
+reference check. 
+
+2-8.  Job Offers 
+
+All offers of employment must be made by OCCHCO. The servicing HR 
+Specialist must confirm qualifications and the proposed rate of pay for the 
+candidate with the Selecting Official prior to extending an offer. Additionally, the 
+HR Specialist will confirm acceptance of the offer and will consult with the 
+Selecting Official in establishing an entrance on duty (EOD) date once the 
+appropriate background check has been made by OCSO.  
+
+3 See Memorandum from the Deputy Administrator, Every Employee an Emergency Manager—
+Action Items, January 20, 2012. 
+
+31 
+
+ 
+ 
+ 
+ 
+                                                           
+2-9.  Notification to Applicants 
+
+OCCHCO Talent Acquisition Division will acknowledge receipt of all applications 
+and notify all applicants if they have or have not been selected for the position. 
+
+2-10.  Recordkeeping Requirements 
+
+A.  Supervisors shall create, maintain, use and dispose of FEMA records in 
+
+accordance with applicable law and FD 141-1, FEMA Records Management 
+Program. 
+
+B.  Pursuant to 29 C.F.R. § 1602.14 and in accordance with Equal Employment 
+Opportunity Commission (EEOC) regulations, all personnel records made or 
+kept by FEMA, including but not limited to, application forms submitted by 
+applicants, name request justifications, interview notes, reference check 
+documents, and other records having to do with hiring, shall be preserved for 
+one year from the date of the making of the record or of the personnel action 
+involved, whichever occurs later. 
+
+C.  If applicable, when a non-selectee challenges the non-selection before an 
+
+administrative or judicial body, OCCHCO and the supervisor must retain the 
+aforementioned documentation until the final disposition of the charge or 
+lawsuit. OCC will notify OCCHCO and the supervisor of any litigation holds 
+and when documentation relating to a charge or lawsuit may be disposed of 
+according to FEMA’s record retention policy. 
+
+32 
+
+ 
+ 
+ 
+ 
+CHAPTER 3:  APPOINTMENTS 
+
+3-1.  Eligibility for Appointment 
+
+All applicants selected for appointment to CORE positions must meet the 
+following eligibility requirements: 
+A.  U.S. Citizenship, subject to limited exceptions;4 
+
+B.  Must be at least 18 years of age and:  
+
+1.  Have graduated from high school or been awarded a certificate equivalent 
+
+to graduating from high school; 
+
+2.  Have completed a formal vocational training program;  
+
+3.  Have received a statement from school authorities agreeing with their 
+preference for employment rather than continuing their education; or 
+
+4.  Be currently enrolled in a secondary school and either work only during 
+
+school vacation periods or work part-time during the school year under a 
+formal employment program; 
+
+C.  Must comply with selective service registration for males born after 12/31/59; 
+D.  Must satisfy fitness requirements for the position to which appointed;5 and 
+
+E.  Must agree to accept an Incident Management or Incident Support 
+
+assignment.6 
+
+3-2.  CORE Appointments 
+
+A.  COREs are hired under a Stafford Act appointment authority and their 
+
+salaries and benefits are funded by the DRF, thus the scope of their duties 
+must predominately carryout Stafford Act activities.   
+
+B.  Individuals appointed to CORE positions are given time-limited appointments 
+for a period of not less than two years but not to exceed four years unless the 
+appointment is renewed for another term. The length of the appointment 
+requested by the Office or Directorate should be commensurate with the 
+expected amount of work available for the CORE in question (the 
+appointment can be less than two years if appropriate). 
+
+C.  A CORE appointment does not confer eligibility or priority consideration for a 
+
+permanent appointment. 
+
+D.  A CORE’s work schedule may be changed and a CORE may be assigned a 
+Mission Essential, Incident Management, Incident Support, or Ancillary 
+
+4 See DHS Management Directive 3120.2, Employment of Non-Citizens, March 22, 2004. 
+5 See DHS Instruction 121-01-007, DHS Personnel Suitability and Security Program, June 2009. 
+6 See Memorandum from the Deputy Administrator, Every Employee an Emergency Manager—
+Action Items, January 20, 2012. 
+
+33 
+
+ 
+ 
+                                                           
+Support title, irrespective of his or her position description, based on the 
+operational needs of FEMA. 
+
+E.  COREs are not subject to any protection afforded by reduction-in-force 
+
+provisions, re-employment rights, or adverse action procedures established 
+under any statutory or regulatory provision. 
+
+F.  COREs must be ready to deploy wherever FEMA needs their services and 
+
+have 24 hours to respond to a deployment order and may be required to work 
+long hours under stressful and unfavorable conditions. 
+
+G.  A CORE’s appointment will end on the Not to Exceed (NTE) date of his or her 
+appointment, unless it is extended or renewed based on the needs of FEMA. 
+
+H.  COREs may be appointed to supervisory positions and serve as supervisors 
+of record for other Stafford Act employees, provided that the CORE is hired 
+into a position description classified as supervisory and completes mandatory 
+supervisory training. COREs may serve as a temporary duty supervisor 
+during a deployment, so long as the work supervised arises out of the 
+Stafford Act and the period of supervision is temporary and/or short-term. 
+
+I.  COREs, who serve as the supervisor of record for PFTs on the date when 
+
+this Manual becomes effective, may continue to serve in such capacity until 
+the CORE’s current term expires. 
+
+3-3.  Conditions of Employment 
+
+All CORE appointees are required to sign a Conditions of Employment statement 
+upon appointment, and upon renewal of an appointment. COEs contain 
+significant, but not all of, the DHS/FEMA and other rules and regulations that 
+COREs must abide by, including but not limited to: 
+A.  Complying with FEMA’s deployment procedures and policies;7 
+
+B.  Using electronic funds transfer for salary payments and travel 
+
+reimbursements; 
+
+C.  Maintaining eligibility for a government issued travel charge card, and abiding 
+by the terms and conditions established by the bank issuing the travel card  
+and FEMA (see FD 122-9, Travel Charge Card, or superseding document); 
+
+D.  Presenting and conducting themselves at all times in compliance with the 
+
+standards of ethical conduct provided by the Office of Governmental Ethics 
+(see 5 C.F.R. part 2635), preserving the public trust, and adhering to 
+DHS/FEMA rules and regulations; 
+
+E.  Traveling in the most expeditious and cost effective manner, abiding by DHS  
+
+and FEMA travel policy to make all travel arrangements; 
+
+7 See FD 010-8, FEMA Incident Workforce Deployment, January 29, 2014. 
+
+34 
+
+ 
+ 
+                                                           
+F.  If authorized to use a motor vehicle for official business, complying with all 
+applicable laws, regulations, and policies related to official motor vehicle 
+usage; 
+
+G.  Abiding by the terms of use in all revocable licensing agreements with respect 
+to all FEMA-issued property, and using FEMA-issued property for official 
+purposes only; and 
+
+H.  Complying with FEMA Manual 123-9-1, Telework, if their supervisor 
+
+authorizes telework. 
+
+Failure to comply with these conditions of employment, or any other standards of 
+conduct, may result in disciplinary action, up to and including removal from 
+Federal service (see Chapter 11). 
+
+3-4.  Directed Work Location 
+
+COREs will work at their Residence of Record or other designated locations by 
+FEMA supervisors and managers, if so directed. COREs may be directed to work 
+at alternate locations on days when their regular worksite is closed due, but not 
+limited to, weather closures, localized emergencies, facility safety, or for 
+operational needs. COREs working at a Directed Work Location are not 
+teleworking. 
+
+3-5.  Oath of Office 
+
+A.  The following FEMA personnel are authorized to administer the oath of office 
+
+to newly appointed COREs or to delegate this authority: 
+
+1.  The Administrator; 
+
+2.  Deputy Administrator; 
+
+3.  Regional Administrators; 
+
+4.  The Chief Component Human Capital Officer; 
+
+5.  Federal Coordinating Officers; and 
+
+6.  Federal Disaster Recovery Coordinators. 
+
+B.  The above officials may delegate authority to administer the oath of office to 
+
+an employee at initial onboarding. 
+
+3-6.  Government Property 
+
+A.  As soon as practicable after appointment, FEMA shall furnish each CORE 
+with appropriate mobile communication and/or computing equipment as 
+determined by the current property authorization list. 
+
+B.  COREs shall keep the equipment charged and accessible, and shall seek 
+
+prompt assistance for malfunctioning equipment. 
+
+C.  All COREs are required to accept receipt of all FEMA-issued equipment and 
+sign FEMA Form 119-7-1-3. By signing this form, the CORE acknowledges 
+
+35 
+
+ 
+ 
+ 
+ 
+acceptance of and responsibility for the equipment and becomes a Custodian 
+of the equipment, as set forth in FEMA Directive 119-7, Federal Personal 
+Property Management, dated September 24, 2013. Violation of this 
+agreement may result in disciplinary action, up to and including removal. 
+
+D.  COREs shall only use, display, or present their FEMA-issued government 
+
+identification card for lawful and authorized purposes. 
+
+3-7.  Reassignments to a New Position 
+
+If a CORE is reassigned to a new position, the CORE must meet the minimum 
+qualifications for the position and an Office or Directorate head must approve the 
+reassignment. 
+
+3-8.  Detail Assignments 
+
+A.  A CORE may be temporarily placed on a detail to carry out a discrete 
+
+function. If a CORE is placed on a detail, the duties and responsibilities 
+performed by the CORE must be payable under the Stafford Act with the 
+exception described in part C below. 
+
+B.  Details to perform Stafford Act activities. Absent approval from OPM, a CORE 
+may not be detailed to a competitive service position. A CORE may be placed 
+on a detail assignment for up to 120 days that may be renewed for one 
+additional 120 day period. OCCHCO must approve a CORE detailed to a 
+position for more than 120 days or to positions at a higher pay level. See 
+Chapter 14 for more information on rotational assignments. 
+
+C.  A CORE may be detailed for mission and operational needs or for training to 
+
+perform non-Stafford Act activities described below:  
+
+1.  Non-Stafford Act Mission and Operational Detail. Pursuant to 6 U.S.C. § 
+
+314 the Administrator is vested with the authority to carry out all 
+authorities of FEMA. Upon a determination that urgent and compelling 
+circumstances exist in order to carry out the FEMA mission or support to 
+other Federal agency incident operations, a CORE may be placed on a 
+temporary detail to perform non-Stafford Act activities under the following 
+conditions:  
+
+i.  The detail shall not exceed 90 days per appointment unless approved 
+
+by OCC; and  
+
+ii.  The detailed CORE’s salaries, benefits, and associated expenses must 
+be paid from the account normally charged for carrying out the gaining 
+program or activity for the duration of the detail. 
+
+iii.  Note that training activities and other duties needed to prepare a 
+
+CORE for a mission essential detail may be conducted outside of the 
+90 day detail period but must be justified and approved in advance. In 
+such circumstances, the training time and the detail time, will be 
+charged to the receiving program or office. 
+
+36 
+
+ 
+ 
+ 
+2.  Non-Stafford Act Training Details. FEMA may authorize a non-Stafford Act 
+
+detail of COREs under the following conditions:  
+
+i.  A determination must be made that the training of the CORE, and thus 
+the increased ability of that CORE to carry out future Stafford Act 
+activities, is the primary purpose and benefit of the non-Stafford Act 
+assignment;  
+
+ii.  The detail may not exceed 30 days without a determination that a 
+
+detail of more than 30 days is warranted;  
+
+iii.  Extensions of these details beyond 30 days are made every 30 days 
+
+thereafter and shall not exceed 90 days per appointment; and 
+
+iv.   The detailed COREs may have their salaries and benefits funded by 
+
+the DRF. 
+
+3.  COREs carrying-out non-Stafford Act activities must be justified as either 
+an urgent and compelling mission/operation-related detail or a training 
+assignment. Under no circumstances, may FEMA use both of these 
+justifications for the same non-Stafford Act activity. In both instances, the 
+CORE is limited to one non-Stafford Act detail per appointment, unless 
+approved by OCC.  
+
+3-9.  Reappointment Procedures 
+
+A.  OCCHCO provides each Office and Directorate with a list of COREs and their 
+
+expiration dates on a biweekly basis. 
+
+B.   A CORE’s appointment will end on the Not-to-Exceed (NTE) date of his or her 
+appointment, unless it is renewed by the Office or Directorate. All requests to 
+renew the appointment of a current CORE must be submitted by the 
+supervisor of record to OCCHCO using an SF-52, Request for Personnel 
+Action. 
+
+C.  Two months before the end of a CORE’s appointment, if a supervisor of 
+
+record determines that a CORE’s appointment should not be renewed, the 
+supervisor must contact OCCHCO/Employee Relations on how to notify the 
+CORE that the CORE’s appointment will not be renewed.   
+
+3-10.  Resignation 
+
+COREs may resign at any time prior to the termination or expiration of their 
+appointments. COREs must state in writing the reason for the resignation and the 
+requested effective date of the resignation. A CORE may request rescission of 
+the resignation prior to the effective date, but FEMA is not obligated to consider 
+or grant such a request. FEMA is not obligated to grant the request in order to 
+avoid removal for misconduct or poor performance. FEMA may not deny the 
+request for any reason prohibited by Title 29, U.S. Code, or any applicable EEOC 
+regulations. 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER 4:  COMPENSATION PROVISIONS 
+
+4-1.  Applicability 
+
+The compensation provided to COREs includes the provisions found in this 
+Chapter regardless of the pay plan covering the CORE, unless otherwise stated. 
+
+4-2.  Establishment of CORE Pay Plan 
+
+COREs are paid via an administratively determined “IC” pay plan. COREs paid 
+via the GS scale or GS based pay bands will be transferred to the IC pay plan of 
+either grades and steps or pay bands at their current rate of pay. FEMA 
+managers, in conjunction with OCCHCO, are given the option to utilize one of 
+two pay scales; a pay scale consisting of pay bands or a pay scale consisting of 
+grades and steps (see Chapters 5 and 6). Offices or Directorates may change 
+the pay plan for all COREs assigned to the Office or Directorate with OCCHCO 
+approval. 
+
+4-3.  Conversion Actions 
+
+The first-level supervisor may recommend adjustment of pay upon conversion 
+from another FEMA appointment to a CORE appointment (see sections 5-3 and 
+6-3 for information on conversions that result in a decrease in pay). 
+
+4-4.  Position Management and Classification 
+
+The Position Management and Classification Manual, FM 252-2-1, June 19, 
+2014, provides guidance for the classification and position management of 
+CORE positions. The rules and procedures for position classification reviews 
+(i.e., desk audits) and classification appeals found in FM 252-2-1 do not apply to 
+CORE positions. 
+
+4-5.  Locality Pay 
+
+A.  Locality pay is an additional sum of money administratively-determined by 
+OCCHCO and added to a CORE’s base pay to account for the difference 
+between the pay of government workers and private sector workers in a given 
+geographic location. Locality pay is considered a part of basic pay and is 
+applied to the minimum and maximum rates of each pay plan.  
+
+B.  COREs, such as IM COREs, who physically work full time from their 
+
+residence of record, will receive the locality pay assigned to their residence of 
+record’s locality pay area, even if the CORE reports or is assigned to a FEMA 
+fixed facility with a different locality pay rate.  
+
+C.  When a CORE moves from an official duty station in one locality pay area to 
+
+an official duty station in a different locality pay area, OCCHCO will adjust the 
+CORE’s basic pay to reflect the difference in the administratively-determined 
+locality pay rates. Pay retention is not applicable to geographic changes in 
+locality. 
+
+38 
+
+ 
+ 
+ 
+ 
+ 
+ 
+4-6.  Cost of Living Increase 
+
+OCCHCO may periodically recommend that the Administrator adjust pay scales 
+for the CORE program. For example, an adjustment may be appropriate to reflect 
+a cost of living increase, but need not coincide with changes to pay and wage 
+schedules by Congress, OPM, or OPM’s designee. In such circumstances, 
+OCCHCO will review current CORE pay rates and recommend the proper 
+percentage adjustment that is appropriate. 
+
+4-7.  Pay Ceilings and Premium Pay 
+
+Absent a waiver for the bi-weekly pay cap, the maximum rate of basic pay for a 
+FLSA-exempt CORE may not exceed the rate payable for Level V of the 
+Executive Schedule or the rate for GS-15 Step 10 employees (including locality 
+pay), whichever is higher (see FM 253-2-1, Premium Pay). The maximum 
+aggregate amount any CORE may receive in basic pay, bonuses, and 
+allowances is the rate for Level I of the Executive Schedule. 
+
+The rules and regulations governing premium pay, including, but not limited to, 
+the bi-weekly and annual pay caps, overtime, compensatory time off, and night 
+differential for COREs is found in FM 253-2-1, Premium Pay. 
+
+4-8.  Recruitment, Relocation, or Retention Incentives 
+
+A.  In General 
+
+1.  A recruitment incentive is a one-time, lump-sum payment to a newly 
+
+appointed CORE to a position that is determined to be critical to FEMA’s 
+mission and in the absence of the incentive, would be difficult to fill. 
+
+2.  A relocation incentive is a one-time, lump-sum payment to a current 
+
+CORE who agrees to relocate with no break in service to accept a FEMA 
+position in a different geographic area if the position is likely to be difficult 
+to fill in the absence of the incentive. 
+
+3.  A retention incentive is paid to a current CORE if the CORE has unusually 
+high or unique qualifications, or an Office or Directorate has a special 
+need for the CORE’s services that makes it essential to retain the CORE, 
+and the CORE would likely leave the Federal service in the absence of a 
+retention incentive. The CORE must have stated an intent to resign or 
+retire, in writing, or must have submitted his or her resignation or 
+retirement paperwork prior to authorization. 
+
+4.  The employing office must consider at least the following factors, as 
+applicable to the case at hand, when deciding whether to pay a 
+recruitment or relocation incentive: 
+
+i.  The success of recent efforts to recruit candidates for similar positions, 
+including indicators such as offer acceptance rates, the proportion of 
+positions filled, and the length of time required to fill similar positions; 
+
+ii.  Recent turnover in similar positions; 
+
+39 
+
+ 
+ 
+ 
+iii.  Labor-market factors that may affect the ability of the office to recruit 
+
+candidates for similar positions now or in the future; 
+
+iv.  Special qualifications needed for the position; and 
+
+v.  The practicality of using an advanced rate alone or in combination with 
+
+a recruitment or relocation incentive. 
+
+5.  The employing office must consider at least the following factors, as 
+
+applicable to the case at hand, when deciding whether to pay a retention 
+incentive: 
+
+i.  The success of recent efforts to recruit candidates and retain 
+
+employees with qualifications similar to those possessed by the CORE 
+for positions similar to the position held by the CORE; and 
+
+ii.  The availability in the labor market of candidates for employment who, 
+
+with minimal training or disruption of service to the public, could 
+perform the full range of duties and responsibilities assigned to the 
+position held by the CORE. 
+
+6.  The use of a recruitment, relocation, or retention incentive is not to be 
+used as a substitute for traditional recruiting efforts that could yield a 
+competent and qualified employee without the use of such an incentive.  
+
+B.  Justification and Approval. The Selecting Official or supervisor of record shall 
+submit a justification for any request for a recruitment, relocation, or retention 
+incentive through the head of his or her Office or Directorate for approval. 
+Office or Directorate heads may approve an incentive amount less than 
+$20,000, or less than 25% of a CORE’s base pay. Any incentive request with 
+a lump sum greater than or equal to $20,000, or greater than or equal to 25% 
+of a CORE’s base pay must be submitted by the Associate Administrator or 
+Office Chief (if the Office Chief reports directly to the Administrator) 
+overseeing the requesting organization and be approved by the Administrator 
+or designee, but at least by the Chief of Staff and OCCHCO. In all cases, 
+OCCHCO must approve the incentive request and OCFO must certify the 
+availability of funds prior to authorizing payment. All justifications shall 
+include, at a minimum, the following information: 
+
+1.  The amount and timing of the approved incentive; 
+
+2.  For retention incentives, the payment schedule for the incentives and the 
+
+maximum number of payments or end date for the payments; and 
+
+3.  The basis for determination that the skills and work experience of the 
+applicant or CORE are of substantial value, or that, without such an 
+incentive, the position would be difficult-to-fill. The basis should be based 
+on at least one factor from subsection A.4 if a recruitment or relocation 
+bonus, or one factor from subsection A.5 if a retention incentive. 
+
+C.  COREs who receive a recruitment, relocation, or retention incentive must sign 
+and comply with the terms of a Continuing Service Agreement (CSA). See 
+Chapter 15, Continuing Service Agreements, for more information.  
+
+40 
+
+ 
+4-9.  Offset Provision for Civilian Retirees 
+
+A.  Retirees from the federal service who are receiving a federal retirement 
+
+annuity and become reemployed by the federal government, absent a waiver, 
+will have their salaries reduced by the amount of the annuity they are entitled 
+to receive during the period of reemployment, pursuant to 5 U.S.C. § 8344(a). 
+
+B.  COREs who are reemployed annuitants must provide OCCHCO with a copy 
+
+of their most recent annuity notice issued by OPM, and all subsequent notices 
+of change, indicating the monthly annuity amount to the Payroll and 
+Processing Operations Division, OCCHCO prior to or at the time of 
+appointment. 
+
+41 
+
+ 
+ 
+ 
+ 
+CHAPTER 5:  COMPENSATION (PAY BANDS) 
+
+5-1.  General 
+
+A.  This Chapter addresses the rules and procedures associated with 
+
+compensating COREs via pay bands, which is one of the pay scales under 
+the IC pay plan.  
+
+B.  Each pay band established for the IC pay plan corresponds to a range of pay 
+and classification levels, such that bands replace grades and steps, and 
+series are retained. Positions are classified by title, career path, and 
+occupational series. The pay range for each pay band is equivalent to the pay 
+range of GS and IC grades and steps within the pay band. A CORE may not 
+receive base pay in excess of his or her pay band unless they are promoted 
+to a position classified at a higher pay band. 
+
+1.  Band 1 corresponds to GS 1 to GS 6. 
+
+2.  Band 2 corresponds to GS 7 to GS 9. 
+
+3.  Band 3 corresponds to GS 10 to GS 11. 
+
+4.  Band 4 corresponds to GS 12 to GS 13. 
+
+5.  Band 5 corresponds to GS 14 to GS 15. 
+
+C.  The major duties and responsibilities of each CORE position are included in 
+the position description. The position description is analyzed by a Human 
+Resources Classification Specialist to determine the title and pay band of the 
+position. This analysis of the work to be performed and comparison of the 
+work to established standards is referred to as position classification and 
+applies the principle of equal pay for equal work. 
+
+D.  Exceptions to the policies and procedures contained within this Chapter may 
+be authorized by the CCHCO to respond to an emergent and unexpected 
+mission need arising from a Level I disaster, to alleviate severe hardship to 
+individuals resulting from any error on the part of FEMA in effecting personnel 
+actions, or to address unusual situations that were not anticipated when this 
+policy was drafted. 
+
+5-2.  Setting Basic Rate of Pay 
+
+A.  The Selecting Official is delegated the authority to assign a yearly basic pay 
+amount within the position classified pay band. Pay setting criteria may 
+include:  
+
+1.  The prior salary of the candidate;  
+
+2.  The overall qualifications of the candidate;  
+
+3.  The recency of the individual’s relevant experience;  
+
+4.  The qualifications and pay of employees in similar positions in the work 
+
+unit;  
+
+42 
+
+ 
+ 
+5.  Salary comparability to non-Federal pay rates for similar work;  
+
+6.  Special qualification requirements associated with the vacant position;  
+
+7.  Turnover rates for the position;  
+
+8.  Scarcity of qualified candidates; or 
+
+9.  Programmatic urgency. 
+
+B.  Any request for a rate above the minimum rate within the position classified 
+pay band(s) must include a justification drafted by the Selecting Official and 
+approved by the second level supervisor. This justification must include:  
+
+1.  The candidate’s name; 
+
+2.  The title, grade, and recommended rate of the vacant position; and 
+
+3.  The factors and determination that support the pay rate determination. 
+
+C.  Pursuant to 29 C.F.R. § 1602.14 and in accordance with Equal Employment 
+Opportunity Commission regulations, the justification for setting pay higher 
+than the minimum rate shall be preserved for one year from the date of its 
+making. 
+
+5-3.  Pay Adjustments 
+
+Adjustments to pay within a classified pay band may be requested by the 
+supervisor of record for review and approval by the Human Resources Specialist 
+without written justification or approval from the second level supervisor. Such 
+adjustments may be given under the following circumstances: 
+
+A.  Reassignment of a CORE from one position to another position within the 
+
+same classified pay band if the responsibilities of the new position warrant an 
+increase or decrease in base pay to further the principles of equal pay for 
+equal work; 
+
+B.  A pay change, of either an increase or decrease, to compensate for an 
+
+increase or decrease in locality pay in conjunction with a move to another 
+geographic area; or 
+
+C.  Receipt of a merit-based increase (see section 5-4). 
+
+5-4.  Merit-Based Increase 
+
+A.  A CORE who is not already receiving the maximum basic pay for his or her 
+
+position may receive a merit-based increase at the conclusion of the 
+performance year. 
+
+B.  A CORE, who receives a rating of record of “Achieved Expectations”, or 
+equivalent, is eligible for a merit-based increase of up to 3%; a rating of 
+record of “Exceeded Expectations” or equivalent, is eligible for a merit-based 
+increase of up to 4%; or a rating of record of “Achieved Excellence” or 
+equivalent, is eligible for a merit-based increase of up to 5%. 
+
+43 
+
+ 
+ 
+ 
+C.  A CORE, who receives a rating of “unacceptable”, or equivalent, is not eligible 
+
+for a merit-based increase.8 
+
+D.  A CORE’s supervisor of record must send an SF-52, approved by the second 
+
+level supervisor, to the Payroll and Processing Division, OCCHCO for 
+processing, certifying that the CORE has received an annual rating of record 
+for the most recent performance cycle and that the percentage increase to 
+basic pay sought by the supervisor of record is in compliance with the 
+requirements established by section 5-3 above. 
+
+5-5.  Promotion 
+
+A.  A promotion is a personnel action that moves a CORE from one classified 
+band to another in the same career path. A promotion may also be the 
+selection and appointment of a CORE to a position in another career path or 
+region to which the CORE applies. This may result in a combination of an 
+increase in the CORE’s salary and a change in position description. If the 
+CORE is moved to a different position, in the same pay band, with the same 
+or similar duties, the personnel action is a reassignment with retained pay.  
+
+B.  The CORE’s supervisor of record must certify that the CORE’s most recent 
+performance rating was at least “Achieved Expectations” or equivalent, next 
+higher graded work exists for the CORE to perform, the CORE’s new position 
+description captures the duties to be performed, and the higher graded 
+position is approved and funded. A CORE may be hired into a position in a 
+higher pay band via vacancy announcement or a name request, if the Office 
+or Directorate has an existing higher position available or creates a new 
+position according to the procedures detailed in section 2-2. 
+
+C.  The new basic pay rate upon promotion may be set at any level in the new 
+band, but the CORE must receive at least a six percent minimum pay 
+increase over his or her previous salary. If the CORE moves to a different 
+career path, any band in the new career path would be considered a “new 
+band” for the purposes of determining his or her salary. 
+
+5-6.  Change to a Lower Pay Band 
+
+When a CORE moves from his or her current position to a position at a lower pay 
+band the action is referred to as a change to a lower pay band. The 
+circumstances underlying the supervisor’s recommendation to initiate a change 
+to a lower pay band will determine how pay is set. 
+
+A.  A CORE who exhibits poor performance and fails to improve acceptably will 
+be terminated (see Chapter 11 for more information). In rare occasions, 
+COREs may be demoted in lieu of removal due to poor performance. In such 
+circumstances, pay is set at a lower pay band such that there is a reduction in 
+
+8 Supervisors who encounter poor performance should consult Chapter 11: Procedures for 
+Misconduct and Poor Performance. 
+
+44 
+
+ 
+ 
+ 
+                                                           
+pay equivalent to at least two steps (using the pay intervals from the grades 
+and steps scale) below the higher banded position.  
+
+B.  When a CORE requests a change to lower pay band for personal reasons or 
+convenience, including through application for an announced vacancy at a 
+lower pay band, the action is considered a voluntary change to a lower pay 
+band. For voluntary changes to a lower pay band, the new rate will be set 
+according to the procedures in section 5-2, and should include any merit 
+based increases that the CORE would have received during the qualified 
+period. 
+
+C.  The reclassification of a position by OCCHCO to a lower pay band will result 
+in a reduction in pay and pay will be set in accordance with the classification 
+decision. Pay will be set according to the procedures detailed in section 5-2. 
+No appeal of the reclassification decision or pay retention is permitted, 
+subject to any applicable collective bargaining agreement. 
+
+45 
+
+ 
+ 
+ 
+CHAPTER 6:  COMPENSATION (GRADES AND STEPS) 
+
+6-1.  General 
+
+A.   A CORE may be paid via an administratively-determined “IC” grades and 
+
+steps pay scale, as described in this Chapter. The pay scale consists of 15 
+pay grades (IC-1 to IC-15) with 10 steps per grade. The pay sums associated 
+with the IC pay scale mirror the GS scale. 
+
+For example, a CORE hired at IC-11, Step 1 under the IC pay plan would be 
+paid at the same basic rate of pay as a GS-11, Step 1 employee under the 
+GS scale.  
+
+B.  Exceptions to the policies and procedures contained within this Chapter may 
+be authorized by the CCHCO to respond to an emergent and unexpected 
+mission need arising from a Level 1 disaster, to alleviate severe hardship to 
+individuals resulting from any error on the part of FEMA in effecting personnel 
+actions or to address unusual situations that were not anticipated when this 
+policy was drafted. 
+
+6-2.  Setting Basic Rate of Pay 
+
+A.  The position description is the primary source of information used in setting 
+pay in the IC pay series. Other information used in setting pay is (1) the 
+geographic location (official duty station) of the position; and, (2) the 
+individual’s prior employment, salary history, and qualifications. 
+
+B.  The major duties and responsibilities of each CORE position are included in 
+its position description. The position description is analyzed by a Human 
+Resources Specialist to determine the title and grade range of the position. 
+This analysis of the work to be performed and comparison of the work to 
+established standards is referred to as position classification and applies the 
+principle of equal pay for equal work. 
+
+C.  A new appointment is an individual’s first appointment as an employee of the 
+Federal government. Pay for all new COREs will be set at the minimum rate 
+(Step 1) of the grade of the position, unless the CORE is approved for an 
+advanced rate (see part E Advanced to a Higher Step). 
+
+D.  If the CORE has prior federal service (including as a current or former FEMA 
+employee), OCCHCO sets the basic rate of pay at the minimum rate for the 
+position, unless they receive an advanced rate (as discussed below) or the 
+highest pay rate previously received during Federal service, whichever is 
+higher.9 Before setting pay at the highest pay rate previously received during 
+Federal service, the Selecting Official should consider: 
+
+1.  The overall qualifications of the individual; 
+
+2.  The recency of the individual’s relevant experience; 
+
+9 If the employee’s highest previously-received pay rate falls between two steps of the IC pay 
+scale, the Selecting Official may request that the employee’s pay be set at the higher step. 
+
+46 
+
+ 
+ 
+                                                           
+3.  The qualifications and pay of employees in similar positions in the work 
+
+unit; and 
+
+4.  The potential impact on the morale of those employees if the candidate 
+
+were to receive the maximum payable rate. 
+
+E.  Advanced to a Higher Step.  
+
+1.  Prior to a candidate entering on duty, the Selecting Official will consider 
+whether pay above the minimum rate of the grade should be made for a 
+CORE. 
+
+2.  Pay rate decisions maintain equity between the pay of the new hire and 
+
+that of current employees, including COREs, performing comparable work. 
+The advanced rate may not exceed step 10 of the applicable grade to 
+which the candidate will be hired. 
+
+3.  Required documentation and approval: 
+
+i.  A request to advance a CORE up to step four may be submitted by the 
+first or second level supervisor to OCCHCO for approval. A request to 
+advance a CORE to step five and above must be submitted by the 
+head of an Office or Directorate to OCCHCO for approval. The request 
+must be accompanied by a written justification that includes: 
+
+a.   The candidate’s name; 
+
+b.  The title, grade, and recommended rate of the vacant position; and 
+
+c.  The factors and determination that support the pay rate 
+
+determination. This may include, but is not limited to, salary 
+comparability, special qualification requirements, turnover rates, 
+scarcity of qualified candidates, or programmatic urgency. 
+
+ii.  The first or second level supervisor must submit a recommendation for 
+an advanced rate appointment well in advance of establishing an 
+entrance on duty date to ensure sufficient time for OCCHCO to act on 
+the request before the appointment becomes effective. 
+
+iii.  Pursuant to 29 C.F.R. § 1602.14 and in accordance with EEOC 
+
+regulations, the justification shall be preserved for one year from the 
+date of its making. 
+
+6-3.  Pay Adjustments 
+
+Adjustments to pay within a grade after the pay rate is initially set may be given 
+under the following circumstances: 
+
+A.  Reassignment of a CORE from one position to another position if the 
+
+responsibilities of the new position warrant an increase or decrease in base 
+pay to further the principles of equal pay for equal work; 
+
+47 
+
+ 
+ 
+B.  A pay change, of either an increase or decrease, to compensate for an 
+
+increase or decrease in locality pay in conjunction with a move to a different 
+official duty station in another geographic area; or 
+
+C.  Receipt of a step increase (see section 6-4). 
+
+6-4.  Step Increases 
+
+A.  A CORE who is not already at the highest step of his or her current grade 
+may be advanced to the next higher step at the conclusion of the waiting 
+period assigned to their current rate. 
+
+1.  While FEMA’s Stafford Act authorities permit FEMA the authority to 
+
+compensate without regard to Title 5, FEMA adopts the waiting periods for 
+advancement to the next highest step established by 5 U.S.C. § 5335 and 
+its implementing regulation at 5 C.F.R. § 531.405 as a matter of policy for 
+all COREs paid via grades and steps. 
+
+2.  A CORE is not automatically entitled to receive a step increase at the 
+
+conclusion of his or her waiting period.  
+
+3.  To receive the step increase, the CORE’s supervisor of record must sign 
+the step increase document and return to OCCHCO for processing, 
+certifying that the CORE: 
+
+i.  Has completed the requisite waiting period;  
+
+ii.  Has not received an equivalent increase during the waiting period; and  
+
+iii.  His or her summary rating level for the most recent performance was 
+
+at least “Achieved Expectations” or equivalent. 
+
+4.  If a supervisor determines that a CORE’s performance is not at an 
+
+acceptable level, the supervisor should contact OCCHCO/Employee 
+Relations at least two months before the end of the required waiting period 
+for a step increase, to draft a notification to the CORE stating that the 
+CORE’s next step increase is being withheld, the reason for the negative 
+determination, and what the CORE must do to improve his or her 
+performance to be granted the step increase. 
+
+B.  Prior to the completion of the requisite waiting period, a supervisor may 
+recommend one additional step increase if warranted by the CORE’s 
+performance. To receive the additional step increase, the CORE’s supervisor 
+of record must send a justification describing the accomplishments and 
+performance exhibited by the CORE that would warrant an increase in pay, 
+and an SF-52 approved by the second level supervisor to OCCHCO for 
+processing. OCCHCO will review the request to ensure COREs who exhibit 
+similar performance receive similar pay. 
+
+48 
+
+ 
+ 
+ 
+6-5.  Promotion 
+
+A.  A promotion is a personnel action that moves a qualified CORE from one 
+
+grade to another in the same career path or to a grade in another career path 
+in combination with an increase in the CORE’s salary. 
+
+B.  The CORE’s supervisor of record must certify that the CORE’s most recent 
+performance rating was at least “Achieved Expectations” or equivalent, next 
+higher graded work exists for the CORE to perform, the CORE’s new position 
+description captures the duties to be performed, and the higher graded 
+position is approved and funded. A CORE may be hired into a position at a 
+higher grade via vacancy announcement or a name request, if the Office or 
+Directorate has an existing higher graded position available or creates a new 
+position according to the procedures detailed in section 2-2.  
+
+C.  For promotions, pay is set at the lowest pay rate in the new grade; however, 
+the new pay rate must exceed the CORE’s existing pay rate by at least two 
+steps. If the annual rate of the new position falls between two steps of the 
+new grade, the higher step may be used. For example, an IC-7, Step 3 at 
+FEMA HQ, with an annual pay rate of $45,473, who is promoted to an IC-8, is 
+entitled to at least an increase in pay equal to two steps from the position 
+from which she was promoted at IC-7 Step 5, or $48,315. Because the annual 
+pay rate for an IC-8, Step 1 is $47,212, it does not satisfy the two-step 
+increase requirement. Therefore, pay is set at IC-8, Step 2 or $48,786. 
+
+6-6.  Change to Lower Grade 
+
+When a CORE moves from his or her current position to a position at a lower 
+grade the action is referred to as a change to lower grade. The circumstances 
+underlying the supervisor’s recommendation to initiate a change to lower grade 
+will determine how pay is set. 
+
+A.  A CORE who exhibits poor performance and fails to improve acceptably will 
+be terminated (see Chapter 11 for more information). In rare occasions, 
+COREs may be demoted in lieu of removal due to poor performance. Upon 
+demotion, the pay rate must be set at least two steps below the current pay 
+rate. If the two-step reduction results in a rate that falls between two steps of 
+the lower grade, the lower step must be used. 
+
+B.  When a CORE requests a change to lower grade for personal reasons or 
+convenience, including through application for an announced vacancy at a 
+lower grade, the action is considered a voluntary change to a lower grade. 
+For voluntary changes to a lower grade, the new rate should include any step 
+increase that the CORE would have received during the qualifying period and 
+pay should be set at: 
+
+1.  The minimum  payable rate of basic pay for the lower grade; or 
+
+2.  The highest previous rate received under Federal service, if the action is 
+fair and equitable after considering the factors listed in section 6-2, and if 
+the action serves the convenience of the Government. 
+
+49 
+
+ 
+ 
+C.  The reclassification of a position by OCCHCO to a lower grade range will 
+result in a reduction in pay and pay will be set in accordance with the 
+classification decision. Pay will be set according to the procedures detailed in 
+section 6-2. No appeal of the reclassification decision or pay retention is 
+permitted, subject to any applicable collective bargaining agreement. 
+
+50 
+
+ 
+ 
+ 
+7-1.  General 
+
+CHAPTER 7:  BENEFITS 
+
+A.  With certain exceptions that apply to individuals such as reemployed 
+
+annuitants, CORE are eligible for Federal Employees Health Benefits (FEHB), 
+Federal Employees Dental/Vision Insurance Program (FEDVIP), Federal 
+Employees Group Life Insurance (FEGLI), Federal Employees Retirement 
+System (FERS), Flexible Spending Account (FSA), Federal Long Term Care 
+Insurance (FLTCIP), and participation in the Thrift Savings Plan (TSP). 
+
+B.  COREs must review their benefit options and make selections within 
+
+prescribed election periods. OCCHCO, Employee Services Division, will 
+provide timely information to COREs with regard to available benefit options, 
+election periods, and technical direction regarding how to apply for these 
+options.  
+
+C.  OCCHCO staff is prohibited from making any type of recommendation that 
+may influence a CORE’s benefit election. COREs need to evaluate cost, 
+personal needs, and eligible family members and their needs when preparing 
+to make a benefits selection. 
+
+D.  FEMA applies guidance contained within OPM Benefits Administration Letter, 
+No. 13-203, when extending benefits to legally married same-sex spouses 
+and common law marriages in certain states, of Federal employees and 
+annuitants, and to the children of those marriages. 
+
+7-2.  Health Benefits 
+
+A.  COREs are given an opportunity to enroll in the Federal Employees Health 
+Benefits Program (FEHB) at the time of appointment to a CORE position. 
+
+B.  A CORE must decide whether to elect to enroll in FEHB within 60 days after 
+the effective date of appointment. A CORE who elects to enroll must submit 
+SF-2809 to his or her HR Specialist. A CORE who fails to return the 
+completed form within the prescribed time frame, or who cancels enrollment 
+will not have another opportunity to enroll until an FEHB open season is 
+offered (generally once per year), or as a result of a Qualifying Life Event 
+(QLE). 
+
+C.  The CORE’s share of the premium for the benefits plan chosen will be 
+
+deducted from the CORE’s bi-weekly pay on a pre-tax basis.  A CORE may 
+cancel health benefits coverage during an extended period of non-pay status 
+or may continue the coverage and pay the premium each pay period or upon 
+return to pay status. Effective dates for enrollment, changes in enrollment, 
+and cancellation of enrollment will be established in accordance with 
+guidance prescribed by the U.S. Office of Personnel Management (OPM). 
+
+51 
+
+ 
+ 
+7-3.  FEDVIP (Dental and Vision) Program 
+
+A.  The Federal Employees’ Dental/Vision Program (FEDVIP) is a supplemental 
+program offering vision and dental coverage to Federal employees, retirees, 
+and their eligible family members on an enrollee-pay-all basis.  
+
+B.  COREs, retirees, and their eligible family members are eligible to enroll in 
+
+FEDVIP if they are eligible to enroll in FEHB and the CORE’s position is not 
+excluded by law or regulation.10 COREs who are not enrolled in FEHB may 
+still be eligible for FEDVIP, providing they are eligible to enroll in FEHB. 
+
+C.  New and newly eligible COREs may enroll within 60 days after they become 
+eligible. COREs may also enroll during the annual Federal Benefits Open 
+Season in November and December. 
+
+7-4.  Life Insurance 
+
+Unless a CORE elects to waive coverage prior to the end of the pay period in 
+which appointed, eligible COREs are automatically insured for basic life coverage 
+on the day the CORE enters on duty in a pay status. Within 60 days after the 
+effective date of appointment to a CORE position, a CORE who has basic life 
+insurance coverage may also elect standard, additional, and/or family optional 
+insurance. A CORE may decrease or waive all life insurance coverage at any 
+time. Effective dates of life insurance coverage and waivers will be in accordance 
+with the Federal Employees Group Life Insurance (FEGLI) program and OPM 
+guidance. FEGLI is not included in the annual benefits open season and open 
+season periods are rare. 
+
+7-5.  Retirement 
+
+A.  As a general rule, employees appointed to CORE positions are automatically 
+covered by the Federal Employees Retirement System (FERS). Exceptions 
+include certain former Federal employees who were hired prior to January 1, 
+1984, and were covered under the Civil Service Retirement System (CSRS). 
+Retirement coverage, whether FERS, CSRS, or CSRS Offset, begins on the 
+effective date of appointment to a CORE position.  
+
+B.  COREs who are covered by FERS, and first appointed: 
+
+1.  Before 2013, contribute 0.8% of pay to the Civil Service Retirement and 
+
+Disability Fund (CSRDF); 
+
+2.  In 2013, contribute 3.1% of pay to the CSRDF; or 
+
+3.  After December 31, 2013, contribute 4.4% of pay to the CSRDF. 
+
+4.  Employee contributions to the CSRDF may change according to changes 
+
+in the FERS program. 
+
+10 See 5 C.F.R. § 894.302 or an HR Specialist to determine whether a position is excluded from 
+FEDVIP. 
+
+52 
+
+ 
+ 
+ 
+ 
+                                                           
+7-6.  Thrift Savings Plan 
+
+A.  The Thrift Savings Plan (TSP) is a tax-deferred retirement savings and 
+
+investment plan that provides COREs with an opportunity to save a portion of 
+their income for retirement and reduce current taxes.  
+
+B.  Eligibility for participation is determined by FEMA in accordance with law and 
+TSP regulations published by the Federal Retirement Thrift Investment Board. 
+
+C.  COREs, covered by FERS, appointed after July 31, 2010, are automatically 
+
+enrolled in the TSP. 
+
+D.  COREs can elect, change their election, or stop their contributions at any time 
+through the Employee Personal Page (EPP) or by completing and submitting 
+a TSP-1 Election form. 
+
+7-7.  Federal Long-Term Care Insurance Program 
+
+Long-Term Care insurance provides financial protection to enrollees who are in 
+need of assistance with their daily activities due to a lengthy or lifelong illness, 
+injury, or cognitive impairment. Long-Term Care insurance is medically 
+underwritten; therefore, a CORE and eligible family members must qualify for the 
+insurance. Eligible COREs can enroll at any time; however, newly-hired COREs 
+and their spouses receive a 60-day window to enroll using an abbreviated 
+underwriting process. 
+
+7-8.  Flexible Spending Accounts 
+
+Flexible Spending Accounts (FSA) allows COREs to set aside money on a pre-
+tax basis to cover out-of-pocket health care or dependent care expenses. A 
+newly eligible CORE has 60 days from the date of his or her appointment to elect 
+to set aside this money by payroll deduction. A CORE who wishes to participate 
+or continue to participate from one plan year to the next must make a positive 
+election during the annual open season, which runs concurrent with the health 
+insurance open season. Changes can be made outside of the benefits open 
+season as a result of a Qualifying Life Event (QLE). 
+
+7-9.  Employee Assistance Program (EAP) 
+
+COREs have access to confidential work life enhancement services through the 
+EAP, free of charge. The EAP is a professional resource available to help 
+COREs resolve life challenges. A CORE may call the toll-free EAP number at 1-
+800-222-0364, 24 hours a day, 7 days a week. A CORE can also access EAP 
+services online at www.FOH4you.com. 
+
+7-10.  Transit Subsidy Program 
+
+Subject to the availability of funds, all COREs who are currently using public 
+transportation to commute to work are eligible for transit subsidy benefits.  The 
+Office of the Chief Administrative Officer (OCAO), Support Services and Facilities 
+Management Division (SSFMD), administers the transit subsidy program. 
+
+53 
+
+ 
+ 
+ 
+ 
+ 
+COREs interested in receiving a transit subsidy must complete FEMA Form 254-
+1-1, Public Transportation Benefit Program Application, and email it to the Transit 
+Subsidy Program at FEMA-Transit-Subsidy@fema.dhs.gov.  
+
+54 
+
+ 
+ 
+ 
+ 
+CHAPTER 8:  PERFORMANCE MANAGEMENT 
+
+8-1.  General 
+
+A.  CORE performance management shall comply with the Employee 
+
+Performance Management Program as established by FM 255-1-1. 
+
+B.  A CORE who receives a rating of unacceptable, or equivalent, on his or her 
+
+most recent appraisal (rating of record) may be subject to removal in 
+accordance with Chapter 11 of this Manual. Such removal should be effected 
+regardless of the timing of the CORE’s NTE date. However, a supervisor is 
+not precluded from terminating a CORE prior to issuance of a performance 
+appraisal, so long as the supervisor has sufficient documentation to justify the 
+action and has consulted with an OCCHCO Employee Relations Specialist. 
+
+8-2.  Performance Management for CORE-Is 
+
+The performance of IMAT members appointed as CORE-Is are subject to FD 
+010-7, and are not covered by FEMA Manual 255-1-1 or this Chapter. 
+
+8-3.  Deployment Performance Management 
+
+A.  When deployed to a disaster for twenty days or more, a CORE qualified in a 
+FQS position, and deployed to that position, will receive an evaluation of the 
+CORE’s deployment performance by a temporary duty supervisor. The 
+evaluation period consists of the entire time the CORE is deployed. 
+
+B.  COREs will be evaluated on their performance based on the performance 
+
+goals developed by Cadre Coordinators for each position within a Cadre. The 
+goals will align with the position-specific knowledge of program and technical 
+protocols contained in the position’s PTB, and the core competencies for 
+deployed personnel. 
+
+C.  The temporary duty supervisor will complete a deployment evaluation in a 
+timely manner and transmit the evaluation to the CORE’s supervisor of 
+record. Additionally, the HR Unit Leader and his or her staff will ensure that 
+any demobilized CORE who is deployed for at least twenty days is issued a 
+performance evaluation prior to departing the incident work site. 
+
+D.  If a CORE’s deployment performance does not meet achieved expectations, 
+the CORE’s supervisor of record in coordination with the Cadre Coordinator 
+and/or temporary duty supervisor will collaborate with OCCHCO to determine 
+the appropriate course of action. 
+
+E.  A CORE’s progress review and appraisal (rating of record) should include 
+input received after a deployment from the temporary duty supervisor. 
+However, the supervisor of record has the discretion to consider the 
+deployment performance evaluation as he or she deems appropriate when 
+completing progress reviews and the annual appraisal (rating of record) 
+subsequent to the deployment. 
+
+55 
+
+ 
+ 
+ 
+F.  If the CORE is deployed at the time that the CORE’s quarterly progress 
+
+review should take place, the supervisor of record will work with the CORE 
+and his or her temporary duty supervisor to obtain feedback on the CORE’s 
+performance during the applicable quarter. 
+
+56 
+
+ 
+ 
+ 
+CHAPTER 9:  AWARDS AND RECOGNITION 
+
+9-1.  Awards and Recognition Program 
+
+The Awards and Recognition program applicable to Title 5 employees and 
+captured in FEMA Manual 255-4-1 is also applicable to COREs, with the 
+exception of CORE-Is. Awards and recognition policy applicable to CORE-I 
+IMATs is found in FD 010-7. 
+
+57 
+
+ 
+ 
+ 
+ 
+CHAPTER 10:  SCHEDULING OF WORK AND TELEWORK 
+
+10-1.  Scheduling of Work and Telework 
+
+A.  FM 106-1-1, Scheduling of Work, applies to all COREs. To establish a work 
+
+schedule a CORE must submit a copy of FEMA Form 106-1-1-1, Request for 
+Work Schedule, to his or her supervisor of record for approval.  
+
+B.  COREs will use FEMA approved timekeeping policies and procedures to 
+
+account for all hours of work. 
+
+C.  FM 123-9-1, Telework Manual, applies to all COREs. To establish a telework 
+agreement and schedule a CORE must submit a copy of FEMA Form 123-9-
+0-1, Telework Application and Agreement Form, and FEMA Form 123-9-0-2, 
+Employee Self-Certification Safety and Health Checklist, to his or her 
+supervisor of record for approval.  
+
+D.  COREs whose Residence of Record is their permanent duty station are not 
+
+teleworking when on duty. However, all COREs whose Residence of Record 
+is their official duty station must have a completed and approved Employee 
+Self-Certification Safety and Health Checklist forms on-file with FEMA prior to 
+being permitted to work.  
+
+58 
+
+ 
+ 
+ 
+ 
+CHAPTER 11:  PROCEDURES FOR MISCONDUCT AND POOR PERFORMANCE 
+
+11-1.  General 
+
+A.  COREs are non-Title 5 employees and, therefore normally do not have 
+
+appeal rights to the Merit Systems Protection Board. 
+
+B.  Supervisors must communicate proper conduct and performance standards. 
+Supervisors must also set an example for proper conduct and performance 
+for their subordinates. 
+
+C.   Supervisors must identify and deal with misconduct and unacceptable 
+
+performance as they occur. 
+
+D.  Supervisors must document problems as they occur and follow up with 
+
+COREs to ensure they understand the seriousness of their behavior and/or 
+performance deficiencies. Documentation does not have to be lengthy. It can 
+be a brief summary of key facts and issues, with names, dates and times that 
+the incident(s) occurred. This documentation must be created in a timely 
+manner and preserved for potential litigation and may be subject to discovery.  
+
+E.  Supervisors should immediately contact their servicing Employee Relations 
+
+Specialist when misconduct or performance issues occur to obtain advice and 
+guidance before taking any official action. If this issue involves misconduct, 
+supervisors must report the matter as required by FD 123-19, paragraph III.D.  
+
+F.  When making a determination of lack of fitness to encumber a FEMA position, 
+or that the CORE’s security clearance is being suspended or revoked under 
+DHS Instruction 121-01-007, OCSO shall immediately notify Employee 
+Relations. 
+
+11-2.  Addressing Misconduct 
+
+A.  Misconduct must be reported to FEMA HQ in accordance with FD 123-19, 
+
+Administrative Investigations Directive (AID), and, depending on the status of 
+the CORE and the alleged misconduct, to the DHS OIG. It can be difficult to 
+determine whether a CORE’s actions constitute misconduct or poor 
+performance, or whether suspected misconduct triggers the requirements to 
+report the suspected misconduct to DHS OIG or the AID Committee. As such, 
+consultation with OCCHCO is critical to determining the proper course of 
+action. The Employee Relations Specialist will recommend the appropriate 
+option and provide the required documentation to the manager for issuance to 
+the CORE. FD 123-19 and its accompanying Manual, FM 123-19-1, provide 
+procedures for reporting misconduct and investigating it prior to determining if 
+disciplinary action for any substantiated misconduct is to be recommended. 
+
+B.  Options to Address Misconduct 
+
+1.  Counseling. A counsel is an informal verbal advisement by a supervisor 
+to a CORE of misconduct that must be corrected, yet which avoids any 
+lasting adverse effect on a CORE’s personnel record. The purpose of 
+counseling is to correct misconduct problems soon after they occur in 
+
+59 
+
+ 
+ 
+order to prevent the need for formal discipline. Counseling is an 
+appropriate response to minor misconduct when the CORE has a 
+generally good record, with no prior instances of misconduct, and is 
+committed to correcting the problem. Documentation is not required; 
+however, a follow-up e-mail recounting the conversation entitled 
+“Discussion dated XX” can be provided to the CORE and is strongly 
+recommended. At a minimum the supervisor shall send an email to 
+himself or herself to document the content of the conversation. Counseling 
+can be used to demonstrate that the CORE was put on notice about the 
+problem and knew of the potential for a harsh penalty if the problem 
+continued. A memorandum documenting the counseling is not placed in 
+the CORE’s Official Personnel Folder (OPF). 
+
+2.   Reprimand. A written reprimand is the lowest level of formal discipline 
+addressed to the CORE and signed by the immediate supervisor (or 
+higher level supervisor in the chain of command). Depending on the 
+severity of the misconduct, it may be appropriate for a first offense of 
+misconduct, when written formal discipline is necessary or, when verbal 
+counseling has been ineffective in correcting misconduct. The reprimand 
+should include, as a minimum, the following information: 
+
+i.  Reference previous counseling or other action that was relied on to 
+
+support the action (if any); 
+
+ii.  Advise the CORE of any applicable appeal rights, such as the right to 
+file an appeal with the next higher level supervisor within five calendar 
+days after receipt of the reprimand; 
+
+iii.  Advise the CORE of the potential negative consequences of future 
+
+misconduct; 
+
+iv.  Advise the CORE of Employee Assistance Program (EAP) services 
+
+available to assist with any work-related or personal concerns that may 
+have an impact on performance and/or behavior at work; 
+
+v.  Inform the CORE of the Alternative Dispute Resolution (ADR) Program 
+and of his or her right to seek counseling with an EEO advisor if he or 
+she believes the reprimand is based on a prohibited factor; 
+
+vi.  State whether a copy of the reprimand will be placed in the CORE’s 
+
+OPF, which may be for a period not to exceed 3 years; 
+
+vii. Identify the servicing Employee Relations Specialist to contact for 
+
+questions concerning the reprimand; and  
+
+viii. Provide a signature line upon which the CORE will acknowledge 
+
+receipt of the notice of reprimand. 
+
+3.  Suspension. A suspension temporarily removes the CORE from the 
+
+performance of duties without pay for a specified period, and is recorded 
+in the CORE’s official personnel record. A notice of suspension is a 
+memorandum on FEMA letterhead, addressed to the CORE, and signed 
+
+60 
+
+ 
+by the immediate supervisor (or higher level supervisor in the chain of 
+command. 
+
+i. 
+
+ The supervisor of record forwards a copy of the notice (signed and 
+dated by the supervisor) and the SF-52 to the Employee Relations 
+Specialist. The Specialist codes the SF-52 and forwards it to the 
+OCCHCO for processing. 
+
+ii.   The notice of a suspension should include, as a minimum, the 
+
+following information: 
+
+a.  Identify the specific charge(s), supporting information, regulations 
+
+or policies violated; 
+
+b.  Identify the effective date of the action; 
+
+c.  Advise the CORE of any applicable appeal rights, such as the right 
+to appeal the suspension to the next-higher level supervisor within 
+five calendar days of receipt of the notice, and of the CORE’s right 
+to file a grievance under any applicable collective bargaining 
+agreement; 
+
+d.  Inform the CORE of his or her right to seek counseling with an EEO 
+
+advisor if he or she believes the suspension is based on a 
+prohibited factor; 
+
+e.  Advise the CORE how to contact the EAP to assist with any work-
+related or personal concerns that may have an impact on the 
+CORE’s conduct at work; 
+
+f.  Provide the name and telephone number of the servicing Employee 
+Relations Specialist whom the CORE may contact for questions; 
+and 
+
+g.  Provide a signature line upon which the CORE will acknowledge 
+
+receipt of the notice of suspension. 
+
+4.  Removal from Federal Service. A removal from federal service is 
+
+recorded in the CORE’s personnel record, and is the most severe form of 
+discipline available to a manager. Removal may be appropriate when the 
+facts and supporting information cause the supervisor to conclude that the 
+CORE has demonstrated an unwillingness or refusal to conform to 
+acceptable standards of conduct, a lesser penalty would not deter future 
+misconduct, or there is little probability of the CORE’s rehabilitation.  
+
+i.  A notice of removal is a memorandum on FEMA Letterhead addressed 
+to the CORE from the immediate supervisor (or higher level supervisor 
+in the chain of command). The notice should include the same items 
+identified in section 11-2.B.3.ii. (Content of a suspension notice). 
+
+ii.  The CORE’s immediate supervisor, or any higher-level supervisor in 
+
+the CORE’s chain of command, should give the notice to the CORE at 
+or before the effective date of the notice and request that the CORE 
+
+61 
+
+ 
+acknowledge receipt at the bottom of the last page of the notice. If the 
+CORE refuses to sign the notice acknowledging receipt, the supervisor 
+should place a note on the last page to indicate that the notice was 
+given to the CORE and the CORE refused to acknowledge receipt. 
+Failure to acknowledge receipt has no impact on implementation of the 
+decision. 
+
+5.  Removal Based on a Determination of Lack of Fitness for a FEMA 
+Position. All COREs must meet fitness standards established in DHS 
+Instruction 121-01-007. 
+
+i.  OCSO has the authority to determine a CORE’s fitness, based on a 
+background investigation at the time of entry on duty and every five 
+years thereafter (or more frequently as circumstances warrant). 
+
+ii.  When OCSO has determined that a CORE does not meet the fitness 
+standard, in accordance with the procedures in DHS Instruction 121-
+01-007, OCSO shall notify OCCHCO/Employee Relations, which shall 
+coordinate with the CORE’s supervisor and OCSO to deny the CORE 
+unescorted access to DHS/FEMA facilities. In addition, DHS Sensitive 
+Systems Policy Directive 4300A requires that DHS employees have a 
+favorably adjudicated background investigation to be granted access to 
+DHS Information Technology systems. Therefore, COREs who do not 
+meet the fitness standard are normally required to turn in their FEMA 
+equipment (e.g., laptop, Blackberry, etc.) and are placed on non-duty, 
+non-pay status. The CORE may request to use any available accrued 
+leave during this period. 
+
+iii.  With the concurrence of OCCHCO/Employee Relations and the Office 
+of Chief Counsel, the supervisor of record issues a removal decision to 
+a CORE under his or her supervision deemed unfit to encumber a 
+FEMA position. The notice should include the same items identified in 
+section 11-2.B.3.ii. (content of a suspension notice).  
+
+iv.  The removal decision shall include the right to appeal within five 
+
+calendar days after the removal is effective. Appeals from removal 
+decisions are decided by the Associate or Deputy Associate 
+Administrator, Mission Support. 
+
+6.  Recovery of Government Equipment. Supervisors shall collect all 
+government equipment prior to the effective date of the removal. 
+
+11-3.  Addressing Poor Performance 
+
+CORE supervisors and managers should consult FM 255-1-1, Employee 
+Performance Management Program, for more information on dealing with poor 
+performance. Most performance problems can be resolved through effective 
+communication between the supervisor and CORE. The supervisor should, at a 
+minimum, take the following steps: 
+
+62 
+
+ 
+ 
+A.  Discuss performance deficiencies with any CORE whose performance is 
+
+substandard. This discussion provides the supervisor the opportunity to clarify 
+job expectations, and to identify performance deficiencies. It provides the 
+CORE with clear direction as to what he or she needs to do to improve his or 
+her performance to an acceptable level. The supervisor should document the 
+discussion and provide the CORE with a copy of the documentation to 
+prevent misunderstandings, or mischaracterization of the discussion.  
+
+B.  Monitor the CORE’s performance following the discussion, and document the 
+
+CORE’s progress toward improving his or her performance. 
+
+C.  The supervisor must discuss the CORE’s performance deficiencies with the 
+Employee Relations Specialist for guidance on (1) whether to remove a 
+CORE for substandard performance immediately or (2) to provide the CORE 
+time to demonstrate improvement, and if so, the length of time to do so. A 
+“performance expectations” memorandum is a helpful tool that the supervisor 
+can issue to the CORE. The Employee Relations Specialist will assist the 
+supervisor with drafting any correspondence regarding performance 
+problems. The supervisor will provide the Specialist with a signed and dated 
+copy of the final document. The supervisor must document the deficiencies 
+with memoranda, emails, work products and any other documentation that 
+demonstrates the deficiencies. COREs are not placed on formal Performance 
+Improvement Plans (PIPs). 
+
+D.  Removal from Federal Service. 
+
+1.  A removal from federal service is recorded in the CORE’s personnel 
+
+record, and is the most severe form of discipline available to a manager. A 
+notice of removal is a memorandum on FEMA Letterhead addressed to 
+the CORE from the immediate supervisor (or higher level supervisor in the 
+chain of command). 
+
+2.  The notice should include the same items identified in section 11-2.B.3.ii 
+
+(content of a suspension notice). 
+
+3.  The CORE’s immediate supervisor, or any higher-level supervisor in the 
+
+CORE’s chain of command, must give the notice to the CORE at or before 
+the effective date of the notice and request that the CORE acknowledge 
+receipt at the bottom of the last page of the notice. If the CORE refuses to 
+sign the notice acknowledging receipt, the supervisor should place a note 
+on the last page to indicate that the notice was given to the CORE and the 
+CORE refused to acknowledge receipt. Failure to acknowledge receipt 
+has no impact on implementation of the decision. 
+
+E.  In rare circumstances, the supervisor may initiate a reassignment to another 
+position in a lower pay band or IC pay grade, whichever is applicable, in lieu 
+of removal, to address poor performance after receiving concurrence from the 
+Employee Relations Specialist and the Office of Chief Counsel. In such 
+circumstances, the CORE’s rate of pay will be reduced in accordance with 
+Chapters 5 and 6. 
+
+63 
+
+ 
+11-4.  Deployment Scenarios 
+
+COREs may be assigned to perform incident management and incident support 
+duties based on the operational needs of FEMA and subject to the policies 
+contained within FD 010-8, FEMA Incident Workforce Deployment. During 
+deployment, supervisors of record receive feedback on the performance of 
+COREs during deployments from the CORE’s temporary duty supervisors. 
+Temporary duty supervisors provide day-to-day supervision of the performance 
+of deployed COREs. 
+
+A.  Temporary duty supervisors must consult with the supervisor of record and  
+
+OCCHCO/Employee Relations Branch when they encounter poor 
+performance, and provide all documents to the supervisor of record. 
+
+B.   Temporary duty supervisors who become aware of allegations of misconduct 
+shall notify the supervisor of record of the allegation. The supervisor of record 
+shall consult with OCCHCO/Employee Relations before initiating disciplinary 
+action. The supervisor of record will notify the temporary duty supervisor of 
+any impending disciplinary action. In all cases in which misconduct is alleged, 
+the Employee Relations Branch shall provide advice to the Federal 
+Coordinating Officer (FCO) and the supervisor of record as to the propriety of 
+the following options: 
+
+1.  Releasing the CORE from the deployment into a non-duty, non-pay status; 
+
+2.  Releasing the CORE and returning him or her to the official duty station, or  
+
+3.  Keeping the CORE deployed pending completion of any needed 
+
+investigation or issuance of disciplinary action. 
+
+C.  If the supervisor of record and FCO disagree whether to demobilize the 
+
+CORE, the issue will be resolved by the Associate Administrator of Response 
+and Recovery. 
+
+11-5.  Arrest, Indictment, and other Allegations of Misconduct 
+
+A.  FEMA may receive information that a CORE has been arrested, indicted for a 
+
+crime, used an illegal drug, or has allegedly committed other serious 
+misconduct. Supervisors may learn of this information in a variety of ways, 
+including the CORE’s self-report or via other employees, the Office of the 
+Chief Security Office (OCSO), or press reports. Upon receipt of such 
+information, the supervisor of record, FCO, or temporary duty supervisor shall 
+contact Employee Relations for guidance. 
+
+B.  If the CORE is incarcerated or otherwise unable to come to work, the 
+
+supervisor must first address the leave status. COREs may use available 
+leave, if requested and approved by the supervisor. If the request is denied, 
+the CORE shall be placed in a non-duty, non-pay status. The supervisor is 
+not obligated to approve a leave request submitted by the CORE. 
+
+64 
+
+ 
+ 
+ 
+C.  If the CORE is available for duty following arrest, or, if not arrested, but is 
+under investigation for alleged misconduct, the following factors must be 
+considered in determining whether the CORE shall be permitted to return to 
+duty pending resolution of the criminal action or other serious misconduct: 
+
+1.  If the CORE has a security clearance, OCSO, Personnel Security Division 
+
+(PSD), may suspend a CORE’s security clearance upon receipt of 
+adverse information, such as an arrest or indictment. If PSD suspends the 
+CORE’s clearance, or revokes it, PSD shall notify ER. Normally, COREs 
+would be placed in non-duty, non-pay status until a recommendation on 
+removal can be made by ER to the supervisor of record. 
+
+2.  For COREs without security clearances, OCSO must determine if the 
+
+CORE is fit for continued employment. Thus, until OCSO has rendered a 
+determination on the CORE’s fitness, the supervisor of record must 
+determine whether the CORE should be allowed to continue to work 
+(including telework), be placed in a non-duty, non-pay status or be 
+terminated pending the outcome of the criminal case, considering the 
+following factors after consultation with ER, OCC’s Personnel Law Branch, 
+and OCSO: 
+
+i.  What is the nature of the offense or other serious misconduct? The 
+more serious the offense, the more likely that the CORE should not 
+return to duty. 
+
+ii.  What evidence is there as to the commission of the offense? The lack 
+of corroboration or confession especially with a minor offense, may 
+weigh in favor of the CORE’s retention on duty. 
+
+iii.  Does the known evidence suggest that the CORE is a physical or 
+
+logical security risk? 
+
+iv.  Impact on the Mission: Are there other factors that indicate that the 
+
+mission will be adversely affected if the CORE is returned to duty, such 
+as notoriety? Is the offense known, causing perceived damage to a 
+Directorate’s, Office’s, or JFO’s ability to conduct business or its 
+credibility due to the CORE’s continued presence? 
+
+3.  Authority to return the CORE to duty pending resolution of criminal 
+
+matters: After consultation with ER, and subject to approval, if required, by 
+the Office of Inspector General: 
+
+i.  For COREs who are deployed, the FCO shall make the final decision 
+as to whether the CORE shall remain at the JFO, after consultation 
+with the supervisor of record (see section 11-4 for resolution of 
+disputes on this matter between FCO and the supervisor of record). 
+
+ii.  For COREs at their official duty station, the supervisor of record shall 
+make the final decision as to whether the CORE shall return to duty. 
+
+65 
+
+ 
+ 
+11-6.  The Appeal Process 
+
+A CORE who wishes to appeal a reprimand, suspension, or removal decision 
+may do so in writing to his or her second level supervisor no later than 5:00 p.m. 
+(the local time of the second level supervisor) on the fifth calendar day following 
+the effective date of the disciplinary action. COREs included within collective 
+bargaining units must follow the procedures for that unit. Oral appeals are not 
+permitted. This appeal process is not applicable to non-disciplinary actions, such 
+as right-sizing, demobilization, or the expiration of appointments. 
+
+A.  The CORE may provide a narrative and any documentation that he or she 
+
+considers relevant for the second level supervisor to consider prior to issuing 
+his or her final decision. 
+
+B.  The second level supervisor may gather additional documents that he or she 
+deems necessary to make a final decision. The second level supervisor 
+should complete any additional investigation within five working days of the 
+receipt of a timely appeal and issue a decision within five working days after 
+finishing an investigation. 
+
+C.  The Employee Relations Specialist will review the written decision drafted by 
+the second level supervisor prior to its issuance to the CORE. Additionally, 
+the Employee Relations Specialist will gather and preserve any and all 
+additional documents acquired by the second level supervisor to issue the 
+final decision and the final decision itself. 
+
+11-7.  Allegations of Discrimination 
+
+If a CORE alleges discrimination to his or her supervisor, the CORE must be 
+referred to the Office of Equal Rights for appropriate guidance on the EEO 
+complaint process. The supervisor may contact the Office of Chief Counsel’s 
+Personnel Law Branch with any questions concerning the EEO process. 
+
+11-8.  Allegations of Fraud, Waste, Abuse, and Mismanagement 
+
+Supervisors must not ignore allegations of fraud, waste, abuse, or 
+mismanagement, and must take steps to inquire into the allegations or refer them 
+to appropriate management officials for investigation. Allegations of misconduct 
+against COREs at the IC-15 or equivalent level or higher must be referred to the 
+Office of Inspector General (ref: DHS Management Directive 0810.1) for 
+investigation. 
+
+66 
+
+ 
+ 
+ 
+ 
+CHAPTER 12:  RIGHTSIZING 
+
+12-1.  General 
+
+A.  COREs receive temporary appointments that do not confer eligibility or 
+
+priority consideration for permanent appointment. They may be removed from 
+Federal service at any time for poor performance, misconduct, reduction in 
+work, or for other agency mission needs, so long as adequate documentation 
+exists to justify the removal, and are not subject to protection afforded by 
+reduction-in-force provisions or reemployment rights established under any 
+statutory or regulatory provision.  
+
+B.  When FEMA requires reductions in staff levels in one or more functional 
+
+areas due to a lack of work or funding, FEMA may conduct a rightsizing of its 
+CORE workforce. A rightsizing may occur when an Office or Directorate 
+anticipates needing fewer positions through the annual workload analysis and 
+staffing plan process, or if an immediate need to reduce positions or workload 
+is realized between annual workload analyses. 
+
+C.  Rightsizing results in termination of appointment prior to the expiration date of 
+an appointment, unless the CORE is selected for or is reassigned to another 
+vacant position in FEMA. 
+
+D.  Rightsizing procedures should not be used to remove CORE employees due 
+
+to poor performance or misconduct.  
+
+E.  A Rightsizing does not occur when FEMA declines to renew a CORE’s 
+
+appointment at the end of a CORE’s appointment term. 
+
+F.  Program Areas shall be clearly defined, with appropriate justification, in the 
+
+Plan. The Plan shall be in writing and approved by OCCHCO prior to 
+implementation.  
+
+12-2.  Rightsizing Plan 
+
+A.  The second level supervisor, in coordination with OCCHCO, develops a 
+
+Rightsizing Plan to affect the rightsizing procedures described in this Chapter 
+that will impact the COREs under his or her supervisory authority. The Plan 
+shall be in writing and approved by OCCHCO prior to implementation. 
+
+B.  Based on the Office or Directorate’s most recent workload analysis and 
+
+staffing plan, the second level supervisor will identify the activities that will 
+cease to be performed or require an adjustment in the amount of time for 
+performance. 
+
+C.  Using this adjusted workload analysis, the supervisor or manager will develop 
+a revised Staffing Plan for the positions under his or her authority that will 
+propose the number of CORE positions by title, series, grade, and duty 
+station that will continue to be needed. The remaining positions will be 
+identified for rightsizing. 
+
+67 
+
+ 
+ 
+D.  The Rightsizing Plan will consist of the updated staffing plan, any Functional 
+
+Area SMEs identified for retention (see section 12-4.B.), the proposed 
+timeline for providing the general and specific notices of rightsizing to the 
+affected COREs, and the proposed effective date of the rightsizing. 
+
+12-3.  Notice 
+
+The second level supervisor will issue both general and specific notice of 
+upcoming rightsizing efforts. 
+
+A.  General Advance Notice. COREs will be given a 30 calendar day advance 
+official notification concerning decisions which may result in their being 
+affected by a rightsizing effort. This notification will be in writing and will 
+include: the reasons for the rightsizing effort, such as lack of work or funds, 
+reorganization, or a realignment of functions; and, whom to contact about 
+assistance available for affected employees. 
+
+B.   Specific Notice. Specific written notice of separation will be issued to 
+
+individual affected COREs prior to the proposed date of their release.  
+FEMA’s goal is to provide notice no less than 30 calendar days from their 
+date of release unless extenuating circumstances dictate a shorter notice 
+period.  
+
+12-4.  Retention Criteria 
+
+Upon determining that rightsizing procedures are required, the second level 
+supervisor, in consultation with OCCHCO, shall utilize the following criteria to 
+determine the order in which COREs will be released. An incumbent will only be 
+compared to other incumbents under the supervision of that second level 
+supervisor. 
+
+A.  Position. Identify (1) the affected area; (2) the existing positions staffing that 
+area; and (3) pay levels within each position. Each position is reviewed and 
+listed by pay and location, and positions are identified for retention based on 
+lack of work or funds, reorganization, or a realignment of functions. The 
+determination as to the number of needed positions to staff the reduced 
+workforce must be documented in the Rightsizing Plan. 
+
+Example. In this example, the program area is identified as “Applicant 
+Services” and the existing positions are “Applicant Services Specialists.” 
+There are currently 10 IC-12s, 15 IC-11s, and 15 IC-9s Applicant Services 
+Specialist positions. The remaining work only requires 3 IC-12s, 10 IC-11s, 
+and no IC-9s Applicant Services Specialists.11 Therefore, 7 IC-12s, 5 IC-11s, 
+and all IC-9s will be released. Consequently, the second level supervisor 
+must examine the incumbent IC-12s and IC-11s to determine who will fill the 
+
+11 For this example, substitute the pay band numbers for grade level if the COREs with positions 
+targeted for rightsizing are paid via an administratively-determined pay scale utilizing pay bands. 
+
+68 
+
+ 
+ 
+ 
+                                                           
+remaining positions utilizing the following retention criteria. OCCHCO must 
+approve this Plan prior to implementation. 
+
+3 – Applicant 
+Services 
+Specialists, IC-
+12 
+10 – Applicant 
+Services 
+Specialist, IC-11 
+
+Current Staffing  Needed  
+10 – Applicant 
+Services 
+Specialists, IC-
+12 
+15 – Applicant 
+Services 
+Specialists, IC-
+11 
+15 – Applicant 
+Service 
+Specialists, IC-9 
+
+0 – Applicant 
+Services 
+Specialists, IC-9 
+
+Release 
+7 – Applicant 
+Services 
+Specialists, IC-
+12 
+5 – Applicant 
+Services 
+Specialists, IC-
+11 
+15 –Applicant 
+Services 
+Specialists IC-9 
+
+Remaining 
+3 – Applicant 
+Services 
+Specialists, IC-
+12 
+10 – Applicant 
+Services 
+Specialists, IC-
+11 
+0 – Applicant 
+Services 
+Specialists, IC-9 
+
+B.  Functional Area SME. To ensure accomplishment of mission objectives, the 
+supervisor of a functional area subject to rightsizing procedures may identify 
+one SME from the supervisor’s functional area that should be excluded from 
+rightsizing procedures because of the SME’s subject matter expertise. Any 
+request for a SME’s exclusion from rightsizing must be accompanied by a 
+justification that establishes that a need exists for this SME position, and that 
+the requested employee is most qualified for the SME position. This request 
+must be approved by the supervisor’s chain of command with the final 
+concurrence of the Head of the Office or Directorate, who will then inform 
+OCCHCO of the SME designation and transmit to OCCHCO all documents 
+justifying his or her selection. OCCHCO must review and approve the SME 
+designation as part of the review of the Rightsizing Plan. A SME who is 
+thereafter reassigned to a different functional area will lose his or her SME 
+designation, thereby losing his or her exemption from rightsizing procedures. 
+
+C.  Performance Evaluation. The second level supervisor will provide to 
+
+OCCHCO the summary rating level of all COREs in positions that must be 
+rightsized, based on their most recent annual performance appraisals. 
+Incumbents will be released in inverse order of performance rating (lowest to 
+highest). Normally, incumbents with summary rating levels of Achieved 
+Excellence (or equivalent) will be excluded from release unless the total 
+number of positions that must be released exceeds the number of incumbents 
+who received a summary rating below Achieved Excellence (or equivalent).   
+
+D.  Service Computation Date (SCD). If reviewing the performance evaluations 
+of all COREs in positions that must be rightsized has not distinguished the 
+incumbents for release from those who will be excluded from release for the 
+current round of rightsizing, OCCHCO shall further review incumbents by 
+SCD and shall identify those with the most recent SCDs for release.  
+
+E.  Ties.  The official who would normally make the selection for the position from 
+
+which the CORE is being released will determine, on the basis of 
+
+69 
+
+ 
+ 
+ 
+qualifications and competencies for the specific position, which employee(s) 
+will be retained when two or more employees have identical service 
+computation dates. The rationale for retention versus removal must be 
+documented with the specific reasons for each decision. OCCHCO must 
+review and approve the stated rationale. 
+
+F.  Recovery Office Closure. 
+
+1.  Some COREs will remain in their positions until the closure of the 
+
+Recovery Office. 
+
+2.  Upon the closure of the Recovery Office, the remaining COREs must have 
+
+applied and been selected for a vacant FEMA position or they will be 
+released from their employment with FEMA, using the notice procedures 
+above. 
+
+12-5.  Transitional Options for Released COREs 
+
+CORE staff identified for release will not be automatically reassigned directly into 
+vacant positions elsewhere in FEMA and must apply and be appointed through 
+the hiring procedures identified in this Manual. COREs will be released from their 
+current appointments for lack of work if, by the date of their release, they have 
+not been selected for another vacant position within FEMA. The Director of the 
+Recovery Office or the Head of the Office or Directorate may assist COREs 
+identified for release with career transition, as appropriate, by arranging for 
+assistance with resume writing and interview preparation. 
+
+70 
+
+ 
+ 
+ 
+ 
+CHAPTER 13:  ABSENCE AND LEAVE 
+
+13-1.  Absence and Leave Policy 
+
+FEMA administratively applies FM 3300.3, FEMA Absence and Leave Policy to 
+COREs, with the exception of CORE-Is, whose absence and leave policies are 
+governed by FD 010-7, Incident Management Assistance Team (IMAT) Program 
+Directive.  
+
+71 
+
+ 
+ 
+ 
+ 
+CHAPTER 14:  TRAINING AND ETHICS 
+
+14-1.  Training Provisions 
+
+A.  The CORE and his or her supervisor of record share the responsibility for 
+
+ensuring the CORE’s professional development. 
+
+B.  OCCHCO, Employee Development Division, is responsible for drafting 
+
+guidance on various topics, including but not limited to, continuing service 
+agreements relating participation in employee development programs, 
+supervisory training, and individual and executive development plans. 
+
+C.  A CORE may be temporarily placed on a rotational assignment as part of a 
+professional development program. In such circumstances, the duties and 
+responsibilities performed by the CORE must be authorized under the 
+Stafford Act. A CORE may be placed on a rotational assignment for up to 120 
+days that may be renewed for one additional 120 day period. As the CORE 
+IMAT program maintains its own professional development program, CORE 
+IMATs are not eligible for rotational assignments. 
+
+D.  Eligibility for training programs for a CORE paid via the grades and steps 
+
+system is determined by the applicable grade and years of service 
+requirement. Eligibility for training programs for a CORE paid via the pay 
+band system is determined by comparing the current salary level of the 
+CORE to the salary range of the GS levels eligible for the training program 
+and the years of service requirement. The CORE will be eligible for a training 
+program if the CORE’s salary is within the salary range of the GS employees 
+eligible for the training and satisfying the years of service requirement. 
+
+E.  IM COREs are eligible to participate in applicable leadership development 
+programs so long as the training program does not have an impact on 
+mission requirements. If an IM CORE is directed to deploy during a training 
+program the CORE must deploy and may not finish the training program. 
+
+F.  COREs participating in a leadership development program will be required to 
+sign and comply with the terms of a three year Continuing Service Agreement 
+(CSA). See Chapter 15, Continuing Service Agreements, for more 
+information. 
+
+14-2.  Ethics Requirements  
+
+A.  All COREs are subject to the federal ethics laws and regulations, including 
+
+the criminal conflict of interest statutes, the Standards of Ethical Conduct for 
+Employees of the Executive Branch, and any supplemental ethics regulations 
+promulgated by DHS. 
+
+1.  Federal ethics laws and regulations apply to COREs at all times and may 
+
+affect a CORE’s ability to seek and enter into outside employment. 
+
+2.  A CORE’s outside employment may also create a real or apparent conflict 
+
+of interest with his or her FEMA duties. 
+
+72 
+
+ 
+ 
+3.  COREs must be informed of these rules and regulations prior to hiring. 
+
+B.  All COREs shall receive training in fraud detection and prevention, equal 
+
+rights, privacy, and security. 
+
+C.  All COREs must complete Initial Ethics Orientation provided by OCC Ethics 
+
+within 90 days of their date of entry, in accordance with 5 C.F.R. § 2638.703. 
+
+D.  Confidential financial disclosure filers must complete one hour of annual 
+
+ethics training per calendar year, as required by 5 C.F.R. § 2638.705.  All 
+other COREs must complete annual ethics training per FEMA policy. 
+
+E.  All annual ethics training is provided by OCC Ethics. 
+
+73 
+
+ 
+ 
+ 
+CHAPTER 15:  CONTINUING SERVICE AGREEMENTS 
+
+15-1.  Service Agreement 
+
+A.  An applicant or CORE who receives a recruitment, relocation, or retention 
+
+incentive is required to sign a two-year CSA prior to receiving the incentive. 
+The Selecting Official or supervisor of record will preserve a signed copy of 
+the service agreement and transmit a copy to OCCHCO. 
+
+B.  A CORE participating in a leadership development program will be required to 
+
+sign a three-year CSA. 
+
+C.  A CORE must fulfill the terms of the CSA, including when the appointment is 
+
+renewed for another appointment period. 
+
+15-2.  Terminations of a CSA 
+
+A.  If a CORE voluntarily separates from FEMA prior to completing the service 
+obligation period, to begin employment with DHS Headquarters or another 
+DHS Component, the CORE must give his or her supervisor of record at least 
+30 days advance notice in writing, during which time the supervisor shall 
+notify OCCHCO to transfer the remaining service obligation to the gaining 
+agency. If the CORE separates from the Federal service or begins 
+employment with another Federal agency, the CORE will be indebted to 
+FEMA for the remaining service period. 
+
+B.  A CORE who is demoted, removed from Federal service for misconduct or 
+poor performance, or receives a rating of record lower than Achieved 
+Expectations or equivalent, before fulfilling the terms of a CSA will be 
+indebted to the Federal Government for the remaining service period.  
+
+C.  Repayment is not required when a CORE is involuntarily separated for 
+reasons other than misconduct or poor performance, or when the 
+circumstances are otherwise beyond the CORE’s control. 
+
+D.  A CSA may be unilaterally terminated by the head of an Office or Directorate 
+based solely on management needs. Examples of discretionary removals 
+include, but are not limited to, rightsizings or insufficient funds to continue 
+planned payments. When a removal is based on management needs, the 
+employee is entitled to all payments attributable to completed service and to 
+retain any portion of a payment received that is attributable to uncompleted 
+service. 
+
+15-3.  Debt Recovery 
+
+A.  When reimbursement is required, the repayment amount will be reduced on a 
+
+pro rata basis for the percentage of completion of the obligated service 
+period. 
+
+B.  If a CORE’s appointment is not renewed, and the CORE is not appointed to a 
+
+different position within FEMA, recovery is waived. 
+
+74 
+
+ 
+ 
+ 
+C.  An indebted CORE may request a waiver of any debt relating to a CSA to his 
+or her Office or Directorate head. The Officer or Directorate head must send 
+the request along with his or her recommendation through OCCHCO to the 
+Administrator, who will render a written decision. Waivers in whole or in part 
+will be rare and will be based on a determination that the recovery would be 
+against equity and good conscience, or against the public interest. 
+
+75 
+
+ 
+

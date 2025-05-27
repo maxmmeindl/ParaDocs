@@ -1,0 +1,155 @@
+{
+  "agency": "EEOC",
+  "description": "Equal Employment Opportunity Commission compliance rules",
+  "regulations": {
+    "29_CFR_1630": {
+      "title": "Americans with Disabilities Act",
+      "sections": {
+        "1630.2(o)": {
+          "title": "Reasonable accommodation",
+          "required_elements": [
+            "Interactive process documentation",
+            "Essential functions analysis",
+            "Accommodation request documentation",
+            "Medical documentation (when appropriate)",
+            "Undue hardship analysis (if applicable)"
+          ]
+        },
+        "1630.9": {
+          "title": "Not making reasonable accommodation",
+          "violation_indicators": [
+            "Failure to engage in interactive process",
+            "No documentation of accommodation efforts",
+            "Rejection without undue hardship analysis"
+          ]
+        }
+      }
+    },
+    "29_CFR_1614": {
+      "title": "Federal Sector Equal Employment Opportunity",
+      "sections": {
+        "1614.105": {
+          "title": "Pre-complaint processing",
+          "deadlines": {
+            "initial_contact": 45,
+            "formal_complaint": 15,
+            "unit": "days"
+          }
+        },
+        "1614.106": {
+          "title": "Individual complaints",
+          "required_elements": [
+            "Signed complaint",
+            "Basis for discrimination",
+            "Specific harm or action",
+            "Date of alleged discrimination"
+          ]
+        },
+        "1614.108": {
+          "title": "Investigation",
+          "deadlines": {
+            "completion": 180,
+            "extension_allowed": 90,
+            "unit": "days"
+          }
+        }
+      }
+    }
+  },
+  "protected_classes": [
+    "Race",
+    "Color", 
+    "Religion",
+    "Sex",
+    "National Origin",
+    "Age (40+)",
+    "Disability",
+    "Genetic Information",
+    "Retaliation",
+    "Pregnancy",
+    "Sexual Orientation",
+    "Gender Identity"
+  ],
+  "document_types": {
+    "charge": {
+      "required_fields": [
+        "Charging party name",
+        "Respondent name",
+        "Date of discrimination",
+        "Basis of discrimination",
+        "Description of discrimination",
+        "Desired remedy"
+      ]
+    },
+    "position_statement": {
+      "deadline_days": 30,
+      "required_elements": [
+        "Response to each allegation",
+        "Supporting documentation",
+        "Witness list",
+        "Relevant policies"
+      ]
+    },
+    "determination": {
+      "types": [
+        "Reasonable Cause",
+        "No Reasonable Cause",
+        "Conciliation Failure"
+      ],
+      "required_elements": [
+        "Summary of evidence",
+        "Credibility assessments",
+        "Legal analysis",
+        "Determination rationale"
+      ]
+    }
+  },
+  "filing_deadlines": {
+    "private_sector": {
+      "days": 300,
+      "with_state_deferral": 300,
+      "without_state_deferral": 180
+    },
+    "federal_sector": {
+      "eeo_counselor_contact": 45,
+      "formal_complaint": 15,
+      "appeal_after_final_action": 30,
+      "appeal_after_dismissal": 30
+    }
+  },
+  "remedies": {
+    "types": [
+      "Back Pay",
+      "Front Pay",
+      "Compensatory Damages",
+      "Punitive Damages",
+      "Reinstatement",
+      "Promotion",
+      "Reasonable Accommodation",
+      "Policy Changes",
+      "Training",
+      "Posting of Notices",
+      "Expungement of Records"
+    ],
+    "damage_caps": {
+      "employees_15_100": 50000,
+      "employees_101_200": 100000,
+      "employees_201_500": 200000,
+      "employees_501_plus": 300000
+    }
+  },
+  "validation_rules": {
+    "timeliness": {
+      "check": "filing_date - discrimination_date <= filing_deadline",
+      "error": "Charge may be untimely"
+    },
+    "exhaustion": {
+      "check": "eeoc_charge_filed before lawsuit_filed",
+      "error": "Failed to exhaust administrative remedies"
+    },
+    "protected_class": {
+      "check": "basis in protected_classes",
+      "error": "No protected class identified"
+    }
+  }
+} 

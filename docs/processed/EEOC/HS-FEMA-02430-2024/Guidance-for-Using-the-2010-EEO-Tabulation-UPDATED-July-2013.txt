@@ -1,0 +1,411 @@
+TECHNICAL ASSISTANCE FOR FEDERAL AGENCIES  
+IN USING THE 2006-2010 AMERICAN COMMUNITY SURVEY  
+EQUAL EMPLOYMENT OPPORTUNITY TABULATION  
+
+Introduction 
+
+This document is intended to assist federal agency officials who prepare and submit 
+reports pursuant to EEO Management Directive 715 (MD-715).  As will be described in 
+more detail below, beginning with their Fiscal Year (FY) 2013 MD-715 reports, 
+agencies will use the 2006-2010 American Community Survey Equal Employment 
+Opportunity Tabulation (EEO Tabulation), which the U.S. Census Bureau (Census) 
+released on November 29, 2012. 
+
+This document will serve two purposes.  First, it will alert EEO Tabulation users to the 
+major changes concerning each agency’s data and how it should be formatted for MD-
+715 reporting.  It also will highlight the differences between the EEO Tabulation and 
+the 2000 Census decennial Data Tool, each of which was designed to provide external 
+benchmarks to assist federal agencies in monitoring employment practices and 
+enforcing workforce civil rights laws.  Second, after identifying and describing those 
+tables designed for federal agency use, the document lists those elements of the EEO 
+Tabulation that should not be used for MD-715 purposes, and explains the reasons.   
+
+Background 
+
+Over the past decade, the Office of Personnel Management (OPM): (1) created new 
+occupational families and the specific occupations within those families; and (2) 
+revised certain occupations within existing families.  OPM has also deleted entire 
+occupational families (and all the occupations within them), along with certain 
+occupations in remaining families. 
+
+During this same time period, Census revised the way it collects the socio-economic 
+data underlying the decennial reporting cycle behind EEO files covering 1970, 1980, 
+1990 and 2000.  It eliminated the decennial “long form” and replaced it with an 
+ongoing American Community Survey (ACS), which asks the same questions of fewer 
+people each year rather than asking more people less frequently.  Also, at the request 
+of EEOC and other federal agencies responsible for EEO monitoring of the nation’s 
+civilian labor force (“CLF”), Census created the above-referenced EEO Tabulation 
+based upon ACS data.  It can be accessed utilizing Census’s American FactFinder (AFF) 
+on-line tool at http://www.census.gov/people/eeotabulation. 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Using the EEO Tabulation 
+
+As noted above, beginning in FY 2013, covered agencies will prepare their MD-715 
+reports using the EEO Tabulation.  In addition to preparing the workforce data tables, 
+agencies, after consulting with EEOC’s Office of Federal Operations (OFO), Federal 
+Sector Programs (FSP), may conduct additional, more refined workforce analyses 
+using the EEO Tabulation to sort employees into both EEOC’s nine federal EEO 
+occupational groups (“FedSec9") and the agency’s major occupations.  
+http://www.census.gov/people/eeotabulation.  
+
+Understanding the Tables 
+
+The EEO Tabulation contains fourteen Table Sets, which are tables related by content 
+that filter data into specific categories.  Federal agency users should concentrate on 
+Table Sets 2 and 5 only, which are explained in more detail below. To access the AFF, 
+see 
+http://www.census.gov/people/eeotabulation/data/eeotables20062010.html. 
+
+The information contained in Table Sets 2 and 5 are similar, except in one respect.  
+Table Set 2 applies to major occupations that exemplify an agency’s mission and role 
+within the federal government; the particular occupations can vary accordingly. Table 
+Set 5 pre-sorts all federal jobs into one of nine (FedSec9) aggregations of occupations 
+having similar skill levels, training, mobility, and other labor market characteristics. 
+
+All individual federal occupations are provided on a separate table, which contains 
+the Census equivalent to each federal occupation.  That table, EEOC Federal Sector 
+Occupational Cross-Classification Table (“Crosswalk”), can be accessed at 
+http://www.eeoc.gov/federal/directives/00-09opmcode.cfm.  For each occupation 
+listed, the Crosswalk shows (1) the OPM occupation code and title, (2) the FedSec9 
+occupational category to which that job is assigned, (3) the external Census title and 
+code, and (4) the Office of Management and Budget (“OMB”) Standard Occupational 
+Code (“SOC”). 
+
+For federal agency users, the similarities between Table Sets 2 and 5 are illustrated in 
+more detail below. Each is divided into three subsets, sorted on the basis of United 
+States citizenship (which is important because most federal jobs are limited to 
+citizens). 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The tables are designated either:  
+
+Table Set 2 - EEO-ALL02R, EEO-CIT02R, EEO-NCIT02R, EEO-ALL02W, EEO-CIT02W, and 
+EEO-NCIT02W;  
+
+or  
+
+Table Set 5 - EEO-ALL05R, EEO-CIT05R, EEO-NCIT05R, EEO-ALL05W, EEO-CIT05W, and 
+EEO-NCIT05W. 
+
+After the prefix “EEO”, which applies to the entire set of tabulations, each set is 
+sorted by three additional categories: 
+
+1. 
+
+2. 
+
+3. 
+
+The letter designation “ALL” covers all members of the CLF 
+enumerated in that table set.  The letter designations “CIT” and 
+“NCIT” sort the observations on the basis of citizenship status, 
+between citizens and non-citizens. 
+
+The numerical designations “02" or “05" tie the information to its 
+particular table set, individual or FedSec9. 
+
+The letter designations “R” and “W” sort the observations on the 
+basis of each worker’s residence location or worksite location.   
+
+The R and W designations relate to the labor market geography for each worker.  
+Depending on which table is used, the external benchmark of non-federal workers 
+employed in equivalent occupations can vary.  On that basis, EEOC regards the 
+selection of a labor market area for MD-715 reporting purposes to be a critical 
+element of each agency’s reporting protocol.  This is covered in more detail below. 
+
+The tables in both Table Sets 2 and 5 adhere to OMB’s uniform geographic boundary 
+specifications, known as the Federal Information Processing System (FIPS) codes.  
+Agencies can select levels of geographic specificity that reflect its employment 
+practices, its size, and the breadth of its workforce distribution, in terms of total 
+numbers, as well as the location of designated activities or organizational 
+subcomponents. 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Defining the Geography 
+
+In the past, some agencies have defaulted to nationwide data to avoid complex and 
+detailed comparisons, and to reflect the presence in all or many states of agency 
+staff.  The EEO Tabulation permits, when appropriate, labor markets below the 
+nationwide level, especially when recruitment and hiring is done on a more localized 
+basis and/or where applicant tracking data shows that persons applied only from a 
+specific geographic area. 
+
+For EEO comparisons and MD-715 reporting purposes, agencies are instructed to use 
+the Worksite (W) tables when benchmarking within specific geographic locations.  
+Worksite tables reflect the distribution of jobs in a particular area on the basis of 
+where employer facilities are located and the work is actually performed, both in the 
+federal and private sectors.  Where recruitment and hiring is done at the national 
+level, agencies should use the Residence (R) tables.  Thus, the fact that some 
+agencies previously used Residence-based data because of problems obtaining 
+comparable Worksite information, no longer constitutes a valid basis to do so, 
+beginning with the FY 2013 reporting cycle, other than when dealing with U.S. totals 
+and nationwide labor markets.  
+
+Even at the FedSec9 level of occupational aggregation shown in Table Set 5, it is less 
+likely that an agency should use the nationwide option for all of its occupational 
+categories.  However, the nationwide (R tables) are appropriate when the agency: 
+employs large numbers of workers in most states; benchmarks against Officials and 
+Managers, and the Professional workers categories, (because these categories are 
+often recruited nationally); or the category constitutes a substantial segment of that 
+agency’s workforce.  Otherwise, availability can be calculated using an agency’s own 
+regional structure and then aggregated into a weighted average, or some other 
+intermediate configuration.  
+
+A third, more local option can reflect the more localized labor markets that generally 
+apply to blue-collar wage grade (“WG”) workers, as well as technical, administrative 
+support, and service workers in the general schedule (“GS”) ranks.  As with all aspects 
+of this Guidance, technical assistance is available from EEOC’s OFO/FSP staff, contact 
+information provided on the last page of this document. 
+
+A few additional factors should be kept in mind when working with the EEO 
+Tabulation.  After selecting the appropriate table from the options described above, 
+the next step is to specify the geographic level that will be used (before going to the 
+next step of identifying the particular major occupation(s) or the FedSec9 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+occupational aggregations).  For MD-715 purposes, the range of geographic levels is: 
+nationwide, agency region (FIPS), state, or county of 50,000 people or more.  Beyond 
+those options, the most refined level (using Census terminology) is Place, which refers 
+to cities, towns, or other places of 50,000 or more persons. 
+
+The importance of Place, when combined with the W, Worksite option, is three-fold. 
+First, because the distribution of residential patterns in terms of race or national 
+origin (“RNO”) sometimes differs from the distribution of available work in the same 
+labor market area, benchmark availability estimates often vary between the two.  
+The EEO Tabulation automatically takes into account both those who live and work in 
+a particular location, and those who commute to jobs in that specific location but live 
+elsewhere.  
+
+Second, the Worksite tables have a sub-option that lists the locations from which 
+people commute and provides the total commute flow.  For each Worksite, this option 
+identifies up to nine specific in-commutes, plus a residual composed of all individuals 
+not otherwise coming from one of those locations. While MD-715 does not require 
+commute-pattern information, such detail helps clarify anomalies that are revealed 
+by analysis at that level.  For example, an agency may find that a low participation 
+rate for a RNO group could result from a lack of hiring from one specific contributing 
+flow which contains a significant number of workers from that RNO group.  Agencies 
+are encouraged to use this approach with several of their most populous major 
+occupations in the event that low participation rates or other anomalies are present 
+and affect employment by RNO or sex. 
+
+Third, the accuracy of external availability estimates is increased when facilities are 
+located in large counties, where there may be a multiple number of places that 
+reflect worksite and commute flows within that larger geographic pattern.  Los 
+Angeles County, California, illustrates this point.  
+
+The absence of detailed occupational data for geographic areas of less than 50,000 
+persons on the EEO Tabulation is because of Census Bureau’s confidentiality 
+standards, which prohibit repeated cross-tabulations that could reveal the identity of 
+specific individuals in Table Set 2.  Because occupations in Table Set 5 are already 
+aggregated into only nine categories, the geographic limit increases to areas of fewer 
+than 100,000 when analyses are done at the FedSec9 level. 
+
+As specified above, agencies may only use Table Sets 2 and 5 for MD-715 analysis and 
+reporting purposes.  To understand more fully why other Table Sets should not be 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+used, agency EEO and Human Resources (“HR”) officials may be aided by the 
+following information: 
+
+Whereas Table Set 1 contains much of the data that is found in Table Set 
+2, it does not sort on the basis of citizenship status.  Table Set 1 is thus 
+suited for private sector employer comparisons, but not for the federal 
+sector. 
+
+Table Set 1 also contains some occupations that are populated only in 
+the private sector but not in federal employment.  Table Set 2 only 
+covers occupations listed with a Census title and code and a SOC code, 
+and that have federal counterparts.  Furthermore, because OPM 
+currently lists 681 individual GS and WG occupations, but the EEO 
+Tabulation contains only 487 occupations, some federal jobs must be 
+compared to the same external availability standard. 
+
+Table Sets 3, 4 and 6 cover non-federal employment at aggregated 
+occupational level.  Table Set 4 sorts the 487 Census occupations into 
+the nine private sector categories used by EEOC’s EEO-1 annual report 
+form, while Table Set 3 conforms to a fourteen category alternative 
+EEOC format. Similarly, Table Set 6 is used by the Department of Justice 
+to compare state and local government employment to external 
+availability for public jobs below the federal level, as covered by the 
+EEO-4 survey.  
+
+Table Sets 7 through 14 contain occupational information sorted on the 
+basis of age, income levels, industry, and educational attainment. 
+Although EEOC has jurisdiction over the Age Discrimination in 
+Employment Act, age is not a component of MD-715’s affirmative 
+employment requirements.  The other variables enumerated above 
+affect non-federal employment, especially in the private sector, but do 
+not result in similar differences based on RNO or sex in the analysis of 
+the federal workforce. 
+
+One additional limitation should be noted.  While both Table Sets 2 and 5 include 
+geographic options for Census-defined “Metro” or “Micro” Statistical Areas, they are 
+not part of the labor market alternative set recognized for MD-715 reporting because 
+of methodological limitations that can result in substantial inaccuracy.  Several issues 
+contribute to this problem.  These include the assumption that availability by RNO 
+status is uniformly distributed throughout the entire Area, as it would need to be for 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+the estimate to be valid, and the issue of Areas composed of several counties where 
+the worksite versus residence differences, along with the differential in- and out-
+commute patterns encountered across Metro Area boundaries, distort availability 
+estimates by RNO and sex. 
+
+Selecting the Occupation 
+
+After defining the geography, agencies must identify its major occupations for 
+benchmarking.  The Crosswalk referred to earlier in this Guidance was updated in 
+January, 2013, and provides the appropriate Census occupation code for each federal 
+occupation.  When utilizing the Census AFF tool, agencies will use the Census code 
+identified by the Crosswalk to conduct its workforce benchmarking.  
+
+EEOC will amend the Crosswalk whenever OPM adds, deletes or modifies an 
+occupational series.  It is possible that an agency’s current occupational distribution, 
+using OPM GS and WG codes and titles, may include instances where a specific series 
+is no longer active.  Technical assistance concerning occupational cross-classification 
+or the Crosswalk can be obtained from staff within EEOC’s Office of Federal 
+Operations. 
+
+Additional Information 
+
+Aggregation and Allocation 
+
+The EEO Tab tables follow a uniform format in displaying race and ethnicity data.  For 
+MD-715 purposes, agencies must modify the data.  When reporting data, agencies 
+must aggregate and report their workforce data as follows: 
+
+1.  The two columns under Hispanic or Latino must be combined.  These are 
+identified as “White alone Hispanic or Latino” and “All other Hispanic or 
+Latino.” 
+
+2.  The population within the category of “White and Black” must be combined 
+
+and included in the “Black or African-American alone” category. 
+
+3.  The population within the category of “White and AIAN” must be combined and 
+
+included in the “American Indian and Alaska Native alone” category. 
+
+4.  The population within the category of “White and Asian” must be combined 
+
+and included in the “Asian alone” category. 
+
+5.  The population within the category of “Black and AIAN” must be included in 
+
+the “Two or more races” category. 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.  The balance of the “Not Hispanic or Latino, two or more races” must be 
+
+included in the “Two or more races” category.  
+
+For more information, please see OMB BULLETIN NO. 00-02 - Guidance on Aggregation 
+and Allocation of Data on Race for Use in Civil Rights Monitoring and Enforcement. 
+
+Puerto Rico Community Survey 
+
+The Puerto Rico Community Survey (PRCS) is the equivalent of the ACS for Puerto 
+Rico, and began data collection in 2005.  Data results from both the ACS and the PRCS 
+are released together as a unified American Community Survey dataset.  However, 
+the PRCS data is not included in the U.S. totals for the ACS.  Agencies should not 
+modify the U.S. totals to include the PRCS data.  
+
+Where an agency is benchmarking labor market geography against a specific 
+occupation, and Puerto Rico is a significant source of applicants, the agency should 
+include Puerto Rico as a part of its labor market.  Using the AFF tool, Puerto Rico can 
+be added to a labor market through a sort of the “State” options. 
+
+Technical Assistance 
+
+Technical assistance with issues raised in this document can be obtained from staff 
+within EEOC’s Office of Federal Operations (ofo.eeoc@eeoc.gov, or 202-663-4599).  In 
+addition, a list of additional questions and answers (“Q&A”) can be found at 
+http://www.eeoc.gov/. 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

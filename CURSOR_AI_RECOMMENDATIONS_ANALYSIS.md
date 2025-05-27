@@ -76,7 +76,7 @@ Complex JSON schema with workforce snapshots, NAICS codes, and legal entity hier
     {
       "regulation": "29 CFR 1630.2(o)",
       "description": "Failed to respond within 45 days",
-      "severity": "extreme"
+      "severity": "serious"
     }
   ],
   "exhibits": ["A-1", "A-2"],

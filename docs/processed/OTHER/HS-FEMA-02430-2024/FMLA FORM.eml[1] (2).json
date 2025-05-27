@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-FMLA FORM.eml[1] (2)-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FMLA FORM.eml[1] (2).eml",
+    "file_size": 647676,
+    "file_hash": "5f83643b408b503bde7d494d4dd775e21ccde9a758eb0205d03ff2df89bec4f0",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:25.327722",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:25.327722",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

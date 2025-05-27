@@ -1,0 +1,31 @@
+{
+  "document_id": "FEMA-CHAT TIMELINE DISCUSSION-INTERACTIVE PROCESS-20250526",
+  "document_type": [
+    "Interactive_Process",
+    "Timeline_Document"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "CHAT TIMELINE DISCUSSION-INTERACTIVE PROCESS.xlsx",
+    "file_size": 81895,
+    "file_hash": "5eccde0bad799bb17c75c11afb2c0db6119d2132bac0c96a0a8aa9b9e829276d",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.168648",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.168648",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

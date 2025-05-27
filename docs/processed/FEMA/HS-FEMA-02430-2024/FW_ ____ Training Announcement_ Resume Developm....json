@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-FW_ ____ Training Announcement_ Resume Developm...-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_ ____ Training Announcement_ Resume Developm....pdf",
+    "file_size": 315079,
+    "file_hash": "47aed76a7cc0cb73e1fe5ecbad278c9a872cacc41243d930dd98153715eec526",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:11.932907",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:11.932907",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

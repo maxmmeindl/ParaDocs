@@ -1,0 +1,32 @@
+{
+  "document_id": "EEOC-Guidance-for-Using-the-2010-EEO-Tabulation-UPDATED-July-2013-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Guidance-for-Using-the-2010-EEO-Tabulation-UPDATED-July-2013.pdf",
+    "file_size": 44551,
+    "file_hash": "c8d77bfcf5960554df03cd65439671e389678145139f948a1c65e0dc9ea57a3c",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:21.851791",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:21.851791",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

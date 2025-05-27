@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-RE_ Consideration.eml[1]-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RE_ Consideration.eml[1].eml",
+    "file_size": 339906,
+    "file_hash": "ad26635c7a7f5c0e1dcd94a1ce74a379296dada92913aad3b8f56fd1d3a686ad",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:31.448138",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:31.448138",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

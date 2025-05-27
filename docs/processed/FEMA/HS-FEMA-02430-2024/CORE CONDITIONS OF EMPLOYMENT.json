@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-CORE CONDITIONS OF EMPLOYMENT-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "CORE CONDITIONS OF EMPLOYMENT.pdf",
+    "file_size": 129476,
+    "file_hash": "9032d04329207222c36d32fee1713e70477451b89b074cd330b8953b6b84f9d2",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:08.796197",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:08.796197",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-fema_affirmative-action-plan-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "fema_affirmative-action-plan.pdf",
+    "file_size": 210862,
+    "file_hash": "d1602e544ece7f1b4e45c0b0defaaab735f40734d1e1f1cae8ba870e53c9a4f8",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:09.921421",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:09.921421",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

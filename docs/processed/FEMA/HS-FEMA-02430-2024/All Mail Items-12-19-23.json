@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-All Mail Items-12-19-23-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "All Mail Items-12-19-23.pdf",
+    "file_size": 75133913,
+    "file_hash": "8bf358aa8c387428face51f77cd087d4ed67d649fc5d9a11f3670ce4d943e09a",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:59.441635",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:59.441635",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

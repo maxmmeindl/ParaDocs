@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-TONY INITIAL CONVO-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "TONY INITIAL CONVO.docx",
+    "file_size": 121215,
+    "file_hash": "7e33adf78e16a54a72a731056a90bb93d2ddcacebe7ec7c4d8a599b577e07933",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.145245",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.145245",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

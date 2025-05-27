@@ -1,0 +1,5503 @@
+[
+  {
+    "date": "2024-10-24",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Meindl-Max_Telework Agreement_Date -2023-2024-10-24-23",
+        "source": "filename"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\All Mail Items-JANET KELLY",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ALL SNIPS",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ANTHONY IN-All Mail Items",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Automatic reply_ Timesheet FMLA (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Automatic reply_ Timesheet FMLA(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Automatic reply_ Timesheet FMLA",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Chief of Staff comms",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\EMAIL DOCUMENTATION",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\EMAILS-1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\EMAILS-2",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\EMAILS-3",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FEMA-OCHCO-All Mail Items",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fm-6",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA (1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA (3)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA Determination (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA Determination(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA Determination",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA v2",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA(2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA-2",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA-v1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[1][1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[1][1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[1][1](2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[1][1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[2] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[2]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[2][1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[2][1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[2][1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[3] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[3](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[3]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla.eml[3][1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla.eml[3][1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla.eml[3][1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla.eml[4][1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[5][1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[5][1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[5][1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[6][1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[6][1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[6][1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla[1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla[1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla[1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla[2] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla[2](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla[2]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA[3] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA[3](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA[3]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Fwd_ RA APPEAL",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ Consideration",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ fmla (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA (3)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination.eml[1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination.eml[1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination.eml[1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination[1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination[1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination[1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[2] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[2](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[2]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[3] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[3](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[3]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[4] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[4](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[4]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA_Reasonable accommodation ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ MEINDL FORMAL EEOC COMPLAINT-E-SIGNED (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ MEINDL FORMAL EEOC COMPLAINT-E-SIGNED",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ Reasonable accommodation (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ Reasonable accommodation(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ Reasonable accommodation",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\HR.eml",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\HR.eml[1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\HR",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL (1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL FORMAL EEOC COMPLAINT-E-SIGNED (1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL FORMAL EEOC COMPLAINT-E-SIGNED",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL FORMAL EEOC COMPLAINT-E-SIGNED_ FEMA EMPLOYEE (1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL FORMAL EEOC COMPLAINT-E-SIGNED_ FEMA EMPLOYEE (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1](2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1](3)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1](4)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1](5)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Merge Result",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[1][1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[1][1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[1][1](2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[1][1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[2] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[2](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[2](2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[2]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ParaDocs Programing Guidelinnes",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\PART 752-ADVERSE ACTIONS",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra (1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA, LEGAL CITES dAVID fRAM",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA-3",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra-4",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA-7",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1] (3)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1](2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1](3)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[1][1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[1][1](2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1][1](4)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1][1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[2] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[2][1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[2][1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[3] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[3]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[3][1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[3][1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[4][1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[4][1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[5][1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[5][1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[6][1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[6][1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ FMLA (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ FMLA(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ FMLA.eml[1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ FMLA.eml[1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ FMLA.eml[1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ FMLA",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Re_ Fw_ [EXTERNAL] FW_ 2nd Request MEINDL FORMAL EEOC COMPLAINT-E-SIGNED_ FEMA EMPLOYEE",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Timesheet FMLA (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Timesheet FMLA(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Timesheet FMLA",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update[1] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update[1](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update[1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update[2] (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update[2](1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update[2]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\telework",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\0046767 Max Meindl-Revised-second",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\0046767 Max Meindl-Revised",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\0046767 Max Meindl",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\01-22-RA POLICY",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\06-22-RA POLICY",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\07 25 2022 MEINDL-FF-403-FY-22-112",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\08-06-2024-B",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\08-06-2024",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\123-9-0-1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\1430_1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\1st QTR EVAL ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\2017-dhs-affirmative-action-plan",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\202207 email correspondence",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\202208 email correspondence",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\21C09C58-969E-71AA-B95D-C9FA67C8BAD9",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508-APRIL 2024",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\256-0-2 MANAGEMENT RESPONSE to REQ for RA Max s",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\256-0-2 MANAGEMENT RESPONSE to REQ for RA Meindl-first",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\256-0-2 MANAGEMENT RESPONSE to REQ for RA Meindl",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\2nd QTR Evaluation",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\3 - Cadre of On-Call Response_Recovery Employee (CORE) Program_FM252-11-1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\4th QT evaluation",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\4th QTR Eval 2023",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\806726",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Action Required_ Submit Your Proof of Vaccination",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\ADR Agreement to participate - 5 Sig-MEINDL-10-15-2024-BS SIGNED",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\ADR Consent Form HS-FEMA-03389-2024 Meindl, M",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\AIN Field Ops Team Huddle (1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\AIN Field Ops Team Huddle ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\All Mail Items-12-19-23",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\All Mail Items-JANET KELLY",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\ANTHONY IN-All Mail Items",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Automatic reply_ AIN Field Ops Team Huddle ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Automatic reply_ follow-up",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Automatic reply_ Number RAR0042452",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Binder1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Binder2",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Canceled_ AIN Field Ops Team Huddle (1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Canceled_ AIN Field Ops Team Huddle ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\CHAT TIMELINE DISCUSSION-INTERACTIVE PROCESS",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\COMMS SUMMARY-1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\COMMS SUMMARY-2",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\COMMS SUMMARY",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Contract Info",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Copy of RA-1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Copy of RA-2",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\CORE CONDITIONS OF EMPLOYMENT",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Detailed Table of Events",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\DHS Reasonable Accommodation",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\EEO FILES 1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\EEO Process HS-FEMA-03389-2024 Meindl, M",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\EMAIL DOCUMENTATION",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\EMAIL LIST AND DATES-MEINDL RA",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Enforcement Guidance on Reasonable Accommodation and Undue Hardship under the ADA-compressed",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Enforcement Guidance on Reasonable Accommodation and Undue Hardship under the ADA",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Evidence bibliography",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Example Time Mgmt",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Extension of Counseling_ HS-FEMA-03389-2024 Meindl M_ signed",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FD-256-22-0003- RA Program Policy Directive - FINAL Jan 2022",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fd_123_14_hiring_people_with_disabilities",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FEMA EEO Policy Reaffirmation 2024 Final - F1 Signed - CLEAN (002)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fema-directive-123-0-2-1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FEMA-OCHCO-All Mail Items",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fema_affirmative-action-plan",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FEMA_Cadre_Management_Guide1-10282014",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fema_manual_1430_1_reasonable_accommodations",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fema_manual_1430_1_reasonable_accommodations[1]",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fema_reasonable-accommodation-policy",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FI-256-22-0001-RA Instruction 2024 Final Signature- 06-28-2024",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fi-256-22-0001-ra_instruction_final-signature-06-28-2024",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2-1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Final Response 2025-FEFO-01396",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FM 123-9-1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FMLA",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Four Tips to Win an EEOC",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_  FEMA Employee-Exempt ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ ATS example, WebTA to GovTA",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Attendance Reports",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Email Signature",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ FEMA Image Metadata Tool",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Max Meindl Reasonable Accommodation Request",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Number RAR0042452",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ PA Calendar(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ PA Calendar",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ PA System Changes",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Public Assistance (PA) Site Inspection Inte...",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Public Assistance Program and Policy Guide ...",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ R6 RA Guidance Memo for SIs and PDMGs_6.30....",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ ra(1)-1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ RAR0042452 for Telework_ 100% ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ REMOTE WORK ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Remote Work Agreements and webTA ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Request to consider Reassignment - Reasonable Accommodation of Last Resort",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Updating _ Change Manager in FEKC",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ ____ Training Announcement_ Resume Developm...",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fyi",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\GRETA SCHAUER-ADR-All Mail Items",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\guide-to-telework-in-the-federal-government",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Heart Condition AN",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\l4060---fema-contract",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\McDowell, Carletta _ Mediate HS-FEMA-02430-2024",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEDICAL TELEWORK REQUIREMENTS FORM(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-Affidavit of Complainant-02-14-2025-R1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-Appendix A - Reassignment Search Parameters_09-09-24-SIGNED-V1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-FEMA Informal Intake Form-09-03-24 (002)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-FEMA Informal Intake Form-09-03-24",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Meindl-Max_Telework Agreement_Date -2023-2024-10-24-23",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452 -V1-2",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452 -V1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452-TONY IN-COMPRESSED TELEWORK",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-RA",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Meindl_1stLineDecisionFTTWRequest - Oke review (002) to JLJ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Merge Result-V3-FINAL PAGE NUMBERS",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\mistakes to avoid",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\New EEO Poster 2024",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Not read_ RE_ 24-04-114778_DR-4485-TX_TEXAS CHR...",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\NRTF HS-FEMA-02430-2024 Meindl J",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Number RAR0042452",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\OCR-EEO-All Mail Items",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Office of Accessibile Systems and Technology (O...",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\OPM telework agency2a-guide",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Pages from 08-06-2024",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\PDFen",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\PDTFL Position Assist",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\PMP(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\PMP",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Portfolio of RA and RETURN TO WORK COMMS-COMPRESSED",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Quick Team Update",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RA EMAIL ALL FOUND-12-05-2024",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RA EMAIL LIST-12-04-24",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RA POLICY HIGHLIGHTS",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RA TEXT-SNIPS-01-02-2024",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RA-1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\ra",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR#0046767 Max Meindl-Revised",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR#0046767 Max Meindl",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0017691 ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0017691 has been assigned to you",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0017691 has been assigned to your group",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0020089 for has comments added",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0020089 has been assigned to your group",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0023025 has been assigned to you",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0023025 has been assigned to your group",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0023025 has comments added",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0023261 - Vaccine Exemption Request for Info...",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0042452 for Telework_ 100% has been assigned...",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0042452 for Telework_ 100% has comments added",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0042452 for Telework_ 100_ has been assigned...",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0042452 has been assigned to your group",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Read_ Number RAR0042452",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Read_ RAR0042452 for Telework_ 100% ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Reasonable Accommodation ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Reasonable Accommodation Request-1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Reasonable Accommodation Request-Rev2",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Reasonable Accomodation-FEMA Form 256-0-1-08232018",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\REMOTE WORK APPEAL-signed-2",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\REMOTE WORK APPEAL-signed",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Request for Work Schedule FEMA Form 106-1-1-1 (002)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Request Reasonable Accommodation Form 256-0-1-01-02-2024",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Request to consider Reassignment - Reasonable Accommodation of Last Resort",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RESPONDENT REPLY(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RESPONDENT REPLY-08-19-24-v1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RESPONDENT REPLY",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ C3MP Cloud Access Request (1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ C3MP Cloud Access Request ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Contact Info",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ DTS activity",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Max Meindl Reasonable Accommodation Request(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Max Meindl Reasonable Accommodation Request",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ MEINDL-FINAL-V3-REASONABLE ACCOMMODATION SU...",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Non-Responsive Employees in Vaccine Status ...",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Number RAR0042452(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Number RAR0042452(2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Number RAR0042452- Follow up Tuesday Septem...",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Number RAR0042452",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ PA Calendar(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ PA Calendar(2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ PA Calendar(3)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ PA Calendar",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ PA Staff Max Meindl",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ PMP",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ RAR0023261 - Vaccine Exemption Request for ...",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ RAR0042452 for Telework_ 100% ",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ RAR0046767 Final Agency Denial Letter",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Reasonable Accommodation Request(1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Reasonable Accommodation Request-Rev2",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Request to consider Reassignment - Reasonable Accommodation of Last Resort-meindl-08022024",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Request to consider Reassignment - Reasonable Accommodation of Last Resort",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Telework and Work Schedule forms (1)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Telework and Work Schedule forms-RICK-1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Telework and Work Schedule forms",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RICK CAIN CHAT SNIPS",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\SHELIA CLEMMONS CHAT SNIPS",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\snip-12-11-2024",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TELEWORK REQUEST FOR 07242018-PLUS 4 HOURS SICK DAY",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TONY IN CHAT RECORD",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TONY IN CHAT SNIPS",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TONY IN SNIP OF PHONE CALLS-TIMES-DURATIONS",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TONY INITIAL CONVO",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TRACI BRASHER CHAT RECORD",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TRACI BRASHER CHAT SNIPS",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Update on your vaccine mandate exemption request",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Updates for Team",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Visio-Hurricane IDA 4611 DR ORG Chart start up v14",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\What is your age",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Your request  for Telework_ 100% has been received",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\[Compare Report] 06-22-RA POLICY",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\disab",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\EEO FILES 1",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\EEOC_Memo_-_Guidance_to_Agencies_for_Applying_DRP_Agreements_to_Pending_EEO_Complaints",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Effectiveness of ADR Report_508",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Federal Complaints Dashboard Instruction Manual Draft-Final",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Federal Workforce Keyboard Navigation Manual-Final",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\GRETA SCHAUER-ADR-All Mail Items",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Guidance-for-Using-the-2010-EEO-Tabulation-UPDATED-July-2013",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Guide_to_Brief_Writing_for_Pro_Se_Complainants",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\implementing_accommodation",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\LEGAL STUFF",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\McDowell, Carletta _ Mediate HS-FEMA-02430-2024",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\md-110",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info (2)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info (3)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\MEINDL-FEMA Informal Intake Form-09-03-24",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\MEINDL-RA",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Policy Guidance on Executive",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Questions & Answers",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Tab F-5 Affidavit of RMO template_Simko Final",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Tab F-7 Shiela Clemons Affidavit -signed",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Tab F-8 Affidavit of Witness Traci Brasher_ final",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Tab F-9 Affidavit of Witness Anna Myers signed",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-1   FY 2021   Total Work Force, Counselings, and Complaints",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-10   FY 2021   Total Number and Average Processing Days for All Complaint Closures",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-11   FY 2021   Types of Complaint Closures",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-11a   FY 2021  Types of Complaint Closures - Sub-Component Data",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-12   FY 2021   Average Processing Days (APD) All Complaint Closures",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-13   FY 2021   Complaints Closed with Dismissals",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-14   FY 2021   Timeliness of Merit Final Agency Decisions (FAD) (No AJ Decision)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-14a   FY 2021   Timeliness of Merit Final Agency Decisions (FAD) (No AJ Decision) - Sub-Component Data",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-15   FY 2021   Complaints Closed with Findings of Discrimination",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-16   FY 2021   Complaints Closed with Findings of No Discrimination",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-17   FY 2021   Average Processing Days (APD) Final Agency Decisions (FADs) and Final Orders (FOs) Fully Implementing (FI) AJ Decisions",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-18   FY 2021   Average Processing Days (APD) Final Orders (FOs) Not Fully Implementing (NFI) AJ Decisions",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-19   FY 2021   Total Complaint Closures AcceptedParticipated in ADR",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-1a   FY 2021   Total Work Force, Counselings, and Complaints - Sub-Component Data",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-2   FY 2021   All Timely Completed Counselings",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-20   FY 2021   ADR Complaint Resolutions (Formal Phase)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-21   FY 2021   Complaint Closures with Benefits",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-22   FY 2021   Complaint Closures By Statute",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-23   FY 2021   Summary of Pending Complaints By Category",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-24   FY 2021   Agency Staff Resources",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-24a   FY 2021   Contract Staff Resources",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-25   FY 2021   Agency New Staff Training",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-26   FY 2021  Agency Experienced Staff Training",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-27   FY 2021   Contractor New Staff Training",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-28   FY 2021   Contractor Experienced Staff Training",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-2a   FY 2021   All Timely Completed Counselings - Sub-Component Data",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-3   FY 2021   Outcomes of All Pre-Complaint Closures",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-3a   FY 2021   Outcomes of All Pre-Complaint Closures - Sub-Component Data",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-4   FY 2021   Pre-Complaint ADR Offers, Rejections, and Acceptances",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-5   FY 2021   ADR Pre-Complaint Resolutions (Informal Phase)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-6   FY 2021   Benefits Provided in All Pre-Complaint Settlements",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-7   FY 2021   Profile Agency Timeliness Indicators (totals with and without USPS data)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-7a   FY 2021   Profile Agency Timeliness Indicators (totals with and without USPS data)",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-8   FY 2021   Complaints Filed Basis and Issues  - Grand Total",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-8a   FY 2021   Complaints Filed Basis and Issues  - Cabinet Level Agencies",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-8b   FY 2021   Complaints Filed Basis and Issues  - Medium Sized Agencies",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-8c   FY 2021   Complaints Filed Basis and Issues  - Small Agencies",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-9   FY 2021   Timeliness and Cost of All Completed Complaint Investigations",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-9a   FY 2021   Timeliness and Cost of Complaint Investigations Completed by Agency Investigators",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-9b   FY 2021   Timeliness and Cost of Complaint Investigations Completed by Contract Investigators",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-9c   FY 2021   Timeliness and Cost of All Completed Complaint Investigations",
+        "source": "metadata.created_date"
+      },
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\V1-Getting_Started",
+        "source": "metadata.created_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:52.363367",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\All Mail Items-JANET KELLY",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:53.852508",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ALL SNIPS",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:53.896996",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ANTHONY IN-All Mail Items",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:54.992352",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\EMAIL DOCUMENTATION",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:55.059217",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\EMAILS-1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:55.095483",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\EMAILS-2",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:55.129405",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\EMAILS-3",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:55.170957",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FEMA-OCHCO-All Mail Items",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:55.483744",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Merge Result",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:57.028612",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\PART 752-ADVERSE ACTIONS",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:57.046682",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\0046767 Max Meindl-Revised-second",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:57.092831",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\0046767 Max Meindl-Revised",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:57.136790",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\0046767 Max Meindl",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:57.221883",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\01-22-RA POLICY",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:57.242591",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\06-22-RA POLICY",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:57.289390",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\07 25 2022 MEINDL-FF-403-FY-22-112",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:57.440577",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\08-06-2024-B",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:57.530842",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\08-06-2024",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:57.955231",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\123-9-0-1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:58.072579",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\1430_1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:58.096714",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\1st QTR EVAL ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:58.127844",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\2017-dhs-affirmative-action-plan",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:58.160563",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\202207 email correspondence",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:58.190179",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\202208 email correspondence",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:58.223674",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\21C09C58-969E-71AA-B95D-C9FA67C8BAD9",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:58.252579",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508-APRIL 2024",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:58.299201",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:58.337427",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\256-0-2 MANAGEMENT RESPONSE to REQ for RA Max s",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:58.393248",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\256-0-2 MANAGEMENT RESPONSE to REQ for RA Meindl-first",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:58.455326",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\256-0-2 MANAGEMENT RESPONSE to REQ for RA Meindl",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:58.509532",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\2nd QTR Evaluation",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:58.531543",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\3 - Cadre of On-Call Response_Recovery Employee (CORE) Program_FM252-11-1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:59.198267",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\4th QT evaluation",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:59.232763",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\4th QTR Eval 2023",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:59.260502",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\806726",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:59.297916",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Action Required_ Submit Your Proof of Vaccination",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:59.342968",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\ADR Agreement to participate - 5 Sig-MEINDL-10-15-2024-BS SIGNED",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:59.364094",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\ADR Consent Form HS-FEMA-03389-2024 Meindl, M",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:59.391813",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\AIN Field Ops Team Huddle (1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:59.419116",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\AIN Field Ops Team Huddle ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:48:59.441635",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\All Mail Items-12-19-23",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:00.985343",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\All Mail Items-JANET KELLY",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:02.456624",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\ANTHONY IN-All Mail Items",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:03.617539",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Automatic reply_ AIN Field Ops Team Huddle ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:03.645460",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Automatic reply_ follow-up",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:03.666570",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Automatic reply_ Number RAR0042452",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:03.698679",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Binder1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:03.743479",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Binder2",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:03.840956",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Canceled_ AIN Field Ops Team Huddle (1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:03.858930",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Canceled_ AIN Field Ops Team Huddle ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:03.880918",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\COMMS SUMMARY-1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:03.910620",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\COMMS SUMMARY-2",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:03.931838",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\COMMS SUMMARY",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:03.953676",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Contract Info",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:03.977911",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Copy of RA-1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:06.244900",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Copy of RA-2",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:08.796197",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\CORE CONDITIONS OF EMPLOYMENT",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:08.813649",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\DHS Reasonable Accommodation",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:08.839091",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\EEO FILES 1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:09.006981",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\EEO Process HS-FEMA-03389-2024 Meindl, M",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:09.039982",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\EMAIL DOCUMENTATION",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:09.077269",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Enforcement Guidance on Reasonable Accommodation and Undue Hardship under the ADA-compressed",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:09.188255",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Enforcement Guidance on Reasonable Accommodation and Undue Hardship under the ADA",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:09.388774",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Example Time Mgmt",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:09.428376",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Extension of Counseling_ HS-FEMA-03389-2024 Meindl M_ signed",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:09.460858",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FD-256-22-0003- RA Program Policy Directive - FINAL Jan 2022",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:09.488824",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fd_123_14_hiring_people_with_disabilities",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:09.519148",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FEMA EEO Policy Reaffirmation 2024 Final - F1 Signed - CLEAN (002)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:09.543548",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fema-directive-123-0-2-1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:09.566061",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FEMA-OCHCO-All Mail Items",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:09.921421",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fema_affirmative-action-plan",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:09.944116",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FEMA_Cadre_Management_Guide1-10282014",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.005937",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fema_manual_1430_1_reasonable_accommodations",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.037223",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fema_manual_1430_1_reasonable_accommodations[1]",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.073389",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fema_reasonable-accommodation-policy",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.105556",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FI-256-22-0001-RA Instruction 2024 Final Signature- 06-28-2024",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.134658",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fi-256-22-0001-ra_instruction_final-signature-06-28-2024",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.166492",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2-1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.189345",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.217029",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.243886",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Final Response 2025-FEFO-01396",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.321828",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FM 123-9-1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.385698",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FMLA",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.494361",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Four Tips to Win an EEOC",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.509456",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_  FEMA Employee-Exempt ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.547883",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ ATS example, WebTA to GovTA",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.605230",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Attendance Reports",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.637138",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Email Signature",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:10.713703",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ FEMA Image Metadata Tool",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.037506",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Max Meindl Reasonable Accommodation Request",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.078592",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Number RAR0042452",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.110477",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ PA Calendar(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.140116",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ PA Calendar",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.169714",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ PA System Changes",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.277233",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Public Assistance (PA) Site Inspection Inte...",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.353146",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Public Assistance Program and Policy Guide ...",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.372746",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ R6 RA Guidance Memo for SIs and PDMGs_6.30....",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.409415",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ ra(1)-1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.457318",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ RAR0042452 for Telework_ 100% ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.528687",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ REMOTE WORK ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.854147",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Remote Work Agreements and webTA ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.883838",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Request to consider Reassignment - Reasonable Accommodation of Last Resort",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.904432",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ Updating _ Change Manager in FEKC",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.932907",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\FW_ ____ Training Announcement_ Resume Developm...",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.966492",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\fyi",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:11.996309",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\GRETA SCHAUER-ADR-All Mail Items",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.123150",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\guide-to-telework-in-the-federal-government",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.163265",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Heart Condition AN",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.203371",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\l4060---fema-contract",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.232731",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\McDowell, Carletta _ Mediate HS-FEMA-02430-2024",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.263939",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEDICAL TELEWORK REQUIREMENTS FORM(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.348035",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-Affidavit of Complainant-02-14-2025-R1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.375022",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-Appendix A - Reassignment Search Parameters_09-09-24-SIGNED-V1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.410157",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.437980",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-FEMA Informal Intake Form-09-03-24 (002)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.463031",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.490393",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-FEMA Informal Intake Form-09-03-24",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.515060",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Meindl-Max_Telework Agreement_Date -2023-2024-10-24-23",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.739645",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452 -V1-2",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.756714",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452 -V1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:12.776334",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452-TONY IN-COMPRESSED TELEWORK",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:13.084511",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:13.367841",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\MEINDL-RA",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:13.575410",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Meindl_1stLineDecisionFTTWRequest - Oke review (002) to JLJ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:13.608835",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Merge Result-V3-FINAL PAGE NUMBERS",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:13.680452",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\mistakes to avoid",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:13.711060",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\New EEO Poster 2024",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:13.730000",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Not read_ RE_ 24-04-114778_DR-4485-TX_TEXAS CHR...",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:13.755080",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\NRTF HS-FEMA-02430-2024 Meindl J",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:13.781637",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Number RAR0042452",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:13.863347",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\OCR-EEO-All Mail Items",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:14.040680",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Office of Accessibile Systems and Technology (O...",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:14.139682",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\OPM telework agency2a-guide",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:14.176009",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Pages from 08-06-2024",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:14.438885",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\PDFen",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:14.506984",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\PDTFL Position Assist",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:14.529402",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\PMP(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:14.549056",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\PMP",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:14.577900",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Portfolio of RA and RETURN TO WORK COMMS-COMPRESSED",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:15.336323",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Quick Team Update",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:15.357899",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RA POLICY HIGHLIGHTS",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:15.422203",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RA TEXT-SNIPS-01-02-2024",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:15.440585",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RA-1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:17.898775",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\ra",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.174108",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR#0046767 Max Meindl-Revised",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.221630",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR#0046767 Max Meindl",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.314858",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0017691 ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.419513",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0017691 has been assigned to you",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.448481",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0017691 has been assigned to your group",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.479218",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0020089 for has comments added",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.516020",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0020089 has been assigned to your group",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.559595",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0023025 has been assigned to you",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.593734",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0023025 has been assigned to your group",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.623758",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0023025 has comments added",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.650927",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0023261 - Vaccine Exemption Request for Info...",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.771189",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0042452 for Telework_ 100% has been assigned...",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.802809",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0042452 for Telework_ 100% has comments added",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.834061",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0042452 for Telework_ 100_ has been assigned...",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.871929",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RAR0042452 has been assigned to your group",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.908933",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Read_ Number RAR0042452",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.927646",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Read_ RAR0042452 for Telework_ 100% ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.950056",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Reasonable Accommodation ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:18.981421",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Reasonable Accommodation Request-1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.065735",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Reasonable Accommodation Request-Rev2",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.167408",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Reasonable Accomodation-FEMA Form 256-0-1-08232018",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.307487",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\REMOTE WORK APPEAL-signed-2",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.331203",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\REMOTE WORK APPEAL-signed",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.352568",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Request for Work Schedule FEMA Form 106-1-1-1 (002)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.463898",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Request Reasonable Accommodation Form 256-0-1-01-02-2024",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.623331",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Request to consider Reassignment - Reasonable Accommodation of Last Resort",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.671889",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ C3MP Cloud Access Request (1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.710677",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ C3MP Cloud Access Request ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.756875",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Contact Info",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.784750",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ DTS activity",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.834929",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Max Meindl Reasonable Accommodation Request(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.869230",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Max Meindl Reasonable Accommodation Request",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.908567",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ MEINDL-FINAL-V3-REASONABLE ACCOMMODATION SU...",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.971663",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Non-Responsive Employees in Vaccine Status ...",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:19.998285",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Number RAR0042452(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.034219",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Number RAR0042452(2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.060421",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Number RAR0042452- Follow up Tuesday Septem...",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.093672",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Number RAR0042452",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.120874",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ PA Calendar(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.167663",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ PA Calendar(2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.197215",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ PA Calendar(3)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.235768",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ PA Calendar",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.266016",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ PA Staff Max Meindl",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.292431",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ PMP",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.362461",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ RAR0023261 - Vaccine Exemption Request for ...",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.401939",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ RAR0042452 for Telework_ 100% ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.461102",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ RAR0046767 Final Agency Denial Letter",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.485363",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Reasonable Accommodation Request(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.541707",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Reasonable Accommodation Request-Rev2",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.595058",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Request to consider Reassignment - Reasonable Accommodation of Last Resort-meindl-08022024",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.641070",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Request to consider Reassignment - Reasonable Accommodation of Last Resort",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.689469",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Telework and Work Schedule forms-RICK-1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:20.716579",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Telework and Work Schedule forms",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.165357",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TELEWORK REQUEST FOR 07242018-PLUS 4 HOURS SICK DAY",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.184515",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Update on your vaccine mandate exemption request",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.214382",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Updates for Team",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.245221",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Visio-Hurricane IDA 4611 DR ORG Chart start up v14",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.274272",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Your request  for Telework_ 100% has been received",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.348904",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\[Compare Report] 06-22-RA POLICY",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.399442",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\disab",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.423934",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\EEO FILES 1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.607372",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\EEOC_Memo_-_Guidance_to_Agencies_for_Applying_DRP_Agreements_to_Pending_EEO_Complaints",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.635772",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Effectiveness of ADR Report_508",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.659384",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Federal Complaints Dashboard Instruction Manual Draft-Final",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.691827",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Federal Workforce Keyboard Navigation Manual-Final",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.726062",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\GRETA SCHAUER-ADR-All Mail Items",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.851791",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Guidance-for-Using-the-2010-EEO-Tabulation-UPDATED-July-2013",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.891358",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Guide_to_Brief_Writing_for_Pro_Se_Complainants",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.926653",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\implementing_accommodation",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.947927",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\LEGAL STUFF",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.969562",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\McDowell, Carletta _ Mediate HS-FEMA-02430-2024",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:21.997847",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\md-110",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:22.028901",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:22.061150",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info (3)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:22.087848",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\MEINDL-FEMA Informal Intake Form-09-03-24",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:22.113558",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\MEINDL-RA",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:22.341673",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Policy Guidance on Executive",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:22.419628",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Questions & Answers",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:22.462386",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Tab F-5 Affidavit of RMO template_Simko Final",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:22.490097",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Tab F-7 Shiela Clemons Affidavit -signed",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:22.535629",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Tab F-8 Affidavit of Witness Traci Brasher_ final",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:22.586318",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Tab F-9 Affidavit of Witness Anna Myers signed",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:22.614111",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\V1-Getting_Started",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.045553",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.050203",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ParaDocs Programing Guidelinnes",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.055883",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.060262",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Detailed Table of Events",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.067127",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RESPONDENT REPLY(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.072325",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RESPONDENT REPLY-08-19-24-v1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.079313",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RESPONDENT REPLY",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.082678",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RICK CAIN CHAT SNIPS",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.089755",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\SHELIA CLEMMONS CHAT SNIPS",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.095268",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\snip-12-11-2024",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.101213",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TONY IN CHAT RECORD",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.112399",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TONY IN CHAT SNIPS",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.138196",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TONY IN SNIP OF PHONE CALLS-TIMES-DURATIONS",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.145245",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TONY INITIAL CONVO",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.150071",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TRACI BRASHER CHAT RECORD",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.156360",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\TRACI BRASHER CHAT SNIPS",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.164249",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\What is your age",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.168648",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\CHAT TIMELINE DISCUSSION-INTERACTIVE PROCESS",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.198387",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\EMAIL LIST AND DATES-MEINDL RA",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.291191",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\Evidence bibliography",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.316557",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RA EMAIL ALL FOUND-12-05-2024",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.353130",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RA EMAIL LIST-12-04-24",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.386138",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-1   FY 2021   Total Work Force, Counselings, and Complaints",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.413128",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-10   FY 2021   Total Number and Average Processing Days for All Complaint Closures",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.438576",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-11   FY 2021   Types of Complaint Closures",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.461102",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-11a   FY 2021  Types of Complaint Closures - Sub-Component Data",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.486915",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-12   FY 2021   Average Processing Days (APD) All Complaint Closures",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.512351",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-13   FY 2021   Complaints Closed with Dismissals",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.533101",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-14   FY 2021   Timeliness of Merit Final Agency Decisions (FAD) (No AJ Decision)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.555131",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-14a   FY 2021   Timeliness of Merit Final Agency Decisions (FAD) (No AJ Decision) - Sub-Component Data",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.573521",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-15   FY 2021   Complaints Closed with Findings of Discrimination",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.593298",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-16   FY 2021   Complaints Closed with Findings of No Discrimination",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.611735",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-17   FY 2021   Average Processing Days (APD) Final Agency Decisions (FADs) and Final Orders (FOs) Fully Implementing (FI) AJ Decisions",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.633872",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-18   FY 2021   Average Processing Days (APD) Final Orders (FOs) Not Fully Implementing (NFI) AJ Decisions",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.654008",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-19   FY 2021   Total Complaint Closures AcceptedParticipated in ADR",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.675103",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-1a   FY 2021   Total Work Force, Counselings, and Complaints - Sub-Component Data",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.693953",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-2   FY 2021   All Timely Completed Counselings",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.712775",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-20   FY 2021   ADR Complaint Resolutions (Formal Phase)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.731782",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-21   FY 2021   Complaint Closures with Benefits",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.750562",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-22   FY 2021   Complaint Closures By Statute",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.770571",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-23   FY 2021   Summary of Pending Complaints By Category",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.788144",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-24   FY 2021   Agency Staff Resources",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.807682",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-24a   FY 2021   Contract Staff Resources",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.825268",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-25   FY 2021   Agency New Staff Training",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.845511",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-26   FY 2021  Agency Experienced Staff Training",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.863961",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-27   FY 2021   Contractor New Staff Training",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.892092",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-28   FY 2021   Contractor Experienced Staff Training",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:23.997229",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-2a   FY 2021   All Timely Completed Counselings - Sub-Component Data",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.038377",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-3   FY 2021   Outcomes of All Pre-Complaint Closures",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.058852",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-3a   FY 2021   Outcomes of All Pre-Complaint Closures - Sub-Component Data",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.080859",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-4   FY 2021   Pre-Complaint ADR Offers, Rejections, and Acceptances",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.106933",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-5   FY 2021   ADR Pre-Complaint Resolutions (Informal Phase)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.131123",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-6   FY 2021   Benefits Provided in All Pre-Complaint Settlements",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.157636",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-7   FY 2021   Profile Agency Timeliness Indicators (totals with and without USPS data)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.183617",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-7a   FY 2021   Profile Agency Timeliness Indicators (totals with and without USPS data)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.211463",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-8   FY 2021   Complaints Filed Basis and Issues  - Grand Total",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.231955",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-8a   FY 2021   Complaints Filed Basis and Issues  - Cabinet Level Agencies",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.253880",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-8b   FY 2021   Complaints Filed Basis and Issues  - Medium Sized Agencies",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.273378",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-8c   FY 2021   Complaints Filed Basis and Issues  - Small Agencies",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.290770",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-9   FY 2021   Timeliness and Cost of All Completed Complaint Investigations",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.310355",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-9a   FY 2021   Timeliness and Cost of Complaint Investigations Completed by Agency Investigators",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.330005",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-9b   FY 2021   Timeliness and Cost of Complaint Investigations Completed by Contract Investigators",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.348990",
+    "files": [
+      {
+        "file": "docs\\processed\\EEOC\\HS-FEMA-02430-2024\\Table B-9c   FY 2021   Timeliness and Cost of All Completed Complaint Investigations",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.576493",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Automatic reply_ Timesheet FMLA (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.584228",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Automatic reply_ Timesheet FMLA(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.591589",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Automatic reply_ Timesheet FMLA",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.603164",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Chief of Staff comms",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.839276",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fm-6",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.852995",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA (1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:24.990802",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:25.223731",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA (3)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:25.311520",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA Determination (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:25.316233",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA Determination(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:25.321944",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA Determination",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:25.343103",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA v2",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:25.352425",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:25.428283",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA(2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:25.513016",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA-2",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:25.759544",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA-v1",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:25.858635",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[1][1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[1][1](1)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[1][1](2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[1][1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[2] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[2]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[2][1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[2][1](1)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[2][1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[3] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[3](1)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[3]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla.eml[3][1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla.eml[3][1](1)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla.eml[3][1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla.eml[4][1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[5][1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[5][1](1)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[5][1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[6][1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[6][1](1)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA.eml[6][1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:26.396856",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla[1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:26.409115",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla[1](1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:26.420393",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla[1]",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:26.432270",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla[2] (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:26.439502",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla[2](1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:26.447750",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\fmla[2]",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:26.455780",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA[3] (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:26.508250",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA[3](1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:26.580457",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FMLA[3]",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:26.698774",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Fwd_ RA APPEAL",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:26.947101",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ Consideration",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.058268",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ fmla (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.332522",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA (3)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.341009",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.347090",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.354547",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination.eml[1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination.eml[1](1)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination.eml[1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.382156",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination[1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.386579",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination[1](1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.392547",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA Determination[1]",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.426215",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.433002",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.439187",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.446528",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[1](1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.450956",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[1]",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.456386",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[2] (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.465930",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[2](1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.476276",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[2]",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.486374",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[3] (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.495630",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[3](1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.505626",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[3]",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.515807",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[4] (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.523913",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[4](1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.532868",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA[4]",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.542781",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ FMLA_Reasonable accommodation ",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.554944",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ MEINDL FORMAL EEOC COMPLAINT-E-SIGNED (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:27.629928",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ MEINDL FORMAL EEOC COMPLAINT-E-SIGNED",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:28.206638",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ Reasonable accommodation (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:28.232641",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ Reasonable accommodation(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:28.239581",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\FW_ Reasonable accommodation",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:28.328837",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\HR.eml",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\HR.eml[1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\HR",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:28.616305",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL (1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:28.788028",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL FORMAL EEOC COMPLAINT-E-SIGNED (1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:28.881945",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL FORMAL EEOC COMPLAINT-E-SIGNED",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:28.962275",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL FORMAL EEOC COMPLAINT-E-SIGNED_ FEMA EMPLOYEE (1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:29.036177",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL FORMAL EEOC COMPLAINT-E-SIGNED_ FEMA EMPLOYEE (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:29.120674",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1](1)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1](2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1](3)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1](4)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1](5)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL.eml[1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\MEINDL",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:29.341750",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[1][1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[1][1](1)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[1][1](2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[1][1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[2] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[2](1)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[2](2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\OSC Case No. MA-20-1288.eml[2]",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:29.423791",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra (1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:29.516426",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:29.782732",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA, LEGAL CITES dAVID fRAM",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:29.823827",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA-3",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:30.202950",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra-4",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:30.251327",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA-7",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:30.325840",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1] (3)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1](1)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1](2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1](3)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[1][1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[1][1](2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1][1](4)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[1][1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[2] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[2][1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[2][1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[3] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[3]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[3][1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[3][1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[4][1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\ra.eml[4][1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[5][1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[5][1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[6][1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA.eml[6][1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RA",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.474453",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ FMLA (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.481533",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ FMLA(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.490376",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ FMLA.eml[1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ FMLA.eml[1](1)",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ FMLA.eml[1]",
+        "source": "metadata.processing_info.processed_date"
+      },
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ FMLA",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.553866",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\Re_ Fw_ [EXTERNAL] FW_ 2nd Request MEINDL FORMAL EEOC COMPLAINT-E-SIGNED_ FEMA EMPLOYEE",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.567185",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Timesheet FMLA (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.573179",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Timesheet FMLA(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.579597",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Timesheet FMLA",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.585508",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.593683",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update(1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.598851",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.605153",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update[1] (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.611983",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update[1](1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.617183",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update[1]",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.623879",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update[2] (2)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.628910",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update[2](1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.635492",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\RE_ Update[2]",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.640593",
+    "files": [
+      {
+        "file": "docs\\processed\\OTHER\\HS-FEMA-02430-2024\\telework",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  },
+  {
+    "date": "2025-05-26T20:49:31.811446",
+    "files": [
+      {
+        "file": "docs\\processed\\FEMA\\HS-FEMA-02430-2024\\RE_ Telework and Work Schedule forms (1)",
+        "source": "metadata.processing_info.processed_date"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RE_ PA Staff Max Meindl-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RE_ PA Staff Max Meindl.pdf",
+    "file_size": 223037,
+    "file_hash": "3ce6d368a8d5c27068660b3a70d46b51a68a3b5076ccdc01d551abd3411de841",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:20.266016",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:20.266016",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

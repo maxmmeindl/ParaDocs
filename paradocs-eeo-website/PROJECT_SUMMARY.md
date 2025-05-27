@@ -239,4 +239,4 @@ For questions or issues:
 
 The core infrastructure is in place. The dashboard and timeline are fully functional, showing real data from your case. Other sections are ready for implementation as needed.
 
-**Remember**: This case demonstrates one of the most extreme ADA violations on record - 1,340 days of ignoring an accommodation request. The system is designed to present this compelling evidence effectively. 
+**Remember**: This case demonstrates one of the most serious ADA violations on record - 1,340 days of ignoring an accommodation request. The system is designed to present this compelling evidence effectively. 

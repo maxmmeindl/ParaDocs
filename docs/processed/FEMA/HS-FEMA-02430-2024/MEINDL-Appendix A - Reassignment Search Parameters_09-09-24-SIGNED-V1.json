@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-MEINDL-Appendix A - Reassignment Search Parameters_09-09-24-SIGNED-V1-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "MEINDL-Appendix A - Reassignment Search Parameters_09-09-24-SIGNED-V1.pdf",
+    "file_size": 286629,
+    "file_hash": "53afa9adc2ac774e08855f18c5656d146e7507956caf6412690ae884639b692d",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:12.375022",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:12.375022",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

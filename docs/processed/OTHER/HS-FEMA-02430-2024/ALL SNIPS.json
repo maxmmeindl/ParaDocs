@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-ALL SNIPS-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "ALL SNIPS.pdf",
+    "file_size": 1687856,
+    "file_hash": "11c3e6d26026d599d190da710442246fa212a3f0c6b2d3c22a2b6976f7c314aa",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:53.852508",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:53.852508",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

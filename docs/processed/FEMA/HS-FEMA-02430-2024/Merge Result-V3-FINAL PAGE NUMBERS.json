@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Merge Result-V3-FINAL PAGE NUMBERS-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Merge Result-V3-FINAL PAGE NUMBERS.pdf",
+    "file_size": 6157411,
+    "file_hash": "93a5f0b3720bc01d4cd4f76711a3ad04b3fb2a1128317ed1388ab87f6d11d70b",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:13.608835",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:13.608835",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

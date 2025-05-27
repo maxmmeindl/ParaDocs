@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-FD-256-22-0003- RA Program Policy Directive - FINAL Jan 2022-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FD-256-22-0003- RA Program Policy Directive - FINAL Jan 2022.pdf",
+    "file_size": 328235,
+    "file_hash": "fbaa5e015ba6921852f8d136d3a5113cd9cbde0e569dca23ba084ba778f9ddb3",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:09.460858",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:09.460858",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

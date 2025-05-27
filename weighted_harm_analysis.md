@@ -16,7 +16,7 @@
 **Description**: Wages lost since January 6, 2025
 
 **Legal Support**:
-- Back pay automatic for discriminatory termination - 42 USC 2000e-5(g)
+- Back pay likely for discriminatory termination - 42 USC 2000e-5(g)
 - Mount Healthy v. Doyle, 429 U.S. 274 (1977)
 - Albemarle Paper Co. v. Moody, 422 U.S. 405 (1975)
 
@@ -194,7 +194,7 @@
 
 ### Lead With:
 1. **Termination damages** - Most immediate, relatable harm
-2. **1,340-day violation** - Shocking, establishes bad faith
+2. **1,340-day violation** - significant, establishes bad faith
 3. **Retaliation pattern** - PIP to Termination timeline
 
 ### Settlement Positioning:

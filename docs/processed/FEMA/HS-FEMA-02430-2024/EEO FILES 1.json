@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-EEO FILES 1-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "EEO FILES 1.pdf",
+    "file_size": 23371520,
+    "file_hash": "019beb3ea2a5780cababaa2643bb1bf5a2a5829d552eeb4cc4241bf8a726a33e",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:08.839091",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:08.839091",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-OAS_5770.1_Local_Travel_(Policy_Signed_on_January_28__2015)-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "OAS_5770.1_Local_Travel_(Policy_Signed_on_January_28__2015).pdf",
+    "file_size": 137550,
+    "file_hash": "c78cedf59497534180030ecc811a88f3a06530eaa58d64053b56479b7241a201",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:13.825110",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:13.825110",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

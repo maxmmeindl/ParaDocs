@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RAR0042452 for Telework_ 100% has comments added-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RAR0042452 for Telework_ 100% has comments added.pdf",
+    "file_size": 182266,
+    "file_hash": "60b6970ed7564be1d2aeee55c55ffe92abd2588d11035d247abf61c681cd4dda",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:18.802809",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:18.802809",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

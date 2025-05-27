@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Meindel III Max J. (FINAL Notice of Termination of Appointment)-1-20250526",
+  "document_type": [
+    "Termination"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Meindel III Max J. (FINAL Notice of Termination of Appointment)-1.pdf",
+    "file_size": 235188,
+    "file_hash": "67ae6cf132cd530ecf6c9e3f90e5cf25a4267b6359ad0f4da190136e9133a1b1",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:12.316004",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:12.316004",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

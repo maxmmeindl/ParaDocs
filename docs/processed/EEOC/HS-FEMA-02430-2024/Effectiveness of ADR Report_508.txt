@@ -1,0 +1,1335 @@
+August 2024 
+
+Effectiveness of Alternative Dispute Resolution 
+in the Federal Sector 
+
+U.S. Equal Employment Opportunity Commission
+Research, Evaluation, & Applied Data Division | Office of Federal Operations
+
+Table of Contents 
+
+Executive Summary .................................................................................... ii 
+
+Introduction ................................................................................................ 1 
+
+Purpose and Scope ...................................................................................... 2 
+
+Methodology ............................................................................................. 3 
+
+Profile of Federal Sector ADR ...................................................................... 4 
+
+Survey on ADR Process ............................................................................... 9 
+
+Perceptions of ADR Process ......................................................................... 9 
+
+Other Survey Results ................................................................................ 14 
+
+Focus Group of ADR Professionals ............................................................ 15 
+
+Summary of Findings ................................................................................ 17 
+
+Recommendations..................................................................................... 18 
+
+Conclusion ................................................................................................ 18 
+
+References ................................................................................................ 20 
+
+Appendix A: Glossary ................................................................................ 21 
+
+Appendix B: Survey Questions .................................................................. 22 
+
+i 
+
+ 
+ 
+ 
+Executive Summary 
+
+Alternative Dispute Resolution (ADR) is a process in which a neutral third party 
+helps parties to reach an agreement without litigation. Mediation is the most widely 
+utilized method for dispute resolution. All Federal agencies are required to have an 
+ADR program that is fair.1 Since Federal agencies may conduct ADR programs 
+differently, the U.S. Equal Employment Opportunity Commission (EEOC) sought to 
+better understand agencies’ ADR policies, practices, and complaint activity. 
+
+This report follows up on an EEOC report published in fiscal year (FY) 20212 with 
+comprehensive information and data on the effectiveness of ADR programs at 
+Federal agencies in FY 2019. In this current report, the EEOC continued its review 
+of agency ADR programs in FY 2021—specifically, examining Management Directive 
+7153 program deficiencies and relevant Form 4624 complaint data. The report 
+focuses on the experiences of complainants and managers who participated in ADR, 
+primarily mediation. 
+
+Main Findings 
+
+• 
+
+• 
+
+In FY 2021, Federal agencies offered ADR more often during the pre-
+complaint stage (87.8 percent of all completed counselings) than during the 
+formal EEO complaint stage (17.0 percent of all complaint closures). 
+
+In FY 2021, Federal agencies accepted ADR more often during the pre-
+complaint stage (55.5 percent of all completed counselings) than during the 
+formal EEO complaint stage (6.4 percent of all complaint closures). 
+
+•  During the formal EEO complaint stage, approximately 33.6 percent of ADR 
+
+closures led to resolutions (i.e., settlements or withdrawals). 
+
+•  The rate of counselings and complaints was roughly proportional to the 
+agency’s size. Notably, large agencies (those with 15,000 or more 
+employees) accounted for 94.1 percent of the Federal workforce, 95.9 
+percent of completed counselings, and 93.9 percent of formal complaints. 
+
+•  Among 72 complainants surveyed, the majority (46) expressed 
+
+dissatisfaction with the fairness of the ADR process. In contrast, of the 23 
+
+1 “Alternative Dispute Resolution (ADR) Overview,” EEOC, https://www.eeoc.gov/Federal-sector/alternative-
+dispute-resolution-adr-overview. 
+
+2 Alternative Dispute Resolution in the Federal Sector, EEOC, 2021, https://www.eeoc.gov/federal-
+sector/reports/alternative-dispute-resolution-federal-sector. 
+
+3 The EEOC provides Management Directive 715 (MD-715) as policy guidance to Federal agencies for their use in 
+establishing and maintaining effective programs of equal employment opportunity for all employees as required by 
+Title VII of the Civil Rights Act of 1964 and the Rehabilitation Act. MD-715 took effect on October 1, 2003.  
+
+4 Federal agencies covered by 29 CFR 1614 must report to the EEOC data on EEO complaint processing, beginning 
+with pre-complaint counseling and ending with final disposition. Agencies report this information on the Annual 
+Federal Equal Employment Opportunity Statistical Report of Discrimination Complaints (Form 462).  
+
+ii 
+
+ 
+responsible management officials (RMOs) surveyed, nearly all (22) indicated 
+satisfaction with its fairness.  
+
+•  A total of 41 complainants said they were considering leaving their agency in 
+the next year, compared to only 6 RMOs. The top reason complainants gave 
+for wanting to leave was retaliation due to ADR participation. 
+
+Main Recommendations  
+
+The EEOC recommends that Federal agencies: 
+
+•  Provide training and education on the ADR process to employees, managers, 
+supervisors, and settlement officials. Specifically, training should focus on the 
+roles and expectations of management as well as outcomes from negotiated 
+settlements. 
+
+•  Keep ADR participants informed of the procedural steps throughout the ADR 
+process, including the development of an ADR toolkit with FAQs for the ADR 
+services offered, timelines for processing EEO complaints during the ADR 
+process and information on their agency website explaining the ADR services 
+offered. 
+
+•  Create an agency tool (i.e., post-ADR survey or template) to collect feedback 
+
+after the mediation process. This feedback can provide insights into the 
+mediator’s effectiveness and whether the mediation was perceived as fair. 
+Agencies should address any concerns raised through this feedback. 
+
+•  Encourage good faith cooperation and participation among all parties in the 
+
+ADR process to improve chances of reaching an agreement. 
+
+•  Review and use the recommendations from the EEOC’s fiscal year 2021 ADR 
+
+report. 
+
+o  Quarterly ADR status briefings with senior agency leaders. 
+o  Share ADR data on acceptance, participation, and declination rates. 
+o  Improve collaboration between EEO and ADR program. 
+o  Develop required training course for ADR program administration. 
+o  Provide ADR training for managers, staff, and mediators. 
+o  Provide quarterly ADR awareness training. 
+o  Update ADR policies every three years at a minimum. 
+
+Ongoing research is needed to understand employee perceptions of ADR. Federal 
+agencies should evaluate their internal ADR programs and assess their 
+effectiveness. 
+
+iii 
+
+Introduction 
+
+Alternative Dispute Resolution (ADR) is a process in which a neutral third party 
+helps parties to reach an agreement without litigation. ADR uses various 
+techniques, such as mediation, peer review, fact finding, and facilitation. These 
+techniques help to reduce conflict as well as the cost, delay, and unpredictability of 
+the traditional adjudicatory processes.5 
+
+Despite the limited research found on this topic, past literature in legal counseling 
+found that ADR has both advantages and disadvantages. Professors O’Leary and 
+Raines (2001) studied the ADR program at the U.S. Environmental Protection 
+Agency and found high survey satisfaction on the fairness of the ADR proceedings 
+and the number of settlement options available. Professors Riley, Prenzler, and 
+McKillop (2020) analyzed complaint cases from all police stations and oversight 
+agencies in Australia and found high satisfaction after complainants used ADR 
+options. Similarly, attorneys Schiffer and Juni (1996) analyzed complaint cases 
+using ADR in the U.S. Department of Justice, and also found high satisfaction 
+among complainants who used in-person mediations.  
+
+Furthermore, researchers Saundry et al. (2018) highlighted numerous benefits of 
+mediation in the UK’s public sector towards facilitating employee voice, asserting 
+that ADR practices were more amenable to employees’ grievances than formal 
+litigation. However, they also found a power imbalance in the mediation room that 
+resembled a management process designed to stifle dissent rather than remedy 
+discrimination (Saundry et al., 2018). Interview responses from aggrieved 
+employees indicated that mediation was often used as a mechanism to get 
+employees back to work, instead of addressing the underlying problems between 
+management officials and their staff. Therefore, it’s essential to continue to study 
+employee perceptions of ADR to identify and mitigate issues that limit the fairness 
+and efficiency of these proceedings (Saundry et al., 2018).  
+
+In the Federal sector, the Administrative Dispute Resolution Act (ADRA) of 19906 
+was the first legislation requiring every Federal agency to implement a policy for 
+the use of ADR. By 2000, the EEOC required all Federal agencies to establish or 
+provide access to an ADR program for both the pre-complaint and formal complaint 
+stages of the EEO process.7 Additionally, under EEOC regulation 29 C.F.R. § 
+1614.603, agencies must make reasonable efforts to voluntarily resolve EEO 
+discrimination complaints as early as possible and throughout the administrative 
+process. 
+
+5 “Types of ADR Techniques,” EEOC, https://www.eeoc.gov/Federal-sector/types-adr-techniques. 
+
+6 Re-enacted in 1996 as the Administrative Dispute Resolution Act of 1996. 
+
+7 “Alternative Dispute Resolution (ADR) Overview,” EEOC, https://www.eeoc.gov/Federal-sector/alternative-
+dispute-resolution-adr-overview. 
+
+1 
+
+ 
+A 2021 study published by the Administrative Conference of the United States 
+found that Federal agencies faced several challenges that impacted the 
+effectiveness of ADR. These challenges included budgetary constraints, lack of 
+trained personnel, and varying levels of support from agency leadership (Blankley 
+et al., 2021). The study recommended that Federal agencies increase their ADR 
+program visibility (e.g., through their website, speeches, and press releases), 
+increase interagency collaboration, improve data collection and reporting (e.g., 
+feedback from ADR participants), and provide more comprehensive training for ADR 
+practitioners, among other recommendations (Blankley et al., 2021). 
+
+In its fiscal year (FY) 2021 report, Alternative Dispute Resolution in the Federal 
+Sector, the EEOC found that about 40 percent of Federal agencies had incomplete 
+ADR policies in FY 2019, with “failing to state the timeline involved in the ADR 
+process” being the most common issue. In addition, 4.3 percent of agencies had 
+critical ADR program deficiencies, such as not requiring managers and supervisors 
+to participate in ADR, allowing the manager named in the complaint to be the 
+settlement authority, and failing to regularly assess the effectiveness of the ADR 
+program.8 Lastly, survey results showed that a third of agencies did not conduct 
+regular self-assessments of their ADR program’s effectiveness, while nearly a 
+quarter did not annually evaluate their programs at all.9 
+
+Purpose and Scope  
+
+This follow-up report examines the impacts of Federal ADR programs on complaint 
+activity and complainant satisfaction. In this report, EEOC researchers sought to 
+answer: 
+
+•  How often is ADR used? 
+
+•  Does ADR reduce the number of formal complaints? 
+
+•  How satisfied in ADR process were complainants and managers who 
+
+participated?  
+
+•  Does the ADR format (i.e., video conference, in-person, or phone) impact 
+
+participant satisfaction? 
+
+This report offers findings and recommendations to improve the ADR process for 
+participants and reduce the number of formal complaints filed at Federal agencies. 
+This report is intended to serve as a resource to assist Federal agencies in 
+improving the utilization and effectiveness of ADR.  
+
+8 Alternative Dispute Resolution in the Federal Sector, EEOC, 2021, https://www.eeoc.gov/federal-
+sector/reports/alternative-dispute-resolution-federal-sector. 
+
+9 Alternative Dispute Resolution in the Federal Sector, EEOC, 2021, https://www.eeoc.gov/federal-
+sector/reports/alternative-dispute-resolution-federal-sector. 
+
+2 
+
+ 
+Methodology 
+
+This report analyzed three years of complaint data from the Annual Federal Equal 
+Employment Opportunity Statistical Report of Discrimination Complaints Data (Form 
+462), from FY 2019 to FY 2021. Form 462 tracks equal employment opportunity 
+(EEO) complaint activity at Federal agencies throughout each stage of the 
+complaint process—pre-complaint, formal complaint, investigations, and closure. 
+The EEOC’s Office of Federal Operations collects Form 462 data annually in 
+accordance with 29 C.F.R. § 1614.  
+
+The EEOC examined data collected from 154 Federal agencies out of a total of 526 
+agencies and subagencies reported by the U.S. Office of Personnel Management 
+(OPM). Agencies with less than 100 employees were removed from the analysis, as 
+the prevalence of low or no EEO activity among these agencies skewed aggregate 
+results. Agencies required to redact data for national security reasons were also 
+removed. This removed a total of 6,456 employees from the overall analysis, not 
+counting those removed from national security agencies. The discussion that follows 
+analyzed data on the remaining 3.1 million Federal employees. 
+
+In addition, EEOC researchers conducted a survey to gauge participant satisfaction 
+and opinions on the ADR process. To gather more detailed feedback, the EEOC also 
+conducted a focus group with ADR professionals, including mediators and 
+counselors. 
+
+3 
+
+ 
+ 
+ 
+ 
+Profile of Federal Sector ADR 
+
+The sample data drawn from Form 462 included approximately 3.1 million Federal 
+employees in FY 2021. Figure 1 shows that the vast majority of them—94.1 
+percent—worked at large Federal agencies (15,000 or more employees). By 
+comparison, medium agencies (1,001 to 14,999 employees) employed 5.0 percent 
+of workers, and small agencies (100 to 1,000 employees) another 0.9 percent of 
+workers. 
+
+Figure 1. Federal Employees by Agency Size, FY 2021 
+
+Small
+
+Medium Large
+
+0.9%
+(28,111)
+
+5.0%
+(154,973)
+
+94.1%
+(2,943,517)
+
+Notes: Small agencies had between 100 and 1,000 employees. Medium agencies had between 1,001 and 14,999 
+employees. Large agencies had 15,000 or more employees. 
+
+Source: U.S. Equal Employment Opportunity Commission, Statistical Report of Discrimination Complaints Data 
+(Form 462), FY 2021, Table B-1. 
+
+4 
+
+Across all sampled agencies in FY 2021, there were a total of 33,496 EEO 
+counselings. Figure 2 shows that the number of counselings were roughly 
+proportionate to agency size. For example, small agencies represented 0.9 percent 
+of the workforce and 1.1 percent of all completed counselings, while large agencies 
+represented 94.1 percent of the workforce and 95.9 percent of counselings.  
+
+Figure 2. Completed Counselings by Agency Size, FY 2021 
+
+Small
+
+Medium Large
+
+1.1%
+(360)
+
+3.1%
+(1,023)
+
+95.9%
+(32,108)
+
+Notes: Small agencies had between 100 and 1,000 employees. Medium agencies had between 1,001 and 14,999 
+employees. Large agencies had 15,000 or more employees. 
+
+Source: U.S. Equal Employment Opportunity Commission, Statistical Report of Discrimination Complaints Data 
+(Form 462), FY 2021, Table B-1. 
+
+5 
+
+Formal complaints were also roughly proportionate to agency size. Figure 3 shows 
+that large agencies accounted for the vast majority of formal complaints (93.9 
+percent), while small agencies accounted for the fewest (1.7 percent). Overall, 
+there were 12,906 formal complaints in FY 2021. 
+
+Figure 3. Formal Complaints Filed by Agency Size, FY 2021 
+
+Small
+
+Medium Large
+
+1.7%
+(215)
+
+4.5%
+(575)
+
+93.9%
+(12,116)
+
+Notes: Small agencies had between 100 and 1,000 employees. Medium agencies had between 1,001 and 14,999 
+employees. Large agencies had 15,000 or more employees. 
+
+Source: U.S. Equal Employment Opportunity Commission, Statistical Report of Discrimination Complaints Data 
+(Form 462), FY 2021, Table B-1. 
+
+6 
+
+ADR was offered and accepted by complainants at different rates during different 
+stages of the complaint process. Figure 4 shows that there were 33,496 completed 
+counselings in FY 2021. During the pre-complaint stage, ADR was offered at 29,424 
+(87.8 percent) of these counselings. Complainants accepted ADR in 18,595 (55.5 
+percent) counselings.  
+
+Figure 4. ADR Offers and Acceptances During Pre-Complaint Stage, FY 2021
+
+s
+g
+n
+
+i
+l
+
+e
+s
+n
+u
+o
+C
+
+l
+
+d
+e
+t
+e
+p
+m
+o
+C
+
+33,496
+
+29,424
+
+18,595
+
+40,000
+
+30,000
+
+20,000
+
+10,000
+
+0
+
+Completed Counselings
+
+Offered ADR
+
+ADR Accepted
+
+Note: ADR = Alternative Dispute Resolution. 
+
+Source: U.S. Equal Employment Opportunity Commission, Statistical Report of Discrimination Complaints Data 
+(Form 462), FY 2021, Table B-4. 
+
+By comparison, figure 5 shows that ADR was offered and accepted by complainants 
+far less often during the formal complaint stage. Out of 15,549 total complaint 
+closures, ADR was offered for 2,645 closures (17.0 percent) and accepted for 998 
+closures (6.4 percent). 
+
+Figure 5. ADR Participation Rate During Formal Complaint Stage, FY 2021 
+
+15,549
+
+16,000
+
+12,000
+
+s
+e
+r
+u
+s
+o
+C
+
+l
+
+i
+
+l
+
+t
+n
+a
+p
+m
+o
+C
+
+8,000
+
+4,000
+
+0
+
+2,645
+
+998
+
+Complaint Closures
+
+ADR Offered
+
+ADR Accepted
+
+Note: ADR = Alternative Dispute Resolution. 
+
+Source: U.S. Equal Employment Opportunity Commission, Statistical Report of Discrimination Complaints Data 
+(Form 462), FY 2021, Table B-19. 
+
+7 
+
+ 
+ 
+ADR closures mark a pivotal stage in the ADR process where parties either reach a 
+settlement and subsequently draft and sign an agreement or proceed with the 
+complaint if no settlement is reached. In the latter case, the investigation continues 
+as if mediation had not occurred. Figure 6 shows that ADR proceedings had various 
+outcomes in FY 2021. Out of 996 ADR closures, 31.0 percent (309 ADR closures) 
+resulted in settlements. Another 2.6 percent (26 closures) ended in withdrawals. 
+Thus, a total of 33.6 percent of all ADR closures led to resolutions (i.e., settlements 
+and withdrawals). 
+
+Figure 6. ADR Closures by Type, FY 2021
+
+1,000
+
+996
+
+s
+e
+r
+u
+s
+o
+C
+R
+D
+A
+
+l
+
+800
+
+600
+
+400
+
+200
+
+0
+
+309
+
+26
+
+ADR Closures
+
+ADR Settlements
+
+ADR Withdrawals
+
+Note: ADR = Alternative Dispute Resolution. 
+
+Source: U.S. Equal Employment Opportunity Commission, Statistical Report of Discrimination Complaints Data 
+(Form 462), Fiscal Year (FY) 2021, Table B-20. 
+
+Overall, the data presented in this section suggests that ADR was more effective 
+during the pre-complaint stage than the formal complaint stage—likely because 
+during the pre-complaint phase both parties may still have an opportunity to 
+preserve their relationships and prevent an escalation of conflict. ADR methods like 
+mediation and negotiation allow each party to communicate directly and find 
+mutually acceptable solutions without the adversarial nature of formal proceedings. 
+Additionally, resolving disputes early in the ADR process can save a significant 
+amount of time and resources compared to formal litigation or arbitration. It avoids 
+the lengthy procedural steps and costs associated with formal proceedings, such as 
+discovery, motions, and court appearances. ADR processes are generally less 
+formal and rigid than formal litigation. This informality allows parties to tailor the 
+process to their specific needs and issues, making it easier to explore creative 
+solutions that may not be available through formal legal channels. Finally, some 
+
+8 
+
+ 
+focus groups participants believed that by the time ADR reaches the formal stage, 
+both parties are firmly committed to their positions and ADR begins to lose its 
+effectiveness.  
+
+In FY 2021, ADR was offered at a rate five times higher during the pre-complaint 
+stage compared to the formal stage, and it was accepted by complainants at a rate 
+eight times higher. While only 6.4 percent of complainants accepted ADR during the 
+formal stage, approximately one-third of all ADR closures resulted in resolutions, 
+primarily through settlements. This highlights the effectiveness of ADR in achieving 
+mutually agreeable outcomes even when initially met with resistance.  
+
+Survey on ADR Process 
+
+The EEOC conducted a survey10 to gather data on participant satisfaction with the 
+ADR process. Due to limited resources, EEOC researchers restricted the survey to 
+the same 24 agencies surveyed in the fiscal year 2021 ADR report. This survey was 
+voluntary and remained open from May 17 to June 23, 2022—a total of 27 business 
+days. Out of an estimated Federal workforce of 2 million, only 217 employees 
+responded to the survey. Due to the small sample size, the EEOC did not use the 
+survey results to produce findings or recommendations. However, the EEOC still 
+encourages agencies to review this information to improve their ADR programs.  
+
+The survey included a disqualifier (“Does your agency provide annual agency-wide 
+ADR training?”) to focus only on the views of ADR participants. Out of the 217 
+respondents, 99 did not know whether their agency provided annual agency-wide 
+ADR training and 60 said their agency did not provide annual ADR training. Only 58 
+respondents reported that their agency provided agency-wide ADR training 
+annually. 
+
+The survey asked whether respondents had participated in ADR as either 
+complainants or responsible management officials (RMOs). Out of the 217 
+respondents, 82 had not participated in ADR, 13 had participated but not as a 
+complainant or RMO, and 10 did not answer. That left 112 respondents—83 who 
+participated as complainants and 29 as RMOs. However, only 72 complainants and 
+23 RMOs answered the remaining questions. 
+
+Perceptions of ADR Process 
+
+The EEOC’s Management Directive 110 states that, to ensure fairness, the ADR 
+process should be voluntary, neutral, confidential, and enforceable.11 The survey 
+asked all respondents whether they felt the ADR process was fair (figure 7). Of the 
+
+10 For the purpose of this report survey data is explained by the number of responses in lieu of percentage because 
+the participation rate was extremely low. 
+
+11 For more detailed information, see Chapter 3 of EEOC Management Directive 110 
+(https://www.eeoc.gov/Federal-sector/management-directive/chapter-3-alternative-dispute-resolution-eeo-
+matters). 
+
+9 
+
+72 complainants who responded, most complainants did not feel it was fair, with 28 
+strongly disagreeing and another 18 disagreeing. The opposite was true for RMOs; 
+most of the 23 RMOs who responded felt that the ADR process was fair (10 strongly 
+agreed and 11 agreed). Only 2 RMOs either strongly disagreed or disagreed. 
+
+Figure 7. Was the ADR Process Fair? 
+
+1
+
+1
+
+Strongly
+Disagree
+
+Disagree
+
+Agree
+
+Strongly Agree
+
+4
+
+5
+
+0
+
+Complainants
+
+RMOs
+
+28
+
+18
+
+22
+
+11
+
+10
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Number of Respondents
+
+Notes: RMOs = Responsible Management Officials. ADR = Alternative Dispute Resolution. 
+
+Source: U.S. Equal Employment Opportunity Commission. 
+
+The EEOC also asked complainants whether their complaint was fully resolved 
+during ADR. Only ten out of 72 respondents said yes. In addition, most 
+complainants (33) felt that the ADR process took too long. By comparison, 20 
+complainants said the process was too short and 19 said ADR was completed in a 
+fair amount of time. The EEOC asked RMOs whether their agency had sought 
+feedback after ADR—14 said no, while nine said yes. 
+
+Next, the EEOC surveyed both complainants and RMOs regarding their satisfaction 
+with their ADR participation (see figure 8). Thirteen complainants and six RMOs 
+reported having no prior expectations. Among complainants, 50 responded 
+negatively, while only nine responded affirmatively. In contrast, most RMOs (14) 
+reported that the ADR process met their expectations, with only three indicating 
+
+10 
+
+dissatisfaction. Respondents were able to specify reasons why the ADR process did 
+not meet their expectations. Respondent responses included:  
+
+• Yes, it’s common knowledge that ADR will NOT result in anything. ADR is
+
+viewed as “part of the process.”
+
+• The mediator was not familiar with agency policies and appeared to side with
+
+the agency because of that lack of understanding.
+
+•
+
+I had a 15-minute phone call to state my case.
+
+• The behavior decreased slightly and became more gaslighting, sabotage and
+less visible. This behavior was not due to the ADA process but to a lack of
+supervisory follow up and lack of accountability.
+
+•
+
+I felt like the process was a waste of time and no reasonable solution was
+ever met, even with my willingness to meet them somewhere halfway.
+
+Figure 8. Were Your Expectations for Participating in ADR Met? 
+
+Complainants
+
+RMOs
+
+No
+
+3
+
+50
+
+I did not have any
+expectations
+
+13
+
+6
+
+Yes
+
+9
+
+14
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Number of Respondents
+
+Notes: RMOs = Responsible Management Officials. ADR = Alternative Dispute Resolution. 
+
+Source: U.S. Equal Employment Opportunity Commission. 
+
+11 
+
+The EEOC also assessed the satisfaction level with the ADR process (figure 9). The 
+majority of complainants felt either very dissatisfied (34) or dissatisfied (17). In 
+contrast, only 2 RMOs felt that way. Most RMOs felt either satisfied (14) or very 
+satisfied (7) with the ADR process. 
+
+Figure 9. Overall, How Satisfied Were You with the ADR Process?
+
+Complainants
+
+RMOs
+
+34
+
+Very
+Dissatisfied
+
+Dissatisfied
+
+Satisfied
+
+1
+
+1
+
+Very Satisfied
+
+7
+
+6
+
+17
+
+14
+
+15
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Number of Respondents
+
+Notes: RMOs = Responsible Management Officials. ADR = Alternative Dispute Resolution. 
+
+Source: U.S. Equal Employment Opportunity Commission. 
+
+To dig deeper, the EEOC asked respondents whether they were considering leaving 
+their organization within the next year (figure 10). Most RMOs (17) said no, as well 
+as 31 complainants. However, a total of 41 complainants said they were considering 
+leaving for various reasons. For example, 16 complainants said they were 
+considering taking another job in the Federal Government and 2 complainants were 
+considering taking a job in the private sector. By comparison, only a total of 6 
+RMOs said they were considering leaving their agency within the next year. 
+
+12 
+
+Figure 10. Are You Considering Leaving Your Organization within the Next Year? 
+
+Complainants
+
+RMOs
+
+31
+
+17
+
+21
+
+16
+
+No
+
+Yes, Other Reason
+
+Yes, to Take Another Federal Job
+
+Yes, to Take Job Outside the Federal
+Government
+
+Yes, to Retire
+
+1
+
+2
+
+2
+
+1
+
+2
+
+2
+
+0
+
+10
+
+20
+
+30
+
+40
+
+Number of Respondents
+
+Notes: RMOs = Responsible Management Officials. ADR = Alternative Dispute Resolution. 
+
+Source: U.S. Equal Employment Opportunity Commission. 
+
+The survey asked respondents who were considering leaving their agency whether 
+participating in the ADR process had influenced that decision. Only six complainants 
+and five RMOs said no. By comparison, 35 complainants and one RMO said yes for 
+various reasons. Some reasons for ‘yes’ responses were: 
+
+•
+
+Fear of reprisal and exclusion from future promotion considerations.
+
+• The harassment continued and reprisal for engaging in the EEO process.
+
+• Need to address personal family matters.
+
+Notably, 17 complainants reported that retaliation after participating in the ADR 
+process had led them to consider leaving. 
+
+13 
+
+Other Survey Results 
+
+The EEOC asked all respondents about the format used to conduct ADR (figure 11). 
+The majority of complainants (49) and RMOs (15) indicated that ADR was 
+conducted via video conferencing. By comparison, 10 complainants and three RMOs 
+stated that ADR was conducted in-person. And another eight complainants and four 
+RMOs stated ADR was conducted by telephone. 
+
+Figure 11. How was ADR Conducted? 
+
+Complainants
+
+RMOs
+
+Video
+Conferencing
+
+15
+
+49
+
+In-Person
+
+3
+
+Telephone
+
+Other
+
+1
+
+10
+
+8
+
+4
+
+5
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Number of Respondents
+
+Notes: RMOs = Responsible Management Officials. ADR = Alternative Dispute Resolution. “Other” allowed 
+respondents to submit their own answers, such as email, phone plus email, and in-person but without all parties 
+present. 
+
+Source: U.S. Equal Employment Opportunity Commission. 
+
+In addition, the survey asked the 23 RMOs whether their participation in ADR was 
+voluntary—13 said yes, while the other 10 said no. Some agencies require 
+management participation in ADR. The survey also asked the RMOs whether they 
+had settlement authority, and the majority (18) reported they did. 
+
+Next, the EEOC asked the complainants whether they were familiar with ADR before 
+entering the process. Results were roughly split, with 39 answering no and the 
+remaining 33 answering yes. The majority of complainants (53 out of 72) reported 
+that ADR was completed during the pre-complaint stage. Furthermore, 
+complainants had the option to specify one or more EEO issues and bases that 
+
+14 
+
+applied to their complaints. The top response was Harassment (Non-Sexual), which 
+was selected 40 times, followed by Appointment/Hire, which was selected 26 times. 
+
+The EEOC also asked complainants if anyone from management had participated in 
+their ADR. Most complainants (59) said yes. When asked whether they trusted that 
+the mediator was a neutral party, 40 complainants said yes, but 32 said no. 
+Furthermore, most complainants (52) said that they were aware that they could 
+terminate ADR at any time. That left 20 complainants who were not aware, which is 
+concerning. EEO Counselors are required to inform the complainant about the 
+stages of the EEO process and that they may choose between the agency’s ADR 
+program and traditional EEO counseling.12 The EEO Counselor must also advise 
+about other appropriate statutory or regulatory forums, such as the Merit Systems 
+Protection Board or a negotiated grievance process. 
+
+Most complainants (43) did not have a representative present. Only 15 
+complainants had an attorney present and another 7 had a union representative 
+present. The remaining seven complainants reported other options, such as a 
+family member, a supervisor, or not being aware they could have an attorney 
+present.  
+
+Focus Group of ADR Professionals 
+
+The EEOC initially sought to conduct a focus group of the RMOs who responded to 
+the survey. However, not enough RMOs showed interest to conduct a focus group. 
+As a result, the EEOC decided to conduct the focus group with Federally employed 
+ADR professionals, such as counselors and mediators. This excluded EEO Directors, 
+since they had already participated in a focus group discussed in the previous ADR 
+report. 
+
+To gather participants, the EEOC reached out to one of its EEO Specialists for 
+referrals. The focus group took place on July 6, 2022 with 11 participants. All the 
+participants provided feedback on their experiences with the ADR process and 
+suggestions for improvements. 
+
+The discussion centered around the following questions: 
+
+1. How many times in the last year have you conducted an ADR during the
+
+informal or formal complaint stage?
+
+2. In your opinion, does the method and format in which ADR is conducted
+
+contribute to the success of the process? Why?
+
+3. Does the format contribute to the participant satisfaction? Why?
+
+12 See Chapter 2 of EEOC Management Directive 110 (https://www.eeoc.gov/Federal-sector/management-
+directive/chapter-2). 
+
+15 
+
+4. In your experience, how do you believe the ADR process is perceived by
+
+participants? Do they feel satisfied with their experience? Why?
+
+5. As an ADR Professional, what have been some challenges you have faced in
+
+conducting ADR?
+
+6. What is one obstacle that could explain low ADR participation rates at some
+
+agencies?
+
+7. What are some “promising practices” you’ve seen conducted by participating
+
+agencies that could be helpful to other Federal agencies’ ADR process?
+
+The vast majority of the ADR professionals (10 out of 11) mediated either informal 
+or formal ADR sessions within the last three years. Overall, the group 
+recommended that senior leadership, management officials, and legal 
+representatives approach ADR not as adversaries but with the common goal of 
+identifying the specific grievance and seeking a resolution to satisfy both parties. 
+The group felt it was generally better to resolve issues at the lowest level possible 
+before the formal complaint stage.  
+
+In order to reach consensus, the group stressed that the right participants must be 
+present during the ADR process. Any progress made may be derailed if an 
+agreement is reached but later changed or denied. One ADR professional said that 
+even changing a single word could nullify the entire agreement. Overall, the group 
+felt that the interaction between the complainant and the alleged discriminating 
+official was essential to work toward healing and resolution—especially early on. By 
+the time the complaint reaches the formal stage, the parties are often entrenched 
+in their positions. 
+
+When asked about the impact of the ADR format, opinions within the group were 
+divided. Prior to the COVID-19 pandemic, most members had not utilized formats 
+such as video conferencing, email, or telephone. The group acknowledged that 
+COVID-19 necessitated a reevaluation of ADR options. However, the group 
+expressed concerns that these remote formats sometimes made it challenging to 
+discern whether others were actively engaged, potentially undermining trust in the 
+ADR process. Ultimately, the group valued the interpersonal connections facilitated 
+by face-to-face mediations.  
+
+However, complainants may feel differently about the ADR format. For example, in 
+cases that involve harassment, complainants often preferred not to meet in-person 
+because they did not want to be in the same room as the alleged harasser. As an 
+alternative, the ADR professionals preferred conducting ADR through video 
+conferencing rather than telephone or email. Video conferencing offers the 
+complainant the opportunity to be heard and the mediator the opportunity to 
+observe the participants’ body language. As a result, the group felt that virtual 
+
+16 
+
+meetings played a positive role in ADR participant satisfaction in some cases, such 
+as harassment cases. 
+
+Next, the EEOC asked how ADR was perceived by participants. The group stated 
+that some ADR participants felt like it was a “shakedown by management” or a 
+“waste of time,” where agency attorneys were present to assess whether there was 
+a legitimate case rather than to participate in good faith towards a resolution both 
+parties could accept. One ADR professional said, “Once participants enter the 
+process, reprisal becomes an issue because managers start to look for anything and 
+everything to write up against the employee. People do not want sympathy. They 
+want understanding.”  
+
+The group felt that educating participants about ADR early in the process and 
+having the settlement authority present may lead to a resolution more quickly. Still, 
+the ADR process requires some patience. It may take a few sessions to reach a 
+resolution, especially in the more complex cases. The group recommended that 
+mediators follow up ADR with a survey. One ADR professional stressed that when 
+the mediation is run well, even if the parties do not settle, the parties are thankful 
+for the chance to sit down and talk. The better run the mediation, the likelier 
+participants may become advocates for the ADR program. 
+
+Summary of Findings 
+
+In this report, the EEOC made several findings about the ADR process in FY 2021. 
+The profile data revealed that ADR was offered and accepted far more often in the 
+pre-complaint stage than during the formal complaint stage. During the pre-
+complaint stage, ADR was offered in 87.8 percent of counselings and accepted in 
+55.5 percent of them. In contrast, during the formal complaint stage, ADR was 
+offered in 17.0 percent of closures and accepted in 6.4 percent of closures. 
+Furthermore, only about a third of ADR closures in the formal complaint stage led 
+to a resolution (either a settlement or withdrawal). This suggests that ADR was 
+more effective early in the process.  
+
+The survey revealed that complainants and responsible management officials 
+(RMOs) often had opposite perceptions of the ADR process. Most complainants felt 
+dissatisfied with the ADR process, saying it was unfair and did not meet 
+expectations. As a result, many complainants reported that their participation in the 
+ADR process had made them consider leaving their agency. In contrast, most RMOs 
+felt the ADR process was fair and met expectations. Few RMOs were considering 
+leaving their agency within the next year. 
+
+Lastly, the focus group encouraged all ADR participants to be informed about the 
+process before the first meeting. To reach a resolution more quickly, the group 
+urged all parties and the settlement authority to be present throughout the ADR 
+process. They also stressed that all parties should enter ADR in the spirit of 
+
+17 
+
+cooperating towards a mutually agreeable resolution. The group felt that 
+management, more often than not, approached ADR with an adversarial mindset 
+that eroded trust in the process.  
+
+Given the above findings, the EEOC recommends that: 
+
+Recommendations  
+
+1.  Agencies should ensure that employees and managers receive annual 
+
+training on the ADR process to increase awareness and understanding of the 
+process. In addition, employees should be kept informed throughout every 
+step of the ADR process.13 
+
+2.  Mediators should continue the best practice of meeting with complainants 
+and RMOs separately during the pre-complaint stage. In addition, the 
+settlement authority14 should always be present in the room, in case a 
+resolution is reached.  
+
+3.  ADR professionals should focus on improving the experience of the ADR 
+
+process for all parties, not just on reaching a resolution.  
+
+4.  Agency leadership should show support for ADR by publicizing the agency’s 
+
+ADR policy statement. 
+
+5.  Agencies should create an agency tool (i.e., post-ADR survey or template) to 
+
+collect feedback after the mediation process. This feedback can provide 
+insights into the mediator’s effectiveness and whether the mediation was 
+perceived as fair. Agencies should address any concerns raised through this 
+feedback. 
+
+6.  Agencies should review and implement the recommendations listed in the 
+
+EEOC’s FY 2021 ADR report. 
+
+Conclusion 
+
+Disputes can happen in any workplace. Making all Federal employees aware of ADR 
+can help agencies resolve disputes quicker and less costly than traditional 
+adjudication methods. Ensuring that all parties come to the table with an open, 
+cooperative mindset will contribute to a more effective ADR program. 
+
+The EEOC would like to thank the participants of the survey and focus group 
+discussed in this report. The findings discussed in this report show that ADR offers a 
+viable option to prevent and resolve complaints of employment discrimination. The 
+findings and recommendations in this report are intended to provide some insight 
+
+13 For detailed guidance on providing ADR training, see Section II.C. of Chapter 3 of EEOC Management Directive 
+110 (https://www.eeoc.gov/Federal-sector/management-directive/chapter-3-alternative-dispute-resolution-eeo-
+matters). 
+
+14 The RMO cannot be the individual with settlement authority. 
+
+18 
+
+ 
+into the use and effectiveness of ADR in the Federal sector. The information in this 
+report is intended to assist Federal agencies in their efforts to combat 
+discrimination and resolve EEO complaints in an effective manner. The EEOC will 
+continue to offer guidance to Federal agencies on how to strengthen their EEO 
+programs in an effort to become model employers.  
+
+19 
+
+ 
+ 
+ 
+References 
+
+Blankley, K., Claussen, K., & Starr, J. (2021). “Alternative Dispute Resolution in 
+
+Agency Administrative Programs.” In Administrative Conference of the United 
+States. Administrative Conference of the United States. 
+https://www.acus.gov/document/alternative-dispute-resolution-agency-
+administrative-programs-final-report  
+
+O'Leary, R., & Raines, S. (2001). “Lessons Learned from Two Decades of 
+Alternative Dispute Resolution Programs and Processes at the U.S. 
+Environmental Protection Agency.” Public Administration Review, 61(6), 682-
+692.  http://www.jstor.org/stable/3110003
+
+Riley, M., Prenzler, T., & McKillop, N. (2020). “Alternative dispute resolution and 
+
+mediation of complaints against police in Australia and New Zealand.” Police 
+Practice and Research, 21:1, 3-17, DOI:10.1080/15614263.2018.1500284  
+
+Saundry, R., Bennett, T., & Wibberley, G. (2018). “Inside the mediation room - 
+
+efficiency, voice and equity in workplace mediation.” International Journal of 
+Human Resource Management, 29(6), 1157-1177.  
+https://doi.org/10.1080/09585192.2016.1180314 
+
+Schiffer, L. J., & Juni, R. L. (1996). “Alternative Dispute Resolution in the 
+
+Department of Justice.” Natural Resources & Environment, 11(1), 11–66. 
+http://www.jstor.org/stable/40924308  
+
+U.S. EEOC (2021). Alternative Dispute Resolution in the Federal Sector. U.S. Equal 
+
+Employment Opportunity Commission. 
+
+20 
+
+Appendix A: Glossary 
+
+•  Alternative Dispute Resolution: A variety of alternative approaches (such 
+as mediation and arbitration) to resolving conflict instead of using traditional 
+adjudicatory methods. 
+
+•  Complaints: An EEO dispute during the formal complaint stage of the EEO 
+
+process. 
+
+•  Counselings: An EEO dispute during the pre-complaint stage of the EEO 
+
+process. 
+
+•  Neutral: "An individual who, with respect to an issue in controversy, 
+
+functions specifically to aid the parties in resolving the controversy. This 
+should be an impartial third party who has no vested interest in the outcome 
+of a dispute.”15 
+
+•  Resolution: Resolutions include settlements where individuals received 
+
+monetary and/or non-monetary benefits and matters where the individual 
+withdrew a counseling or a complaint from the EEO process.  
+
+•  Settlements: A counseling or complaint where the individual received 
+
+monetary and/or non-monetary benefits from the agency to withdraw the 
+matter from the EEO process. 
+
+•  Withdrawal: A counseling or complaint where the individual withdrew the 
+matter from the EEO process without receiving any monetary and/or non-
+monetary benefits from the agency. In the pre-complaint stage, a withdrawal 
+is also referred to as “No Formal Complaint Filed.”16  
+
+15 See Chapter 3 of EEOC Management Directive 110 (https://www.eeoc.gov/Federal-sector/management-
+directive/chapter-3-alternative-dispute-resolution-eeo-matters). 
+
+16 See Section K of the FY 2005 ADR report from the EEOC (Conclusion of ADR Report: ADR in the Federal Sector 
+EEO Process for FY 2005 (https://www.eeoc.gov/Federal-sector/adr-report-adr-Federal-sector-eeo-process-fy-
+2005). 
+
+21 
+
+ 
+ 
+ 
+Appendix B: Survey Questions 
+
+The EEOC survey on the ADR process asked 30 questions along two separate paths: 
+one for complainants and another for responsible management officials (RMOs). 
+However, both complainants and RMOs were asked the following 6 questions: 
+
+• How was ADR conducted?
+
+• Were your expectations for participating in ADR met?
+
+• To what extent do you agree with this statement: The ADR process was fair?
+
+• Overall, how satisfied were you with the ADR process?
+
+• Are you considering leaving your organization within the next year, and if so,
+
+why?
+
+• Did participating in the ADR process influence your decision to consider
+
+leaving your organization?
+
+Complainants only were asked: 
+
+• Were you familiar with ADR prior to entering into the process?
+
+• Please identify the issue(s) involved in your complaint.
+
+• What was the basis or bases of your complaint addressed during ADR?
+
+• Did anyone from management participate in the ADR Process?
+
+• As a complainant, did you trust that your mediator was a neutral party?
+
+• Were you aware that you could terminate ADR at any point of the process?
+
+• Did you have an attorney or other representative (e.g., union official) present
+
+during the ADR process to provide you with support and advice?
+
+• Was your complaint fully resolved during ADR?
+
+• As a complainant, what was the length of time it took to resolve the issue?
+
+RMOs only were asked: 
+
+• As the individual named as the RMO, was your participation in ADR
+
+voluntary?
+
+• As a RMO or Agency Official, do you have settlement authority?
+
+• Did your agency seek feedback after your mediation?
+
+• EEOC will convene a focus group of RMOs for further discussion on this topic.
+
+Would you be willing to be a member of this group?
+
+22 
+
+

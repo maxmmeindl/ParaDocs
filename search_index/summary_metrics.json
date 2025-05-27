@@ -1,0 +1,42 @@
+{
+  "generated_at": "2025-05-26T21:09:28.313231",
+  "total_documents": 449,
+  "total_keywords": 554,
+  "total_dates": 381,
+  "duplicate_groups": 95,
+  "violations": [
+    {
+      "violation": "FMLA Interference",
+      "docs": 125,
+      "weight": 130
+    },
+    {
+      "violation": "HIPAA / Privacy Act Breach",
+      "docs": 48,
+      "weight": 53
+    },
+    {
+      "violation": "Failure to Accommodate (ADA)",
+      "docs": 46,
+      "weight": 51
+    },
+    {
+      "violation": "Retaliatory Termination",
+      "docs": 27,
+      "weight": 32
+    },
+    {
+      "violation": "Whistleblower Retaliation",
+      "docs": 18,
+      "weight": 23
+    },
+    {
+      "violation": "Due Process Violation",
+      "docs": 2,
+      "weight": 7
+    }
+  ],
+  "exposure_low": 1184000,
+  "exposure_high": 1776000,
+  "retaliation_days": "N/A"
+}

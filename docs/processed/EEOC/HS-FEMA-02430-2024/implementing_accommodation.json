@@ -1,0 +1,32 @@
+{
+  "document_id": "EEOC-implementing_accommodation-20250526",
+  "document_type": [
+    "Interactive_Process"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "implementing_accommodation.pdf",
+    "file_size": 185961,
+    "file_hash": "a66eaa38f7f59962410651db3f28cdbe5169c016a140a12420d76d0129acfdb2",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:21.926653",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:21.926653",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

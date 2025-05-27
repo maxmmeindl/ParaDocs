@@ -1,0 +1,33 @@
+{
+  "document_id": "OTHER-Family Medical Leave Act form.eml[1]-20250526",
+  "document_type": [
+    "Medical_Documentation",
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Family Medical Leave Act form.eml[1].eml",
+    "file_size": 461696,
+    "file_hash": "5dd3dca4115a2ca3a8c9e49171556bd535d537030c4c0cfb33f45da4ace1c6a7",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:24.771479",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:24.771479",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

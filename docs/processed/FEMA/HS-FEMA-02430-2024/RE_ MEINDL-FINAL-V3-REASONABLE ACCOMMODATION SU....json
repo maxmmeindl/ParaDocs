@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RE_ MEINDL-FINAL-V3-REASONABLE ACCOMMODATION SU...-20250526",
+  "document_type": [
+    "Interactive_Process"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RE_ MEINDL-FINAL-V3-REASONABLE ACCOMMODATION SU....pdf",
+    "file_size": 271222,
+    "file_hash": "a4633613458a6ae45030cb262ee0e4830f22de08a434c89d68b34e54114a0e30",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:19.908567",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:19.908567",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

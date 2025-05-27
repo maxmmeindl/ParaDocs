@@ -78,7 +78,7 @@
 - FEMA has burden to prove failure to mitigate
 
 **Factors:**
-- **Age 74** - extreme age discrimination in job market
+- **Age 74** - serious age discrimination in job market
 - No employer will hire someone turning 74
 - Specialized federal experience not transferable
 - Multiple medical conditions requiring accommodations
@@ -116,7 +116,7 @@
 
 **Factors Supporting High Award:**
 1. **Duration:** 7+ years of ongoing discrimination
-2. **Severity:** 1,340-day delay is extreme
+2. **Severity:** 1,340-day delay is serious
 3. **Physical manifestations:** Sleep loss, anxiety, depression
 4. **Career destruction:** Loss of professional identity
 5. **Humiliation:** 47 officials aware of mistreatment
@@ -224,8 +224,8 @@
 ### Updated Settlement Range: $900,000 - $1,400,000
 
 **Factors Supporting High Settlement:**
-1. **Automatic liability** on 1,340-day claim
-2. **Age 74** - devastating impact of late-career termination
+1. **likely liability** on 1,340-day claim
+2. **Age 74** - substantial impact of late-career termination
 3. **Class action exposure** from systemic failures
 4. **Media risk** - "FEMA fires 74-year-old disabled veteran after 1,340-day delay"
 5. **Discovery costs** - 47 officials, 7 years of documents
@@ -273,7 +273,7 @@
 5. FEMA policies and training records
 
 ### Settlement Leverage Points:
-- **"1,340 days"** - shocking number for headlines
+- **"1,340 days"** - significant number for headlines
 - **"No tracking for 7 years"** - systemic liability
 - **"Disabled veteran"** - sympathetic plaintiff
 - **"Hurricane victim"** - FEMA failed own mission
@@ -283,7 +283,7 @@
 ## IX. CONCLUSION
 
 The $2.3M+ demand (including attorney's fees) is aggressive but defensible given:
-- Extreme nature of violations (1,340 days)
+- serious nature of violations (1,340 days)
 - **Age 74** - irreparable harm to career
 - Multiple statutory violations
 - Clear retaliation (17-day termination)

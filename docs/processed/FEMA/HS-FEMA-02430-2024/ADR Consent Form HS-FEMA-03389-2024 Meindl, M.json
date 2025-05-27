@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-ADR Consent Form HS-FEMA-03389-2024 Meindl, M-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "ADR Consent Form HS-FEMA-03389-2024 Meindl, M.pdf",
+    "file_size": 158881,
+    "file_hash": "ce60c25de8e9f9a9d2b110e93e74106a1322b822a1d37d5952ae1b0ab2d3c49b",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:59.364094",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:59.364094",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

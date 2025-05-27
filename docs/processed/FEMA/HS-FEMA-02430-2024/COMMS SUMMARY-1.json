@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-COMMS SUMMARY-1-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "COMMS SUMMARY-1.pdf",
+    "file_size": 297412,
+    "file_hash": "010c92464e5fdfb5e7144015fb1d954ab5f0ee2aa0abf7e280dfcd57236c4ac0",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:03.880918",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:03.880918",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

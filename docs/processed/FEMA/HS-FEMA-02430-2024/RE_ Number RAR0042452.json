@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RE_ Number RAR0042452-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RE_ Number RAR0042452.pdf",
+    "file_size": 241359,
+    "file_hash": "33a9ca04375bd05e793b7aa12c2ddb54cfe9b0cf3aef831adf198c26cc362e5f",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:20.093672",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:20.093672",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

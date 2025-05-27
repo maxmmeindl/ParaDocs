@@ -1,0 +1,1718 @@
+FEDERAL EMERGENCY 
+MANAGEMENT AGENCY 
+
+MANUAL   
+
+December 3, 2002 
+
+1430.1 Chg. 1  
+
+ER 
+
+Date 
+
+Number 
+
+Reasonable Accommodation   
+for the  
+Federal Emergency Management Agency 
+
+Foreword 
+
+1.  Purpose.  This transmits changes to FEMA Manual 1430.1, “Reasonable Accommodation for 
+the Federal Emergency Management Agency” (FEMA), dated August 22, 2001.  Requests for 
+reasonable accommodations will be processed by FEMA, and where appropriate, provided in a 
+prompt, fair and efficient manner. 
+
+2.  Action Required.  Holders of FEMA Manual 1430.1, shall file this transmittal sheet in front 
+of the Manual for reference purposes. 
+
+3.  Change Lines.  A vertical line in the right or left margins immediately opposite the new or 
+revised material indicates new or revised material appearing on the change page.   
+
+Insert   
+
+New Table of Contents 
+
+Pages 1-1, 1-2, and 1-3 
+
+Pages 2-1 
+
+Page 3-1 
+
+Page 4-3 
+
+Page 5-1, 5-2 and 5-3   
+
+Pages 8-1 and 8-2 
+
+Remove 
+
+Old Table of Contents 
+
+Page 1-1 and 1-2 
+
+Page 2-1 and 2-2 
+
+Page 3-1 
+
+Page 4-3 
+
+Page 5-1 and 5-2 
+
+Pages 8-1 and 8-2 
+
+/s/ 
+
+___________________________ 
+Joe M. Allbaugh 
+Director 
+
+Distribution:  J(AllPersHQFld) ) http://www.fema.gov/library/femainfo.shtm 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+            
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 3, 2002 
+
+FEMA Manual 1430.1 Chg.1 
+
+Contents 
+
+Chapter 1 - General Information 
+
+Page 
+
+Paragraph   
+
+Purpose 
+Applicability and Scope 
+Policy   
+Procedures 
+Authority 
+References 
+Responsibilities 
+Definition of Key Terms 
+Forms Prescribed 
+
+Chapter 2 - Request For Reasonable Accommodations 
+
+Reasonable Accommodations  
+Written Requests 
+
+Chapter 3 - Examples of Accommodations 
+
+Computer and Electronic Assistive Devices   
+Reader or Sign Language Interpreter  
+Accessible Parking/Materials  
+Telework 
+
+Chapter 4 - Interactive Process 
+
+Interactive Process 
+Requests for Medical Information 
+Confidentiality Requirements  
+
+Chapter 5 - Time Frames 
+
+Processing Requests 
+Extenuating Circumstances 
+
+1-1 
+1-1 
+1-1 
+1-1 
+1-1 
+1-1 
+1-2 
+1-2 
+1-3 
+
+2-1 
+2-1 
+
+3-1 
+3-1 
+3-1 
+3-1 
+
+4-1 
+4-2 
+4-3 
+
+5-1 
+5-1 
+
+Chapter 6 - Granting A Reasonable Accommodation Request 
+
+Granting a Request 
+Denial of a Request 
+Dispute Resolution 
+
+6-1 
+6-1 
+6-2 
+
+1-1    
+1-2 
+1-3 
+1-4 
+1-5 
+1-6    
+1-7 
+1-8 
+1-9 
+
+2-1 
+2-2 
+
+3-1    
+3-2 
+3-3 
+3-4 
+
+4-1    
+4-2 
+4-3 
+
+5-1    
+5-2 
+
+6-1    
+6-2 
+6-3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEMA Manual 1430.1 Chg.1 
+
+December 3, 2002 
+
+i 
+
+Page 
+
+Paragraph   
+
+Chapter 7 - Claims 
+
+Statutory and Collective Bargaining Claims   
+
+7-1 
+
+7-1 
+
+Chapter 8 – Assistance Information  
+
+Tracking and Reporting  
+Inquiries 
+Distribution 
+Resource Assistance 
+
+8-1 
+8-1 
+8-1 
+8-2 
+
+8-1    
+8-2 
+8-3 
+8-4 
+
+Appendix A - FEMA Form 14-13, "Request for Reasonable Accommodation" 
+
+Appendix B - FEMA Form 14-13A, “Reasonable Accommodation Information Reporting 
+Form"   
+
+Appendix C - Department of Defense (DOD) – CAP (Computer Accommodation Program) 
+Accommodation Request Form 
+
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 3, 2002 
+
+FEMA Manual 1430.1 Chg.1 
+
+ii 
+Chapter 1 
+
+General Information 
+
+1-1.  Purpose. This manual establishes the policy and procedures for the Federal Emergency 
+Management Agency (FEMA) on reasonable accommodation.   
+
+1-2.  Applicability and Scope. The provisions of this manual are applicable to permanent full-
+time and part-time employees, Cadre On-Call Response (CORE) employees, Disaster Assistance 
+Employees (DAEs), disaster local hires and applicants for any of these positions at FEMA. 
+
+1-3.  Policy.  FEMA's policy is to fully comply with the reasonable accommodation 
+requirements of the Rehabilitation Act of 1973.  Under the law, Federal agencies must provide 
+reasonable accommodations to qualified individuals with disabilities, except in cases where this 
+would cause undue hardship.  (See Section 1-8 for definitions of “Qualified Individual With a 
+Disability” and “Undue Hardship.”)   
+
+1-4.  Procedures.  Requests for reasonable accommodation can be made as follows: 
+
+a.  An employee may request a reasonable accommodation orally or in writing from his/her 
+
+immediate supervisor or the Disability Program Manager.  Any request must be documented on 
+Form 14-13, “Request for Reasonable Accommodation” (Appendix A). 
+
+b.  An applicant for employment may request a reasonable accommodation 
+
+orally or in writing from any FEMA employee with whom s/he has contact in connection 
+with the application process.  Such employee must forward the request to the appropriate 
+decision maker (as delineated in Section 1-7) as soon as possible.  An applicant for employment 
+may also request reasonable accommodation from the Disability Program Manager in the Office 
+of Equal Rights.  An oral request must be documented on Form 14-13, “Request for Reasonable 
+Accommodation” (Appendix A).   
+
+c.  A family member, health professional, or other representative may request an 
+
+accommodation on behalf of a FEMA employee or applicant.  The request should go to one of 
+the same persons to whom the employee or applicant would make the request. 
+
+1-5.  Authority. Section 501 of the Rehabilitation Act of 1973.  Under this law, Federal agencies 
+must provide reasonable accommodation to qualified employees or applicants with disabilities, 
+except in cases where this would cause undue hardship to the Agency.   
+
+1-6.  References.  Title 29, Code of Federal Regulations (CFR) Part 1614. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEMA Manual 1430.1 Chg.1 
+
+December 3, 2002 
+
+1-1 
+
+1-7.  Responsibilities.   The FEMA staff member who first receives the request from an 
+employee must forward it to the individual’s first line supervisor who will be the decision maker.  
+The FEMA staff member who first receives the request from an applicant for employment at 
+FEMA Headquarters, one of the regions, or for a CORE or DAE position must forward it to the 
+Deputy Director, Human Resources Division who will be the decision maker.  The FEMA staff 
+member who first receives the request from an applicant for employment as a local hire in a 
+disaster must forward it to the FCO or his/her designee who will be the decision maker in 
+conjunction with the Equal Rights Officer servicing that disaster.   
+
+1-8.  Definition of Key Terms.   
+
+a. Reasonable Accommodation:  Any change in the work environment or in the 
+way things are customarily done that would enable a qualified individual with a disability to 
+have employment opportunities equal to those of an individual without a disability.  Reasonable 
+accommodations may include: 
+
+(1) Making existing facilities accessible; 
+(2)  Part-time or modified work schedules; 
+(3)  Acquiring or modifying equipment; and 
+(4)  Providing qualified readers or interpreters. 
+
+b.  Disability:  A physical or mental impairment that substantially limits a major life 
+activity (i.e., caring for one’s self, performing manual tasks, walking, seeing, hearing, speaking, 
+breathing, learning and working). 
+
+c.  Qualified Individual with a Disability:  An individual with a disability is qualified if:  
+(1) he/she satisfies the requisite skill, experience, education, and other job-related requirements 
+of the position; and, (2) he/she can perform the essential functions of the position, with or 
+without reasonable accommodation. 
+
+d.  Essential Functions:  Those job duties that are so fundamental to the position that the 
+individual holds or desires that he/she cannot do the job without performing them.  A function 
+can be “essential” if, among other things, the position exists specifically to perform that function; 
+there are a limited number of other employees who could perform the function; or, the function 
+is specialized and the individual is hired based on his/her ability to perform it.  Determination of 
+the essential functions of a position must be done on a case-by-case basis so that it reflects the 
+job as actually performed, and not simply the components of a generic position description. 
+
+e.  Undue Hardship:  FEMA must provide reasonable accommodation for a disability 
+unless it would cause significant difficulty or expense.  Determination of undue hardship is 
+always made on a case-by-case basis, considering factors that include the nature and cost of the 
+reasonable accommodation needed and the impact of the reasonable accommodation on the 
+operations of the agency. 
+
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 3, 2002 
+
+FEMA Manual 1430.1 Chg.1 
+
+1-9.  Forms Prescribed.  This manual prescribes the use of the following forms:  
+
+1-2 
+
+FEMA Form 14-13, "Request for Reasonable Accommodation" (Note:  the reverse of this form 
+is “Management Response to Request for Reasonable Accommodation”); FEMA Form 14-13A, 
+"Reasonable Accommodation Information Reporting Form.”  These FEMA forms, may be 
+obtained through the Agency's Printing, Publications and Graphics Arts Branch, Program 
+Services and Systems Branch, Administration and Resource Planning Directorate or by accessing 
+the FEMA electronic forms website at http://DocNet.fema.gov.  This manual also prescribes the 
+use of the Department of Defense (CAP) form, which may be obtained from the Office of Equal 
+Rights.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEMA Manual 1430.1 Chg.1 
+
+December 3, 2002 
+
+1-3 
+Chapter 2 
+
+Requests For Reasonable Accommodation 
+
+2-1.  Reasonable Accommodations.   
+
+a.  A request for reasonable accommodation is a statement that an individual needs an 
+adjustment or change at work, in the application for employment, or in a benefit or privilege of 
+employment, for a reason related to a medical condition.  The reasonable accommodation 
+process begins as soon as the request for accommodation is made. 
+
+b.  An individual with a disability may request a reasonable accommodation whenever 
+
+he/she chooses, even if he/she has not previously disclosed the existence of a disability.  
+However, the individual must make the manager aware that he/she has a disability at the time of 
+the request.  Special words, such as “reasonable accommodation,” “disability,” or 
+“Rehabilitation Act” do not necessarily have to be used in making the request. 
+
+c.  For specific procedures, (See 1-4).   
+
+2-2.  Written Requests.   
+
+a.  To enable FEMA to keep accurate records regarding requests for accommodation, 
+employees and applicants for employment seeking a reasonable accommodation should follow 
+up an oral request by completing the attached “Request For Reasonable Accommodation” form 
+(Appendix A) and providing it to the decision maker. 
+
+b.  The “Request for Reasonable Accommodations” form should be filled out as soon as 
+possible following an oral request, but it is not a requirement for processing the request itself.  
+FEMA will begin processing the request as soon as it is made, whether or not the form has been 
+filled out.  If an employee does not fill out the form, the decision maker on the request should do 
+so.   
+
+c.   The “Request for Reasonable Accommodations” form is not required to be filled out 
+when an individual needs a reasonable accommodation on a repeated basis (e.g., the assistance of 
+sign language interpreters or readers).  The written form is required only for the first request 
+although appropriate notice by the employee must be given each time the accommodation is 
+needed. 
+
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 3, 2002 
+
+FEMA Manual 1430.1 Chg.1 
+
+2-1 
+Chapter 3 
+
+Examples of Accommodations: 
+
+3-1.  Computer and Electronic Assistive Devices.  FEMA has an interagency agreement with 
+the Department of Defense (DOD), to provide computer and electronic assistive devices to 
+accommodate employees with disabilities.  Examples of such accommodations include voice 
+recognition/keyboards, telecommunication devices, training on assistive technology, screen 
+readers/magnification, assistive listening devices, and captioning services.  To request such an 
+accommodation the employee must complete DOD’s Computer Accommodations Program 
+(CAP) form and have it approved by his/her supervisor and coordinated with the Disability 
+Program Manager in the Office of Equal Rights. 
+
+3-2.  Reader or Sign Language Interpreter.  When an employee has a recurring, predictable 
+need for accommodation, such as a reader or sign language interpreter, FEMA may be obligated 
+to provide it, whether or not the employee has requested it.  When an employee does make such 
+a request, it can be handled by the employee’s immediate supervisor.  Readers and sign language 
+interpreters may not always be immediately available.  Therefore, supervisors should plan 
+activities requiring such services in advance to ensure their availability.  The Deputy Director, 
+Human Resources Division will handle requests from applicants for employment at 
+Headquarters, the regions, and for applicants for employment as CORE and DAE employees.  
+The FCO or his/her designee(s) in conjunction with the Equal Rights Officer at disaster sites will 
+handle requests from applicants for employment for positions as local hires.  The Disability 
+Program Manager in the Office of Equal Rights is available to provide technical assistance and 
+information regarding resources for sign language interpreters. 
+
+3-3.  Accessible Parking and Materials In Alternative Formats.  Requests from employees 
+for accessible parking and materials in alternative formats can be handled by the employee’s 
+immediate supervisor or the Disability Program Manager.  The Deputy Director, Human 
+Resources Division will handle requests from applicants for employment at Headquarters, the 
+regions, and for applicants for employment as CORE and DAE employees.  The FCO or his/her 
+designee(s) in conjunction with the Equal Rights Officers at disaster sites will handle requests 
+from applicants for employment for positions as local hires. 
+
+3-4.  Telework.  Telework is available only to permanent full-time, permanent part-time and 
+CORE employees.  Requests for telework as a reasonable accommodation for a disability must 
+be made in accordance with the procedures outlined in the FEMA Manual “Program Guidance 
+for Flexible Workplace Environment” (FEMA Manual 3000.3/July 2000).  Such requests must 
+include sufficient medical documentation to substantiate the need for telework.  When 
+submitting the “Telework Application Form” to the supervisor, the box for “medical” must be 
+checked under “Application Type.” 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEMA Manual 1430.1 Chg.1 
+
+December 3, 2002 
+
+3-1 
+Chapter 4 
+
+Interactive Process 
+
+4-1.  Interactive Process.  The parties need to discuss the issue to determine what, if any, 
+accommodation should be provided.  This means that the individual requesting the 
+accommodation and the FEMA decision maker must talk to each other about the request, the 
+process for determining whether an accommodation will be provided, and potential 
+accommodations.   
+
+Communication is a priority throughout the entire process.  The FEMA decision maker will have 
+the principal responsibility for identifying possible accommodations.  He/she will take a 
+proactive approach in searching out and considering possible accommodations, including 
+consulting appropriate resources for assistance.  The employee requesting the accommodation 
+should also participate to the extent possible in helping to identify an effective accommodation.  
+The Disability Program Manager is also available to provide assistance. 
+
+a.  The FEMA decision maker will:  (1) explain to the applicant or employee that he/she 
+will be making the decision on the request; and, (2) describe what will happen in the processing 
+of the request.  This initial discussion should happen as soon as possible. 
+
+b.  On-going communication is particularly important where the specific limitation, 
+problem, or barrier is unclear; where an effective accommodation is not obvious; or where the 
+parties are considering different possible reasonable accommodations.  In those cases where the 
+disability, the need for accommodation, and the type of accommodation that should be provided, 
+are clear, extensive discussions are not necessary.  Even so, the decision maker and requesting 
+individual should talk to each other to make sure that there is a full exchange of relevant 
+information. 
+
+c.  The decision maker or any other FEMA official who receives information in  
+
+connection with a request for reasonable accommodation must keep the information confidential.  
+He/she may share information connected with that request with other agency officials only when 
+the agency official(s) need to know the information in order to make a determination on a 
+reasonable accommodation request.   
+
+d.  There are specific considerations in the interactive process when responding to 
+
+a request for reassignment. 
+
+(1)  Reassignment is a form of reasonable accommodation that must be provided to an 
+
+employee, who, because of a disability, can no longer perform the essential functions of the 
+position he/she holds, with or without reasonable accommodation.  Reassignment is a “last 
+resort” accommodation that must be considered if there are no effective accommodations that 
+would enable the employee to perform the essential functions of his/her current job, or if all 
+other possible accommodations would impose undue hardship on the Agency. 
+
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 3, 2002 
+
+FEMA Manual 1430.1 Chg.1 
+
+4-1 
+(2)  Reassignment is available only to employees, not to applicants.  In addition, 
+
+reassignment may be made only to a vacant position.  The law does not require that agencies  
+create new positions or move employees from their jobs in order to create a vacancy. 
+
+(3)  In considering whether there are positions available for reassignment, the 
+Disability Program Manager will work with the Human Resources Division, the offices 
+identifying the vacancies, and the individual requesting the accommodation to identify: (1) 
+vacant positions within the agency for which the employee may be qualified, with or without 
+reasonable accommodation; and, (2) positions which the Human Resources Division has reason 
+to believe will become vacant over the next 60 business days and for which the employee may be 
+qualified.  The agency will first focus on positions that are equivalent to the employee’s current 
+job in terms of pay, status and other relevant factors.  If there is no vacant equivalent position, 
+FEMA will consider vacant lower level positions for which the individual is qualified. 
+
+(4)  Reassignment may be made to a vacant position outside of the employee’s 
+
+commuting area if the employee is willing to relocate.  As with other transfers not required by 
+management, FEMA will not pay for the employee’s relocation costs. 
+
+4-2.  Requests for Medical Information.  FEMA is entitled to know that an employee or 
+applicant has a covered disability that requires a reasonable accommodation.  In some cases the 
+disability and need for accommodation will be obvious or otherwise already known to the 
+decision maker.  In these cases, FEMA will not seek any further medical information.  However, 
+when a disability and/or need for reasonable accommodation is not obvious or otherwise already 
+known to the decision maker, FEMA may require that the individual provide documentation 
+about the disability and his or her functional limitations.  A request for medical documentation 
+may be made to the individual and/or the individual may be asked to obtain information from an 
+appropriate professional, such as a doctor, social worker, or rehabilitation counselor.  The 
+information may include: 
+
+a.  The nature, severity, and duration of the individual’s impairment; 
+
+b.  The activity or activities that the impairment limits; 
+
+c.  The extent to which the impairment limits the individual’s ability to perform 
+
+the activity or activities; and/or, 
+
+d.  Why the individual requires the particular reasonable accommodation requested, as well 
+
+as how the accommodation will assist the individual in applying for a job, performing the 
+essential functions of the job, or, enjoying a benefit of the workplace. 
+
+(1)  If a decision maker believes that medical information is necessary in order to 
+
+evaluate a request for reasonable accommodation, he/she should coordinate such request with the 
+Disability Program Manager in the Office of Equal Rights prior to requesting such information.   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEMA Manual 1430.1 Chg.1 
+
+December 3, 2002 
+
+(2)  When medical documentation is submitted to the decision maker, he/she must 
+provide all such documentation to the Disability Program Manager at the conclusion of the 
+process for record keeping purposes.   
+
+4-2 
+
+  e.  In order to get the most helpful information possible, all requests for medical 
+documentation should describe the nature of the job, the essential functions the individual is 
+expected to perform, and any other relevant information.   
+
+f.  The individual requesting the accommodation will be asked to sign a limited release of 
+
+medical information specific to the accommodation requested. 
+
+   g.  If the information provided by the health professional, or by the individual requesting 
+
+the accommodation, is insufficient to determine whether an accommodation is appropriate, the 
+decision maker may ask for further information. 
+
+(1)  However, he/she will explain to the individual seeking the accommodation, 
+
+in specific terms, why the information provided is insufficient, what additional information is 
+needed, and why it is necessary for a determination of the reasonable accommodation request. 
+
+(2)  The individual may then ask the health care, or other appropriate medical 
+
+professional to provide the missing information.  FEMA may submit a list of specific questions 
+for this purpose. 
+
+(3)  If, after a reasonable period of time there is still not sufficient information to 
+demonstrate that the individual has a disability and needs a reasonable accommodation, the 
+decision maker, in consultation with the Disability Program Manager, may request that the 
+individual be examined by a physician chosen by FEMA, at FEMA’s expense. 
+
+h.  In some cases, the individual requesting the accommodation will supply medical 
+information directly to the decision maker without being asked.  In these cases, the decision 
+maker will consider such documentation and if additional information is needed, the decision 
+maker will follow the process as set forth in this section.  The failure to provide appropriate 
+documentation or to cooperate in the Agency’s efforts to obtain such documentation can result in 
+a denial of the reasonable accommodation.   
+
+i.  Any exceptions to this process will be handled on a case-by-case basis. 
+
+4-3.  Confidentiality Requirements.  All requests for reasonable accommodation much be kept 
+confidential.  Under Section 501 of the Rehabilitation Act of 1973, medical information 
+obtained by FEMA in connection with the reasonable accommodation process must be kept 
+confidential.  This includes medical information about functional limitations and reasonable 
+accommodation needs.  Requests for reasonable accommodation must also be kept in files 
+separate from the individual’s personnel file.  Any FEMA employee who obtains or receives 
+such information is strictly bound by these confidentiality requirements. 
+
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 3, 2002 
+
+FEMA Manual 1430.1 Chg.1 
+
+4-3 
+
+a.  The Disability Program Manager will maintain custody of all records obtained or 
+
+created during the processing of a request for reasonable accommodation, including medical 
+records, and will respond to all requests for disclosure of the records.  All records will be 
+maintained in accordance with the Privacy Act, the requirements of  29 C.F.R. 1611 and this 
+guidance document.  
+
+b.  This information may be disclosed only as follows: 
+
+(1)  Supervisors and managers who need to know may be told about necessary 
+restrictions on the work or duties of the employee and about the accommodation(s), but medical 
+information should only be disclosed if strictly necessary; 
+
+(2)  First aid and safety personnel may be informed, when appropriate, should 
+
+the disabled employee require emergency treatment; 
+
+(3)  Government officials may be given information necessary to investigate the 
+
+Agency’s compliance with the Rehabilitation Act; and, 
+
+(4)  The information may, in certain circumstances, be disclosed to workers’ 
+
+compensation offices or insurance carriers. 
+
+ c.  Whenever medical information is disclosed, the recipient of the information must 
+
+be informed of the confidentiality requirements. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEMA Manual 1430.1 Chg.1 
+
+December 3, 2002 
+
+4-4 
+Chapter 5 
+
+Time Frames 
+
+5-1.  Processing Requests.  FEMA will process requests for reasonable accommodation and 
+provide accommodations, where they are appropriate, in as short a time frame as reasonably 
+possible.  FEMA recognizes, however, that the time necessary to process a request will depend 
+on the nature of the accommodation requested and whether it is necessary to obtain supporting 
+information.  Time frames for processing requests and providing reasonable accommodation 
+where no supporting information is required are as follows:   
+
+a.  Requests from applicants for employment should be expedited when necessary to ensure 
+
+the applicant’s ability to compete for the position.  However, these requests should not exceed 
+ten (10) business days.   
+
+b.  If a request from an employee is processed by the supervisor, the request should be 
+processed, and the accommodation, if granted, provided within 15 business days from the date of 
+receipt of the request.  Requests for accommodation should be expedited when the 
+accommodation is needed to enable the employee to participate in an Agency activity scheduled 
+to occur in the near future.    
+
+(1)  If the decision maker believes that it is necessary to obtain medical information to 
+
+determine whether the requesting individual has a disability and/or to identify the functional 
+limitations, the decision maker will request the information as soon as possible after his or her 
+receipt of the request for accommodation.  FEMA recognizes that the need for documentation 
+may not become apparent until after the interactive process has begun. 
+
+(2)  In cases where medical documentation is needed, the accommodation, if granted, 
+will be provided within ten (10) business days for an applicant, and within 15 business days for 
+an employee, from the date the decision maker receives the relevant information, absent any 
+extenuating circumstances. 
+
+c.  Where the Disability Program Manager is the decision maker on a request for 
+
+reasonable accommodation, he/she will make a decision on the request and the accommodation, 
+if granted, will be provided within 15 business days from the date of the request.  If medical 
+documentation is necessary, the decision will be made within 15 business days of receipt of the 
+medical information, absent any extenuating circumstances. 
+
+5-2.  Extenuating Circumstances.  These are factors that could not reasonably have been 
+anticipated or avoided in advance of the request for accommodation.  When extenuating 
+circumstances are present, the time for processing a request for reasonable accommodation and 
+providing the accommodation will be extended on a case-by-case basis.  Such extensions may be  
+
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 3, 2002 
+
+FEMA Manual 1430.1 Chg.1 
+
+5-1 
+
+granted by the second level supervisor, in the case of a request from an employee, and the 
+Disability Program Manager, in the case of a request from an applicant.  It is FEMA’s policy that 
+extensions based on extenuating circumstances should be limited to circumstances where they 
+are strictly necessary.  FEMA staff is expected to act as quickly as possible in processing and 
+providing accommodations.  The following are examples of extenuating circumstances: 
+
+a.  There is an outstanding initial or follow-up request for medical information, or the 
+
+medical information is being evaluated. 
+
+b.  The purchase of equipment may take longer than 15 business days because of 
+requirements under the Federal Acquisition Regulation and the processing of requests through 
+the DOD CAP program.  Requests for computer and electronic equipment through the DOD 
+CAP program are likely to take an additional 15-20 days. 
+
+c.  Equipment is back-ordered, the vendor typically used by FEMA for goods  or services 
+has unexpectedly gone out of business, or the vendor cannot promptly supply the needed goods 
+or services and another vendor is not immediately available. 
+
+d.  The employee with a disability needs to try working with equipment on a trial basis 
+
+to ensure that it is effective before FEMA buys it. 
+
+e.  New staff needs to be hired or contracted for, or an accommodation involves the 
+
+removal of architectural barriers. 
+
+f.  “Extenuating circumstances” covers limited situations in which unforeseen or 
+
+unavoidable events prevent prompt processing and delivery of an accommodation.  For example, 
+FEMA may not delay processing or providing an accommodation because a particular staff 
+member is unavailable.   
+
+(1)  Where extenuating circumstances are present, the decision maker must notify the 
+
+individual of  the reason for the delay, and the approximate date on which a decision, or 
+provision of the reasonable accommodation, is expected.  Any further developments or changes 
+should also be communicated promptly to the individual. 
+
+a.  If there is a delay in providing an accommodation that has been approved, the 
+
+decision maker must investigate whether temporary measures can be taken to assist the 
+employee.  This could include providing the requested accommodation on a temporary basis or 
+providing a less effective form of accommodation.  In addition, the decision maker may provide 
+measures that are not reasonable accommodations within the meaning of the law (e.g., temporary 
+removal of an essential function) if:  (1) they do not interfere with the operations of the Agency; 
+and, (2) the employee is clearly informed that they are being provided only on a temporary, 
+interim basis. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEMA Manual 1430.1 Chg.1 
+
+December 3, 2002 
+
+5-2 
+
+(2)  If a delay is attributed to the need to obtain or evaluate medical documentation and 
+FEMA has not yet determined that the individual is entitled to an accommodation, FEMA may 
+provide accommodation on a temporary basis.  In this case, the decision maker will notify the 
+individual in writing that the accommodation is being provided on a temporary basis pending a 
+decision on the request. 
+
+(3)  FEMA decision makers who approve temporary measures are responsible for 
+
+assuring that they do not take the place of a permanent accommodation and that all necessary 
+steps are being taken to secure a permanent accommodation. 
+
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 3, 2002 
+
+FEMA Manual 1430.1 Chg.1 
+
+5-3 
+Chapter 6 
+
+Granting a Reasonable Accommodation Request 
+
+6-1.  Granting a Request.  As soon as the decision maker determines that a reasonable 
+accommodation will be provided, the decision should be immediately communicated to the 
+individual.  If the accommodation cannot be provided immediately, the decision maker must 
+inform the individual of the projected time frame for providing the accommodation.  This notice 
+does not need to be in writing. 
+
+6-2.  Denial of a Request.  In the case of a denial of a request for reasonable accommodation, 
+the decision maker must fill out the “Management Response to Request For Reasonable 
+Accommodation” form on the back of the “Request for Reasonable Accommodation” form 
+(Appendix A) and provide a copy to the individual requesting the accommodation.  The denial 
+should clearly state the specific reasons for the denial.  Where the decision maker has denied a 
+specific requested accommodation, but offered an alternative accommodation not previously 
+discussed, the denial notice should explain both the reasons for the denial and the reasons that 
+the decision maker believes that the chosen accommodation will be effective.  Denial of a 
+request for reasonable accommodation may include the following: 
+
+a.  The requested accommodation and the reasons the accommodation would not be 
+
+effective and why. 
+
+b.  The reason the requested accommodation would result in undue hardship to the agency.  
+
+Before reaching this determination, the decision maker must have explored whether other 
+effective accommodations exist which would not impose undue hardship and therefore can be 
+provided.  A determination of undue hardship means that FEMA finds that a specific 
+accommodation would result in significant difficulty or expense, or would fundamentally alter 
+the nature of FEMA’s operations.   
+
+c.  Medical documentation is inadequate to establish that the individual has a disability 
+
+and/or needs a reasonable accommodation. 
+
+d.  The requested accommodation would require the removal of an essential job function. 
+
+e.  The requested accommodation would require the lowering of a performance or 
+production standard.  (The decision maker must understand that temporary adjustments, 
+including lowering performance or production standards, are allowed during the normal course 
+of business, if circumstances warrant it.  For instance, a supervisor may, if an employee is 
+temporarily but seriously ill, temporarily lower a performance or production standard to 
+accommodate the employee.) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEMA Manual 1430.1 Chg.1 
+
+December 3, 2002 
+
+6-1 
+Keep in mind that the actual notice to the individual must include specific reasons for the denial, 
+for example, why the accommodation would not be effective or why it would result in undue 
+hardship. 
+
+The written notice of denial informs the individual that he/she has the right to file an Equal 
+Employment Opportunity (EEO) complaint, and may have the right to pursue Merit Systems 
+Protection Board (MSPB) and union grievance procedures.  The notice also explains FEMA’s 
+procedures for informal dispute resolution. 
+
+6-3.  Dispute Resolution.  Individuals with disabilities can request prompt reconsideration of a 
+denial of reasonable accommodation. 
+
+a.  If an employee is denied his/her request for reasonable accommodation, he/she may 
+
+appeal directly to his/her second level supervisor.  The employee may present additional 
+information in support of his/her request.  The second level supervisor will respond to this 
+request within ten (10) business days. 
+
+b.  If an applicant is denied his/her request for reasonable accommodation, he/she may 
+appeal directly to the Disability Program Manager in the Office of Equal Rights.  The applicant 
+may present additional information in support of his/her request.  The Disability Program 
+Manager will respond to this request within ten (10) business days. 
+
+c.  In an effort to resolve issues or concerns, employees or applicants can request to 
+
+participate in the Alternative Dispute Resolution Program. 
+
+The pursuit of any of the informal dispute resolution procedures identified above does not affect 
+the time limits for initiating statutory and collective bargaining claims.  An individual’s 
+participation in any or all of these informal dispute resolution processes does not satisfy the 
+requirements for bringing a claim under EEO, MSPB, or union grievance procedures.   
+
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 3, 2002 
+
+FEMA Manual 1430.1 Chg.1 
+
+6-2 
+Chapter 7 
+
+Claims 
+
+7-1.  Statutory and Collective Bargaining Claims.  This policy is in addition to statutory and 
+collective bargaining protections for persons with disabilities and the remedies they provide for 
+the denial of requests for reasonable accommodation.  Requirements governing the initiation of 
+statutory and collective bargaining claims, including time frames for filing such claims, remain 
+unchanged. 
+
+An individual who chooses to pursue statutory or collective bargaining remedies for denial of 
+reasonable accommodation must: 
+
+a.  For an EEO complaint, contact an EEO counselor within 45 days from the date of 
+
+receipt of the written notice of denial; 
+
+b.  For a collective bargaining claim, file a written grievance in accordance with the 
+
+provisions of the Collective Bargaining Agreement; or, 
+
+c.  Initiate an appeal to the Merit Systems Protection Board within 30 days of an appealable 
+
+adverse action as defined in 5 C.F.R. 1201.3. 
+
+If a member of the Office of Equal Rights has had any involvement in the processing of the 
+request for reasonable accommodation, that staff member shall remove him or herself from any 
+involvement in the processing of an EEO counseling contact or EEO complaint in connection 
+with the request. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEMA Manual 1430.1 Chg.1 
+
+December 3, 2002 
+
+7-1 
+Chapter 8 
+
+Assistance Information  
+
+8-1. Tracking and Reporting.   FEMA is required to identify the following information 
+regarding requests for reasonable accommodation: 
+
+a.  The number and types of reasonable accommodation that have been requested for each 
+
+job (occupational series, grade level), by agency component; 
+
+b.  Whether those requests have been granted or denied; 
+
+c.   How many of those requests relate to the benefits or privileges of employment; 
+
+d.  The reasons for denial of requests for reasonable accommodation; 
+
+e.   The amount of time taken to process each request for reasonable accommodation; and,  
+
+f.   The sources of technical assistance that have been consulted in trying to identify possible 
+
+reasonable accommodations. 
+
+g.  The Disability Program Manager will retain for at least three (3) years information or any 
+
+cumulative records used to track FEMA’s performance with regard to reasonable 
+accommodation. 
+
+In accordance with the information tracking requirements, the decision maker must complete the 
+attached “Reasonable Accommodations Information Reporting Form” and submit it to the 
+Disability Program Manager within ten (10) business days of the decision.  The decision maker 
+should attach copies of all information, including medical documentation he/she received as part 
+of processing the request. 
+
+The Disability Program Manager will maintain records related to an employee’s request for 
+accommodation for the duration of the employee’s tenure. 
+
+8-2.  Inquiries.  Any person wanting further information concerning these procedures may 
+contact the Disability Program Manager in the Office of Equal Rights. 
+
+8-3.  Distribution.  These procedures will be distributed to all employees upon issuance.  They 
+also will be posted on FEMA’s intranet and internet sites.  Copies also will be available in the 
+Office of Equal Rights and the Human Resources Division.   
+
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+December 3, 2002 
+
+FEMA Manual 1430.1 Chg.1 
+
+8-4.  Resource Assistance.   
+
+8-1 
+
+a.  Listed below are resources to assist in providing reasonable accommodations:   
+
+(1)  Office of Equal Rights, FEMA 
+202-646-3535 (Voice); 202-646-2745 (TT) 
+
+(2)  U.S. Equal Employment Opportunity Commission 
+1-800-669-3362 (Voice); 1-800-800-3302 (TT) 
+http://www.eeoc.gov. 
+
+EEOC Enforcement Guidance:  Disability-Related Inquiries and Medical 
+Examinations of Employees Under the Americans With Disabilities Act; 
+
+EEOC Enforcement Guidance:  Reasonable Accommodation and Undue Hardship 
+Under the Americans With Disabilities Act. 
+
+(3)  Job Accommodation Network (JAN) 
+1-800-232-9675 (Voice/TT) 
+http://janweb.icdi.wvu.edu/. 
+
+(4)  ADA Disability and Business Technical Assistance Centers (DBTACs) 
+1-800-949-4232 (Voice/TT) 
+
+(5)  Registry of Interpreters for the Deaf 
+(301) 608-0050 (Voice/TT) 
+http://www.rid.org 
+
+(6)  RESNA Technical Assistance Project 
+(703) 524-6686 (Voice) (703) 524-6639 (TT) 
+http://www.resna.org/ 
+
+(7)  Computer/Electronic Accommodations Program (CAP) 
+703-681-8813 (Voice/TT) 
+www.tricare.osd.mil/cap 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FEMA Manual 1430.1 Chg.1 
+
+December 3, 2002 
+
+8-2 
+
+ 
+  
+ 
+  
+ 
+ 
+

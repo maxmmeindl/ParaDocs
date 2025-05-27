@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-MEDICAL TELEWORK REQUIREMENTS FORM(1)-20250526",
+  "document_type": [
+    "Medical_Documentation"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "MEDICAL TELEWORK REQUIREMENTS FORM(1).pdf",
+    "file_size": 25572,
+    "file_hash": "0d978077d80a5179f5a7e1d469a8825fd67e25241f46403d47330c9c382500b5",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:12.263939",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:12.263939",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

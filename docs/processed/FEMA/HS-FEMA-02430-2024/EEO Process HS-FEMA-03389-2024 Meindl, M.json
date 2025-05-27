@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-EEO Process HS-FEMA-03389-2024 Meindl, M-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "EEO Process HS-FEMA-03389-2024 Meindl, M.pdf",
+    "file_size": 538913,
+    "file_hash": "53976036d506dc966125b61e9ed24f4a873da9284c4ad505bc53b2a59c08afe7",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:09.006981",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:09.006981",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

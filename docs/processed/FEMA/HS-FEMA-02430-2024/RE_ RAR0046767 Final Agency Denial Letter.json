@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RE_ RAR0046767 Final Agency Denial Letter-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RE_ RAR0046767 Final Agency Denial Letter.pdf",
+    "file_size": 211821,
+    "file_hash": "8f566078b99a61e18aee2bf61080588c776afb45dd42488182d90941ad3174af",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:20.461102",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:20.461102",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

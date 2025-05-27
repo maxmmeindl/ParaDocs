@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-0046767 Max Meindl-Revised-second-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "0046767 Max Meindl-Revised-second.pdf",
+    "file_size": 2414707,
+    "file_hash": "e498720c41bd892c8261e5cfc297ffa6b8d23be8242e256f19c9903dca9c2ade",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:57.046682",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:57.046682",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

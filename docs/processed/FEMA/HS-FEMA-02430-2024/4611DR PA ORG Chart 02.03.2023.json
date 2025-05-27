@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-4611DR PA ORG Chart 02.03.2023-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "4611DR PA ORG Chart 02.03.2023.pdf",
+    "file_size": 309685,
+    "file_hash": "09185e98c04519367b197494b881fd148bacbb3ae603b3b85ef81cf0d2c51168",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:58.739714",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:58.739714",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

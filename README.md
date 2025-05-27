@@ -1,140 +1,254 @@
-# ParaDocs - EEO Document Management System
+# ParaDocs - Legal Document Management System
 
-## Overview
-ParaDocs is an organized document management system for EEO (Equal Employment Opportunity) files, including FY 2021 complaint tables, forms, manuals, and related documentation.
+A comprehensive, compliance-focused document management system for EEOC case management and legal document processing.
 
-## Quick Start
+## 🎯 Overview
 
-### 1. Initial Setup
-First, scan and index all documents in the directory:
+ParaDocs is a "living" repository system designed to manage Equal Employment Opportunity Commission (EEOC) cases and Federal Emergency Management Agency (FEMA) employment actions. It provides automated document processing, compliance validation, searchable indexing, and audit trail capabilities while maintaining strict adherence to federal regulations.
+
+## 🏗️ Architecture
+
+```
+paradocs/
+├── docs/                    # Document storage
+│   ├── raw/                # Original documents
+│   │   ├── EEOC/          # EEOC documents by case
+│   │   ├── FEMA/          # FEMA documents by case
+│   │   └── OTHER/         # Other agency documents
+│   └── processed/         # OCR output and metadata
+├── src/                    # Source code modules
+│   ├── ingestion/         # Document intake and OCR
+│   ├── validation/        # Compliance validation
+│   ├── indexing/          # Search index creation
+│   └── workflow/          # Automation and alerts
+├── config/                 # Configuration files
+│   ├── compliance-rules/  # EEOC/FEMA regulations
+│   ├── metadata_schema.json
+│   └── cursor.rules.json
+├── scripts/               # Automation scripts
+├── search_index/          # Generated search indexes
+├── logs/                  # Processing logs
+└── backup/               # Backup storage
+```
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- Python 3.8+
+- Git with Git LFS
+- PowerShell (Windows) or Bash (Linux/Mac)
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-org/paradocs.git
+   cd paradocs
+   ```
+
+2. **Initialize Git LFS**
+   ```bash
+   git lfs install
+   ```
+
+3. **Set up the folder structure**
+   ```powershell
+   ./scripts/create_paradocs_structure.ps1
+   ```
+
+4. **Install Python dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. **Set environment variables**
+   ```bash
+   # For Census API (NAICS validation)
+   export CENSUS_API_KEY="your-api-key"
+   ```
+
+### First Run
+
+1. **Migrate existing files** (dry run first)
+   ```powershell
+   ./scripts/migrate_existing_files.ps1 -DryRun true
+   # Review output, then run:
+   ./scripts/migrate_existing_files.ps1 -DryRun false
+   ```
+
+2. **Process documents**
+   ```bash
+   python scripts/run_pipeline.py
+   ```
+
+3. **Generate search indexes**
+   ```bash
+   python scripts/run_indexing.py
+   ```
+
+## 📋 Features
+
+### Document Processing
+- **likely Classification**: Documents are classified by agency (EEOC/FEMA) and type
+- **Metadata Extraction**: likely extraction of dates, case numbers, parties, and violations
+- **OCR Support**: Process scanned documents (OCR integration ready)
+- **Hash Verification**: SHA-256 hashing for document integrity
+
+### Compliance Validation
+- **EEOC Rules**: 29 CFR 1630 (ADA), 29 CFR 1614 (Federal Sector EEO)
+- **FEMA Rules**: 44 CFR 206, 5 CFR 752 (Adverse Actions), 5 USC 2302
+- **NAICS Code Validation**: Real-time validation via Census API
+- **Workforce Snapshot**: EEO-1 reporting date compliance
+- **Deadline Tracking**: likely extraction and monitoring of critical dates
+
+### Search & Indexing
+- **Keyword Index**: Full-text search across all documents
+- **Date Index**: Timeline-based document retrieval
+- **Metadata Search**: Search by case number, parties, violations, etc.
+- **Legal Citation Index**: likely extraction of regulation references
+
+### Security & Audit
+- **Chain of Custody**: Complete audit trail for every document
+- **Access Control**: Role-based permissions (ready for implementation)
+- **Privacy Compliance**: FOIA and Privacy Act adherence
+- **Immutable Logs**: Tamper-resistant logging system
+
+## 🔧 Configuration
+
+### Metadata Schema
+Documents are tagged with comprehensive metadata including:
+- Document type and classification
+- Agency and regulation references
+- Case numbers and party information
+- Critical dates and deadlines
+- Processing and validation status
+
+See `config/metadata_schema.json` for the complete schema.
+
+### Compliance Rules
+Agency-specific rules are defined in:
+- `config/compliance-rules/eeoc-rules.json`
+- `config/compliance-rules/fema-rules.json`
+
+### AI Integration
+Claude Opus prompt templates are configured in `config/cursor.rules.json` for:
+- EEOC compliance validation
+- EEO-1 classification
+- Deadline extraction
+- Violation identification
+- Metadata extraction
+
+## 📊 Usage Examples
+
+### Search for Documents
+```python
+# Using the generated indexes
+import json
+
+# Load keyword index
+with open('search_index/keyword_index.json', 'r') as f:
+    keyword_index = json.load(f)
+
+# Find all documents mentioning "reasonable accommodation"
+for entry in keyword_index:
+    if entry['keyword'] == 'reasonable accommodation':
+        print(f"Found in {len(entry['documents'])} documents")
+        for doc in entry['documents']:
+            print(f"  - {doc}")
+```
+
+### Validate a Document
+```python
+from src.validation.naics_validator import NAICSValidator
+
+validator = NAICSValidator()
+valid, description = validator.validate("922140")
+print(f"NAICS 922140: {description if valid else 'Invalid'}")
+```
+
+### Generate Timeline Report
+```python
+# Load date index
+with open('search_index/date_index.json', 'r') as f:
+    date_index = json.load(f)
+
+# Find all events in 2024
+events_2024 = [entry for entry in date_index if entry['date'].startswith('2024')]
+print(f"Found {len(events_2024)} events in 2024")
+```
+
+## 🛡️ Legal Compliance
+
+### EEOC Requirements
+- Title VII compliance tracking
+- ADA reasonable accommodation documentation
+- Interactive process timeline management
+- Confidentiality protections
+
+### FOIA Compliance
+- Dual-layer architecture (public/confidential)
+- Automated redaction capabilities (planned)
+- Request tracking and deadline management
+- Exemption categorization
+
+### Privacy Act
+- System of Records Notice (SORN) compliance
+- Individual access rights management
+- Purpose limitation enforcement
+- Consent tracking
+
+## 🔄 Automation
+
+### Folder Monitoring
+The system can watch for new documents and automatically process them:
+```powershell
+# Coming soon: watch_folder.ps1
+```
+
+### Scheduled Processing
+Set up daily processing via Task Scheduler (Windows) or cron (Linux):
 ```bash
-python search_documents.py scan
+# Run daily at 2 AM
+0 2 * * * /usr/bin/python /path/to/paradocs/scripts/run_pipeline.py
 ```
 
-This will:
-- Scan all documents in the current directory
-- Create a searchable index (`document_index.json`)
-- Generate a category report (`CATEGORY_REPORT.md`)
+## 🐛 Troubleshooting
 
-### 2. Search Documents
+### Common Issues
 
-#### Basic Search
+1. **"No metadata file found"**
+   - Ensure documents are in the `docs/raw` directory
+   - Run the processing pipeline: `python scripts/run_pipeline.py`
+
+2. **"Census API error"**
+   - Check your CENSUS_API_KEY environment variable
+   - Verify internet connectivity
+
+3. **"Git LFS not initialized"**
+   - Run `git lfs install` in the repository
+
+### Logs
+Check logs in the `logs/` directory for detailed error information:
 ```bash
-python search_documents.py search -q "counseling"
+tail -f logs/pipeline_*.log
 ```
 
-#### Search with Filters
-```bash
-# Search by category
-python search_documents.py search -q "complaint" -c "adr"
+## 🤝 Contributing
 
-# Search by year
-python search_documents.py search -q "workforce" -y "2021"
+1. Create a feature branch
+2. Make your changes
+3. Ensure all validations pass
+4. Submit a pull request
 
-# Search by file type
-python search_documents.py search -q "manual" -t "pdf"
-```
+## 📝 License
 
-### 3. List Categories and Years
-```bash
-python search_documents.py list
-```
+This project is proprietary and confidential. All rights reserved.
 
-### 4. Generate Reports
-```bash
-python search_documents.py report
-```
+## 🆘 Support
 
-## Document Categories
-
-- **Workforce & Complaints**: Employee and complaint statistics
-- **Counseling**: Pre-complaint counseling data
-- **ADR**: Alternative Dispute Resolution information
-- **Timeliness**: Processing time and deadline compliance
-- **Closures**: Complaint closure types and outcomes
-- **Benefits**: Settlement benefits and resources
-- **Training**: Staff training records
-- **Forms**: Official forms and templates
-- **Manuals**: Instruction manuals and guides
-
-## File Structure
-
-```
-ParaDocs/
-├── PROJECT_ORGANIZATION.md    # Detailed organization guide
-├── README.md                  # This file
-├── search_documents.py        # Search tool
-├── document_index.json        # Generated document index
-├── CATEGORY_REPORT.md         # Generated category report
-├── paradocs-agent/            # Document processing tools
-└── [Your document files]      # EEO tables, forms, and manuals
-```
-
-## Search Examples
-
-### Find all ADR-related documents:
-```bash
-python search_documents.py search -q "adr"
-```
-
-### Find training tables:
-```bash
-python search_documents.py search -q "training" -c "training"
-```
-
-### Find all 2021 workforce data:
-```bash
-python search_documents.py search -q "workforce" -y "2021"
-```
-
-### Find Form 462:
-```bash
-python search_documents.py search -q "462"
-```
-
-## Advanced Usage
-
-### Using the Document Index
-The `document_index.json` file contains detailed metadata for all documents:
-- Document ID
-- Original filename
-- Category
-- Keywords
-- Description
-- File path
-- Last modified date
-
-You can also search this file directly using any JSON viewer or text editor.
-
-### Category Report
-The `CATEGORY_REPORT.md` file provides a organized view of all documents grouped by category, making it easy to browse related documents.
-
-## Tips for Effective Searching
-
-1. **Use keywords**: Common keywords include "complaint", "counseling", "adr", "training", "benefits"
-2. **Filter by category**: Narrow results by specifying a category
-3. **Check the category report**: Browse `CATEGORY_REPORT.md` for a visual overview
-4. **Rescan after changes**: Run `python search_documents.py scan` after adding new documents
-
-## Troubleshooting
-
-### "No index found" error
-Run `python search_documents.py scan` to create the index.
-
-### Missing Python
-Ensure Python 3.6+ is installed. Check with `python --version`.
-
-### Permission errors
-Make sure you have read permissions for all document files.
-
-## Future Enhancements
-
-See `PROJECT_ORGANIZATION.md` for planned improvements including:
-- Directory reorganization
-- Enhanced metadata
-- Full-text search
-- Web interface
+For support, please contact the ParaDocs administrator or file an issue in the project repository.
 
 ---
 
-For more detailed information about the project organization strategy, see `PROJECT_ORGANIZATION.md`.
+**Remember**: This system handles sensitive legal documents. Always ensure proper authorization before accessing or modifying any files.

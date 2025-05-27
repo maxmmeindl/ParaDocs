@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Action Required_ Submit Your Proof of Vaccination-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Action Required_ Submit Your Proof of Vaccination.pdf",
+    "file_size": 223881,
+    "file_hash": "b55371553d746f6625153248d1daab2b8e7721be25ea6561c783efd49044afa3",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:59.297916",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:59.297916",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

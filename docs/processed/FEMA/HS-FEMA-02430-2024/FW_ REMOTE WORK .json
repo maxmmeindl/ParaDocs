@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-FW_ REMOTE WORK -20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_ REMOTE WORK .pdf",
+    "file_size": 5068414,
+    "file_hash": "eb46135238751d9a14ceeca11690fcfe6a389bc1ac2f5941e4a88dfb3df73d24",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:11.528687",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:11.528687",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

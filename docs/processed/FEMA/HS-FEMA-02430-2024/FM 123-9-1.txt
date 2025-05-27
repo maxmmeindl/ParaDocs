@@ -1,0 +1,1317 @@
+FEMA MANUAL 123-9-1 
+TELEWORK  
+APPROVAL DATE: 1/9/2013 
+
+DEPARTMENT OF HOMELAND SECURITY 
+
+Federal Emergency Management Agency 
+
+OFFICE OF THE CHIEF HUMAN CAPITAL OFFICER 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Foreword 
+
+This Manual provides guidance and policy direction for the administration, implementation, and 
+oversight of the Federal Emergency Management Agency's (FEMA) Telework Program. FEMA 
+considers telecommuting to be a viable alternative work arrangement in cases where individual, job, 
+and supervisor characteristics are best suited to such an arrangement. Teleworking allows an 
+employee to work at home or other approved alternative work locations during regular working 
+hours. Teleworking is a voluntary work alternative that may be appropriate for some employees and 
+some jobs. It is not an entitlement and in no way changes the terms and conditions of employment with 
+the Agency. 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table of Contents 
+
+Foreword .........................................................................................................................................................2 
+
+CHAPTER 1: GENERAL INFORMATION ..................................................................................................... 4 
+1-1. Purpose .........................................................................................................................................4 
+
+1-2. Applicability and Scope ..................................................................................................................4 
+
+1-3. Supersession .................................................................................................................................4 
+
+1-4. Authorities/ References ..................................................................................................................4 
+
+1-5. Policy ............................................................................................................................................. 5 
+
+1-6. Definitions ..................................................................................................................  7 
+
+1 - 7.    Responsibilities  ..........................................................................................................................  10 
+
+1-8. Reporting Requirement ........................................................................................................... 14 
+
+1-9. Forms Prescribed ..........................................................................................................  14 
+
+1-10. Questions ..................................................................................................................................  14 
+
+CHAPTER 2: PROCEDURES ..................................................................................................................... 15 
+
+2-1. Telework Arrangements ..................................................................................................... 15 
+
+2-2. Determining Eligibility ....................................................................................................  16 
+
+2-3. Training ............................................................................................................  17 
+
+2-4. Appeals ........................................................................................................................................ 17 
+
+CHAPTER 3: TERMS AND CONDITIONS OF THE TELEWORK PROGRAM .................................... 18 
+
+3-1. Changes to Telework Agreement ............................................................................................ 18 
+
+3-2. Residential Telework Environment .......................................................................................... 18 
+
+3-3. Official Duty Station ................................................................................................................ 18 
+
+3-4. Time and Attendance, Work and Performance and Overtime ..................................................... 19 
+
+3-5. Reimbursable Expenses ......................................................................................................... 19 
+
+3-6. Security, Supplies and Equipment ...........................................................................................20 
+
+3-7. Worker’s Compensation and other Liabilities ......................................................................  21 
+
+3-8. Standards of Conduct ............................................................................................................. 21 
+
+3-9. Emergency Situations ............................................................................................................. 21 
+
+3-10. Telework and COOP Planning .............................................................................................. 22 
+
+3 
+
+ 
+ 
+CHAPTER 1: GENERAL INFORMATION 
+
+1-1. Purpose 
+
+The purpose of telework is to complete the duties, responsibilities, and other authorized activities 
+(such as online training) of an employee’s official position from an alternative worksite, other than 
+at the location an employee normally works.  The availability of telework promotes recruitment 
+and retention; helps employees manage commutes and other work/life issues; reduces traffic 
+congestion, fuel consumption and vehicle emissions; reduces real estate costs; and ensures 
+continuity of essential governmental functions in the event of an emergency.  This Manual 
+prescribes policy and assigns responsibility for telework. It details position and employee 
+eligibility determinations for teleworking. It also addresses performance management of the 
+teleworker and provides guidance on security considerations for teleworking. 
+
+1-2. Applicability and Scope 
+
+This Manual applies to all FEMA employees as defined in Title 5 Section 2105 of the United 
+States Code, except those excluded from coverage under Pub. L. No. 111-292, Section 6502, 
+and those employees deemed ineligible by the Agency to participate in the telework 
+program. 
+
+1-3. Supersession  
+
+This Telework policy supersedes FEMA Manual 3000.3, Program Guidance for FEMA 
+Telework Program, dated July 31, 2000. 
+
+1-4. Authorities/ References 
+
+A.  P.L. 111-292, “Telework Enhancement Act of 2010,” December 9, 2010. 
+B.  P.L. 106-346, “Making appropriations for the Department of Transportation and related 
+agencies for the fiscal year ending September 30, 2001, and for other purposes,” 
+Section 359 and accompanying conference report. 
+
+C.  P.L. 105-277, “Making omnibus consolidated and emergency appropriations for the fiscal 
+year  ending  September  30,  1999,  and  for  other  purposes,”  Title  IV,  “Domestic  Food 
+Programs,” Section 630, “Flexiplace Work Telecommuting Programs.” 
+
+D.  P.L. 104-52, “Making appropriations for the Treasury Department, the United States 
+Postal Service, the Executive Office of the President, and certain Independent 
+Agencies, for the fiscal year ending September 30, 1996, and for other purposes,” 
+Section 620. 
+
+E.  U.S. Office of Personnel Management (OPM) Guide to Telework in the Federal 
+
+Government. 
+
+F.  U.S. Office of Personnel Management (OPM) Washington, DC, Area Dismissal and  
+
+Closure Procedures. 
+
+G.  U.S. Office of Personnel Management (OPM) Pandemic Information. 
+H.  FMR Bulletin 2006-B3: Guidelines for Alternative Workplace Arrangements, March 17, 
+
+2006. 
+
+I.  FMR Bulletin 2007-B1: Information Technology and Telecommunications Guidelines for 
+
+Federal Telework and Other Alternative Workplace Arrangement Program, March 2, 2007. 
+
+J.  Office of Management and Budget Memorandum, “Protection of Sensitive Agency 
+
+Information,” June 24, 2006. 
+
+K.  DHS Continuity of Operations Programs and Continuity of Government Programs, MD 
+
+9300.1. 
+
+L.  Federal Employees’ Compensation Act (FECA), 5 U.S.C., Chapter 8. 
+M.  The Privacy Act of 1974, 5 U.S.C. § 552a. 
+
+4 
+
+ 
+ 
+N.  Title 5, Code of Federal Regulations (CFR) 531.605, Determining an Employee's Official 
+
+Worksite. 
+
+O.  Office of Management and Budget Memorandum, “Implementing Telework 
+
+Enhancement Act of 2010 IT Purchasing Requirements”. 
+
+P.  EEOC Enforcement Guidance, “Reasonable Accommodation and Undue Hardship 
+Under the Americans with Disabilities Act,” No. 915.002 (October 17, 2002). 
+
+Q.  EEOC Work at Home/Telework as a Reasonable Accommodation, 
+
+http://www.eeoc.gov.facts/telework.html (Oct. 27, 2005). 
+
+R.  DHS MD 250-05 and DHS MD 250-05-001, “Designation of Essential and Exempt 
+
+Personnel”. 
+
+1-5. Policy 
+
+A.  FEMA promotes telework (also known as flexiplace, telecommuting, or work-from-home) as 
+a workplace flexibility for recruiting top talent; retaining current employees; reducing the 
+cost of office space, absenteeism, and use of workers compensation; and to ensure 
+continuity of essential governmental functions in the event of an emergency. 
+
+B.  The FEMA telework program embraces the premise that all positions are presumed 
+suitable for telework, unless the official duties require, on a daily basis, an employee to be 
+physically present at a worksite because the employee’s duties cannot be performed 
+remotely or from an alternate worksite, or that the employee’s duties require the frequent 
+and direct handling of sensitive materials inappropriate for telework. 
+
+C.  All eligible employees will be afforded every opportunity to participate in the telework 
+program. Employees in occupations typically deemed ineligible for telework who are 
+working on rotations or temporary details that include work that is eligible for telework may 
+participate in the telework program. See criteria in Section 2-2, Determining Eligibility, for 
+further discussion of eligibility requirements. 
+
+D.  Employees participating in the telework program will be provided with the necessary 
+
+government equipment and supplies to adequately perform their tasks at an alternate 
+worksite as detailed in Section 3-6, Security and Equipment. 
+
+E.  Telework may be executed either 1) on a regular and recurring basis, meaning that the 
+employee teleworks at least one day or more a pay period or 2) on a situational or 
+episodic basis, that occurs on an occasional, non-routine circumstance and/or during 
+COOP/pandemic health crisis, individual employee medical reasons, or other emergency 
+situations. 
+
+F.  Telework for more than one day a pay period may be appropriate for attracting potential 
+applicants, retaining current employees, and providing reasonable accommodations for 
+employees in accordance with guidance by Office of Equal Rights (OER), as well as for 
+accommodating employees housed in Federal buildings undergoing renovation projects 
+and for addressing other agency or employee needs. 
+
+G.  Unscheduled situational telework is an important component of FEMA’s ability to operate in 
+
+emergencies. Telework should be incorporated into emergency preparedness operations to 
+the broadest extent possible. Unscheduled telework is a way for FEMA and its employees 
+
+5 
+
+ 
+ 
+to maintain productivity and help ensure safety of the Federal workforce and the public. For 
+example, telework will be considered for situational inclement weather as well as 
+emergency situations that involve national security, extended emergencies, or other unique 
+situations (See Section 3-9 Emergency Situations). 
+
+H.  As part of FEMA Continuity of Operations Plan (COOP), positions may be designated as 
+
+Mission Critical. These designations should be an integral part of the COOP planning and 
+emergency occupant plans. As such, each organization should test its preparedness at 
+least annually for an all-staff telework emergency by conducting an exercise where all 
+eligible employees telework for at least one day (See Section 3-10).  Designation as Mission 
+Critical means the employee in the position is deemed an Emergency Employee for 
+purposes of Para. 1-6.H.  
+
+I.  Telework will be considered when planning for any building renovation in any agency 
+
+location, especially where workspace sharing (e.g., hoteling) is required. 
+
+J.  An approved and up-to-date agreement is required for any teleworking arrangement. The 
+agreement should outline emergency designations when applicable and allow easy 
+implementation for unscheduled telework in emergency or unforeseen situations where 
+teleworking may be appropriate. 
+
+K.  Telework training is required for all new teleworkers and their managers before he/she 
+begins a telework arrangement.  Employees with telework agreements may also be 
+required to undergo periodic retraining.  
+
+L.  Agencies/staff offices must include an appropriate notice in all eligible vacancy 
+
+announcements when the position is eligible for telework. For example, "The duties of this 
+position can be performed while teleworking” or “This position is eligible for telework and 
+other flexible work arrangements.” 
+
+M.  Telework may be considered appropriate as an accommodation for employees who meet 
+
+reasonable accommodation guidelines in alignment with the Office of Equal Rights (OER). 
+
+N.  If an employee teleworks full time, supervisors must coordinate with Office of Chief 
+
+Component Human Capital Officer (OCCHCO)  to ensure the employee is aware of any 
+impact to pay or benefits that may result from the arrangement (See Section 3-3, Official 
+Duty Station). 
+
+O.  Employee performance for teleworkers and non-teleworkers will be evaluated using the 
+same performance management program and standards that cover workers at traditional 
+office/duty locations. This includes providing all employees the same opportunities and 
+treatment with regards to work assignments, periodic appraisal of job performance, awards, 
+recognition, training and developmental opportunities, promotions, and retention incentives. 
+
+P.  Teleworking  employees  are  subject  to  ensuring  that  records  subject  to  Privacy  Act  and 
+sensitive  or  classified  data  are  not  disclosed  to  anyone  except  those  who  are  authorized 
+access  to  such  information  in  order  to  perform  their  duties.  Individuals  may  not  remove 
+classified data from employees’ official work sites to alternate worksite locations. 
+
+Q.  Teleworking employees continue to be bound by DHS and FEMA standards of conduct and 
+
+performance directives and policies while working at the alternate worksite. 
+
+6 
+
+ 
+ 
+R.  Employees rights provided for in the collective bargaining agreement are not affected by 
+
+participation in the telework program. 
+
+S.  Employees can both telework and participate in an Alternate Work Schedule (AWS). 
+
+However, a program office can restrict the combination of the usage of both programs 
+by an employee if it negatively impacts  mission accomplishment. 
+
+1-6.  Definitions 
+
+A.  Alternative Work Schedules (AWS):  Work schedules that differ from traditional fixed work 
+schedules (e.g., 8 hours per day, 40 hours per week).  There are two categories of AWS:  
+Flexible Work Schedules (FWS) or Compressed Work Schedules (CWS). 
+
+B.  Alternate Worksite/Location (AWL): A location where official duties are performed away 
+from the traditional worksite. An alternate worksite may be the employee's residence, a 
+satellite office, or another approved location. For an employee covered by a telework 
+agreement, the alternate worksite may be the employee’s official worksite. 
+
+C.  Compressed Work Schedule (CWS):  A schedule in which the biweekly 80-hour 
+
+requirement for a full-time employee is fulfilled in less than 10 workdays. For a part-time 
+employee, the biweekly requirement of LESS than 80 hours is completed in less than 10 
+workdays. 
+
+D.  Continuity Facility: Locations other than the primary facility used to carry out essential 
+functions during continuity of operations events. In some cases, an employee’s home or 
+other virtual office options may be designated as a continuity facility if determined to have 
+an acceptable risk level for the execution of essential functions continue. 
+
+E.  Continuity of Operations Plan (COOP): A plan containing procedures designed to ensure 
+
+continuity of essential functions at FEMA under all emergency circumstances. Some of the 
+major purposes of a COOP Plan include delineating essential Agency functions, 
+specifying the order of succession of Agency leaders and delegations of authority, and 
+providing for safekeeping of vital records/databases. Under a COOP, employees with 
+and without Telework Agreements may be required to work at an alternate worksite. 
+F.  Emergency: Includes national and local security situations, extended emergencies, or other 
+unique situations when the Agency is closed or access to an employee’s official duty station 
+or other agency facilities is limited. 
+
+G.  Emergency Employees:  Employees who are assigned to positions required to sustain a 
+
+facility or function in the event of a localized situation, such as inclement weather, 
+interruption of power, or a dismissal or closure of DHS operations or services.  These 
+employees are expected to work even when DHS applies dismissal or closure 
+procedures.  The designation of Emergency Employees may vary according to the 
+particular nature of an exigency.  Emergency Employees may also be designated 
+Mission Critical in Agency COOP plans.  See Para. 1-5.H.  FEMA employees have 
+regular and recurring emergency management responsibilities; though not every position 
+requires routine deployment to disaster sites, all positions may be subject to recall based 
+on mission needs. 
+
+H.  Emergency Relocation Group (ERG): Staff assigned responsibility to continue essential 
+
+7 
+
+ 
+ 
+functions from an alternate site in the event that their primary operating facilities are 
+threatened or have been incapacitated by an incident. 
+
+I.  Executive Level Managers: Associate Administrators, Regional Administrators, Assistant 
+
+Administrators, and Program Directors and other Office Chiefs. 
+
+J.  FEMA Telework Managing Officer: The senior FEMA employee who serves as the Agency’s 
+
+point of contact to provide overall strategic direction on telework issues. 
+
+K.  FEMA Telework Program Manager: The Program Manager serves as the Agency point of 
+contact (POC) for Program Office/Regional Telework Coordinators, for senior managers, 
+and for external organizations (e.g., the U.S. Office of Personnel Management, the General 
+Services Administration, and the Department of Homeland Security). He/she provides 
+leadership, guidance and interpretation, data analysis, training, and evaluation of the 
+Agency’s telework program and policy.  
+
+L.  Flexible Work Schedule (FWS):  A schedule in which an employee selects arrival and 
+
+departure times that are outside business hours of, the FEMA activity to which assigned 
+but within the flexible time band, and includes 8 hours of duty and a 30-minute lunch 
+period each day. 
+
+M.  Mission Essential Functions (MEFs): The limited set of department and agency level 
+government functions that must be continued throughout, or resumed rapidly after, a 
+disruption of normal activities. 
+
+N.  Primary Mission Essential Functions (PMEFs): Those department and agency Mission 
+
+Essential Functions, validated by the NCC, which must be performed in order to support the 
+performance of MEFs before, during, and in the aftermath of an emergency. PMEFs need to 
+be continuous or resumed within 12 hours after an event and maintained for up to 30 days 
+or until normal operations can be resumed. 
+
+O.  Official Discipline (Formal): An action pertaining to the reprimand, suspension, or removal 
+of an employee which is documented and is present in an employee’s electronic Official 
+Personnel File (eOPF).  
+
+P.  Official Duty Station: The official worksite is the location of an employee’s position of 
+record where the employee regularly performs his/her duties. Certain location-based pay 
+entitlements (such as locality payments, special rate supplements, and non-foreign area 
+cost-of-living allowances) are based on the location of the employee's official worksite 
+associated with the employee's position of record (See Section 3-3, Official Duty Station).  
+If the employee's work involves recurring travel or the employee's work location varies on 
+a recurring basis (sometimes referred to as “mobile work”), the official worksite is the 
+location where the work activities of the employee's position of record are based, as 
+determined by the employing agency, subject to the requirement that the official worksite 
+must be in a locality pay area in which the employee regularly performs work.  Examples 
+of mobile work include site audits, site inspections, investigations, property management, 
+and work performed while commuting, traveling between worksites, or on Temporary Duty 
+(TDY). 
+
+Q.  Official Home of Record: The employee’s residential address that is officially listed in the 
+
+employee’s Official Personnel Folder (OPF). 
+
+8 
+
+ 
+ 
+R.  Personal Identifiable Information (PII): Any information about an individual maintained in 
+an agency system of records, including, but not limited to, financial transactions, medical 
+history, criminal history, employment history, or any other information which can be 
+retrieved using a personal identifier, such as name, Social Security Number, date and 
+place of birth, mother’s maiden name, biometric records, and any other personal 
+information which is linked or linkable to an individual. 
+
+S.  Portable Work: Work normally performed at an employee’s official worksite that can be 
+performed with equal effectiveness at an Alternative Work Location with respect to quality, 
+quantity, timeliness, efficiency, customer service, and other aspects of the Agency’s 
+mission accomplishment.  This work is part of the employee’s regular assignments and 
+does not involve a change in duties or in the way assignments are performed. 
+
+O.  Program Office/Regional Telework Coordinators: FEMA employees who, as part of their 
+official duties, serve as points of contact for providing guidance to employees and 
+managers in their respective organizations, collect telework data for reports, and oversee 
+implementation of the Agency’s Telework Program in their organizations.  In addition, 
+they will ensure compliance of the Telework Program with appropriate DHS directives, 
+FEMA policies, processes, and procedures, and to identify and implement Telework 
+improvements or corrective actions. They work collaboratively with the Agency’s 
+Telework Coordinator. 
+
+P.  Re-certification of Telework Agreements: Annual review of an employee’s Telework 
+
+Agreement by the employee’s supervisor to determine the employee’s current eligibility for 
+participating in the Telework Program. The employee’s participation in the Telework 
+Program may be amended or disapproved (terminated); otherwise agreements remain in 
+force. Supervisors must document any amendment in writing by completing a new  
+FEMA Form 123-9-0-1, Telework Application and Agreement with the employee.  
+
+Q.  Regular Telework (Core): Work that is performed on an established work schedule at an 
+approved AWL on a regular, recurring, and ongoing basis. Telework arrangements may be 
+determined by the Supervisor to be full-time or part-time based on eligible telework duties 
+and portable work needs (full-time arrangements must consider Section 3-3, Official Duty 
+Station). Employees with Regular Telework agreements may also apply for Situational 
+Telework in order to work on specific projects and/or in response to an emergency. 
+
+R.  Situational Telework (Episodic): Telework that occurs on an occasional, non-routine basis 
+and/or during COOP/pandemic health crisis or other emergency situations. Supervisors 
+have discretion to establish timeframes for Situational Telework (Episodic) based on 
+work-related factors such as work priority, deadlines, etc. When making an approval for a 
+situational telework agreement for a medical reason, special project, or accommodation 
+request, the agreement must be reviewed and reapproved every 30 days. Telework 
+arrangements may be determined by the Supervisor to be full-time or part-time based on 
+eligible telework duties and portable work needs (full-time arrangements must consider 
+Section 3-3, Official Duty Station). The definition of situational telework includes 
+“unscheduled telework” as defined separately. Situational telework may be used: 
+
+9 
+
+ 
+ 
+1.  To allow an employee to perform work on a specific organizational project or a 
+
+discrete portion of a project; 
+
+2.  To permit an employee to perform work at an AWL during inclement weather; 
+
+3.  To allow an employee to perform work when his/her official worksite is not accessible 
+(e.g., building damage/emergency, or because of traffic disruption due to street closures, 
+conventions, demonstrations, etc.); 
+
+4.  To enable an employee to perform work at an AWL during an agency closure or early 
+
+dismissal (see Section 3-9, Emergency Situations for further detail); or 
+
+5.  For an employee who is recovering from illness or an injury and is temporarily unable to 
+
+physically report to the traditional office, as supported by documentation from the 
+employee’s physician. 
+
+S.  Telework:  A  flexible  work  arrangement  under  which  employees  perform  the  duties  and 
+responsibilities of their positions from an approved worksite other than the location from 
+which the employee would otherwise work. 
+
+T.  Telework Application and Agreement: A written agreement of the terms and conditions of 
+the telework arrangement that is completed and signed by the participating employee and 
+the supervisor or designee(s).  
+
+U.  Telework-Ready Employee: An employee who meets the eligibility criteria of the 
+
+Telework Program, has completed the required training, has the appropriate space and 
+equipment and work assignments needed to work at a location other than the official 
+worksite, and has an approved Telework Agreement. 
+
+V.  Tour of Duty: The hours of a day (a daily tour of duty) and the days of an administrative 
+workweek (a weekly tour of duty) that constitute an employee's regularly scheduled 
+administrative workweek. 
+
+W. Traditional Worksite: The location (i.e., workplace) where an employee would usually 
+
+report for work absent a telework agreement. 
+
+X.  Unscheduled Telework: A term applied in the context of OPM’s Washington, DC, Area 
+Dismissal and Closure Procedures, in reference to telework that occurs on day(s) that a 
+telework approved employee was not scheduled in advance to telework.  This is 
+considered a type of situational telework and applies to all FEMA locations. 
+
+Y.  Workspace Sharing (Hoteling): An arrangement involving two or more employees 
+sharing one office/cubicle by coordinating the days each employee is on-site at the 
+traditional worksite; or a shared use of non-dedicated workstations by employees (who 
+telework the majority of their time) when they are on-site at the traditional worksite. 
+
+1-  7  Responsibilities 
+
+A. Chief Component Human Capital Officer (CCHCO) is responsible for: 
+
+1.  Designating an Agency Telework Managing Officer to administer and oversee the 
+
+telework program for FEMA; and 
+
+2.  Developing Agency specific guidelines on telework necessary to implement DHS policy. 
+
+10 
+
+ 
+ 
+ 
+  
+ 
+B. Executive-Level Managers are responsible for: 
+
+1.  Actively promoting telework within their respective organizations, consistent with 
+accomplishing their assigned missions, making every effort to overcome artificial 
+barriers to program implementation and integrating telework into continuity of operations 
+(COOP) activities;  
+
+2.  Serving as the final deciding authority regarding whether an employee will be allowed to 
+
+telework if a supervisor’s disapproval is appealed by an employee; and 
+
+3.  Determining which employees are Emergency Employees, in coordination with the 
+
+FEMA Telework Program Manager. 
+
+C. Office of Equal Rights (OER) is responsible for: 
+
+1. Providing technical resource information on reasonable accommodation; and 
+2. Advising on usage of telework as an accommodation. 
+
+D. Chief Information Officer in coordination with Chief Acquisition Officer is responsible for: 
+1.  Procuring allowable Information Technology products and services, to include remote 
+
+access servers, client devices, and internal resources accessible through remote 
+access; 
+
+2.  Deploying and modernizing IT systems and infrastructure to support agency 
+
+telework requirements (as applicable to Section 3-6, Security and Equipment); 
+and 
+
+3.  Ensuring compliance of devices and infrastructure with federal security and privacy 
+
+requirements. 
+
+E. FEMA Telework Managing Officer is responsible for: 
+
+1.  Developing and evaluating program structure and resources; 
+2.  Providing overall strategic program direction; and 
+3.  Leveraging support for the telework program throughout the agency by collaborating 
+
+with senior agency officials. 
+
+F. FEMA Telework Program Manager is responsible for: 
+
+1.  Providing overall direction on the implementation of the FEMA telework program in 
+accordance with law, this Instruction, and other applicable DHS policies; and program 
+implementation, and operation of the telework program in accordance with law, this 
+Instruction, and other applicable DHS policies; 
+
+2.  Ensuring oversight for the Agency Telework program, monitoring, evaluating and 
+
+providing guidance and training to all Telework Coordinators; 
+
+3.  Actively promoting telework within the Agency, consistent with accomplishing assigned 
+
+missions, and making every effort to overcome artificial barriers to program 
+implementation through education and training for leadership and supervisors on 
+telework benefits, performance management in a telework environment, and the 
+value of integrating telework into COOP activities; and 
+
+4.  Tracking employee participation and providing usage data at the end of each calendar 
+
+year for submission to the DHS Chief Human Capital Officer or the U.S. Office of 
+Personnel Management (OPM) for Annual Telework Reporting. Additionally a copy will 
+be provided to the FEMA Labor Management Partnership Council. 
+
+G. Telework Coordinators are responsible for: 
+
+1.  Reviewing all submitted Telework forms, agreements, and documents received for 
+
+completeness and compliance; 
+
+11 
+
+ 
+ 
+ 
+2.  Interpreting Telework policy application to regional, directorate, or division level; 
+3.  Maintaining accurate records of program participation at regional, directorate, or division 
+
+level; 
+
+4.  Working with the Telework Program Manager to complete and submit regional, 
+
+directorate, or division program reporting requirements; and 
+
+5.  Ensuring employees are fully trained on telework procedures including IT and data 
+
+security and safety requirements. 
+
+H. The FEMA Privacy Office is responsible for providing policy guidance and training for 
+employees and managers to ensure that the use of AWL includes  proper handling of 
+information protected by the Privacy Act; 
+
+I.  The FEMA Office of the Chief Security Officer is responsible for providing policy guidance 
+and training for employees and managers to ensure that the use of AWL does not risk the 
+improper disclosure of sensitive but unclassified (For Official Use Only (FOUO)),  or 
+classified information; 
+
+J.  FEMA Supervisors are responsible for: 
+
+1.  Ensuring there is adequate coverage during public business hours to enable operations 
+
+to continue to be carried out in an efficient and economical manner and that 
+participating and nonparticipating employees are treated equitably; 
+
+2.  Making the determination regarding whether requesting employees are eligible for 
+
+telework; 
+
+3.  Determining whether employees’ duties include sufficient portable work to permit 
+
+regular telework for a given number of days per pay period; 
+
+4.  In collaboration with OCCHCO, ensure that, as appropriate, position descriptions 
+
+are updated to reflect which positions are not suitable for telework and the 
+reasons for such determinations; 
+
+5.  Approving or disapproving requests for telework (When making an approval for a 
+
+situational telework agreement for a medical reason, special project, or accommodation 
+request, the agreement must be reviewed and reapproved every 30 days. A request for 
+approval for an employee to telework outside of their normal commuting area or in 
+another geographical area should be handled as a request for change of duty location 
+and not a telework request.); 
+
+6.  Justifying, in writing, the basis for the disapproval or termination of telework in the 
+comments portion of the telework request; and communicating clearly to their 
+employees the reasons for the disapproval of employees’ telework requests; 
+7.  Monitoring and reviewing  all telework arrangements annually to make sure mission 
+
+requirements are being met; 
+
+8.  Monitoring employee performance and terminating telework arrangements if an 
+employee’s performance does not meet or exceed the  “proficient,” or “achieved 
+expectations” standard, or if the teleworking arrangement fails to meet organizational 
+needs; 
+
+9.  Ensuring proper accountability of government equipment assigned to teleworkers; 
+10. In the event of lost or stolen equipment, conducting an inquiry into the facts and 
+
+circumstances, and reporting findings in accordance with FEMA’s Personal Property 
+Manual 119-7-1, specifically FEMA Form 119-7-1-1, Report of Survey;  
+
+11. Ensuring that employees comply with laws, policies, and directives to prevent the 
+unauthorized disclosure of information that is confidential, sensitive, classified, or 
+PII; 
+
+12 
+
+ 
+ 
+ 
+ 
+12. Contacting the Office of Equal Rights for additional guidance before approving an 
+
+episodic and situational or regular and recurring telework agreement in cases where 
+an employee requests telework as an accommodation for disability; and 
+13. Engaging and involving Agency Labor Representatives, where applicable, in 
+determining the types of positions and tasks eligible for telework. Engaging and 
+involving Equal Rights representatives where exclusive representation is not 
+applicable in determining the types of positions and tasks eligible for telework. 
+
+K. FEMA Employees are responsible for: 
+
+1.  Completing and signing a telework agreement detailing the location and requirements 
+of the alternate worksite. (If requesting telework at home, designate one area in the 
+home as the official work station for purposes of telework on the Telework Agreement 
+(e.g., First Floor Office) and complete the attached self–certification safety checklist); 
+2.  Maintaining a level of performance that is at the proficient or “achieved expectations” 
+
+level or higher; 
+
+3.  Protecting all government-provided equipment and software from loss, theft, or damage 
+
+(including environmental damage); 
+
+4.  Ensuring the security of all official, sensitive, and, in particular, for official use only 
+(FOUO) data, and strictly adhering to Agency information and electronic security 
+policies; 
+
+5.  Agreeing to protect government records from unauthorized disclosure or damage and to 
+comply with the requirements of all information security laws, rules, and regulations, 
+including the Privacy Act of 1974; 
+
+6.  Immediately notifying his or her supervisor and all appropriate Agency officials, 
+
+including the Privacy Officer, when a loss, theft, or compromise of personal information 
+or government equipment occurs; 
+
+7.  Working at the traditional worksite on telework days if necessitated by work 
+
+requirements, or as directed; 
+
+8.  Updating his or her application for Transit Subsidy benefits within 10 
+
+working days of the approval of a regular telework agreement; 
+
+9.  Ensuring the designated area in his or her home complies with safety requirements for 
+
+work-at-home telework; 
+
+10. Notifying their supervisor immediately of any accident or injury at the alternate worksite 
+
+and completing the required documentation; 
+
+11. Notifying their supervisor if equipment failure or other technical reasons affect their 
+
+ability to telework efficiently;  
+
+12. Forwarding office telephones to the agency issued equipment; (this requirement will be 
+dependent upon the phone system at the employee’s traditional worksite, as all systems 
+do not have the call forwarding feature);  
+
+13. Adhering to the established work schedule and properly accounting for and reporting 
+
+actual hours worked; and 
+
+14. Adhering to the same workday requirements when performing work at the AWL as 
+
+they would be if they were performing work at the official duty station. 
+
+1-8. Reporting Requirement  
+
+OCCHCO will collect the appropriate information and report to DHS Chief Human Capital 
+Officer and OPM as directed. 
+
+1-9. Forms Prescribed  
+
+A. 
+
+FEMA Form 123-9-0-1, Telework Application and Agreement Form 
+
+13 
+
+ 
+ 
+ 
+B. 
+
+FEMA Form 123-9-0-2, Employee Self-Certification Safety and Health Checklist 
+
+1-10. Questions  
+
+Questions concerning Telework should be addressed to the Office of Chief Component 
+Human Capital Officer at (202) 646-3962. 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CHAPTER 2: PROCEDURES 
+
+2-1. Telework Arrangements 
+
+A. While participation in telework is not an employee entitlement, FEMA assumes that all 
+
+positions are eligible for telework unless the supervisor can document otherwise that official 
+duties are not suitable for work in a remote or alternate worksite.  An employee may 
+participate in the program if the employee meets eligibility requirements as outlined in Section 
+2-2, Determining Eligibility. 
+
+B.  A complete telework documentation package must be submitted to the Telework 
+
+Coordinator prior to the participation of an employee in the telework program including: 
+1.  A completed and signed FEMA Telework Program Application and Agreement 
+
+Form, which has been prepared in accordance with this policy and attests to the validity 
+of eligibility and program participation.  This is required to document any form of telework 
+arrangement and prior to the beginning of telework.  Telework plan should be attached; 
+
+2.  The FEMA Telework Health and Safety Checklist must be completed and signed; 
+3.  Documentation of completed telework training program as described in Section 2-3, 
+
+Training; and 
+
+4.  Completion of any documentation related to applicable telework equipment. 
+C.  A telework arrangement does not alter the terms and conditions of the appointment as 
+specified on the employee's Notification of Personnel Action, SF-50. However, an 
+employee's official duty station may change if he or she does not regularly commute into 
+the agency office (See Section 3-3, Official Duty Station). The telework arrangement must not 
+affect other conditions of employment (e.g., hours of work) unless otherwise specified in the 
+telework agreement. Employees may be approved both to telework and to work an alternative 
+work schedule. 
+
+D. The telework arrangement may normally be terminated in writing by either management or 
+
+by the employee with reasonable advance notice, generally fourteen calendar days, but not 
+less than seven calendar days.  Reasons for termination of an arrangement may be a 
+decline in performance or productivity, or if the arrangement no longer benefits the 
+organization's needs.  Program Offices may establish specific termination provisions, as they 
+deem necessary, for their operations and mission needs.  When an arrangement is 
+terminated by management, the supervisor must provide the employee with a brief, written 
+explanation as to why.    
+
+E.  The  telework  agreement  shall  be  for  the  performance  of  official  duties  or  related  activities 
+(professional  development,  training)  and  shall  not  be  treated  as  an  opportunity  to  conduct 
+personal business. 
+
+F.  Teleworkers are responsible for ensuring appropriate arrangements for the care of 
+
+dependents at home if the home is their official telework duty location. That is, employees may 
+not use telework to personally care for a dependent. However, this does not preclude a 
+teleworker from having a caregiver working in the home providing care to the 
+dependent(s) while he/she teleworks. 
+
+G.  Management reserves the right, normally with one day notice, to require employees to 
+return to the official duty location on scheduled telework days, based on operational 
+requirements.  Exceptions for a lesser notification may be appropriate in certain unforeseen 
+situations. 
+
+H.  Approved telework agreements should be coordinated with the Agency Transit Subsidy 
+
+Manager. Notify the Agency Transit Subsidy Manager of the number of days the employee 
+will telework so the transit subsidy coordinator can determine if the employee’s subsidy 
+should be reduced appropriately. 
+
+15 
+
+ 
+ 
+I.  Employees who telework must be available to their coworkers, supervisor, and customers 
+in the same manner as if they were in their duty location. For example, phone calls and 
+emails must be answered in the same timeframe as if the employee were working in their 
+duty location. This means that phones may normally be forwarded to agency issued 
+equipment. It may also mean that the employee should provide a secondary phone number 
+to be reached at the telework site if possible. Specific communication expectations shall be 
+addressed in the telework agreement, if necessary. 
+
+J.  During emergency situations, such as closures of the employee’s official duty station, or 
+during heightened periods of disaster work activity,, the agency may require employees 
+with telework agreements to telework on short notice.  See Paragraph 3-9. 
+
+2-2. Determining Eligibility 
+
+A.  Positions eligible for telework are those involving tasks (may be one or more) and work 
+activities that are portable, do not depend on the employee being at the official duty 
+location worksite, are measureable, and are conducive to supervisory oversight at the 
+alternate worksite. Job series and title do not determine eligibility as supervisors and 
+managers are required to encourage all eligible employees the opportunity to Telework. 
+B.  Tasks and work activities generally suited for telework include, but are not limited to: 
+
+reading, reviewing, editing, scheduling, planning, writing, and policy development; research; 
+analysis (e.g., investigating, program analysis, policy analysis, and financial analysis); 
+report writing; telephone-intensive tasks (excluding receptionist duties); computer-oriented 
+tasks (e.g., required or developmental training, programming, data entry, word processing, 
+web page design) and data processing. Tasks and work activities not generally suited for 
+telework include, but are not limited to positions that: involve daily handling of classified 
+materials; require the use of specialized equipment; require daily contact with other people; 
+or where a daily physical presence is required per the official duties of the position. FEMA 
+positions that are not typically suited for core telework include: inspectors, fire fighters, 
+warehouse staff, and similar positions. However, these positions may still be suitable for 
+Situational Telework on a case-by-case basis. The premise is that positions are eligible for 
+telework and supervisors must document exceptions. 
+
+C.  An employee suitable for telework is one who has demonstrated personal characteristics 
+
+that are well suited to telework, as determined by the supervisor, including as a minimum: 
+1.  Demonstrated dependability and the ability to handle responsibility; 
+2.  A proven record of high personal motivation, independence, dependability, good time 
+management skills, ability to prioritize work effectively, and ability to work without 
+close supervision; 
+
+3.  The ability to prioritize work effectively and utilize good time management skills; 
+4.  A proven, or on target for, a minimum current performance rating of at least 
+
+“proficient,” or “achieved expectations” in all performance criteria as designated by 
+the FEMA performance management programs;  
+
+5.  The employee must not be on leave restriction; and, 
+6.  No adverse personnel actions within any of the following categories: 
+
+A.  A Letter of Reprimand, a suspension without pay, or removal, imposed for 
+
+absence without leave for more than 5 days in a calendar year or for violations of 
+Subpart G of the Standards of Ethical Conduct of Employees of the Executive 
+Branch for viewing, downloading, or exchanging pornography, including child 
+pornography, on a Federal Government computer or while performing official 
+Federal Government duties), to the extent that such action remains in the 
+employee’s OPF, precludes approval of telework.   
+
+16 
+
+ 
+ 
+ 
+B.  Imposition of any other disciplinary or adverse action not included in A., above, 
+
+within the previous six months precludes approval of telework. 
+
+C.  Imposition of any other disciplinary or adverse action not included in A. or B., 
+above, regardless of age of the action, may preclude approval of telework, in 
+the discretion of the supervisor. 
+
+D.  An employee may not be approved for telework for one year from the date of 
+
+commencement of a performance improvement plan (PIP). 
+
+2-3. Training 
+
+A.  The employee must complete the telework awareness training prior to signing an initial 
+
+telework agreement and prior to starting to telework. Training is available at: 
+http://www.telework.gov/tools and resources/training/employees/index.aspx 
+
+B.  Supervisors must complete telework awareness training in order to approve a telework 
+
+arrangement. Training is available at: 
+http://www.telework.gov/toolsandresources/training/managers/index.aspx 
+
+2-4. Appeals 
+
+An employee denied a request to telework may appeal to the appropriate Executive 
+Level Manager.  The appeals process must ensure that the employee and management 
+have a fair and equitable opportunity to be heard. Appeal decisions are binding for no 
+more than six months unless circumstances change or are agreed upon by both parties 
+involved in the appeal. It is FEMA policy that whenever possible, individuals be allowed to 
+telework, so the burden in an appeal on why the agency would not allow telework is on the 
+supervisor, not on the employee. With respect to employees covered by a collective 
+bargaining agreement, appeals will be governed by the negotiated grievance procedure.  
+The Telework Coordinator will notify the employee of the appeal decision. 
+
+17 
+
+ 
+ 
+CHAPTER 3: TERMS AND CONDITIONS OF THE TELEWORK PROGRAM 
+
+3-1. Changes to Telework Agreement  
+
+An employee who teleworks may be required to come into the office on their telework 
+day when management makes a determination their presence is required. At least a 
+one-day notice should be given to the employee, however unforeseen circumstances 
+may require less notice. A teleworker who must report to the official duty station 
+should do so in a reasonable amount of time. Items to take into consideration are 
+traveling distance, mode of transportation, etc. Teleworkers and management should 
+discuss these items. In some cases, there may not be sufficient time for the teleworker to 
+report to the official duty station. Teleworkers who wish to change their scheduled 
+telework day permanently should complete another agreement and obtain the proper 
+approvals. Intermittent changes in a telework agreement do not require a change in the 
+agreement; however teleworkers should make the request at least one day in 
+advance. 
+
+3-2. Residential Telework Environment  
+
+A.  It is the responsibility of the employee to ensure that all the requirements to do official 
+
+work at their residence are met in an environment that allows the tasks to be 
+performed safely (See attached FEMA Form 123-9-0-2, Employee Self-Certification 
+Safety and Health Checklist). 
+
+B.  The employee must designate an area in the home as their official work area. The 
+area designated must be documented on the telework agreement. The employee 
+should check with their community associations, if one exists, to ensure there is not a 
+restriction on working from home. 
+
+C.  Each teleworker must understand that telework is not a substitute for dependent 
+
+care. A caregiver, however, may be present in the home to take care of a dependent 
+(e.g., infant, non-school age child and/or an elder) while the teleworker is performing 
+their official duties. Children who require no supervision may be present at the alternate 
+worksite. Management may request documentation from the teleworker to 
+substantiate a caregiver is providing on-site or off-site care during the teleworker's 
+scheduled work. 
+
+D.  The Government is not responsible for any operating costs in the Residential 
+
+Telework Environment that are associated with the employee's use of his or her 
+personal residence as an alternate worksite. This includes home maintenance, 
+insurance, or utilities. 
+
+E.  The employee agrees to permit access to their home by agency representatives 
+
+when necessary to ensure proper maintenance of agency-owned 
+equipment.  Teleworkers should be given at least one day’s advance notice of any 
+such visit. Visits should only be done during regular working hours.  
+
+3-3. Official Duty Station  
+
+A.  All pay, leave, and travel entitlements must be based on the employee's official 
+duty station. The employee's official duty station for such purposes as special 
+salary rates, locality pay adjustments, and travel is the city or town, county, and 
+state in which the employee normally performs their official duties. Supervisors must 
+consult with OCCHCO if there are any changes that warrant a change in the official 
+duty station. 
+
+B.  An employee's official duty station must be documented on the employee's Notification 
+of Personnel Action (Standard Form 50 or equivalent). (See "Duty Station" blocks 
+
+18 
+
+ 
+ 
+ 
+38  and  39  of  the  Standard  Form  50  showing  the  city/county  and  state  in  which  the 
+official worksite is located.) 
+
+C.  An employee's official duty station would not change as long as the employee 
+
+regularly commutes into the agency office at least twice each biweekly pay period on a 
+regular and recurring basis. 
+
+D.  If the employee does not regularly commute into the agency office at least twice 
+each biweekly pay period, the official duty station must be changed to the alternate 
+worksite. The official duty station would not generally be changed for employees who 
+telework for medical reasons and/or in emergency situations (i.e. COOP, agency 
+closures, urgent deadlines, etc.) as these types of telework arrangements are not 
+intended as permanent, but on a temporary basis not to exceed six months. 
+
+E.  When an employee’s official worksite/duty station is reassigned from the traditional 
+
+worksite to the alternate worksite, the affected employee and his/her supervisor should 
+discuss the implications of the reassignment, to include: 
+
+1.  Certain location-based pay entitlements (e.g., locality pay, special 
+rate supplements, and non-foreign cost of living allowances, etc.) are 
+based on the location of the employee’s official worksite/duty station. 
+2.  Reimbursement for official business travel is based on the location of the 
+
+employee’s official worksite/duty station. For example, when an employee 
+whose alternate worksite is outside the commuting area of the traditional 
+worksite is required to travel to the traditional worksite, the location of the 
+employee’s official worksite/duty station will determine whether the employee 
+or the Component pays for the required travel. 
+
+3.  Generally, the official worksite/duty station is used to identify the competitive 
+
+area during reduction-in-force determinations. 
+
+3-4. Time and Attendance, Work and Performance, and Overtime  
+
+A.  Time spent in a telework status must be accounted for and reported in the same 
+
+manner as if the employee reported for duty at the official duty station. The 
+employee is required to satisfactorily complete all assigned work, consistent with the 
+approach adopted for all other employees in the work group, and according to 
+standards and guidelines in the employee's performance plan. 
+
+B.  The employee agrees to follow their normal mission area/agency/staff office 
+
+procedures regarding the requesting and approval of overtime, credit hours, and 
+leave that are worked while in a telework status. 
+
+C.  All approved telework hours are to be reported in the WebTA Time Attendance 
+and System. Employees should code use WebTA transaction code 01- Telework 
+Home <=2 days if equal to or less than two days per work week and transaction 
+code 01-Telework Home >2 days for three or more days per work week. 
+
+3-5. Reimbursable Expenses  
+
+The FEMA Office of the Chief Financial Officer will set policy for determining any 
+applicable reimbursable expenses for eligible telework employees. 
+
+19 
+
+ 
+ 
+ 
+ 
+3-6. Security, Supplies, and Equipment  
+
+A.  Classified documents (hard copy or electronic) and/or equipment (e.g., diskettes, 
+computers, laptops, removable hard drives, and other media used for processing 
+classified information) must not  be taken to an employee's alternate worksite. For 
+core telework, FOUO Information may be accessed using employee-owned 
+equipment but may only be saved on government-issued equipment. 
+
+B.  All teleworkers are responsible for the security of all official data, and the protection 
+
+of government-issued equipment/property while carrying out the mission of 
+FEMA. Government-issued equipment must only be used for official duties and 
+only by the teleworker. A FEMA approved remote access solution must be used 
+(such as a virtual private network or Citrix solution). Authorization to telework is 
+contingent upon the availability of equipment and connectivity at the alternate 
+worksite sufficient to permit the employee reliable and secure access to email, 
+telephone, and any other systems necessary to perform the duties of his or her 
+position efficiently and without any detriment to mission accomplishment. The 
+employee is responsible for the installation, repair, and maintenance of their own 
+personal equipment in coordination with CIO guidance. 
+
+C. 
+
+If needed, the Agency will provide necessary office supplies (paper, pens, 
+compact disc , etc.). Employees should obtain these items from the official duty 
+station supply room or through the regular procedure at their official duty station. 
+The Agency will not reimburse employees for any supplies purchased 
+independently, nor will the Agency provide office furniture except as a reasonable 
+accommodation. 
+
+D.  The agency is responsible for obtaining software licenses that are necessary to give 
+the teleworker access on their personal equipment to perform their official duties. 
+When the telework arrangement ends, the teleworker is responsible for removing 
+and returning all government-owned software to the agency Software Manager or 
+agency Chief Information Officer. The responsibilities for configuration 
+management, patch and antivirus management, and other administrative 
+requirements must be defined in this agreement to include the expectations of the 
+teleworker in these matters. The agency is responsible for the maintenance of all 
+Government-issued equipment. The teleworker may be required to bring such 
+equipment into the office for maintenance. The employee must return all 
+Government-issued equipment and material to the agency at the conclusion of the 
+telework arrangement or at the agency's request. 
+
+E.  FOUO Information must be transported from the official duty station to the 
+
+alternate worksite in a secure container (e.g., briefcase with lock). Sensitive But 
+Unclassified Information, including SSI, Privacy Act, and "For Official Use Only" 
+data and non-sensitive, unclassified data must be stored in a secure file cabinet at 
+the alternate worksite. When such information is displayed on a computer screen, it 
+must not be visible to others. Computer privacy screens which block computer 
+screen visibility to others must be used when SSI is displayed on a computer 
+monitor at an alternate worksite. Neither family members nor other individuals 
+are authorized to handle and/or view any government Sensitive But Unclassified 
+Information, including SSI, Privacy Act, and "For Official Use Only" data. 
+
+20 
+
+ 
+ 
+ 
+3-7.   Worker’s Compensation and Other Liabilities  
+
+Employees are covered by the Federal Employees Compensation Act at the alternate 
+worksite as long as the injury occurred while performing their official duties and in the 
+designated work area identified on the telework agreement. If an injury occurs, the 
+employee must notify the supervisor immediately, provide details of the accident or 
+injury, and complete Department of Labor Form CA-1, Federal Employee's Notice of 
+Traumatic Injury and Claim for Continuation of Pay/Compensation. The government is not 
+liable for damages to the employee's personal or real property while the employee is 
+teleworking, except to the extent the government is held liable under the Federal Tort 
+Claims Act or the Military and Civilian Employees Claims Act. 
+
+3-8.   Standards of Conduct  
+
+The employee acknowledges that he/she continues to be bound by the Standards of 
+Ethical Conduct for Employees of the Executive Branch while teleworking and using 
+government-issued equipment. 
+
+3-9.   Emergency Telework.  
+
+A.  Supervisors  and  managers  shall  classify  their  employees  as  emergency  and  non-
+emergency  employees  promptly  and  appropriately,  and  shall  maximize  telework 
+readiness among their employees in a manner consistent with this policy. 
+
+B.  OPM Announcements.  Employees shall monitor, read and comply with OPM 
+
+announcements unless otherwise directed by the Agency or their supervisors.  To 
+the extent that OPM announcements conflict with FEMA and supervisory guidance, 
+employees must follow FEMA and supervisory guidance.   
+
+C.  When OPM announces that Federal agencies in the Washington, DC, area are 
+
+open and that employees have the options of unscheduled leave or unscheduled 
+telework, the following procedures apply: 
+
+1.  Emergency Employees must report for duty as directed unless they are telework 
+
+ready and permitted to telework by their supervisors. 
+
+2.  Non-Emergency Employees shall notify their supervisors in advance if they 
+
+intend to take unscheduled leave. 
+
+3.  Non-Emergency Telework Ready Employees.  The Agency may direct non-
+
+emergency, telework ready employees to perform unscheduled telework.  If not 
+directed to telework, they must report to work, take unscheduled leave or request 
+their supervisor’s permission to telework. 
+
+D.  When OPM announces that Federal agencies in the Washington, DC, area are 
+
+closed, or when FEMA closes an employee’s official duty station, non-emergency 
+employees (including employees on pre-approved paid leave) will be granted 
+excused absence (administrative leave) for the number of hours they were 
+scheduled to work unless they are covered by one of the following categories: 
+
+1.  Emergency Employees must report for duty as directed unless they are telework 
+
+ready and permitted to telework by their supervisors. 
+
+2.  Non-Emergency,Telework Ready Employees who are already scheduled to 
+
+telework or who are directed to perform unscheduled telework must telework the 
+entire work day.  If directed to telework, such employees may request the use of 
+(1) earned annual leave, compensatory time off, credit hours, or sick leave, as 
+
+21 
+
+ 
+ 
+appropriate; (2) leave without pay; (3) their flexible work schedule day off or 
+revision of their work hours under flexible work schedules.  On a case-by-case 
+basis, FEMA supervisors may excuse a telework ready employee from duty as 
+outlined in ¶ 3-9 F.   
+
+4.  The status of employees on Leave Without Pay, official travel, or an alternate 
+
+work schedule day off is not affected by any such announcement. 
+
+E.  COOP Activation.  The Agency may require any employee to telework in accordance 
+
+with an activated COOP plan.  
+
+F.  Excusal.  Supervisors may excuse telework ready employees from work and grant 
+annual or administrative leave with pay, as appropriate, when an emergency 
+adversely affects the telework site (e.g., disruption of electricity, loss of heat, loss of 
+connectivity, etc.), or if the teleworker faces a personal hardship that prevents him or 
+her from teleworking effectively.  Dependent care needs do not ordinarily entitle a 
+teleworker to administrative leave; annual leave will be granted as appropriate. 
+
+3-10.  Telework and COOP Planning.  All organizations must incorporate telework into their 
+
+continuity plans and procedures by: 
+
+A.  Assessing the organization’s essential functions to identify which functions the 
+organization can conduct via telework, including evaluating the use of telework for 
+supporting extended continuity operations and use by non-emergency response 
+group (ERG) personnel; 
+
+B.  Establishing and maintaining plans and procedures to use telework as a primary or 
+backup continuity strategy for those essential functions and supporting tasks that are 
+telework authorized, based upon the assessment; 
+
+C.  Assessing  the  capability  of  situational  telework  agreements  for  both  ERG  and  non-
+ERG  personnel,  to  ensure  that  employees  may  be  authorized  to  telework  during  a 
+continuity event; 
+
+D.  Establishing situational telework agreements for all employees to determine their 
+
+eligibility to telework during a continuity activation; 
+
+E.  Ensuring that each eligible employee is authorized to telework during a continuity 
+activation by successfully completing the required telework training program (as 
+described in Section 2-3, Training) and completing necessary documentation (as 
+described in Section 2-1, Telework Arrangements, Part B); and 
+
+F.  Coordinating with FEMA’s designated Telework Managing Officer when developing 
+
+and integrating the organization’s continuity plan. 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,30 @@
+{
+  "document_id": "FEMA-RA EMAIL ALL FOUND-12-05-2024-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RA EMAIL ALL FOUND-12-05-2024.xlsx",
+    "file_size": 288339,
+    "file_hash": "fc13be40f2969ee905efd7a5d666257899a66ad4594c821cb18dc8b9d6fd79f5",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.316557",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.316557",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-Letter of Acceptance HS-FEMA-02430-2024.eml (9.88 KB)-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Letter of Acceptance HS-FEMA-02430-2024.eml (9.88 KB).msg",
+    "file_size": 34816,
+    "file_hash": "be37b9769f5e3976b8bab7f0356f32a71715b35c321472cc95963a410896cdcb",
+    "mime_type": "application/vnd.ms-outlook"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:32.104515",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:32.104515",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

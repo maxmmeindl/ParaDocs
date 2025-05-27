@@ -1,0 +1,32 @@
+{
+  "document_id": "EEOC-GRETA SCHAUER-ADR-All Mail Items-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "GRETA SCHAUER-ADR-All Mail Items.pdf",
+    "file_size": 1417602,
+    "file_hash": "e0229c66af5441902e2f0079f6600d9de156828df8c8e2d458b5cef852b7da0b",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:21.726062",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:21.726062",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

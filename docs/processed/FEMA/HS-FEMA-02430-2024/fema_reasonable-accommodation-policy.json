@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-fema_reasonable-accommodation-policy-20250526",
+  "document_type": [
+    "Interactive_Process"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "fema_reasonable-accommodation-policy.pdf",
+    "file_size": 445601,
+    "file_hash": "7f7862d4915f518d4af2c10a61ce5f0f80701d899a8ba8b5a3114bef9f96d7b4",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:10.073389",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:10.073389",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+What is your age?
+Was management aware of your age?
+How was management aware of your age?
+Was management aware of your physical disability?
+How was management aware of physical disability?
+Was the person responsible for the discriminatory issue under investigation aware of your race? If so, how and when did he/she become aware of your race? 
+Do you believe that you were treated differently than similarly situated individuals? If so, please explain? List their (basis)
+State exactly, how you were discriminated based on age (1951), and physical disability.
+Why do you contend that you were treated differently because of your age (1951) and physical disability? 
+Do you have any witnesses to support your contentions in this matter? Identify by name, title, email, and nature of information to be provided.
+Did you notify that discrimination was unwelcome when you were subjected to discrimination based on age (1951), and physical disability? If so, who?
+What actions were taken?
+Did you inform management that you were being harassed?
+
+Specifically, who denied your RA request? What reason was given for the denial? What did you request? Please explain.
+Did you inform anyone in management that you were offended by this? If so, what response did you receive.
+How were you harmed?
+How did this affect your work environment?
+Were you aware of similarly situated employees who were not denied their RA request. Please explain. Name employee and annotate by age and physical disability.
+Why do you contend that you were treated differently because of age?
+Why do you contend that you were treated differently because of physical disability?
+Do you have any witnesses to support your contentions in this matter? Identify by name, title, email and nature of information to be provided.
+Is there anyone else that you think we should speak with that may have direct knowledge of this issue?
+If so, who and what information might they have? Please provide contact information.
+Why were you issued a Notice of Termination of Appointment?
+ Do you agree with the reasons given for terminating your employment? Please explain
+Who notified you of your termination?
+Was this notification done verbally or in writing?
+Are you aware of any other similar situated employees who were not terminated during this time? 
+Please identify by name, race, and prior EEO if known.
+ Why do you contend that you were treated differently because of your race?
+Why do you contend that you were treated differently because reprisal?
+ Do you have any witnesses to support your contentions in this matter? Identify   
+by name, title, email, and nature of information to be provided
+9. Do you have anything else to add?
+
+
+Grok
+Given the nature of your questions, here are responses crafted with a pro-complainant bias, focusing on age, physical disability, and race discrimination. Please note that for actual legal proceedings, consulting with an attorney or an EEO counselor is highly recommended. 
+
+What is your age?
+I am currently [your age], born in 1951.
+
+Was management aware of your age?
+Yes, management was fully aware of my age.
+
+How was management aware of your age?
+My age was disclosed through my employment application, HR records, and during mandatory age-related training sessions.
+
+Was management aware of your physical disability?
+Yes, they were aware.
+
+How was management aware of your physical disability?
+I disclosed my disability when requesting reasonable accommodations and during a medical leave application process, both of which are documented in HR files.
+
+Was the person responsible for the discriminatory issue under investigation aware of your race? If so, how and when did he/she become aware of your race?
+Yes, [name if known] was aware of my race since my first day of employment when I filled out my EEO self-identification form and have been visibly present in the workplace.
+
+Do you believe that you were treated differently than similarly situated individuals? If so, please explain? List their (basis)
+Yes, I was treated differently based on my age, physical disability, and race. Younger employees received more opportunities for professional development; non-disabled employees were not required to justify accommodations as rigorously; and employees of other races were given more prominent roles and projects.
+
+State exactly, how you were discriminated based on age (1951), and physical disability.
+Age: I was bypassed for promotions and training opportunities that were given to younger colleagues. Physical Disability: My requests for reasonable accommodations were consistently delayed or denied, unlike those of non-disabled peers.
+
+Why do you contend that you were treated differently because of your age (1951) and physical disability?
+There's a pattern where older employees like myself were not considered for advancement, and my disability accommodations were treated with skepticism, unlike others.
+
+Do you have any witnesses to support your contentions in this matter? Identify by name, title, email, and nature of information to be provided.
+[Name], [Title], [Email] - Can testify to the disparity in training opportunities and treatment of accommodation requests. 
+[Name], [Title], [Email] - Observed the marginalization in team dynamics and project assignments.
+
+Did you notify that discrimination was unwelcome when you were subjected to discrimination based on age (1951), and physical disability? If so, who?
+I verbally informed [Name], my direct supervisor, and HR representative [Name].
+
+What actions were taken?
+No substantive actions were taken; I was advised to be patient or told that available accommodations were already provided.
+
+Did you inform management that you were being harassed?
+Yes, I reported this to my supervisor and HR.
+
+Specifically, who denied your RA request? What reason was given for the denial? What did you request? Please explain.
+[Name, if known] denied my request for ergonomic equipment and a modified schedule; the reason given was "budget constraints" though similar requests by others were granted.
+
+Did you inform anyone in management that you were offended by this? If so, what response did you receive.
+Yes, to [Name], who responded dismissively, suggesting I should manage the situation myself.
+
+How were you harmed?
+Physically, I experienced increased pain and discomfort; professionally, I was sidelined, which affected my career progression and self-esteem.
+
+How did this affect your work environment?
+It created a hostile atmosphere where I felt undervalued, leading to stress and reduced productivity.
+
+Were you aware of similarly situated employees who were not denied their RA request. Please explain. Name employee and annotate by age and physical disability.
+[Employee Name], age 35, with a similar physical disability, was granted all accommodations requested without issue.
+
+Why do you contend that you were treated differently because of age?
+The lack of opportunities for professional growth and the comments made about my 'retirement age' suggest age discrimination.
+
+Why do you contend that you were treated differently because of physical disability?
+The denial of accommodations and the dismissive attitude towards my needs indicate discrimination based on disability.
+
+Is there anyone else that you think we should speak with that may have direct knowledge of this issue?
+[Name], [Title], [Email] - This person can corroborate the discriminatory practices observed in the department.
+
+Why were you issued a Notice of Termination of Appointment?
+Officially, it was due to "performance issues," but this came after I raised concerns about discrimination.
+
+Do you agree with the reasons given for terminating your employment? Please explain
+No, my performance evaluations up until the discrimination complaints were satisfactory; the sudden change seems retaliatory.
+
+Who notified you of your termination?
+HR Manager, [Name].
+
+Was this notification done verbally or in writing?
+In writing.
+
+Are you aware of any other similar situated employees who were not terminated during this time?
+Yes, [Name], same race and similar performance metrics, was not terminated.
+
+Why do you contend that you were treated differently because of your race?
+The treatment I received, like being overlooked for projects, and the racial comments made by colleagues, indicate racial bias.
+
+Why do you contend that you were treated differently because of reprisal?
+The timing of my performance issues and subsequent termination directly followed my complaints about discrimination.
+
+Do you have anything else to add?
+The cumulative effect of these actions has not only affected my career but also my health and well-being. I seek recognition and redress for these injustices.
+
+Remember, these answers should be tailored to fit your specific circumstances and supported by documentation where possible.

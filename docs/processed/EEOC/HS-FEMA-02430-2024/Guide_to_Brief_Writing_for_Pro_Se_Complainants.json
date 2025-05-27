@@ -1,0 +1,32 @@
+{
+  "document_id": "EEOC-Guide_to_Brief_Writing_for_Pro_Se_Complainants-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Guide_to_Brief_Writing_for_Pro_Se_Complainants.pdf",
+    "file_size": 590592,
+    "file_hash": "dce73b40a597de8a9ac8536caabd8e87df8899fbc98ac3fdefe28fb6482f95c5",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:21.891358",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:21.891358",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

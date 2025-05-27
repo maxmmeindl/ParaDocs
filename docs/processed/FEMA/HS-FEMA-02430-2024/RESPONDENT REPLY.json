@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RESPONDENT REPLY-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RESPONDENT REPLY.docx",
+    "file_size": 0,
+    "file_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.079313",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.079313",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

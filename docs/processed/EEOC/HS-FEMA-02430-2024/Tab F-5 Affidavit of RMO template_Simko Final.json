@@ -1,0 +1,32 @@
+{
+  "document_id": "EEOC-Tab F-5 Affidavit of RMO template_Simko Final-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Tab F-5 Affidavit of RMO template_Simko Final.pdf",
+    "file_size": 591996,
+    "file_hash": "fbeba765a827349557bba87a341b05089a82500746a48fafbd0ddad6b109ab36",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:22.462386",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:22.462386",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "document_id": "OTHER-FW_ Reasonable Accommodation Request# RAR0017691.eml[1] (2)-20250526",
+  "document_type": [
+    "Interactive_Process",
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_ Reasonable Accommodation Request# RAR0017691.eml[1] (2).eml",
+    "file_size": 289955,
+    "file_hash": "c4f9bd0ed767b46ebda0b968252cacf0133cbcd4b43e89cba8c6d065690e9491",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:28.213501",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:28.213501",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

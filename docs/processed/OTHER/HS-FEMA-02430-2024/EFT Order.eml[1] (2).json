@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-EFT Order.eml[1] (2)-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "EFT Order.eml[1] (2).eml",
+    "file_size": 181969,
+    "file_hash": "f0a010029f77ae6fb293c4fe7402a6e6f4e52a9dd826c90b3fe69c96b91f69bd",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:24.732249",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:24.732249",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

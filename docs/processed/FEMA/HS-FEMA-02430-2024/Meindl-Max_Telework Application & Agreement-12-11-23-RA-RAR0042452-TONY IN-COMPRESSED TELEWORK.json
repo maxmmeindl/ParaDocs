@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452-TONY IN-COMPRESSED TELEWORK-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452-TONY IN-COMPRESSED TELEWORK.pdf",
+    "file_size": 903278,
+    "file_hash": "449910c6d5fdac750c004e50292b156912d405e135aaed7d708fb260af9bf970",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:12.776334",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:12.776334",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-2   FY 2021   All Timely Completed Counselings-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-2   FY 2021   All Timely Completed Counselings.xlsx",
+    "file_size": 16104,
+    "file_hash": "aaab633106e27e5f0ce53d525ffefdfacab6ae5b1c41264b6183f14bcc7e74f1",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.693953",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.693953",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

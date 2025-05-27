@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RA POLICY HIGHLIGHTS-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RA POLICY HIGHLIGHTS.pdf",
+    "file_size": 1606637,
+    "file_hash": "57161ea5e3721128bbfd92d066c5800374a41ca3b6dbadd34af170d7bf8ab439",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:15.357899",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:15.357899",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

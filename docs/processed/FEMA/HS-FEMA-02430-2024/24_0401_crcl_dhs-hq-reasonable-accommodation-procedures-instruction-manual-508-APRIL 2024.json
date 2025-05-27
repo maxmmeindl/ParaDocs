@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508-APRIL 2024-20250526",
+  "document_type": [
+    "Interactive_Process"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508-APRIL 2024.pdf",
+    "file_size": 679025,
+    "file_hash": "282831589063037d35ce1038001bac712b0d77e79767d151dff1b561c47644e5",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:58.252579",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:58.252579",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

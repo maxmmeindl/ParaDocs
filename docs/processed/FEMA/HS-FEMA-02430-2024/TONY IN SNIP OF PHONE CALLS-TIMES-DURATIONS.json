@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-TONY IN SNIP OF PHONE CALLS-TIMES-DURATIONS-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "TONY IN SNIP OF PHONE CALLS-TIMES-DURATIONS.docx",
+    "file_size": 630458,
+    "file_hash": "785ad955078e8c875bcb551b3f840c46cd45fcdc7c9008b01d5f220a1dbe134b",
+    "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.138196",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.138196",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Canceled_ AIN Field Ops Team Huddle (1)-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Canceled_ AIN Field Ops Team Huddle (1).pdf",
+    "file_size": 132742,
+    "file_hash": "7755be150e5458e0da89511fe765950c05c1c954b18e63ed9b1c5681852f9eee",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:03.840956",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:03.840956",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

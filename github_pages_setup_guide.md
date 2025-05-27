@@ -148,7 +148,7 @@ paradocs-evidence/
 # Evidence Dashboard
 
 ## Critical Violations
-- [1,340-Day Violation](./timeline/1340-day-violation/) ⚠️ EXTREME
+- [1,340-Day Violation](./timeline/1340-day-violation/) ⚠️ serious
 - [36-Day Delay](./accommodations/2023-request/)
 - [Zero Interactive Process](./accommodations/tracking-failures/)
 

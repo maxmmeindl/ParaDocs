@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-Fwd_ RA APPEAL-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Fwd_ RA APPEAL.eml",
+    "file_size": 8170890,
+    "file_hash": "77e3e65438cc8fd8bedb5397a2ba42cc1b26a5401279b97e9de946f438b3f5a6",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:26.698774",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:26.698774",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

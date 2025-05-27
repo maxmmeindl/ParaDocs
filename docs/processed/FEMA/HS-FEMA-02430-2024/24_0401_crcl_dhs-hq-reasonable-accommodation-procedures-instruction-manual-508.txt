@@ -1,0 +1,3785 @@
+U.S. DEPARTMENT OF HOMELAND SECURITY 
+HEADQUARTERS 
+
+DHS INSTRUCTION MANUAL 259-01-001-01 
+REVISION 00 
+
+REASONABLE ACCOMMODATION AND 
+PERSONAL ASSISTANCE SERVICE PROCEDURES 
+FOR EMPLOYEES AND APPLICANTS WITH 
+DISABILITIES 
+
+HEADQUARTERS EQUAL EMPLOYMENT OPPORTUNITY OFFICE 
+OFFICE FOR CIVIL RIGHTS AND CIVIL LIBERTIES 
+
+TONJA K ANCRUM ANCRUM 
+
+Digitally signed by TONJA K
+
+Date: 2024.04.01 18:08:39 -04'00' 
+
+Tonja Ancrum    
+Signature of Headquarters EEO Director 
+
+1 April 2024 
+
+Date 
+
+                        
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+TABLE OF CONTENTS 
+
+I. 
+
+II. 
+
+III. 
+
+IV. 
+
+V. 
+
+VI. 
+
+PURPOSE ............................................................................................................ 3  
+
+SCOPE................................................................................................................. 3  
+
+AUTHORITIES ..................................................................................................... 3  
+
+DEFINITIONS....................................................................................................... 4  
+
+RESPONSIBILITIES ............................................................................................ 7  
+
+PROCEDURES AND REQUIREMENTS ............................................................ 11  
+
+VII.  REASSIGNMENT AS ACCOMMODATION OF LAST RESORT ....................... 23  
+
+2 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+I.  Purpose 
+
+A. 
+These procedures implement the U.S. Department of Homeland Security 
+(DHS or Department) Directive 259-01, “Providing Reasonable Accommodations 
+for Employees and Applicants with Disabilities,” and associated Instruction 259-
+01-001 Revision 01, “Providing Reasonable Accommodations for Employees and 
+Applicants with Disabilities and Personal Assistance Services for Employees with 
+Targeted Disabilities,” by establishing requirements for DHS Support 
+Components (Headquarters (HQ) or agency) for processing requests for 
+reasonable accommodations for employees and applicants with disabilities, and 
+personal assistance services to employees with targeted disabilities.  Personal 
+assistance services (PAS) are also provided for employees with targeted 
+disabilities to allow employees to participate in the workplace, except when such 
+accommodation would cause undue hardship or would cause a direct threat to 
+the employee or to others.  (Appendix H). 
+
+B. 
+These procedures are not intended to create any right or benefit 
+enforceable against DHS beyond those specifically provided for in applicable 
+statutes or regulations; nor does the use of particular procedures create any right 
+or benefit under the regulations that provide those procedures. 
+
+II.  Scope 
+
+These procedures apply to all program offices within DHS HQ, with the exception of the 
+Federal Law Enforcement Training Centers (FLETC) and the Office of Inspector 
+General (OIG), both of which are responsible for issuing separate procedures applicable 
+to their own employees and applicants. 
+
+III.  Authorities 
+
+A. 
+
+The Rehabilitation Act of 1973, Public Law 93-112, 29 U.S.C. 701, et seq. 
+
+The Americans with Disabilities Act, incorporating the Americans with 
+
+B. 
+Disabilities Amendments Act of 2008 (effective January 1, 2009), 42 U.S.C. ch. 
+126. 
+
+C. 
+Executive Order 13164, “Requiring Federal Agencies to Establish 
+Procedures to Facilitate the Provision of Reasonable Accommodation,” (July 26, 
+2000) 
+
+D. 
+U.S. Equal Employment Opportunity Commission (EEOC), “EEOC Policy 
+Guidance on Executive Order 13164:  Establishing Procedures To Facilitate The 
+Provision of Reasonable Accommodation” No. 915.003, (October 20, 2000) 
+
+3 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+Equal Employment Opportunity Commission Management Directive 715, 
+
+E. 
+“Federal responsibilities under Section 717 of Title VII and Section 501 of the 
+Rehabilitation Act” (October 1, 2003). 
+
+DHS Delegation No. 19003, “Delegation to the Officer for Civil Rights and 
+
+F. 
+Civil Liberties for Matters Involving Civil Rights and Civil Liberties, Including 
+Equal Employment Opportunity and Workplace Diversity” (Oct. 26, 2012) 
+
+DHS Directive 259-01, “Providing Reasonable Accommodations for 
+
+G. 
+Employees and Applicants with Disabilities” (Mar. 8, 2013) 
+
+DHS Instruction 259-01-001, Rev. 1 “Providing Reasonable 
+
+H. 
+Accommodations for Employees and Applicants with Disabilities and Personal 
+Assistance Services for Employees with Targeted Disabilities” (Mar. 23, 2021) 
+
+DHS Instruction 259-01-002, “Procedures for Conducting a Department-
+
+I. 
+Wide Search for a Reassignment as a Reasonable Accommodation of Last 
+Resort” (Sept. 30, 2016) 
+
+Equal Employment Opportunity Commission Final Rule, “Affirmative 
+J. 
+Action for Individuals With Disabilities in Federal Employment,” 82 Fed. Reg. 654 
+(Jan. 3, 2017) (revising 29 C.F.R. § 1614.203). 
+
+IV.  Definitions 
+
+Accommodation Tracking Database (ATD):  A secure, electronic 
+
+A.  
+computer database designed to record and track accessibility and  
+accommodation requests from employees or applicants for employment.  
+
+Decision-Maker:  A management official, designated by the program  
+
+B.  
+office, with the authority to determine, based on the facts presented, whether an  
+accommodation will be provided, pursuant to  a request for reasonable 
+accommodation.  The  preference is for an individual’s immediate supervisor to be 
+the Decision-Maker to  facilitate timely processing of  requests and  to eliminate 
+unnecessary levels of review.  
+
+Essential Functions:  Job duties so fundamental to a position that  the 
+
+C. 
+position requirements cannot be fulfilled without successful performance of these 
+duties.   A function is determined to be “essential” if, among other things:  the  
+position exists specifically to perform that function; there are a limited number of  
+other employees who  could perform the function; or the function is specialized,  
+and the individual is hired based on his/her ability to perform it.    
+
+Disability:  With respect to an individual, means a physical or mental  
+
+D. 
+impairment that substantially limits one or more major life activities, a record of 
+such an impairment, or being regarded as  having such an impairment that is not 
+
+4 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+both transitory and minor. 
+
+Disability Program Staff (DPS):  Individuals within the HQ Components 
+
+E.  
+assigned to coordinate with and assist the RAPM in facilitating the 
+accommodation request process in accordance with EEOC regulations and DHS 
+Guidance and facilitating the interactive process between employees and  
+managers.  
+
+Interactive Process:  The process by which the individual requesting an  
+
+F. 
+accommodation and the Decision-Maker engage with each other, along with 
+assistance, as needed, from the Reasonable  Accommodation Program Manager 
+(RAPM) or the Disability Program Staff (DPS) about the request for an  
+accommodation, the ways in which an employee is substantially limited in one or 
+more major life activities, the process for determining whether an accommodation 
+can be provided, and identifying an effective accommodation.  
+
+G.  Major Life Activities:  Basic activities that the average person in the 
+general population can perform with little or no difficulty, such as (but not limited  
+to) caring for oneself, performing  manual tasks, walking, seeing, hearing, 
+speaking, breathing, learning, working, and major bodily functions, such as the 
+functioning of the immune system.  
+
+Personal Assistance Services (PAS):  Assistance with performing  
+
+H. 
+activities of daily living that  an individual would typically perform if he or she did  
+not have a disability, and that is not otherwise required as reasonable 
+accommodation, including, for example, assistance with putting on or removing 
+clothing, eating, and using the restroom.  
+
+Personal Assistance Service Provider:  An employee  or independent 
+
+I. 
+contractor whose primary job functions include providing personal assistance 
+services. 
+
+Qualified Individual:  An individual who satisfies the requisite skill, 
+
+J. 
+experience, education, and other job-related requirements of the employment 
+position the individual holds or desires, and who, with or without reasonable 
+accommodation, can perform the essential functions of such position.  
+
+Reasonable Accommodation:  Any change  or modification in the work 
+
+K.  
+environment or in the way things are customarily done  that would enable a 
+qualified individual with a disability to enjoy equal employment opportunities.  
+There are three categories of reasonable accommodations:  
+
+1.  
+Modifications or adjustments to a job application process that 
+enable a qualified applicant with  a disability to be considered for the 
+position  such qualified applicant desires;  
+
+2.  
+
+Modifications or adjustments to the work environment, or to the 
+
+5 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+manner or circumstances under which the position held or desired is 
+customarily performed, that enable a qualified individual with a disability to 
+perform the essential functions of that position; and 
+
+Modifications or adjustments that enable a covered entity’s 
+3. 
+employee with a disability to enjoy equal benefits and privileges of 
+employment as are enjoyed by its other similarly situated employees 
+without disabilities. 
+
+Reasonable Accommodation Program Manager (RAPM):  Individual 
+
+L.  
+who determines that an individual meets the definition of an individual with a 
+disability and facilitates the  accommodation request process in accordance with 
+EEOC regulations and DHS Guidance, and  facilitates the interactive process 
+between employees and Decision-Makers.  
+
+Reassignment:  A form of reasonable accommodation that, absent undue  
+M.  
+hardship, may be provided as a last resort to  employees (not to applicants) who,  
+because of a disability, can no longer perform the essential functions of their job,  
+with or without reasonable accommodation.   Reassignments are made only to  
+vacant, funded positions within DHS and  only to employees who are qualified for 
+the new position.  When reassignment is  the  only accommodation available, and  
+there is a vacant, funded position for which the employee is qualified at the 
+employee’s current or a lower grade, the employee should be reassigned to the 
+position without having to compete for it.  Reassignments are made consistent 
+with DHS Instruction 259-01-002, Procedures for Conducting a Department-Wide 
+Search for a Reassignment as a Reasonable Accommodation of Last Resort.  
+
+N. 
+Request for Reasonable Accommodation:  A verbal or written  
+statement (no particular language/wording is required and it does not need to be  
+submitted to any parti
+needs an adjustment or change in working conditions or requirements, in the 
+application process, or in relation to a benefit or privilege of employment, for a 
+reason related to a disability. 
+
+cular management official) to the effect  that an  individual 
+
+Requester:  An employee, applicant, or individual acting on behalf of  an 
+
+O. 
+employee or applicant, who requests reasonable accommodation. 
+
+Senior Management Official:  The Senior Management Official,  
+
+P.  
+designated by the head of a program office, who is assigned the responsibility for 
+making a determination on an employee’s request for higher-level review of a 
+denial of a reasonable accommodation issued by  the Decision-Maker. 
+
+Q. 
+Targeted Disability:   A subset of conditions that are considered 
+disabilities under the Rehabilitation Act and for which qualified individuals with  
+certain disabilities (i.e., such as blindness, deafness, paralysis, convulsive 
+disorders, and mental illnesses, among others) have faced significant barriers to 
+employment that are above and beyond the barriers faced by people with the 
+6 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+broader range of disabilities.  See the Office of Personnel Management’s 
+Standard Form 256 for a complete list of targeted disabilities. 
+
+Undue Hardship:  Significant difficulty or expense,  considering the  
+
+R. 
+resources and circumstances of the Department, in relationship to the cost or 
+difficulty of providing a specific accommodation.  Undue hardship refers not only 
+to accommodations that impose  financial difficulty, but to accommodations that 
+are unduly extensive, substantial or disruptive, or those that  would fundamentally  
+alter the nature of the  position or operation of the business.   Whether a particular 
+accommodation would cause undue hardship is assessed on a case-by-case 
+basis.  No reasonable accommodation is required if all  possible accommodations 
+(including reassignment) would cause “undue hardship” to the Department.  This 
+definition of an undue hardship also applies to personal assistance services.  
+
+V.  Responsibilities 
+
+A. 
+
+The HQ EEO Office Director: 
+
+Develops and issues procedures for processing reasonable 
+
+1.  
+accommodation requests, and assists  program offices in implementing 
+procedures and mechanisms to provide reasonable accommodations that  
+are consistent with governing laws, regulations, Executive Orders, EEOC 
+Directives, and DHS policy; 
+
+Posts the procedures on the DHS public website, on  the DHS 
+
+2.  
+intranet, and in a physical location accessible to employees who  do not 
+have access to the intranet.  
+
+Makes procedures and forms available to all employees and job 
+
+3.  
+applicants in written and accessible formats;  
+
+Ensures that training is available to all employees involved in the 
+
+4.  
+reasonable  accommodation process, including supervisors and managers,  
+and human resources and EEO officials, to assist them  in understanding  
+their roles and responsibilities with respect to the provision of reasonable 
+accommodation  and PAS.  This includes privacy awareness training and  
+maintaining the confidentiality of medical information obtained in  
+connection with the accommodation process; and  
+
+Develops systems to track, record, and report on the processing of 
+
+5.  
+requests for reasonable accommodations and PAS.  
+
+The HQ EEO Director is not involved in the day-to-day functions of  
+
+6.  
+the reasonable accommodation program. 
+
+7 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+The Office for Civil Rights and Civil Liberties (CRCL), Diversity  
+B. 
+Management Section (DMS) Director provides oversight to the overall  and day-
+to-day management and functions of  the reasonable accommodation and PAS 
+process and procedures, as outlined in this document, including the RAPM’s 
+official determination in an individual case as to whether a particular employee is 
+an individual with a disability.  The DMS Director is also responsible for 
+contacting  the DHS Privacy Office to report suspected or confirmed privacy 
+incidents (e.g., unauthorized use or disclosure of personally identifiable 
+information (PII)).   
+
+The Senior Management Official  makes a determination on an  
+
+C. 
+employee’s request for a higher-level review on a denial of a reasonable 
+accommodation issued by the Decision-Maker. 
+
+D. 
+The Office of the General Counsel (OGC) provides legal advice and  
+guidance on issues related to requests for reasonable accommodations and 
+PAS.  
+
+The Office  of Chief Information Officer (OCIO), Customer Experience 
+
+E. 
+Directorate (CXD) provides guidance to Decision-Makers, the RAPM, and 
+employees with respect to assistive technology equipment and software  
+associated with reasonable accommodations and  ensures that employees with 
+disabilities have access to electronic  and information technologies that are 
+comparable to the access available to  individuals without disabilities, unless  
+undue hardship would  be imposed on the agency.  
+
+The Office of the Chief Human Capital Officer (OCHCO), Human  
+
+F. 
+Resources Management and Services (HRMS): 
+
+Ensures that all HQ vacancy announcements and hiring and  
+1.  
+promotion procedures describe how applicants may request reasonable 
+accommodation  procedures and forms in written and accessible formats;  
+
+Oversees  the administration  of the HQ-wide procedures for 
+2. 
+conducting a search for a reassignment as a reasonable accommodation 
+of last resort;  
+
+Provides guidance to HQ Decision-Makers and the RAPM or DPS 
+
+3.  
+regarding the HQ Human Capital Policies and Procedures; 
+
+Responds to requests for reasonable accommodation from  
+
+4.  
+applicants for employment at HQ;  
+
+To the extent necessary, assists HQ managers and supervisors in 
+
+5.  
+implementing approved accommodations that may require HRMS actions;  
+
+6.  
+
+Provides accommodations, as necessary, for employees attending 
+
+8 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+HQ training sessions HRMS manages or administers; and 
+
+Safeguards reasonable accommodation status, reasonable 
+
+7.  
+accommodation information, and other PII.  
+
+Employee Relations (ER) provides guidance and  advises Decision-
+
+G. 
+Makers and the RAPM and DPS on employment relations and labor 
+management issues. 
+
+The Office of Health Security (OHS), Medical Reviewer (MR) reviews 
+
+H. 
+medical documentation from medical providers and provides medical guidance to 
+RAPM, DPS,  ER, and Decision-Makers.  The agency has the right to have  
+medical information reviewed by a medical expert chosen by the agency at the 
+agency’s expense.  
+
+The Office of the Chief Readiness Support Officer (CRSO) assesses 
+
+I. 
+the need for the removal of architectural barriers or the provision of  structural 
+assistive devices, such as electronic doors, at agency office locations.  
+
+J. 
+
+Office heads, managers, and supervisors: 
+
+Receive requests for accommodation from employees  and  
+
+1.  
+applicants when they are made;  
+
+Ensure equal access to locally sponsored trainings, meetings, or 
+
+2.  
+other activities for employees who may need accommodations;  
+
+Comply with all requirements of this Instruction Manual, including 
+
+3.  
+provisions regarding confidentiality and for safeguarding reasonable 
+accommodation information and/or PAS information;  
+
+Cooperate with Decision-Makers and the RAPM and DPS,  to the 
+
+4.  
+extent necessary, to execute the requirements of this Instruction Manual.  
+
+K. 
+
+The RAPM or DPS: 
+
+Receives, acknowledges, and advises on the process for 
+
+1.  
+accommodation requests from  employees and applicants; 
+
+Enters into the ATD information about requests for accommodation 
+
+2.  
+received directly from employees  or applicants, or from  management 
+officials to whom requests were  made;  
+
+3.  
+Determines whether an individual seeking an accommodation (or 
+an individual on whose behalf accommodation is sought) is an individual 
+with a disability; 
+
+9 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+If the individual is found to be an individual with a disability, issues 
+
+4.  
+a memorandum to the Decision-Maker, or to the program office if a 
+Decision-Maker has not been identified, that indicates that the individual 
+meets the definition of  an individual with a disability under the 
+Rehabilitation Act and outlines  the nex
+
+t steps for the Decision-Maker;  
+
+Reviews, responds to, and processes follow-up requests from the  
+
+5.  
+Decision-Makers for medical records related to the processing of 
+reasonable accommodation requests; 
+
+Provides assistance and guidance to employees and applicants 
+
+6.  
+who request reasonable accommodation, as  well as to OCHCO, HR, and 
+Decision-Makers, in order to facilitate the reasonable accommodation 
+process;  
+
+Monitors all accommodation requests from the intake stage through  
+
+7.  
+completion, to assist Decision-Makers in reaching targeted timeframes 
+and in complying with authorities as outlined in the procedures; and  
+
+Safeguards documents generated or received  by the RAPM or DPS  
+8.  
+during the reasonable accommodation process,  including medical records,  
+consistent with the terms of  this Instruction Manual.  
+
+L.  
+
+Employees: 
+
+1.  
+Initiate requests for reasonable accommodation as soon as  
+practicable after the need for such assistance becomes known to them;  
+
+2.  
+Respond to requests for information from RAPM, DPS, or the  
+Decision-Maker, including medical information, in a timely manner, as may 
+be necessary, to document their disability, functional limitations, and 
+possible accommodations;  
+
+Engage in the interactive process and assist the Decision-Maker in 
+3.  
+identifying  all prospective reasonable accommodations that will enable the 
+employee to perform the essential functions of his/her position;   
+
+Cooperate with the Job Accommodation Network and the  
+4.  
+Computer/Electronic Accommodations Program, to the extent that those 
+entities are involved in  assessing an individual’s accommodation needs, or 
+in providing an accommodation;   
+
+Inform the Decision-Maker or his/her immediate supervisor if  
+
+5.  
+she/he finds that  a granted accommodation is ineffective;  and  
+
+Safeguard reasonable accommodation status, reasonable 
+
+6.  
+accommodation information, and other PII.  
+
+10 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+M.  
+
+Decision-Makers: 
+
+1.  
+Engage in an interactive process with the employee who has 
+requested an accommodation,  as well as with the RAPM or DPS, as  
+needed;   
+
+Make determinations about  whether to  provide an accommodation 
+
+2.  
+and, if so, what  accommodation;  
+
+Make determinations whether to provide an accommodation on an 
+
+3.  
+interim basis; and  
+
+Comply with procedures, and endeavor to complete responsibilities 
+
+4.  
+consistent with the timelines identified  in the procedures.  
+
+VI.  Procedures And Requirements 
+
+A. 
+
+General Processing Time-Frames 
+
+All HQ officials involved in the accommodation process are 
+
+1.  
+expected to act as quickly as reasonably possible when processing 
+requests and providing accommodations, as failure to respond promptly to 
+a request may result in a violation of the Rehabilitation Act; however, the 
+time necessary to process a request will depend on the nature and 
+complexity of the accommodation requested and whether it is necessary 
+to obtain supporting information.   
+
+Generally, the agency must provide a written decision to approve or 
+2.  
+thin fifteen (15) business days of receipt of all requested  
+deny a request wi
+information, but said decision shall issue no later than thirty (30) business 
+days from the time the request for accommodation is made, absent  
+extenuating circumstances. In the case of an approved accommodation 
+request, the agency shall likewise provide the acco
+than thirty (30) business days from  the time the request is made, absent 
+extenuating circumstances.  
+
+mmodation no later 
+
+When extenuating circumstances—unusual or  atypical 
+
+3.  
+circumstances that may require action that differs from the ordinary course 
+of action—are present, the time period for processing an accommodation 
+request and providing an approved accommodation may take longer and  
+may be extended as reasonably necessary to deal with the extenuating 
+circumstance.  If there is a delay in processing a request for an 
+accommodation or providing an accommodation, the RAPM or the 
+decision-maker must notify the employee of the reason for the delay, 
+including any extenuating circumstances that justify the delay. The 
+
+11 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+following situations are examples of extenuating circumstances and are 
+not intended to be exhaustive: 
+
+A delay in the purchase of equipment due to  regulatory or
+
+a. 
+policy requirements;
+
+A delay because the employee requesting an 
+
+b. 
+accommodation requires an assessment or fitting, and equipment
+must be ordered;
+
+A delay because an accommodation involves the removal of 
+
+c.
+an architectural barrier; 
+
+A delay in an employee gathering additional information,
+
+d. 
+including medical documentation. 
+
+A delay necessary for the Agency to explore the feasibility of 
+
+e. 
+a particular accommodation.
+
+A delay associated with evaluating an unusually complex
+
+f.
+request that warrants exceeding the 30-day timeframe (e.g., a 
+request from an employee whose position  entails physical
+requirements or medical standards  that create additional
+complexities).
+
+B. 
+
+Requesting an Accommodation: 
+
+Generally, HQ will not provide an accommodation until an individual makes such  
+a request.  However, a manager should begin the accommodation process 
+without being asked if the manager knows that (i) the employee has  a disability; 
+(ii) the employee is having workplace problems because of the disability; and (iii)
+the disability prevents the employee from requesting a reasonable 
+accommodation.  If in response, the individual with a disability states that s/he 
+does not need a reasonable accommodation,  management will have fulfilled its
+obligation. Additionally, in some circumstances where an individual has a
+recurring, predictable need for an accommodation, management may be
+obligated to provide the accommodation, as  needed.  For requests needed on a
+recurring basis, the employee may obtain the accommodation by notifying the
+appropriate office.  Once an initial accommodation has been approved,
+management may not require the employee to submit a written request each time
+the accommodation is needed.  
+
+The reasonable accommodation process begins when a written or
+
+1.
+oral request for an accommodation is made.  An employee or applicant
+should direct their request for a reasonable accommodation to:
+
+a.
+
+The ATD  at  Accessibility Compliance Management System;  
+
+12 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+b.  
+
+The RAPM or DPS at  accommodations@hq.dhs.gov; 
+
+Any supervisor or a manager in the employee’s immediate 
+
+c. 
+chain of command; or   
+
+An OCHCO employee with whom an applicant has had 
+
+d.  
+contact in connection with the application process.  
+
+2.  
+Regardless of who initially receives the request, an employee or 
+applicant seeking a reasonable accommodation should be instructed by 
+the RAPM or DPS, or supervisor or manager, to follow up on his/her initial 
+request by confirming such request in writing by completing the DHS HQ 
+Reasonable Accommodation Request Form (Appendix A).  However, a 
+request though ATD  or in writing is not mandatory, and the absence  of a 
+written request alone is not a reason to delay processing the request.  
+
+A family member, health professional, or other representative may 
+
+3. 
+request an accommodation on behalf of an employee or applicant.  Such a 
+request must be made in the same manner in which the employee or 
+applicant is required to make the request.  However, the RAPM, DPS or 
+Decision-Maker will, as quickly as possible, confirm with the employee or 
+applicant that she/he indeed intends to request an accommodation. 
+
+A request need not be  formal or consist of any specific words or 
+
+4.  
+terminology, such as “reasonable accommodation,” “disability,” “ADA” or 
+“Rehabilitation Act.”  An  employee or applicant with a disability can 
+request a reasonable accommodation whenever she/he chooses, even if 
+she/he has not disclosed the existence of a disability or requested 
+accommodation in the past.  A person does not have to specify a  
+particular accommodation at the outset, although it is helpful if she/he can  
+suggest one. 
+
+The RAPM or DPS retains administrative responsibility for tracking, 
+
+5. 
+recording, and facilitating the processing of the request and notifies an 
+appropriate Decision-Maker via memorandum. The RAPM will provide the 
+requester with contact information for the designated management official 
+and/or program office from whom employees and applicants for 
+employment will receive a final written decision. Employees and applicants 
+may check the status of their request by contacting the RAPM at 
+accommodations@hq.dhs.gov. Employees may also check the status of 
+their request in the ATD.   
+
+C. 
+
+Medical Information Requests:  
+
+In response to an employee or applicant request for a reasonable 
+accommodation, the RAPM may request medical documentation to ascertain 
+13 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+whether the employee or applicant has a disability and whether the employee or 
+applicant requires an accommodation.  When a request for reasonable 
+accommodation is made, and the nature of the disability or need for 
+accommodation is not obvious, and/or the type of accommodation needed is 
+unknown or is disputed, the request for supporting information will be made in the 
+following manner: 
+
+The RAPM or DPS should email the employee or applicant the
+
+1.
+DHS HQ Medical Statement Form (Appendix B) as soon as possible, but
+no more than five (5) business days after receipt of a request for a
+reasonable accommodation.1  The employee or applicant will provide all
+necessary medical documentation (Appendix B) by email, by mail, or in
+person to the RAPM or DPS, within ten (10) business days, or the
+employee or applicant must notify the RAPM or DPS via email or phone if
+she/he needs additional time.  The timeframes for processing will be
+suspended until the employee provides all necessary medical
+documentation, and will resume when all necessary documents are
+received.  The RAPM or DPS may notify the Decision-Maker of the
+request so that the Decision-Maker may consider granting an interim
+accommodation, where appropriate.
+
+2.
+If the RAPM or DPS determines that supplemental medical
+information is necessary to support the request, the RAPM or DPS may
+work with the OHS MR toward that end.2  The MR may directly contact the
+employee’s or applicant’s physician, but only after obtaining a signed
+Limited Medical Release Form (Appendix C) from the employee or
+applicant.  The agency also has the right to have medical information
+reviewed by a medical expert chosen by the agency at the agency’s
+expense.
+
+The request for medical documentation must be specific and not
+
+3.
+overly broad; it should address only the conditions indicated on the
+reasonable accommodation form as requiring accommodation. Medical
+documentation can be requested to document:
+
+a. 
+
+b. 
+
+The nature and severity of the impairment(s) at issue; 
+
+The known or expected duration of the impairment(s); 
+
+The major life activity or work-related activities limited by the
+
+c.
+impairments;  
+
+1 In certain circumstances, referring and processing of a request will need to be expedited.  For example, 
+an applicant may immediately need an accommodation, such as assistance with completing an 
+application form, because of an application deadline.  
+
+2 OHS MR Guidance located in Human Resources Management and Services Procedures for Medical 
+Officer Review document. 
+
+14 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+The extent to which an impairment functionally limits the 
+
+d. 
+individual’s ability to perform work-related tasks, e.g., carpal tunnel 
+syndrome may cause limitations in gripping that could make it 
+difficult to performing writing or typing tasks; 
+
+Recommended accommodations that may enable the 
+
+e. 
+employee or applicant to perform his/her essential job functions; 
+
+How the requested accommodation will assist the employee 
+
+f. 
+or applicant in the application process or performing the essential 
+functions of the position or otherwise enjoying a job benefit afforded 
+to others who are not limited by an impairment. 
+
+If, after multiple requests for medical information, there is still not 
+
+4. 
+sufficient information to demonstrate that the individual has a disability and 
+needs an accommodation, the RAPM or DPS may request the employee 
+or applicant to complete and submit a signed Limited Medical Release 
+Form (Appendix C) to allow the MR to receive additional required 
+information.  
+
+An employee’s or applicant’s failure to provide appropriate medical 
+
+5. 
+documentation to qualify her/him as an individual with a disability may 
+result in denial or delay of an accommodation request. 
+
+6. 
+All medical information, including information about functional 
+limitations and reasonable accommodation needs, obtained in connection 
+with a request for reasonable accommodation, will be kept confidential to 
+the extent possible.  Documentation is uploaded to the employee or 
+applicant’s ATD electronically secured file, and the RAPM or DPS does 
+not keep it in hard copy.  In no circumstance will medical information be 
+comingled with any official or unofficial employee personnel file. 
+
+Initial Determination as to Whether the Requester is an Individual with a 
+
+D. 
+Disability 
+
+Upon receipt of sufficient medical documentation, the RAPM will 
+
+1. 
+draft an initial determination as to whether the requester (or the employee 
+on whose behalf an accommodation is sought) has shown that she/he is 
+an individual with a disability under the Rehabilitation Act.  (See Appendix 
+E). 
+
+An OGC, Labor & Employment Law Attorney-Advisor will review 
+
+2. 
+and advise on the RAPM’s draft determination, identifying, at a minimum, 
+any concerns regarding the legal sufficiency of the initial determination. 
+
+3.  
+
+After considering the Attorney-Advisor’s advice and revising the 
+
+15 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+draft to address any concerns identified, the RAPM will issue the initial 
+determination, via a memorandum (Appendix E), to the Decision-Maker. 
+
+a.
+If the RAPM determines that the requester has shown that
+she/he is an individual with a disability, the Decision-Maker must
+engage in the interactive process as described below, and as set
+forth in the RAPM’s memorandum (Appendix E).
+
+If the RAPM determines that the requester has not shown
+b.
+that she/he is an individual with a disability, the Decision-Maker
+does not have any further obligation under this policy with respect
+to the reasonable accommodation request at hand.
+
+E.
+
+Decision-Maker Engaging in the Interactive Process:
+
+Communication between the Decision-Maker and the individual requesting an 
+accommodation is a priority throughout the accommodation process. 
+
+Upon receipt of the request, via direct request or through the
+
+1.
+RAPM’s memorandum (Appendix E), the Decision-Maker should initiate
+an interactive process (i.e., engage in a discussion) with the requester as
+soon as possible, and, generally, no more than five (5) business days after
+the Decision-Maker learns of the request.  This timeframe may be
+extended when extenuating circumstances are present, when the
+Decision-Maker is awaiting necessary medical information from the
+requester, or when the Decision-Maker and/or the requester is in a leave
+status.
+
+2.
+The individuals involved (i.e. Decision-Maker, requester, RAPM,
+DPS,  and/or HR) in the provision of reasonable accommodations must
+take a proactive approach in identifying possible accommodations, which
+should include consultation with appropriate resources (i.e., OGC, ER,
+and CXD) for assistance.
+
+The Decision-Maker and the requester should communicate directly
+
+3.
+with each other to make sure that there is a full exchange of relevant
+information, being careful not to request information that may have already
+been provided to the RAPM.  Before engaging in additional
+communications with the requester, the Decision-Maker should familiarize
+himself or herself with the information already collected, such as:
+
+How accommodations requested or suggested would
+
+a.
+eliminate the barriers experienced; and
+
+Which accommodation(s) (if more than one is available) the
+
+b.
+requester believes would be effective.
+
+16 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+   
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+The RAPM or DPS shall provide the Decision-Maker with a dated 
+4.  
+chronology of all communications with the employee relating to requests 
+for medical information for purposes of tracking the timelines set forth in 
+this Manual and facilitating the interactive process.   
+
+If, during the interactive process, the Decision-Maker determines 
+
+5.  
+that additional information regarding the employee’s limitations or ability to 
+perform the job is needed, the Decision-Maker must communicate the 
+need to the RAPM or DPS via email  or phone.  On behalf of the Decision-
+Maker, the RAPM or DPS will email the employee requesting  appropriate 
+information be provided to the RAPM or DPS within ten (10) business 
+days.  The RAPM or DPS will notify the Decision-Maker of the fact that  
+additional information  has been requested, and once the information is 
+received, will email the information, as needed and appropriate,  to the 
+Decision-Maker.  
+
+6. 
+Appendix G lists resources that may assist the Decision-Maker and 
+the requester in identifying possible accommodations. The RAPM or DPS 
+is available to assist the Decision-Maker in identifying the potential 
+accommodation.  Other subject-matter experts such as HR, CXD, OGC, 
+and/or ER may also provide assistance to the Decision-Maker. 
+
+When  the Decision-Maker is considering providing assistive 
+7.  
+technology software or equipment as an accommodation, she/he should 
+contact the RAPM or DPS prior to making such a decision, regardless of  
+the funding source for the items to ensure that the chosen items are pre-
+approved for use on the program office network. The RAPM  or DPS may 
+consult with CXD to determine a product’s approval status or to request 
+for assistance in navigating through the OCIO’s approval process for new 
+hardware or software being introduced to the DHS network.  
+
+F. 
+
+Examples of Accommodations: 
+
+The following is a non-exhaustive list of the examples of reasonable 
+accommodation that may be provided, depending on the particular situation: 
+
+Modified or part-time work schedule:  This may include adjustment  
+
+1.  
+of arrival and departure times, providing for specific breaks, and a 
+modified or part-time schedule or a (full or part-time) work-at-home 
+schedule.  
+
+Assistive Technology (AT) software:  Providing AT and software  
+
+2.  
+such as voice recognition software (e.g., Dragon Naturally Speaking), 
+screen reading software (e.g., JAWS), and a host of other technologies 
+developed to aid persons with disabilities in performing their essential job 
+
+17 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+functions.3 
+
+Workstation modifications:  Procurement of  items such as  sit-stand 
+
+3.  
+desks, ergonomic chairs, or lighting adjustment. 
+
+4.  
+Job restructuring:  Reallocation or redistribution of marginal job 
+functions that a requester is unable to perform because of disability or 
+altering when and/or how a function, essential or marginal, is performed.   
+However, the agency is never required to lower production standards, 
+whether qualitative or quantitative.  Nor is the agency required to  
+reallocate or eliminate  essential functions of a position.   
+
+Personal Assistance Service Provider:   An employee or 
+
+5.  
+independent contractor whose primary job functions include provision of 
+personal assistance services (e.g., filling out paperwork, note taking, 
+typing, retrieving work materials, reading services or sign language 
+interpreting).   
+
+Personal Assistance Services:  Services, not otherwise required as 
+
+6.  
+reasonable accommodations, that allow employees with targeted  
+disabilities to fully participate in the workplace by providing assistance with 
+activities of daily living.   
+
+Reassignment:  Reassignment may be granted non-competitively 
+
+7. 
+as a last resort after all efforts to accommodate the individual in his/her 
+current position have been exhausted.  A reassignment may be made to a 
+vacant, funded position within DHS for which the individual is deemed 
+qualified.4 
+
+G. 
+
+Expediting Requests: 
+
+In certain circumstances, a request for reasonable accommodation requires 
+expedited review and processing.  To the extent possible, requests for expedited 
+accommodations will be processed as soon as practicable.  The following are 
+common examples of circumstances where an expedited accommodation may 
+be needed: 
+
+1. 
+
+To enable an applicant to apply for a job.  Depending on the 
+
+3 The DHS CXD Accessibility Help Desk  is available to provide consultation  on information technology 
+(IT) related assistive technologies, including accessibility equipment pursuant to Section 508 of the 
+Rehabilitation Act of 1973.  CXD has no need to know any information about the medical condition of the 
+person seeking the accommodation and will consult the information about the employee’s functional 
+limitations insofar as these limitations affect technology needs in the system of record. 
+
+4 Reassignment as a form of reasonable accommodation is discussed in greater detail below. See 
+Management Directive 259-01-002; Procedures for Conducting a Department-Wide Search for a 
+Reassignment as a Reasonable Accommodation as Last Resort. 
+
+18 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+timetable for receiving applications, conducting interviews, taking tests, 
+and making hiring decisions, there may be a need to expedite a request 
+for reasonable accommodation in order to ensure that an applicant with a 
+disability has an equal opportunity to apply for a job; 
+
+To enable an employee to attend a meeting that is scheduled on 
+
+2. 
+short notice.  For example, an employee may need a sign language 
+interpreter for a meeting scheduled to take place the next day. 
+
+H. 
+
+Providing a Written Decision: 
+
+Decision-makers should generally issue a written decision in an accessible 
+format, when requested, either denying or approving and providing a necessary 
+accommodation within fifteen (15) business days of receipt of all requested 
+information, but no later than thirty (30) business days from the time the request 
+was made, absent extenuating circumstances.  The decision should be issued by 
+email or in-person with a completed Management Response to Request for 
+Reasonable Accommodation decision form (Appendix D), indicating whether one 
+or more accommodations will be provided and, if so, what accommodation(s) will 
+be provided.  
+
+1. 
+Granting a Request for a Specific Accommodation or Provision of 
+an Accommodation Where no Specific Accommodation was Requested: 
+As soon as the Decision-Maker determines that a reasonable 
+accommodation will be provided, the Decision-Maker will communicate the 
+decision to the employee in writing and provide a copy to the RAPM or 
+DPS. 
+
+The Decision-Maker must take steps to secure any  
+
+a.  
+equipment or services that constitute the approved accommodation  
+as expeditiously as feasible. 
+
+If the accommodation cannot be provided quickly, the 
+
+b.  
+Decision-Maker must inform the employee of the projected  
+timeframe for providing the accommodation and the reasons for the 
+delay. 
+
+When all the facts and  circumstances known to the Decision-
+c. 
+Maker make it reasonably likely that an  employee will be entitled to  
+a reasonable accommodation, but  the accommodation cannot be  
+provided immediately, the Decision-Maker shall provide an interim 
+accommodation that allows the employee to perform some or all of 
+the essential functions of his or her  job, if it is possible to do so 
+without imposing undue hardship to the agency.  
+
+19 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+2.
+Approving an Alternative Accommodation:  The Decision-Maker
+may decide to provide an alternative accommodation from the specific
+accommodation the employee requested.
+
+a. 
+The Decision-Maker may contact the RAPM for advice and
+guidance on the scope of potential alternative accommodations. 
+
+When the Decision-Maker finalizes a decision on an
+b. 
+alternative accommodation, the Decision-Maker will communicate
+the decision to the employee in 
+RAPM or DPS.  This written decision will explain why the Decision-
+Maker believes the alternative accommodation will be effective. 
+
+  writing and provide a copy to the
+
+The written decision on an alternate accommodation must 
+
+c.
+inform the employee that she/he has the right  to initiate an EEO
+complaint or to initiate a complaint under negotiated grievance 
+procedures.
+
+Denial of an Accommodation:  If the Decision-Maker determines
+
+3.
+that no accommodation will be provided, the following procedures will
+apply:
+
+If the Decision-Maker is considering denying an
+
+a. 
+accommodation request, she/he  should contact the RAPM, who will
+provide advice and guidance to the Decision-Maker on the reasons
+for a denial. 
+
+After receiving the RAPM’s guidance, the Decision-Maker
+
+b.
+must provide the employee, with a copy to the RAPM and the DMS
+Director, with a written decision by email or in-person along with a
+completed Management Response to Request for Reasonable
+Accommodation decision form (Appendix D) within generally fifteen
+(15) business days of receipt of all the requested information to
+make a decision, explaining in plain language the specific reasons
+for the denial.
+
+It is advised that a written denial, or correspondence
+
+c.
+(Appendix D), be reviewed by the RAPM and by OGC before
+transmittal to the employee.
+
+The cost alone, of providing a specific accommodation, will
+
+d.
+almost never be an appropriate reason to deny a requested
+accommodation, according to the EEOC, because the cost would
+need to be shown to impose an “undue hardship” considering the
+entire operating budget of DHS.
+
+20 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+Reasons for the denial of a particular reasonable 
+
+e. 
+accommodation request may include the following: 
+
+(1) 
+
+The requested accommodation is ineffective.  
+
+The requested accommodation would cause undue 
+
+(2) 
+hardship on the operations of DHS.  
+
+The requested accommodation would require removal 
+
+(3) 
+of an essential function of the job.  
+
+The requested accommodation would require 
+
+(4) 
+lowering of performance or production standards. 
+
+(5) 
+
+An effective alternative is available.  
+
+(6)  Medical documentation is inadequate to establish that 
+the employee or applicant needs such an accommodation.  
+
+The written notice of denial (in an accessible format, when 
+f. 
+requested) must inform the employee that she/he has the right to 
+request a higher-level review by a Senior Management Official, to 
+initiate an EEO complaint, or to initiate a complaint under 
+negotiated grievance procedures. Written notice of the denial must 
+also contain instructions on how to file an EEO complaint and must 
+advise the requestor that they must initiate contact with an EEO 
+Counselor in the EEO Office via email to HQEEO@hq.dhs.gov 
+within 45 days of the denial, regardless of whether the employee or 
+applicant participates in an informal dispute resolution process, or 
+the complaint may be deemed untimely. 
+
+I. 
+
+Voluntary Informal Dispute Resolution Process: 
+
+Where an accommodation request has been denied, an employee may request a 
+higher-level review of that decision from a Senior Management Official in the 
+following manner: 
+
+1.  Within five (5) business days of receipt of the decision denying a 
+request, an employee may contact the RAPM or DPS to request a higher-
+level review from the designated Senior Management Official within the 
+program office.  The employee may submit to the RAPM additional 
+information in support of her/his request. 
+
+The RAPM will convey in writing the employee’s request to the 
+
+2. 
+Senior Management Official, who will make a written determination on the 
+request within ten (10) business days, and provide it to the individual, the 
+Decision-Maker, and the RAPM.  The Senior Management Official may 
+
+21 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+engage the RAPM if the Senior Management Official believes additional 
+information is needed to make an informed decision or to re-engage in the 
+interactive process.  This may necessitate an extension to the deadline for 
+issuance of the written determination. 
+
+If the Decision-Maker’s decision is reversed, and an 
+
+3. 
+accommodation granted, the procedures outlined in Section VI.H of this 
+document will be followed. 
+
+4. 
+If the Decision-Maker’s decision is affirmed, the Senior 
+Management Official’s determination must inform the employee that 
+she/he has the right to initiate an EEO complaint, or to initiate a complaint 
+under negotiated grievance procedures.  A request for a higher-level 
+review under Section VI.I does not constitute the filing of an administrative 
+complaint or union grievance. 
+
+The Senior Management Official, when appropriate, may consult 
+
+5. 
+with the RAPM or DSP, OHS, OGC, or ER before issuing a decision on a 
+request for a higher review. 
+
+J. 
+
+Confidentiality: 
+
+All medical information, including information about diagnosis, functional 
+limitations, and reasonable accommodation needs obtained in connection with a 
+request for reasonable accommodation must be kept confidential and stored in 
+accordance with the Freedom of Information Act, Privacy Act, and Rehabilitation 
+Act requirements.  The following procedures will apply: 
+
+1. 
+All medical information must be kept in files separate from 
+employee’s Official Personnel File or any unofficial personnel file.  If kept 
+in hard copy, it must be kept in a locked file cabinet; 
+
+All employees who obtain or receive medical information as part of 
+
+2. 
+the reasonable accommodation process are strictly bound by the 
+confidentiality requirements outlined in this document; 
+
+Medical information obtained during the reasonable 
+
+3. 
+accommodation process concerning restrictions and functional limitations, 
+may be disclosed only to the following individuals on a need-to-know 
+basis: 
+
+The Decision-Maker and, if different, an employee’s first-line 
+
+a. 
+supervisor; however, the Decision-Maker or supervisor will be 
+provided only as much medical information as they need to know to 
+engage in the interactive process and to make an informed 
+decision, as determined by the Decision-Maker and consistent with 
+applicable law; 
+
+22 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+RAPM, DPS, or other subject matter experts who may be 
+
+b. 
+involved in advising the Decision-Maker whether an 
+accommodation should be granted; 
+
+c. 
+
+First aid and safety personnel where required; 
+
+d. 
+Government officials when the information is necessary to 
+investigate DHS or HQ’s compliance with the Rehabilitation Act; 
+
+Other officials with a need to know, including new 
+
+e. 
+supervisors of employees who have received accommodations, in 
+order to safeguard against a break in the continuity of providing a 
+previously-granted accommodation; 
+
+In certain circumstances, workers’ compensation offices or 
+
+f. 
+insurance carriers; and 
+
+As permitted or required by law, including in EEO complaint 
+
+g. 
+investigation or in legal proceedings. 
+
+4.  Whenever medical information is disclosed, the individual 
+disclosing the information must inform recipients of the confidentiality 
+requirements. 
+
+VII.  Reassignment As Accommodation Of Last Resort 
+
+A.  When the Decision-Maker determines that the individual cannot perform 
+the essential functions of his or her position with or without a reasonable 
+accommodation and/or cannot be accommodated in his/her current position, a 
+search for reassignment as an accommodation of last resort is needed.  In such 
+cases, the RAPM shall issue a memorandum to the employee indicating that the 
+reassignment search process will begin, and will request additional needed and 
+relevant information from the employee. 
+
+The memorandum informs the employee that reassignment will be made 
+
+B. 
+only to vacant, funded positions with DHS HQ program offices.  A vacant, funded 
+position refers to all HQ’s currently vacant positions and those positions that are 
+expected to become vacant within 30 business days, whether the positions are 
+unannounced, announced, or open until a certification has been issued.  The 
+employee must provide a reassignment package to include an updated resume 
+and a completed employee questionnaire, identifying among other things, the 
+scope of positions for which she/he would qualify, within five (5) business days to 
+the RAPM.  
+
+C. 
+
+The reassignment package is submitted to OCHCO who reviews the 
+
+23 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+package, classifies the employee’s qualifications, and makes a determination on 
+appropriate vacancies at HQ to be considered.  A search for vacant HQ positions 
+will be sought out for a maximum of thirty (30) business days.  Vacancies that are 
+anticipated to become vacant within the thirty (30) business days will be included 
+in the search process. 
+
+The initial job search begins within HQ program offices.  The focus will be 
+
+D. 
+on HQ positions that are equivalent to the employee’s current job in terms of 
+grade, pay, career level, promotion potential, status, benefits, geographical 
+location, type of appointment, and other relevant factors.  As with other transfers 
+not required by management, HQ is not required to pay for the employee’s 
+relocation costs unless HQ policy provides for such payments for employees 
+without disability.  The employee must be able to meet the same security 
+requirements of the new position as other eligible candidates for the position.  
+Reassignments do not include giving an employee a promotion. Thus, an 
+employee must compete for any vacant position that would constitute a 
+promotion. 
+
+If an equivalent position is found within a HQ program office for which the 
+
+E. 
+employee is qualified, the employee must be offered that position.  She/he 
+cannot be required to compete for that position.  All offers of reassignment as the 
+reasonable accommodation of last resort should be documented in writing and a 
+copy should be placed in the Accommodation Tracking Database. 
+
+F.  When an employee accepts a tentative job offer, OCHCO is no longer 
+obligated to conduct further job searches for the employee.  If the employee 
+declines the offer, HQ has fulfilled its reasonable accommodation obligation and 
+the file will be closed by the RAPM. 
+
+If there is no vacant, funded, equivalent position (or anticipated to become 
+
+G. 
+vacant within the thirty (30) business days) within HQ program offices, HQ’s HR 
+must document in writing the unavailability of positions within HQ.  The RAPM 
+notifies the employee and her/his supervisor.  If such a determination is made, a 
+Department-wide search for a vacant position will begin.  OHS, with guidance 
+from the CRCL, oversees the DHS-wide search for a reassignment and follow 
+the procedures outlined in the Instruction 259-01-002, “Procedures for 
+Conducting a Department-Wide Search for a Reassignment as a Reasonable 
+Accommodation of Last Resort.” 
+
+24 
+
+Instruction Manual # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Appendix A:  DHS HQ Reasonable Accommodation Request Form  
+
+This form should be completed when an employee or job applicant requests a 
+reasonable accommodation. For additional information or assistance in completing this 
+form, please contact the DHS Headquarters Reasonable Accommodation Program 
+Manager (RAPM) at accommodations@hq.dhs.gov or at (202) 357-1204. 
+
+Upon completion, access the Accessibility Compliance Management System 
+(https://accessibility.dhs.gov/) online and upload this form, along with any supporting 
+documentation, using the “Request Assistance” button. 
+
+Individual Requesting or Needing Reasonable Accommodation (Type or Print) 
+
+Name of Employee or 
+Applicant: 
+
+Click here to enter text. 
+
+Job Title: 
+
+Click here to enter text. 
+
+Job Series & Grade: 
+
+Click here to enter text. 
+
+Program Office: 
+
+Click here to enter text. 
+
+Phone/Mobile Phone: 
+
+Click here to enter text. 
+
+E-mail Address:
+
+Click here to enter text. 
+
+Work Address: 
+
+Click here to enter text. 
+
+Supervisor’s Name: 
+
+Click here to enter text. 
+
+Job Title: 
+
+Click here to enter text. 
+
+Phone/Mobile Phone: 
+
+Click here to enter text. 
+
+Email Address: 
+
+Click here to enter text. 
+
+Work Address: 
+
+Click here to enter text. 
+
+Do you work in a SCIF? 
+
+Yes ☐ No
+
+☐
+
+A-1
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+Is Yes, how often? 
+
+30% or less ☐
+
+☐
+
+50% 
+
+☐
+
+More than 50%  
+
+Which LAN(s): 
+
+ LAN A
+
+LAN B  
+
+☐
+
+☐
+
+LAN C
+
+☐
+
+1. TYPE OF ACCOMMODATION REQUESTED, IF KNOWN: (Be as specific as
+possible, e.g., assistive technology, reader, interpreter, schedule modification)
+
+Click here to enter text. 
+
+2. PRIOR OR EXISTING ACCOMMODATION (Please identify any current or
+
+previously approved accommodations)
+
+Click here to enter text. 
+
+3. REASON FOR REQUEST
+
+a.
+
+Describe the Nature of the Impairment/Condition:
+
+Click here to enter text. 
+
+b.
+
+Major Life Activity(ies) Affected:
+
+Click here to enter text. 
+
+c.
+
+Essential Job Functions Requiring Accommodation(s):
+
+Click here to enter text. 
+
+A-2
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+d.
+
+How will the accommodation(s) enable you to perform your essential
+job functions and/or allow you to participate in the benefits and
+privileges of employment:
+
+Click here to enter text. 
+
+4. SUPPORTING DOCUMENTATION (failure to provide the below information may
+cause delay and/or denial):
+
+DHS HQ Medical Statement Form (Appendix B) to authorize your
+
+•
+healthcare provider/professional to release medical records and/or information
+pertaining to your medical condition that is needed to address questions related
+to your requested reasonable accommodation.
+
+Limited Medical Release Form (Appendix C) of your
+
+•
+impairment/condition if the limitation it is not obvious.  Additional information may
+be requested to evaluate your request for the requested accommodation.
+
+Position Description and Performance Plan, whichever most-accurately
+
+•
+captures your essential duties.
+
+PRIVACY ACT STATEMENT 
+
+Authority: The Rehabilitation Act of 1973, 29 U.S.C. § 791, and Executive Order 13164 
+authorize collection of this information.  
+
+Purpose: The primary purpose and use of this information is to consider, decide, and 
+implement requests for reasonable accommodation.   
+
+Routine Uses: Additional disclosures of the information may be made pursuant to 
+routine uses set out in DHS/ALL-033 Reasonable Accommodations Records System of 
+Records, April 1, 2022, 87 FR 19111, and as amended, to include medical personnel to 
+meet a bona fide medical emergency; to another Federal agency, court, or a party in 
+litigation before a court or in an administrative proceeding being conducted by a Federal 
+agency when the Government is a party to the judicial or administrative proceeding; to a 
+congressional office in response to an inquiry from the congressional office made at the 
+request of the individual; and to an authorized appeal grievance examiner, formal 
+complaints examiner, administrative judge, equal employment opportunity investigator, 
+arbitrator or other duly authorized official engaged in investigation or settlement of a 
+grievance, complaint or appeal filed by an employee. 
+
+A-3
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+Disclosure:  Providing this information is voluntary. There are no effects of not 
+providing this information. However, without providing this information, DHS will not be 
+able to consider your request for reasonable accommodation. 
+
+A-4 
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+Appendix B:  DHS HQ Medical Statement Form  
+
+Employee/Applicant Name:
+Date:
+Program Office:
+
+What is the diagnosed impairment/condition? 
+
+Click here to enter text. 
+
+What is the duration of the impairment? 
+Days: How many? ______________
+☐
+Weeks:  How many? 
+☐
+___________________
+What major life functions/bodily functions does the impairment limit? 
+
+☐
+
+Indefinite
+
+☐ Months:  How many? __________
+
+Click here to enter text. 
+
+How does this impairment affect the employee’s ability to perform daily essential job 
+functions; (Job duties so fundamental to the position that the position requirements 
+cannot be fulfilled without successful performance of these duties)? 
+
+Click here to enter text. 
+
+List with specificity the workplace modifications (accommodations) that could enable the 
+employee to perform his or her job functions (examples include, but are not limited to, 
+assistive technology, workstation modifications, modified work schedule, time off, 
+ergonomic chair, periodic work breaks, working all or some days from home, assistive 
+listening devices).  Please indicate the duration, if known, that the modification is 
+required. 
+
+Click here to enter text. 
+
+B-1
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DHS HEADQUARTERS REASONABLE ACCOMMODATION PROCEDURES 
+
+How will the recommended accommodations enable the employee to perform the 
+essential job functions? 
+
+Click here to enter text. 
+
+Are there alternative accommodations available that would be effective? 
+
+Click here to enter text. 
+
+Medical Provider’s Signature: 
+
+Printed Name/Title:
+
+Date:
+
+Phone/Fax:
+
+Email:
+
+Address: 
+
+B-2 
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix A:  DHS HQ Reasonable Accommodation Request Form 
+
+PRIVACY ACT AND GINA STATEMENTS 
+
+Authority: All medical confidential information will be handled in accordance with 5 
+C.F.R. Part 293 (Personnel Records), 5 C.F.R. Part 297 (Privacy Provisions for 
+Personnel Records). Medical records furnished pursuant to this request comply with the 
+restrictions imposed by the Genetic Information Nondiscrimination Act of 2008 (GINA). 
+GINA prohibits employers and other entities covered by GINA Title II from requesting or 
+requiring genetic information of an individual or family member of the individual, except 
+as specifically allowed by this law. To comply with this law, DHS is asking that no 
+genetic information be provided when responding to this request for medical 
+information.  “Genetic information” as defined by GINA, includes an individual’s family 
+medical history, the results of an individual’s or family member’s genetic tests, the fact 
+that an individual or an individual’s family member sought or received genetic services, 
+and genetic information of a fetus carried by an individual or an individual’s family 
+member or an embryo lawfully held by an individual or family. 
+
+Purpose: The primary purpose and use of this information is to consider, decide, and 
+implement requests for reasonable accommodation.  
+
+Routine Uses: Additional uses and disclosures of the information may be made 
+pursuant to routine uses set out in OPM/GOVT-10 (Employee Medical File System 
+Records), 80 FR 74815 (Nov. 11, 2015), 87 FR 5874 (Feb. 02, 2022), and as amended, 
+DHS/ALL-033 Reasonable Accommodations Records System of Records, April 1, 2022, 
+87 FR 19111, and as amended. 
+
+Disclosure:  Providing this information is voluntary. There are no effects of not 
+providing this information. However, without providing this information, DHS will not be 
+able to consider your request for reasonable accommodation. 
+
+A-1 
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A-2 
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+Appendix C:  Limited Medical Release Form  
+
+I, ________________________________________ (print or type full name), authorize the 
+healthcare provider(s)/professional(s) listed below to release those portions of my medical 
+records and/or other appropriate information pertaining to my medical condition(s) that are 
+needed to support and address questions related to my request for reasonable accommodation 
+to the Medical Reviewer (MR) of the Department of Homeland Security Headquarters, Office of 
+Health Affairs. 
+
+I understand my full responsibility to inform my healthcare provider(s)/professional(s) of the 
+need to provide the information requested by the agency.  I acknowledge that this release 
+constitutes my permission for my healthcare provider(s)/professional(s) to discuss these matters 
+with the Agency’s Reasonable Accommodation Program Manager (RAPM) as necessary in 
+addition to providing a written record.  I understand that my healthcare 
+provider(s)/professional(s) may need additional information regarding my essential job functions 
+from me in order to provide adequate information. I understand the RAPM will review the 
+information and provide recommendations to my supervisor who will make the final 
+determination whether the requested accommodation can be granted or denied.  
+
+I understand that the information the agency is requesting is to be used only to clarify the nature 
+of the impairment, the need for reasonable accommodation, how the requested accommodation 
+will enable me to perform the essential functions of the job and/or participate in an application 
+process or benefit, and, if necessary, determine whether an alternative accommodation would 
+be appropriate. 
+
+I understand that this is a confidential limited medical release and disclosure of this information 
+will be restricted to agency supervisors and managers on a need-to-know basis; first aid and 
+safety personnel, when appropriate, if the disability might require emergency treatment; 
+government officials to investigate the agency’s compliance with the Rehabilitation Act; and, 
+agency EEO officials to maintain records and evaluate and report on the agency’s performance 
+in processing reasonable accommodation requests.  In addition, I understand that under the 
+Rehabilitation Act and Privacy Act, medical information obtained in connection with the 
+reasonable accommodation process must be kept confidential and separate from other 
+personnel files at all times. 
+
+This Medical Release is valid for one (1) year from the date signed or upon termination of my 
+affiliation with the Federal Government, whichever is sooner.  This release is subject to 
+revocation by me at any time except to the extent that DHS and the provider have already taken 
+action in reliance on it. If this authorization has not been revoked in writing, it will expire with the 
+terms of the duration statement provided above. 
+
+Print Name: 
+
+Click here to enter text. 
+
+Employee/Applicant 
+Signature: 
+
+Click here to enter text. 
+
+Date: 
+
+Click here to enter text. 
+
+Health Care 
+Provider/Professional  
+
+Click here to enter text. 
+
+C-1
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix C:  Limited Medical Release Form 
+
+Name: 
+
+Organization: 
+
+Click here to enter text. 
+
+Address: 
+
+Phone: 
+
+Click here to enter text. 
+
+Click here to enter text. 
+
+C-2 
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix D:  Management Response to Request for Reasonable Accommodation 
+
+1. Request for Reasonable  Accommodation (check  one):
+
+Granted
+
+☐
+☐ Interim Granted (Provide  comments in  Field 8) 
+☐ Alternate Granted  (Provide comments in Field 8) 
+☐ Denied (if denied, answer applicable questions in Fields 5-7)  
+
+2. Requester Name:
+
+3. Requester Organization/Location/Phone number:
+
+4. Accommodation Requested:
+
+5.  Accommodation request denied for  the following reason(s).  (Check all that apply):
+
+ Accommodation is ineffective
+ Accommodation would cause undue hardship 
+ Accommodation would require removal of an essential function of  the job 
+ Accommodation would require lowering of performance or production standard  
+ Medical documentation is inadequate 
+ Alternate type of effective accommodation was offered but rejected by employee  
+Other (explain)
+
+☐
+☐
+☐
+☐
+☐
+☐
+☐
+
+6. Detailed reason(s) for the denial of reasonable accommodation.  (Be specific, e.g., why
+accommodation caused undue hardship or why it is ineffective.)
+
+7. If alternative accommodation was offered,  explain why the alternative accommodation is 
+believed to be effective. 
+
+8. Comments:  
+
+D-1
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix D:  Management Response to Request for Reasonable Accommodation 
+
+9. If the employee or applicant is dissatisfied with the Decision-Maker’s decision to deny a 
+reasonable accommodation, and wishes to request a higher-level review from a  Senior
+Management  Official, she/he may take the following steps: 
+
+o  Contact the HQ Reasonable Accommodation Program Manager (RAPM) within five 
+
+(5) business days of  receipt of the denial.  The employee/applicant  may present to the 
+RAPM additional information in support of her/his request.   
+
+o  The RAPM will convey the request  for a higher-level review to the designated Senior
+
+Management Official  for a decision within ten (10) business days. 
+
+Name of Senior  Management Official  (Please  Print):   
+
+______________________________________ 
+
+The employee/applicant may also seek to file an  EEO complaint or  follow  union grievance 
+procedures.  If so, the following provisions apply:  
+
+o  To commence an EEO complaint under 29 C.F.R. § 1614, the employee  or applicant
+
+must initiate  contact with an EEO Counselor  in the HQ EEO Office  by email at
+HQEEO@hq.dhs.gov  within 45 calendar days from  the date of  the notice of the denial 
+of a reasonable accommodation, regardless of whether the applicant or employee
+participates in an informal dispute resolution process; or 
+
+o  For bargaining unit employees, the requester may file a grievance under the Collective
+
+Bargaining Agreement,  within the specified time frame. 
+
+Decision-Maker’s Name  &  
+Title:  
+
+Organization: 
+
+Email/Phone: 
+
+Signature:  
+
+Date: 
+
+One (1) copy of this form must be provided to the employee/applicant. 
+One (1) copy of this form must be provided  to the Reasonable Accommodation Program Manager  
+
+D-2
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix E:  Sample Memorandum to Decision-Maker or Employee’s Supervisor from  
+Reasonable Accommodation Program Manager  
+
+Date 
+
+VIA EMAIL 
+
+MEMORANDUM FOR: 
+
+(Decision-Maker’s Name)
+Title 
+Program
+U.S. Department of Homeland Security 
+
+FROM: 
+
+SUBJECT: 
+
+RAPM or Disability Staff Name 
+Reasonable Accommodation Program Manager 
+Office for Civil Rights & Civil Liberties 
+
+Reasonable Accommodation Request 
+Employee Name, Title 
+
+This memorandum constitutes our acknowledgment of the request for a reasonable 
+accommodation, for Employee Name, Title. 
+
+A request for reasonable accommodation is the first step in an informal, interactive 
+process between the individual and the supervisor.  Effective communication between 
+the supervisor and employee with support from the Reasonable Accommodation 
+Program Manager (RAPM), is vital to identifying and implementing effective 
+accommodations.  DHS is required to make reasonable accommodations to a known 
+physical or mental limitation of a “qualified individual with a disability.”  This requirement 
+may be waived when DHS can show that there is no effective accommodation that 
+would not pose an undue hardship on the agency.  29 C.F.R. §§ 1630.2(o) and (p). 
+
+In support of the reasonable accommodation request, this office received supporting 
+documentation from Mr./Ms. Employee’s medical provider dated (add date). Mr./Ms. 
+Employee’s impairment substantially limits his/her major life activities (list activities 
+limited and include qualitative information about limits).  Specifically stated in his/her 
+medical documentation, “(Quotation of limitations from medical documentation leaving 
+out specific diagnosis).”  The medical document(s) indicates that the impairment affects 
+Mr./Ms. Employee’s ability to perform her/his daily essential job functions; “(Quotation 
+from medical documentation).” 
+
+Mr./Ms. Employee’s physician indicated that the (1) following alternative 
+accommodations would enable Mr. Ms. Employee to perform the essential functions of 
+his or her job. Or (2) no other accommodations would enable Mr. or Ms. Employee to 
+perform the essential functions of his or her job “(Quotation of accommodations that are 
+recommended on medical documentation and how will the accommodations help the 
+employee perform the essential functions).” 
+
+E-1 
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix E:  Sample Memorandum to Decision-Maker or Employee’s Supervisor from 
+Reasonable Accommodation Program Manager 
+Mr./Ms. Employee is requesting (list item(s) requested).   
+
+Based on my review of the submitted documentation, the employee has shown that they 
+are an “individual with a disability” who has conditions that affect his/her major life 
+activities or bodily functions and may be entitled to a reasonable accommodation under 
+the Rehabilitation Act of 1973, as amended.  
+
+At this time, you as a receiving official must take the following steps to comply with the 
+Rehabilitation Act of 1973, as amended: 
+
+•  Upon receipt of this memo, begin engaging in an interactive process with your
+
+employee regarding her/his request, as well as with the Reasonable
+Accommodation Program Manager (RAPM), as needed.  
+
+o  Consider the requested accommodation, as  well as whether there may be
+
+o 
+
+other accommodations that would be equally  effective for her/him.  
+I recommend that you go over the accommodations identified in this
+memo with the employee to ensure that you understand the requests and 
+have a complete and accurate list of what the employee is seeking.  If the 
+employee ne  eds any additional accommodations, or if the wording of any
+of the items on this list needs to be modified or clarified, those changes
+should be confirmed in  the written decision,  with a copy to the RAPM.   
+o  The interactive process is ongoing, and therefore updates may need to be 
+made to the list over time.  Keeping the list complete and accurate helps
+to avoid miscommunication.
+If you have additional questions related to the medical information 
+provided above regarding the employee’s limitations, job functions they
+are unable to perform, or recommended accommodations, please reach
+out to the RAPM to assist with acquiring the responses from  the
+employee’s medical provider.  
+
+o 
+
+o  While employees are entitled to effective accommodations, they are 
+
+o 
+
+o 
+
+not necessarily entitled to the accommodation of their choice.
+It is particularly important for the employee to inform you and the
+RAPM if an approved accommodation proves to be ineffective or is
+not provided in a timely manner.   Failure to do so may result in the
+Agency incorrectly concluding that the employee has been fully
+accommodated.
+In addition, an accommodation of reassignment is considered an
+accommodation of last resort after all other possible accommodations
+have been deemed ineffective or pose an undue hardship. 
+
+•  Decide whether to grant the requested reasonable accommodation, propose an 
+
+alternative accommodation, or deny the request.  If you decide to grant a
+reasonable accommodation or provide an alternative accommodation, you
+should provide your response, in writing via Appendix D:  Management
+Response to Request for Reasonable Accommodation (attached) to the
+
+E-2
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix E:  Sample Memorandum to Decision-Maker or Employee’s Supervisor from 
+Reasonable Accommodation Program Manager 
+
+employee within fifteen (15) business days of receipt of request.  Please provide 
+the RAPM with a copy. 
+
+• 
+
+If you decide to deny an accommodation request, you should provide your 
+response in writing via Appendix D:  Management Response to Request for 
+Reasonable Accommodation (attached) to the employee within fifteen (15) 
+business days of receipt of request and provide the RAPM and the DMS Director 
+with a copy.  The explanation for the denial of the requested accommodation 
+should be written in plain language, clearly stating the specific reasons for the 
+denial; for example, why there is no accommodation that would be effective or 
+why a specific accommodation would result in undue hardship. 
+
+•  Consult with the RAPM and the Office of the General Counsel, Labor and 
+Employment Law (OGC-LEL) group for legal advice regarding reasonable 
+accommodations and undue hardship prior to transmitting your denial response 
+to the employee. For more information about what constitutes “undue hardship,” 
+please consult the Equal Employment Opportunity Commission’s Enforcement 
+Guidance on “Reasonable Accommodation and Undue Hardship under the 
+Americans with Disabilities Act,” located at 
+http://eeoc.gov/policy/docs/accommodation.html. 
+
+If you have questions, please contact me (RAPM/DPM Phone Number), or via email at 
+(Email address). 
+
+cc: Employee Name, Title 
+
+E-3 
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+Appendix F:  Tracking and Recording  
+
+Tracking and Recordkeeping 
+
+A. 
+The RAPM will track and keep records of all reasonable accommodations 
+requested by applicants and employees. The RAPM will maintain these records 
+within the ATD for five (5) years or for the employee’s tenure, whichever is 
+longer, and will make such records available to EEOC upon EEOC’s request. 
+Reports, including but not limited to the annual MD-715 report, will be maintained 
+for at least three (3) years.  Executive Order 13164, Establishing Procedures to 
+Facilitate the Provisions of Reasonable Accommodations, and EEOC’s policy 
+guidance on implementing the Executive Order, state that an agency must be 
+able to track the following information: 
+
+The number of reasonable accommodations, by type, that have  
+
+1.  
+been requested in the  employment  application process and whether those 
+requests have been granted or denied;  
+
+The jobs (occupational series, grade level, and component) for 
+
+2.  
+which reasonable accommodations have been requested;  
+
+The types of reasonable accommodations that have been  
+
+3.  
+requested for each of those jobs; 
+
+The number of reasonable accommodations, by type, for each job 
+
+4.  
+that have been approved; the number of accommodations, by type, that 
+relate to the benefits or privileges or employment; and the number of  
+accommodations, by type, that have been denied; 
+
+The decision-maker and the reasons for denial of requests  for 
+
+5.  
+reasonable accommodation; 
+
+The amount of time taken to process each request for reasonable 
+
+6.  
+accommodation;  
+
+The sources of technical assistance that have been consulted in  
+
+7.  
+trying to identify possible reasonable accommodations, and;  
+
+Employees and applicants may track the processing of their  
+
+8.  
+reasonable accommodation request by  contacting the RAPM at 
+accommodations@hq.dhs.gov.  Employees may also check the status of  
+their request in the ATD  
+
+B.  
+Because of this recordkeeping requirement, supervisors and employees 
+must notify the RAPM  when a reasonable accommodation is requested or has 
+been provided.   
+
+The  MD-715  report will provide a quantitative  assessment of DHS HQ’s 
+
+C. 
+reasonable accommodation program, including any recommendations for 
+F-1 
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix F:  Tracking and Recording 
+
+improvement of the Department’s reasonable accommodation policies and 
+procedures. 
+
+F-2 
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+Appendix G:  Reasonable Accommodation Resources  
+
+Reasonable Accommodation Resources 
+
+DHS Accessibility Help Desk  
+The DHS Accessibility Help Desk is managed by the CXD.  Services are provided in an 
+advisory role and may include information for disability-related services, assistive 
+technology and ergonomic assessments, and reasonable accommodation solutions. All 
+requests for IT system-related issues will go through OAST. 
+Hours: Monday-Friday, 8:00 a.m. to 5:00 p.m. EST 
+202-447-0440 (Voice) 
+accessibility@hq.dhs.gov 
+
+ADA Disability and Business Technical Assistance Centers (DBTACs) 
+1-800-949-4232 (Voice/TT) 
+
+DoD’s Computer /Electronic Accommodations Program (CAP) 
+(703) 614-8416 (Voice) 
+(571) 384-5629 (Videophone) 
+(703) 697-5851 (Fax) 
+cap@mail.mil 
+www.cap.mil 
+
+U.S. Equal Employment Opportunity Commission (EEOC)
+In particular, see the Guidance issued by EEOC on related topics: 
+
+•   Enforcement Guidance: Pre-employment Disability-Related Questions and  
+
+Medical Examinations (1995); 
+
+•   Enforcement Guidance: Workers’ Compensation and the ADA (1996);  
+
+•   Enforcement Guidance: The Americans with Disabilities Act and Psychiatric  
+
+Disabilities (1997);  
+
+•   Fact Sheet on the Family and Medical Leave Act, the Americans with Disabilities 
+
+Act, and Title VII of the Civil Rights Act of  1964 (1996); and 
+
+•   Enforcement Guidance: Disability-Related Inquiries and Medical Examinations of 
+
+Employees Under the  Americans with Disabilities Act (2000).  
+
+•  Enforcement Guidance:  Enforcement  Guidance on Reasonable Accommodation 
+and Undue Hardship Under the Americans with Disabilities Act (revised October 
+17, 2002).  
+
+1-800-669-3362 (Voice) 
+1-800-800-3302 (TT) 
+www.eeoc.gov 
+
+G-1 
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Appendix G:  Reasonable Accommodation Resources 
+
+Job Accommodation Network (JAN)
+1-800-232-9675 (Voice/TT) 
+www.askjan.org 
+
+RESNA Technical Assistance Project 
+(703) 524-6686 (Voice) (703) 524-6639 (TT) 
+www.resna.org 
+
+G-2 
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+  
+ 
+ 
+ 
+  
+Appendix H:  Personal Assistance Services  
+
+Personal Assistance Services 
+
+Headquarters (HQ) will provide Personal Assistance Services (PAS) to employees who 
+need them because of a targeted disability during work hours and job-related travel as 
+an affirmative action obligation; if the employee requires such assistance in order to fully 
+participate in the workplace, including an alternate workspace (e.g., while teleworking), 
+or to participate in work-related travel.  
+
+PAS are services that help individuals who, because of a targeted disability, require 
+assistance to perform basic activities of daily living such as eating and using the 
+restroom.  PAS differ from services that help an individual to perform job-related tasks, 
+such as sign language interpreters who enable individuals who are deaf to 
+communicate with coworkers, and readers who enable individuals who are blind or have 
+learning disabilities to read printed text.  PAS do not include medical services, such as 
+administering shots or monitoring blood pressure, and do not have to be provided by 
+someone with medical training or qualifications. 
+
+HQ processes PAS requests under the same procedures as a request for reasonable 
+accommodation.  Accordingly, the process for requesting PAS, the process for 
+determining whether such services are required, and HQ's right to deny such requests 
+when the provision of the services would pose an undue hardship, are the same as for 
+reasonable accommodations.  PAS will be provided to an individual if: 
+
+•  The individual is a HQ employee;  
+•  The individual has a targeted disability; 
+•  The individual requires the services because of his/her targeted disability; 
+•  The individual will be able to perform the essential functions of the job, without 
+posing a direct threat to the safety of themselves or others, once PAS and any 
+required reasonable accommodations, have been provided; and 
+
+•  Providing PAS will not impose undue hardship on HQ. 
+
+Not everyone with a targeted disability will be entitled to PAS; only those individuals with 
+a targeted disability who request, and require, assistance with activities of daily living 
+may receive PAS.  Examples of medical conditions that are more likely to result in the 
+need for PAS are missing limbs or paralysis due to spinal cord injury.  HQ is only 
+required to provide PAS, while the employee is working or on work-related travel, if the 
+requesting employee is entitled to them under the regulations.  Therefore, HQ may deny 
+a request for PAS if: 
+
+•  The requestor is not a HQ employee;  
+•  The requestor does not have a targeted disability; 
+•  The targeted disability does not create a need for PAS; 
+•  The requester is not able to perform the essential functions of the job, even with 
+
+PAS and any reasonable accommodations; 
+
+•  The requester would create a direct threat to safety on the job, even with PAS 
+
+and any reasonable accommodations; or 
+
+H-1 
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix H:  Personal Assistance Services 
+
+• 
+
+Providing PAS would impose undue hardship on the agency. 
+
+PAS Resources 
+
+Questions and Answers: Federal Agencies’ Obligation to Provide Personal Assistance 
+Services (PAS) under Section 501 of the Rehabilitation Act, 
+https://www.eeoc.gov/federal/directives/personal-assistance-services.cfm  
+
+Questions and Answers: The EEOC’s Final Rule on Affirmative Action for People with  
+Disabilities in Federal Employment,  https://www.eeoc.gov/laws/regulations/qanda-ada-
+disabilities-final-rule.cfm   
+
+Accommodation and Compliance: Personal Assistance Services (PAS) in the 
+Workplace, https://askjan.org/topics/persassist.cfm  
+
+U.S. Department of Labor Office of Disability Employment Policy’s Personal Assistance 
+Services in the Workplace, 
+https://www.dol.gov/odep/topics/PersonalAssistanceServices.htm  
+
+Federal Exchange on  Employment and Disability (FEED) PAS Roundtable Meeting  
+Recap, http://www.askearn.org/topics/federal-state-government-employment/federal-
+government-employment/section-501/federal-exchange-employment-disability-
+feed/federal-exchange-on-employment-disability-feed-meeting-pas-round-table-july-
+20th-2017/   
+
+Independent Living Research Utilization Resources on Personal Assistance Services, 
+http://www.ilru.org/resources-personal-assistance-services  
+
+Federal Travel Regulation Part 301-13 – Travel of an Employee with Special Needs; 
+Authority: 5 U.S.C. 5707, https://www.gsa.gov/policy-regulations/regulations/federal-
+travel-regulation-ftr?asset=107374   
+
+5 C.F.R. 315.711  - Readers, interpreters, and personal assistants serving under 
+Schedule A appointments, https://www.gpo.gov/fdsys/pkg/CFR-2011-title5-
+vol1/pdf/CFR-2011-title5-vol1-sec315-711.pdf  
+
+5 U.S.C. 3102 Employment of Personal Assistants for Employees with Disabilities, 
+including Blind and De 
+title5/pdf/USCODE-2011-title5-partIII-subpartB-chap31-subchapI-sec3102.pdf  
+
+af Employees,  https://www.gpo.gov/fdsys/pkg/USCODE-2011-
+
+H-2 
+
+Instruction # 259-01-001-01 
+Revision # 00 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

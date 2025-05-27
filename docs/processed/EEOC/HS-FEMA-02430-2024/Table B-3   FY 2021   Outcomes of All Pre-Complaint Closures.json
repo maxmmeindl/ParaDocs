@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-3   FY 2021   Outcomes of All Pre-Complaint Closures-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-3   FY 2021   Outcomes of All Pre-Complaint Closures.xlsx",
+    "file_size": 22935,
+    "file_hash": "6584191b5c95ad7bdbfc4a362c91a47ea7d5427542f642f7ec9aa1d332f4e7ef",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:24.038377",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:24.038377",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

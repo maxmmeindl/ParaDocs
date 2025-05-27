@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Meindl_1stLineDecisionFTTWRequest - Oke review (002) to JLJ-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Meindl_1stLineDecisionFTTWRequest - Oke review (002) to JLJ.pdf",
+    "file_size": 286118,
+    "file_hash": "9396c93061bd2e6c8bf10773ddfbffdf9273f64f6bd543042a68f0a9657c0a28",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:13.575410",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:13.575410",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

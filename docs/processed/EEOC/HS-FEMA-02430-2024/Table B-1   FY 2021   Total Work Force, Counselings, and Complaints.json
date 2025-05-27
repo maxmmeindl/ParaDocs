@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-1   FY 2021   Total Work Force, Counselings, and Complaints-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-1   FY 2021   Total Work Force, Counselings, and Complaints.xlsx",
+    "file_size": 15807,
+    "file_hash": "f28c1cbd08af7af63fd730e7ecba2880b02605912b079e1487f678694264a623",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.386138",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.386138",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

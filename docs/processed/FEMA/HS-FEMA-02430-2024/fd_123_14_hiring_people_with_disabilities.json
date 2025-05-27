@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-fd_123_14_hiring_people_with_disabilities-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "fd_123_14_hiring_people_with_disabilities.pdf",
+    "file_size": 365984,
+    "file_hash": "82bdcfdc247a1c0eff15ff913117f02bd923f366d24689fb7e6cbc70a839e6ca",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:09.488824",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:09.488824",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

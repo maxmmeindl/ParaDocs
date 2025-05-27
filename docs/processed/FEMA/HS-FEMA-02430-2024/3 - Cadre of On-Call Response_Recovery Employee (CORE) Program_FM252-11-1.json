@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-3 - Cadre of On-Call Response_Recovery Employee (CORE) Program_FM252-11-1-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "3 - Cadre of On-Call Response_Recovery Employee (CORE) Program_FM252-11-1.pdf",
+    "file_size": 560461,
+    "file_hash": "80a25de3e28a42907786024acdbe7eea9587ef487633a3bb0bfbb55f0564b8c1",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:58.531543",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:58.531543",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

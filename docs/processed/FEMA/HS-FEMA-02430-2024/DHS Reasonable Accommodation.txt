@@ -1,0 +1,1639 @@
+DDEEPPAARRTTMMEENNTT  OOFF  HHOOMMEELLAANNDD  SSEECCUURRIITTYY  
+
+PPRROOCCEEDDUURREESS  TTOO  FFAACCIILLIIAATTEE  TTHHEE  
+
+PPRROOVVIISSIIOONN  OOFF    
+
+RREEAASSOONNAABBLLEE  AACCCCOOMMMMOODDAATTIIOONN  
+
+DDiirreeccttoorr,,  OOffffiiccee  ffoorr  CCiivviill  RRiigghhttss  aanndd  CCiivviill  LLiibbeerrttiieess  
+DDeeppaarrttmmeenntt  ooff  HHoommeellaanndd  SSeeccuurriittyy  
+WWaasshhiinnggttoonn,,  DDCC    2200552288  
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+ 
+Table of Contents 
+
+Purpose ..................................................................................................................1 
+
+Authority ...............................................................................................................1 
+
+Policy......................................................................................................................1 
+
+Scope ......................................................................................................................2 
+
+Background ...........................................................................................................2 
+
+Definitions..............................................................................................................3 
+
+Requesting Reasonable Accommodation ...........................................................6 
+
+THE REQUEST ............................................................................................................................................................6 
+WRITTEN CONFIRMATIONS........................................................................................................................................6 
+THE INTERACTIVE PROCESS ......................................................................................................................................7 
+DETERMINING WHO WILL HANDLE THE REQUEST ....................................................................................................7 
+REASSIGNMENT AS AN ACCOMMODATION.................................................................................................................8 
+REQUESTS FOR MEDICAL INFORMATION ...................................................................................................................9 
+TIME FRAMES ..........................................................................................................................................................11 
+EXPEDITED PROCESSING..........................................................................................................................................15 
+
+Granting or Denying a Reasonable Accommodation Request.......................16 
+
+GRANTING A REASONABLE ACCOMMODATION REQUEST........................................................................................16 
+DENIAL OF REASONABLE ACCOMMODATION REQUEST...........................................................................................16 
+
+Dispute Resolution..............................................................................................18 
+
+Confidentiality and Disclosure ..........................................................................19 
+
+Information Tracking and Reporting ..............................................................20 
+
+Relation of Procedures to Statutory and Collective Bargaining Claims.......22 
+
+EEO COMPLAINT.....................................................................................................................................................22 
+COLLECTIVE BARGAINING CLAIM ...........................................................................................................................22 
+MSPB APPEAL ........................................................................................................................................................22 
+
+Responsibilities ...................................................................................................23 
+
+Appendices 
+
+APPENDIX A:  REASONABLE ACCOMMODATION REQUEST FORM ......................................................................... A-1 
+APPENDIX B:  CONFIRMATION FORM.....................................................................................................................B-1 
+APPENDIX C:  REASONABLE ACCOMMODATION REQUEST FORM ..........................................................................C-1 
+APPENDIX D:  ANNUAL REPORT FORM ................................................................................................................. D-1 
+
+ 
+ 
+Purpose 
+
+The following implements Executive Order 13164 by establishing requirements for processing 
+requests for reasonable accommodation and, where appropriate, for providing reasonable 
+accommodation to employees and applicants with disabilities. 
+
+Authority 
+
+The Rehabilitation Act of 1973 (29 U.S.C 701), as amended, requires an employer to provide 
+reasonable accommodation to qualified individuals with disabilities who are employees or 
+applicants for employment, except when such accommodation would cause undue hardship. 
+
+Executive Order 13164, Requiring Federal Agencies to Establish Procedures to Facilitate the 
+Provision of Reasonable Accommodation (July 26, 2000), requires that  Federal agencies 
+establish effective written procedures for processing requests for reasonable accommodation. 
+
+Equal Employment Opportunity Commission Policy Guidance on Executive Order 13164, 
+Establishing Procedures to Facilitate the Provision of Reasonable Accommodation, No. 915-003 
+(October 20, 2000), explains EO 13164 in detail. 
+
+Equal Employment Opportunity Enforcement Guidance on Reasonable Accommodation and 
+Undue Hardship under the American's with Disabilities Act (March 1, 1999) clarifies the rights 
+and responsibilities of employers and individuals with disabilities regarding reasonable 
+accommodation and undue hardship. 
+
+                                                                                                                                               The 
+Department of Homeland Security (DHS) is committed to providing reasonable accommodation 
+to employees and applicants for employment in order to assure that individuals with disabilities 
+enjoy full access to equal employment opportunity (EEO).   
+
+Policy            
+
+DHS shall provide reasonable accommodation for the known physical or mental limitations of 
+qualified employees and applicants with disabilities, unless DHS can demonstrate that a 
+particular accommodation would impose an undue hardship on the operation of its programs. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Scope 
+
+The policies and procedures contained herein apply to all DHS organizational elements and to all 
+employees and applicants for employment with the Department and its organizational elements 
+and offices  These policies and procedures supplement the Equal Employment Opportunity 
+Commission (EEOC) Enforcement Guidance on Reasonable Accommodation and Undue 
+Hardship Under the Americans with Disabilities Act (March 1, 1999), and EEOC Policy 
+Guidance on Executive Order 13164, Establishing Procedures to Facilitate the Provision of 
+Reasonable Accommodation (October 20, 2000).  Both documents are available on EEOC's 
+internet site at www.eeoc.gov).   
+
+Background 
+
+The Rehabilitation Act of 1973 (29 U.S.C 701), as amended, was the first national law to address 
+employment protection for individuals with disabilities.  In part, the Act required an employer to 
+provide reasonable accommodation to qualified individuals with disabilities who are employees 
+or applicants for employment, except when such accommodation would cause undue hardship. 
+
+The EEOC issued enforcement guidance on March 1, 1999, which clarifies the rights and 
+responsibilities of employers and individuals with disabilities regarding reasonable 
+accommodation and undue hardship. 
+
+On July 26, 2000, Executive Order (EO) 13164 was signed.  The EO required that Federal 
+agencies establish effective written procedures for processing requests for reasonable 
+accommodation.  The EO did not create any new enforceable rights for Executive branch 
+employees or applicants for employment. 
+
+On October 20, 2000, EEOC issued policy guidance that further explains the effects of the EO 
+13164. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Definitions 
+
+Decision-maker.  An individual who has authority to determine whether a requested 
+accommodation will be provided. 
+
+Department.  Department of Homeland Security, including its subordinate organizational 
+elements and offices. 
+
+Disability.  An impairment that substantially limits one or more of the major life activities. 
+
+Dispute Resolution Process.  Any voluntary mechanism through which an individual can 
+request reconsideration of denial of reasonable accommodation, regardless of whether the person 
+has started the EEO complaint process. 
+
+Essential Function.  Those job duties that are so fundamental to the position that the individual 
+holds or desires that he/she cannot do the job without performing them.  A function can be 
+"essential" if, among other things:  the position exists specifically to perform that function; there 
+are a limited number of other employees who could perform the function; or the function is 
+specialized and the individual is hired based on his/her ability to perform them.  Determination 
+of the essential functions of a position must be done on a case-by-case basis so that it reflects the 
+job as actually performed, and not simply the components of a generic position description. 
+
+Extenuating Circumstances.   Factors that could not reasonably have been anticipated or 
+avoided in advance of the request for accommodation.  Limited situations in which unforeseen or 
+unavoidable events prevent prompt processing and delivery of an accommodation.  For example, 
+processing a request for reasonable accommodation or providing an accommodation may not be 
+delayed because a particular staff member is unavailable.  
+
+Individual with a Disability.  A person who has a physical or mental impairment that 
+substantially limits one or more of that person's major life activities, has a record of impairment, 
+or is regarded as having such an impairment. 
+
+Interactive Process.  The process by which the individual requesting an accommodation and the 
+Decision-maker talk to each other about the request for accommodation, the process for 
+determining whether an accommodation will be provided, and potential accommodations. 
+
+Major Life Activity.  Basic activities that the average person in the general population can 
+perform with little or no difficulty, such as caring for oneself, performing manual tasks, walking, 
+seeing, hearing, speaking, breathing, learning and working. 
+
+Organizational Element.   Any bureau, office, service or other component of the DHS. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Qualified Individual with a Disability.  An individual with a disability who satisfies the 
+requisite skill, experience, education, and other job-related requirements of the employment 
+position such individual holds or desires, and who, with or without reasonable accommodation, 
+can perform the essential functions of such position. 
+
+Reasonable Accommodation.  An adjustment or alteration that enables a qualified person with a 
+disability to apply for a job, perform job duties, or enjoy benefits and privileges of employment.  
+There are three categories of reasonable accommodations: 
+
+•  modifications or adjustments to a job application process to permit an individual with 
+
+a disability to be considered for a job (such as providing application forms in 
+alternative formats like large print or Braille); 
+
+•  modifications or adjustments to enable a qualified individual with a disability to 
+perform the essential functions of the job (such as providing sign language 
+interpreters); and 
+
+•  modifications or adjustments that enable employees with disabilities to enjoy equal 
+benefits and privileges of employment (such as removing physical barriers in an 
+organization's criteria). 
+
+Reassignment.  A form of reasonable accommodation that, absent undue hardship, is provided 
+to employees (not applicants) who, because of a disability, can no longer perform the essential 
+functions of their job, with or without reasonable accommodation.  Reassignments are made only 
+to vacant positions and to employees who are qualified for the new position.  If the employee is 
+qualified for the position, he/she will be reassigned to the job and will not have to compete. 
+
+Receiving Officials.  The officials designated to officially receive a request for reasonable 
+accommodation from an employee or applicant (or an individual acting on his/her behalf), 
+determine who will handle the request (the Decision-maker), and monitor the request until it is 
+closed out.  Typically this is the employee’s immediate supervisor; another supervisor or 
+manager in the employee’s immediate chain of command; the Equal Employment Opportunity 
+(EEO) office; any other office designated to oversee the reasonable accommodation process; in 
+connection with the application process, any agency employee with whom the applicant has 
+contact in connection with the application process; or any other individual designated by the 
+organizational element. 
+
+Request for Reasonable Accommodation.  A statement that an individual needs an adjustment 
+or change at work, in the application process, or in a benefit or privilege of employment for a 
+reason related to a medical condition. 
+
+Requester.  A qualified employee or applicant with a disability, or an individual acting on 
+his/her behalf, who requests reasonable accommodation. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Undue Hardship.  An action requiring significant difficulty or expense when considered in light 
+of factors such as the agency's size, financial resources, and the nature and structure of the 
+position.  Determination of undue hardship is always made on a case-by-case basis, considering 
+factors that include the nature and cost of the reasonable accommodation needed and the impact 
+of the reasonable accommodation on the operations of the agency.
+
+ 
+Requesting Reasonable Accommodation 
+
+I. 
+
+The Request 
+
+a.  The reasonable accommodation process begins as soon as the request for 
+
+accommodation is made either orally or in writing.  (A sample request form is 
+provided in Appendix A.)  The request does not have to use any special words, such 
+as "reasonable accommodation," "disability," or "Rehabilitation Act."  An individual 
+with a disability may request a reasonable accommodation whenever he/she chooses, 
+even if he/she has not previously disclosed the existence of a disability.  The request 
+does not necessarily mean that the employer is required to provide the change. 
+
+b.  The individual's request must be considered if it is made to his/her supervisor; 
+another supervisor or manager in his/her immediate chain of command; the Equal 
+Employment Opportunity (EEO) office; any other office designated to oversee the 
+reasonable accommodation process; in connection with the application process, any 
+agency employee with whom the applicant has contact in connection with the 
+application process; or any other individual designated by the organizational element. 
+
+c.  A family member, friend, health professional, or other representative may 
+
+request a reasonable accommodation on behalf of an employee or applicant with a 
+disability.  The request shall be made to one of the same persons to whom the 
+employee or applicant would make the request.  To the extent possible, an individual 
+with a disability should be contacted to confirm that he/she in fact wants a reasonable 
+accommodation.  The individual may refuse to accept an accommodation that is not 
+needed. 
+
+II.  Written Confirmations 
+
+a.  To ensure accurate records regarding requests for accommodation, employees must 
+follow up an oral request for accommodation with a written confirmation in a 
+format determined appropriate by the organizational element.   While the written 
+confirmation should be made as soon as possible following the request, it is not a 
+requirement for the request itself.  However, processing of the request will begin as 
+soon as it is made, whether or not the confirmation has been provided.  A sample 
+written confirmation is provided as Appendix B.  Organizational element plans may 
+also provide that confirmations can be made by fax or e-mail. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b.  A written confirmation is not required when an individual needs a reasonable 
+
+accommodation on a recurring basis (e.g., the assistance of sign language interpreters 
+or readers). The written form is required only for the first request although 
+appropriate notice must be given each time the accommodation is needed. 
+
+III. 
+
+The Interactive Process 
+
+a.  Communication is a priority throughout the entire process.  Organizational element 
+officials involved in the provision of reasonable accommodation should take a 
+proactive approach in searching out and considering possible accommodations, 
+including consulting appropriate resources for assistance. The employee requesting 
+the accommodation should also participate, to the extent possible, in helping to 
+identify an effective accommodation.  Resources, which are available to help both the 
+Decision-maker and the individual requesting the accommodation to identify possible 
+accommodations, are listed in Appendix B.  The Department and organizational 
+element Disability Program Managers are also available to provide assistance. 
+
+b.  On-going communication is particularly important where the specific limitation, 
+
+problem, or barrier is unclear; where an effective accommodation is not obvious; or 
+where the parties are considering different possible reasonable accommodations.  In 
+those cases where the disability, the need for accommodation, and the type of 
+accommodation that should be provided are clear, extensive discussions are not 
+necessary. Even so, the Decision-maker and requesting individual should talk to each 
+other to make sure that there is a full exchange of relevant information.  
+
+IV.  Determining Who Will Handle the Request 
+
+a.  Receiving Officials.  Organizational element officials must be designated to receive 
+the request, determine who will be responsible for handling the request (the Decision-
+maker), forward the request to the Decision-maker, and monitor the request through 
+closure.  Typically this is the employee’s immediate supervisor; another supervisor or 
+manager in his/her immediate chain of command; the Equal Employment Opportunity 
+(EEO) office; any other office designated to oversee the reasonable accommodation 
+process; in connection with the application process, any agency employee with whom 
+the applicant has contact in connection with the application process; or any other 
+individual designated by the organizational element. 
+
+b.  Decision-makers.  Each organizational element shall designate those officials 
+
+delegated principal responsibility for identifying possible accommodations and for 
+determining whether an accommodation will be provided.  The Decision-maker may 
+differ depending on whether the request is initiated by an employee or an applicant, 
+or the type of accommodation being requested.  For example, the Decision-maker 
+could be as follows: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1)  the organizational element Human Resource Specialist responsible for the 
+
+recruitment and/or selection process if the request for accommodation is from an 
+applicant; 
+
+(2)  the organizational element Disability Program Manager if the accommodation 
+requested is for adaptive equipment, a reader or sign language interpreter, 
+removal of an architectural barrier, accessible parking, or materials in alternative 
+formats; 
+
+(3)  the head of the office or his/her designee where the accommodation requested 
+
+involves personnel actions; or 
+
+(4)  if the requests are from an employee, the Decision-maker might be the 
+
+employee's immediate supervisor or the head of the office. 
+
+c.  Back-Up.  Organizational elements shall ensure that procedures are in place to provide 
+
+back-up coverage to continue receiving, processing, and providing reasonable 
+accommodations when the Receiving Official and Decision-makers are unavailable.  
+The time frames discussed in paragraph VII, of this section will not be suspended or 
+extended because of the unavailability of the Receiving or Decision-maker. 
+
+d. Organizational Element Disability Program Manager.  The Disability Program 
+Manager shall be available, as needed, to provide assistance to employees, human 
+resources officials and Decision-makers in processing requests for reasonable 
+accommodation.  
+
+V. 
+
+Reassignment as an Accommodation 
+
+a.  Reassignment will only be considered as a reasonable accommodation if a 
+
+determination is made that no other reasonable accommodations are available to 
+enable the individual to perform his or her current job, or if the only effective 
+accommodation would cause undue hardship. 
+
+b.  In considering whether there are positions available for reassignment, the Decision-
+maker should work with the organizational element's Disability Program Manager 
+and Human Resources Office staff, as well as with the individual requesting the 
+accommodation to identify: 
+
+(1) all vacant positions within the organizational element for which the employee 
+
+may be qualified, with or without reasonable accommodation; and 
+
+(2) all positions which the organizational element's Human Resources Office have 
+reason to believe will become vacant over the next 60 business days and for 
+which the employee may be qualified. 
+
+The organizational element will first focus on positions, which are equivalent to the 
+employee's current job in terms of pay, status, and other relevant factors.  If there is 
+no vacant equivalent position, the organizational element will consider vacant lower 
+level positions for which the individual is qualified.  
+
+ 
+ 
+ 
+ 
+c.  Reassignment may be made to a vacant position outside of the employee's commuting 
+area if the employee is willing to relocate.  As with other transfers not required by 
+management, the organizational element shall not pay for the employee's relocation 
+costs unless organizational element policy provides for such payments for non-
+disabled employees.  
+
+d.  Reassignment as a form of reasonable accommodation can only be offered to DHS 
+
+employees and is not available as an accommodation for job applicants.  
+
+VI.  Requests For Medical Information 
+
+a.  The Department, its organizational elements and offices are entitled to know that an 
+
+employee or applicant has a covered disability that requires a reasonable 
+accommodation.  In some cases the disability and need for accommodation will be 
+obvious or otherwise already known to the Decision-maker.  In these cases, further 
+medical information will not be sought.  However, when a disability and/or need for 
+reasonable accommodation is not obvious or otherwise already known to the 
+Decision-maker, the Department or organizational element may require that the 
+individual provide reasonable documentation about the disability and his or her 
+functional limitations. 
+
+b.  If the Decision-maker believes that medical information is necessary in order to 
+
+evaluate a request for reasonable accommodation, he/she will make a request to the 
+organizational element EEO Officer or his/her designee to obtain such information.  
+
+c.  The organizational element EEO Officer or his/her designee will make a 
+
+determination as to whether medical documentation is necessary.  If it is, he/she will 
+request the necessary medical information.  If it is not necessary, the request for 
+accommodation will be returned promptly to the Decision-maker to complete the 
+processing.  Where organizational element EEO officials make determination 
+regarding the sufficiency of medical information or documentation, those EEO 
+officials shall recuse themselves from processing complaints in which conflicts or 
+perceived conflicts may exist. 
+
+d.  If a determination is made to seek medical information, information will be requested 
+sufficient to substantiate that the individual has a Rehabilitation Act disability and 
+needs the reasonable accommodation requested.  Documentation unrelated to the 
+disability claimed will not be requested.  Organizational element requests for 
+medical information will follow the requirements set forth in EEOC's Enforcement 
+Guidance: Disability-Related Inquiries and Medical Examinations of Employees 
+Under the Americans with Disabilities Act (available on EEOC's internet site at 
+www.eeoc.gov). 
+
+ 
+ 
+ 
+ 
+e.  The organizational element EEO Officer or his/her designee will seek information or 
+documentation about the disability and/or functional limitations from the individual, 
+and/or ask the individual to obtain such information from an appropriate professional, 
+such as a doctor, social worker, or rehabilitation counselor.  In order to get the most 
+helpful possible information, all requests for information should describe the nature 
+of the job, the essential functions the individual is expected to perform, and any other 
+relevant information.  The organizational element EEO Officer or his/her designee 
+should work with the Decision-maker, Human Resources Office staff, organizational 
+element counsel, and any other individual designated by the organizational element, 
+as appropriate, in seeking suitable information. 
+
+f.  Once the medical documentation is received, the organizational element EEO Officer 
+
+or his/her designee will evaluate the documentation, in consultation with the 
+Decision-maker, Human Resources Office staff, organizational element counsel, a 
+physician chosen by organizational element, and/or any other official designated by 
+the organizational element, if necessary.  If the information provided by the health 
+professional (or the information volunteered by the individual requesting the 
+accommodation) is insufficient to enable the organizational element to determine 
+whether an accommodation is appropriate, the organizational element may ask for 
+further information.  First, however, the organizational element should explain to the 
+individual seeking the accommodation, in specific terms, why the information 
+provided is insufficient, what additional information is needed, and why it is 
+necessary for a determination of the reasonable accommodation request.  The 
+individual may then ask the health care or other appropriate professional to provide 
+the missing information.  
+
+g.  Alternatively, the organizational element EEO Officer or his/her designee and the 
+individual requesting the accommodation may agree that the individual will sign a 
+limited release, and that the organizational element may thereafter submit a list of 
+specific questions to the individual's health care professional or may otherwise 
+contact the individual's doctor.  
+
+h.  If, after a reasonable period of time, there is still not sufficient information to 
+
+demonstrate that the individual has a disability and needs a reasonable 
+accommodation, the organizational element may request that the individual be 
+examined by a physician chosen by the organizational element.  Such an examination 
+would be performed at the organizational element’s expense. 
+
+i.  The organizational element EEO Officer or his/her designee will let the Decision-
+
+maker know whether the documentation demonstrates that a reasonable 
+accommodation is appropriate and provide, if necessary, any additional relevant 
+information about the individual's functional limitations.  
+
+ 
+ 
+ 
+ 
+j. 
+
+In some cases, the individual requesting the accommodation will supply medical 
+information directly to the Decision-maker without being asked.  In these cases, the 
+Decision-maker will consider such documentation and if additional information is 
+needed, the Decision-maker will work with the Organizational element EEO Officer 
+or his/her designee as set forth in this section.  
+
+k.  If the organizational element determines that medical information submitted must be 
+reviewed by a medical expert, the organizational element will choose the medical 
+expert.  The cost of the review will be at the organizational element’s expense. 
+
+l.  Failure by the individual to provide appropriate documentation or to cooperate 
+in the organizational element's efforts to obtain such documentation can result 
+in a denial of the reasonable accommodation. 
+
+VII.  Time Frames for Processing Requests and Providing Reasonable Accommodations.  
+The time necessary to process a request will depend on the nature of the accommodation 
+requested and whether it is necessary to obtain supporting information.  At a minimum, 
+however, requests shall be processed as follows: 
+
+a. Requests Not Involving Extenuating Circumstances 
+
+(1) If the request does not require that supporting medical information be 
+
+obtained, the request shall be processed and the accommodation, if granted, 
+provided as soon as possible but not more than 15 business days from the date 
+the request was initially made, and sooner, if possible.  Since the Decision-maker 
+may need the full 15 days to engage in the interactive process and collect all 
+relevant information about possible accommodations, he/she should not delay 
+beginning this process.  Failure to meet this time frame solely because a Decision-
+maker delayed processing the request is not an extenuating circumstance. 
+
+(2) If the request requires that supporting medical information be obtained to 
+
+determine whether the requesting individual has a disability and/or to identify the 
+functional limitations, the following will apply: 
+
+(a)  The Decision-maker will make such request to the designated organizational 
+element official as soon as possible after his or her receipt of the request for 
+accommodation, but before the expiration of the 15-day period.  The 15-day 
+period will be stayed.  The Department recognizes that the need for 
+documentation may not become apparent until after the interactive process has 
+begun. 
+
+(b) If the designated organizational element official determines that medical 
+information is not needed, the 15-day time period resumes as soon as the 
+designated organizational element official notifies the Decision-maker that 
+he/she can continue processing the request. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c)  If the designated organizational element official determines that medical 
+
+documentation is needed, the decision shall be made and the accommodation, 
+if granted, shall be provided within 15 business days from the date the 
+Decision-maker receives the relevant information from the designated 
+organizational element official. 
+
+(d) Examples of accommodations that can easily be provided within the 15-
+
+day time frame include: 
+
+1.  An employee with diabetes who sits in an open area asks for four breaks a 
+day to test his/her blood sugar levels so that he/she may do these tests in 
+private.  
+
+2.  An employee, who takes anti-depressants that make it hard for him/her to 
+get up in time to get to the office at 9:00 a.m., requests that he/she be 
+allowed to start work at 10:00 a.m. and still put in an 8-hour day. 
+
+3.  A supervisor distributes detailed agendas at the beginning of each staff 
+
+meeting.  An employee with a learning disability asks that the agenda be 
+distributed ahead of time because the disability makes it difficult to read 
+and he/she needs more time to prepare. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b. Request Involving Extenuating Circumstances 
+
+(1)  When extenuating circumstances are present, the time for processing a request 
+for reasonable accommodation and providing the accommodation will be 
+extended as reasonably necessary.  It is the Department's policy that extensions 
+based on extenuating circumstances should be limited to circumstances where 
+they are strictly necessary.  All organizational element officials are expected to 
+act as quickly as reasonably possible in processing requests and providing 
+accommodations. The following are examples of extenuating circumstances: 
+
+(a)  The purchase of equipment may take longer than 15 business days because of 
+requirements under the Federal Acquisition Regulation and EEOC Order 
+360.001, Acquisition Policies and Procedures. 
+
+(b) Equipment must be back-ordered, the vendor typically used by the 
+
+organizational element for goods or services has unexpectedly gone out of 
+business, or the vendor cannot promptly supply the needed goods or services 
+and another vendor is not immediately available. 
+
+(c)  The employee with a disability needs to try working with equipment on a trial 
+basis to ensure that it is effective before the organizational element buys the 
+equipment. 
+
+(d) New staff needs to be hired or contracted for, or an accommodation involves 
+
+the removal of architectural barriers.  
+
+(e)  There is an outstanding initial or follow-up request for medical information, or 
+
+the designated organizational element official is evaluating medical 
+information that has been provided. 
+
+c.  Where extenuating circumstances are present, the Decision-maker must notify the 
+
+individual, in writing, of the reason for the delay, and the approximate date on which 
+a decision, or provision of the reasonable accommodation, is expected.  Any further 
+developments or changes should also be communicated promptly to the individual. 
+
+d.  If there is a delay in providing an accommodation that has been approved, the 
+
+Decision-maker must decide whether temporary measures can be taken to assist the 
+employee.  This could include providing the requested accommodation on a 
+temporary basis or providing a less effective form of accommodation.  In addition, 
+the Decision-maker may provide measures that are not reasonable accommodations 
+within the meaning of the law (e.g., temporary removal of an essential function) if: 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) they do not unreasonably interfere with the operations of the Department and 
+
+organizational element; and  
+
+(2) the employee is clearly informed that they are being provided only on a 
+
+temporary, interim basis. 
+
+For example, there may be a delay in receiving adaptive equipment for an employee 
+with vision impairment.  During the delay, the supervisor might arrange for other 
+employees to act as readers. This temporary measure may not be as effective as the 
+adaptive equipment, but it will allow the employee to perform as much of the job as 
+possible until the equipment arrives.  
+
+e.  If a delay is attributable to the need to obtain or evaluate medical documentation and 
+the organizational element has not yet determined that the individual is entitled to an 
+accommodation, the organizational element may also provide an accommodation on a 
+temporary basis. In such a case, the Decision-maker will notify the individual in 
+writing that the accommodation is being provided on a temporary basis pending a 
+decision on the accommodation request. 
+
+f.  Organizational element Decision-makers who approve such temporary measures are 
+
+responsible for assuring that they do not take the place of a permanent 
+accommodation and that all necessary steps to secure the permanent accommodation 
+are being taken. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIII.  Expedited Processing.  In certain circumstances, a request for reasonable 
+
+accommodation requires an expedited review and decision in a time frame that is shorter 
+than the 15 business days discussed above.  This includes where a reasonable 
+accommodation is needed: 
+
+a.  To enable an applicant to apply for a job.  Depending on the timetable for 
+receiving applications, conducting interviews, taking tests, and making hiring 
+decisions, there may be a need to expedite a request for reasonable accommodation in 
+order to ensure that an applicant with a disability has an equal opportunity to apply 
+for a job.  Therefore, the organizational element needs to move as quickly as possible 
+to make a decision and, if appropriate, provide a reasonable accommodation if 
+needed. 
+
+b.  To enable an employee to attend a meeting scheduled to occur shortly.  For 
+
+example, an employee may need a sign language interpreter for a meeting scheduled 
+to take place in 5 days.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+Granting Or Denying A Reasonable Accommodation Request 
+
+I. 
+
+Granting a Reasonable Accommodation Request.  As soon as the Decision-maker 
+determines that a reasonable accommodation will be provided, that decision should be 
+immediately communicated to the individual by the Decision-maker.  If the 
+accommodation cannot be provided immediately, the Decision-maker must inform the 
+individual of the projected time frame for providing the accommodation.  This notice 
+does not need to be in writing. 
+
+II. 
+
+Denial of Reasonable Accommodation Request 
+
+a.  As soon as the Decision-maker determines that a request for reasonable 
+
+accommodation will be denied, he/she must issue a written decision to the individual 
+who requested the accommodation, with a copy to the organizational element EEO 
+Officer. The explanation for the denial should be written in plain language, clearly 
+stating the specific reasons for the denial. 
+
+(1)  Where the Decision-maker has denied a specific requested accommodation, but 
+
+offered to make a different one in its place which was not agreed to during the 
+interactive process, the denial notice should explain both the reasons for the 
+denial of the requested accommodation and the reasons that the Decision-maker 
+believes the chosen accommodation will be effective.  
+
+(2)  Reasons for the denial of a request for reasonable accommodation must include 
+specific reasons for the denial, for example, why the accommodation would 
+not be effective or why it would result in undue hardship, and may include 
+the following: 
+
+(a)  The requested accommodation would not be effective.  
+
+(b)  Providing the requested accommodation would result in undue hardship.  
+
+Before reaching this determination, the Decision-maker must have explored 
+whether other effective accommodations exist which would not impose 
+undue hardship and therefore can be provided. 
+
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A determination of undue hardship means that the organizational element 
+finds that a specific accommodation would result in significant difficulty or 
+expense, or would fundamentally alter the nature of the organizational 
+element's operations.  When evaluating budgetary or administrative concerns 
+to determine if undue hardship exists, the organizational element will follow 
+the standards outlined in the regulations and in the "Enforcement Guidance 
+on Reasonable Accommodation and Undue Hardship Under the Americans 
+with Disabilities Act."  
+
+(c)  Medical documentation is inadequate to establish that the individual has a 
+
+disability and/or needs a reasonable accommodation.  
+
+(d)  The requested accommodation would require the removal of an essential 
+
+function.  
+
+(e)  The requested accommodation would require the lowering of a performance 
+
+or production standard.  
+
+(3)  The written notice of denial must also inform the individual that he/she has the 
+right to file an EEO complaint and may have rights to pursue Merit Systems 
+Protection Board and union grievance procedures. The notice must also explain 
+organizational element procedures available for dispute resolution. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dispute Resolution 
+
+I. 
+
+II. 
+
+III. 
+
+If an individual wishes reconsideration, he/she should first ask the Decision-maker to 
+reconsider the decision. The individual may present additional information in support of 
+his/her request. The Decision-maker will respond to the request for reconsideration 
+within five business days.  
+
+If the Decision-maker does not reverse the decision, the individual may appeal the 
+decision.  The appeal shall be decided by the senior official having programmatic 
+responsibility for the organizational element's Disability Program.  A response to the 
+appeal will be issued to the individual within ten business days. 
+
+Pursuing dispute resolution procedures, including seeking reconsideration from the 
+Decision-maker and filing an appeal does not affect the time limits for initiating 
+statutory and collective bargaining claims.  An individual's participation in any 
+dispute resolution process does not satisfy the requirements for bringing a claim 
+under EEO, MSPB, or union grievance procedures. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Confidentiality And Disclosure 
+
+I. 
+
+All medical information, including information about functional limitations and 
+reasonable accommodation needs, obtained in connection with a request for reasonable 
+accommodation must be kept confidential.  The information shall be kept in files 
+separate from the individual's personnel file.  In addition, employees who obtain or 
+receive such information are strictly bound by these confidentiality requirements.  The 
+information may be disclosed only to the following individuals: 
+
+a.  Supervisors and managers who need to know (including the Decision-maker who 
+requested that the medical information be obtained) may be told about necessary 
+restrictions on the work or duties of the employee and about the necessary 
+accommodation(s), but medical information should only be disclosed if absolutely 
+necessary. 
+
+b.  First aid and safety personnel, when appropriate, if the disability might require 
+
+emergency treatment. 
+
+c.  Government officials when the information is necessary to investigate Department or 
+
+organizational element compliance with the Rehabilitation Act. 
+
+d.  In certain circumstances, to workers' compensation offices or insurance carriers.  
+
+II.  Whenever medical information is disclosed, the individual disclosing the information 
+
+must inform the recipients of the information about the confidentiality requirements that 
+attach to it. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I. 
+
+II. 
+
+Information Tracking And Reporting 
+
+The Decision-maker will complete the attached “Information Reporting” form and submit 
+it to the organizational element EEO Office within 10 business days of the decision.  The 
+decision maker should attach to the form copies of all information, including medical 
+information; s/he received as part of processing the request.  The organizational element 
+will maintain these records for the longer of the employee’s tenure with the 
+organizational element or five years.  
+
+The Organizational element EEO Officer will prepare and submit to the Office for Civil 
+Rights and Civil Liberties annually, by October 15th,  a report containing the following 
+information:  
+
+a.  the number of reasonable accommodations, by type, that have been requested in the 
+
+application process and whether those requests have been granted or denied; 
+
+b.  the jobs (occupational series, grade level, and organizational element component) for 
+
+which reasonable accommodations have been requested;  
+
+c.  the types of reasonable accommodations that have been requested for each of those 
+
+jobs; 
+
+d.  the number of reasonable accommodations, by type, for each job that have been 
+approved, and the number of accommodations, by type, that have been denied;  
+
+e.  the number of requests for reasonable accommodations, by type, that relate to the 
+
+benefits or privileges of employment, and whether those requests have been granted 
+or denied; 
+
+f. 
+
+the reasons for denial of requests for reasonable accommodation;  
+
+g.  the amount of time taken to process each request for reasonable accommodation; and  
+
+h.  the sources of technical assistance that have been consulted in trying to identify 
+
+possible reasonable accommodations. (Appendix C provides a listing of some of the 
+sources of technical assistance available.) 
+
+In addition, the report shall provide a qualitative assessment of the organizational 
+element's reasonable accommodation program, including any recommendations for 
+improvement of the Department's reasonable accommodation policies and procedures.  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+III. 
+
+Office for Civil Rights and Civil Liberties will prepare an annual report containing the 
+information indicated above, presented in the aggregate.  The report format is provided in 
+Appendix D.  Reports shall be maintained for at least three years.
+
+ 
+ 
+ 
+ 
+Relation of Procedures to Statutory and Collective Bargaining Claims 
+
+I. 
+
+Executive Order 13164 does not create new rights for applicants or employees; 
+nor does it limit an individual's rights under the Rehabilitation Act.  The policies 
+and requirements described in these procedures are in addition to statutory and 
+collective bargaining protections for persons with disabilities and the remedies 
+they provide for the denial of requests for reasonable accommodation. 
+Requirements governing the initiation of statutory and collective bargaining 
+claims, including time frames for filing such claims, remain unchanged. 
+
+II. 
+
+An individual who chooses to pursue statutory or collective bargaining remedies 
+for denial of reasonable accommodation must comply with the following: 
+
+a.  EEO Complaint.  Contact an EEO counselor within 45 days from the date of 
+
+receipt of the written notice of denial. 
+
+b.  Collective Bargaining Claim.  File a grievance in accordance with the 
+provisions of the controlling Collective Bargaining Agreement; or 
+
+c.  MSPB Appeal.  Initiate an appeal within 30 days of an appealable adverse 
+
+action as defined in 5 C.F.R. 1151.3. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Responsibilities 
+
+I. 
+
+The Office for Civil Rights and Civil Liberties shall: 
+
+a.  Develop and issue policy and procedures governing the provision of 
+
+reasonable accommodation; 
+
+b.  Advise Department and organizational element officials regarding laws, 
+
+regulations, executive orders and Department policy related to the provision 
+of reasonable accommodation; 
+
+c.  Ensure compliance with the governing laws, regulations, executive orders and 
+Department policy related to the provision of reasonable accommodation; and  
+
+d.  Develop systems to track and report on the provision of reasonable 
+
+accommodation. 
+
+II. 
+
+Organizational Element Equal Opportunity Officers shall: 
+
+a.  Develop and issue procedures for  processing requests for and providing 
+reasonable accommodation, consistent with governing laws, regulations, 
+executive orders, EEOC directives, and Department policy; 
+
+b.  Ensure that supervisors and managers, and human resource and EEO  officials 
+
+understand their obligation with respect to the provision of reasonable 
+accommodation; 
+
+c.  Ensure the confidentiality of medical information, including information 
+
+about functional limitations and reasonable accommodation needs, obtained in 
+connection with a request for reasonable accommodation; and 
+
+d.  Develop systems to track and report on the provision of reasonable 
+
+accommodation. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendices
+
+ 
+ 
+APPENDIX A:  SAMPLE REASONABLE ACCOMMODATION REQUEST FORM
+
+Request For Reasonable Accommodation 
+
+Applicant/Employee Name 
+
+Office Location and Address 
+
+Occupational Series and Grade 
+
+  Office Telephone Number 
+
+(e.g., GS-301-11) 
+
+Briefly describe the medical condition requiring accommodation. 
+
+Briefly describe the specific accommodation being requested.  (If additional space is 
+needed, attach a separate sheet.) 
+
+Explain how the requested accommodation would assist you in: (1) performing the 
+essential duties of your position, (2) using the job application process, or (3) taking 
+advantage of a benefit or privilege offered by the office/bureau. 
+
+Requester: 
+
+Date:      
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+Appendix B:  Sample Confirmation Form 
+
+CONFIRMATION OF REQUEST FOR REASONABLE ACCOMMODATION 
+
+Employee/Applicant Data 
+
+Name: 
+
+Telephone: 
+
+Organization: 
+
+ Date of Request  
+
+_______________    ______________  __ 
+
+ Date of Receipt 
+
+ACCOMMODATION REQUESTED (Be as specific as possible, e.g., adaptive equipment, 
+reader, interpreter.) 
+
+REASON FOR REQUEST 
+
+Return Form to: (Enter Title/Address of Responsible Official) 
+
+SUBMITTED BY: 
+
+TELEPHONE: 
+
+B-1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+   
+   
+   
+   
+   
+    
+   
+   
+   
+   
+   
+   
+ 
+ 
+Appendix C:  Reasonable Accommodation Resources 
+
+U.S. Equal Employment Opportunity Commission 
+1-800-669-3362 (Voice) 1-800-800-3302 (TTY) 
+
+The EEOC Publication Center has many free documents on the Title I employment 
+provisions of the ADA, including both the statute, 42 U.S.C. 12101 et seq. (1994), and 
+the regulations, 29 C.F.R. 1630 (1997). In addition, the EEOC has published a great deal 
+of basic information about reasonable accommodation and undue hardship. The two main 
+sources of interpretive information are:  
+
+(1) the Interpretive Guidance accompanying the Title I regulations (also known as 
+the "Appendix" to the regulations), 29 C.F.R. pt. 1630 app. 1630.2(o), (p), 
+1630.9 (1997), and 
+
+(2) A Technical Assistance Manual on the Employment Provisions (Title I) of the 
+Americans with Disabilities Act III, 8 FEP Manual (BNA) 405:6981, 6998-
+7018 (1992). The Manual includes a 200-page Resource Directory, including 
+federal and state agencies, and disability organizations that can provide 
+assistance in identifying and locating reasonable accommodations. 
+
+EEOC also has discussed issues involving reasonable accommodation in the following 
+guidance and documents: 
+
+(1) Enforcement Guidance: Pre-employment Disability-Related Questions and 
+
+Medical Examinations at 5, 6-8, 20, 21-22, 8 FEP Manual (BNA) 405:7191, 
+7192-94, 7201 (1995); 
+
+(2) Enforcement Guidance: Workers' Compensation and the ADA at 15-20, 8 
+
+FEP Manual (BNA) 405:7391, 7398-7401 (1996); 
+
+(3) Enforcement Guidance: The Americans with Disabilities Act and Psychiatric 
+Disabilities at 19-28, 8 FEP Manual (BNA) 405:7461, 7470-76 (1997); 
+
+(4) Fact Sheet on the Family and Medical Leave Act, the Americans with 
+
+Disabilities Act, and Title VII of the Civil Rights Act of 1964 at 6-9, 8 FEP 
+Manual (BNA) 405:7371, 7374-76 (1996); and 
+
+(5) Enforcement Guidance: Disability-Related Inquiries and Medical 
+
+Examinations of Employees Under the Americans with Disabilities Act at 20, 
+22, 23, 24-5, 8 FEP Manual (BNA) 405:7701, 7711, 7712-14, 7715-16 (2000). 
+
+C-1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All of the above-listed documents, with the exception of the ADA Technical Assistance 
+Manual and Resource Directory, are also available through the Internet at 
+http://www.eeoc.gov. 
+
+Job Accommodation Network (JAN) 
+1-800-232-9675 (Voice/TTY) 
+http://janweb.icdi.wvu.edu/. 
+
+A service of the President's Committee on Employment of People with Disabilities. JAN 
+can provide information, free-of-charge, about many types of reasonable 
+accommodations. 
+
+GSA’s Center for IT Accommodation (CITA) is the Government’s principal advocate 
+and coordinator for making information technology accessible for people with 
+disabilities. GSA - Center for IT Accommodation (CITA) 
+
+ADA Disability and Business Technical Assistance Centers (DBTACs) 
+1-800-949-4232 (Voice/TTY) 
+
+The DBTACs consist of 10 federally funded regional centers that provide information, 
+training, and technical assistance on the ADA.  Each center works with local business, 
+disability, governmental, rehabilitation, and other professional networks to provide 
+current ADA information and assistance, and places special emphasis on meeting the 
+needs of small businesses. The DBTACs can make referrals to local sources of expertise 
+in reasonable accommodations. 
+
+The Access Board provides its own emergency evacuation plan and a summary 
+document on the procedures.  Also included is a resources link to other related sites . 
+http://www.access-board.gov/news/evacplanning.htm 
+
+Registry of Interpreters for the Deaf 
+(301) 608-0050 (Voice/TTY) 
+
+The Registry offers information on locating and using interpreters and transliteration 
+services. 
+
+C-2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RESNA Technical Assistance Project 
+(703) 524-6686 (Voice) (703) 524-6639 (TTY) 
+http://www.resna.org/ 
+
+RESNA, the Rehabilitation Engineering and Assistive Technology Society of North 
+America, can refer individuals to projects in all 50 states and the six territories offering 
+technical assistance on technology-related services for individuals with disabilities. 
+Services may include: 
+
+(1) information and referral centers to help determine what devices may assist a 
+person with a disability (including access to large data bases containing 
+information on thousands of commercially available assistive technology 
+products); 
+
+(2) centers where individuals can try out devices and equipment; 
+
+(3) assistance in obtaining funding for and repairing devices; and 
+
+(4) equipment exchange and recycling programs.  
+
+DoD's Computer /Electronic Accommodations Program (CAP)  
+http://www.tricare.osd.mil/cap/  provides assessment, electronic assistive devices training 
+and other support services to employees with disabilities quickly, effectively, and at no 
+cost to partnering agencies.  CAP assistive technology explores solutions for employees 
+with vision, hearing, dexterity and cognitive/communicative disabilities 
+
+For additional information, or to schedule a tour of the Technology Center at the 
+Pentagon, contact CAP at: 
+
+(703) 681-8813 (VOICE)  
+(703) 681-0882 (TTY)   
+(703) 681-9075  (FAX), or  
+
+• 
+• 
+• 
+•  email CAP@tma.osd.mil. 
+
+website: http://www.tricare.osd.mil/cap/ 
+
+C-3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX D:  Annual Report on Requests for Reasonable Accommodation 
+
+Part 1:  Reasonable accommodations requested in the application process 
+
+A. Series 
+and        
+Grade  
+
+B. Type Accommodation  
+
+C. Total 
+Granted 
+
+D. Total 
+Denied 
+
+E. Reason for Denial 
+
+F. Total 
+Requests 
+
+ G. Processing 
+Time 
+
+D-1 
+
+ 
+ 
+ 
+                                                 
+                                                               
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+  
+  
+ 
+Part 2:  Reasonable accommodations requested that relate to the benefits and privileges of employment 
+
+A. Type Accommodation  
+
+B. Total 
+Granted 
+
+C. Total 
+Denied 
+
+ D. Total
+
+ Processing 
+Time 
+
+D-2 
+
+ 
+ 
+ 
+                                                                                
+ 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+    
+ 
+Part 3:  Resources of technical assistance consulted in identifying possible 
+
+accommodations 
+
+List all resources (including organizational element resources) consulted in an effort to 
+identify reasonable accommodations for employees and applicants. 
+
+Part 4:  Assessment of organizational element's reasonable accommodation 
+
+program 
+
+Provide a brief qualitative assessment on the organizational element’s reasonable 
+accommodation program, including any improvements and/or policy and procedural 
+changes needed. 
+
+D-3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Instructions for Completing Part 1:  Reasonable accommodations requested in 
+the application process 
+
+Part 1A - Occupational Series and Grade Level.  Each occupational series and grade 
+(e.g., GS-301-11) must be identified.  If there are two or more positions with the same 
+occupational series and grade level, but different types of accommodations were 
+requested, each occupational series and grade must be identified separately. 
+
+Part 1B - Type of Accommodation.  Identify the type of accommodation requested for 
+each occupational series and grade level identified in Part IA.  The accommodation must 
+relate to job performance.  Examples are as follows: 
+
+Job Restructuring 
+Leave 
+Modified or Part-Time Work Schedule 
+Modified Workplace Policies 
+Reassignment 
+
+Part 1C - Total Requests Approved.  For each separate occupational series, grade level 
+and type listed in Parts 1A and 1B, enter the total number of requests approved. 
+
+Part 1D - Total Requests Denied.  For each separate occupational series, grade level 
+and type listed in Parts 1A and 1B, enter the total number of requests denied. 
+
+Part 1E - Total Requests.  This field should equal the sum of Parts 1C and 1D. 
+
+Part 1G - Processing Time.  Enter the amount of time required to process each requests 
+identified in Parts 1A and 1B.  If more than one request is entered in a field, enter the 
+average processing time. 
+
+Instructions for Completing Part 2:  Reasonable accommodations requested 
+that relate to the benefits or privileges of employment.  Benefits and 
+privileges of employment include, but are not limited to, employer-
+sponsored: (1) training, (2) services (e.g., employee assistance programs, 
+credit unions, cafeterias, lounges, gymnasiums, auditoriums, transportation), 
+and (3) parties or other social functions (e.g., parties to celebrate retirements 
+and birthdays, and office outings). 
+
+D-4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part 2A - Type of Accommodation. Identify each different type of accommodation 
+requested.  The accommodation must relate to a benefit or privilege of employment. 
+
+Examples are as follows: 
+
+Sign language interpreters 
+Written materials in alternative formats (e.g., Braille, large print or audio-cassette) 
+Adaptive equipment 
+Modified leave procedures 
+
+Part 2B - Total Requests Approved.  For each type of accommodation listed in Part 2A, 
+enter the total number of requests approved. 
+
+Part 2C - Total Requests Denied.  For each type of accommodation listed in Part 2A, 
+enter the total number of requests denied. 
+
+Part 2D - Total Requests.  This field should equal the sum of Part 2B and 2C. 
+
+Part 3:  Resources of technical assistance consulted in identifying possible 
+
+accommodations.  Self-explanatory 
+
+Part 4:  Assessment of bureau's reasonable accommodation program.   
+Self-explanatory 
+
+D-5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

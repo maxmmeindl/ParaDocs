@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-FW_ ACTION REQUESTED_ AP - Mediation Participation HS-FEMA-02430-202....eml (76.9 KB)-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_ ACTION REQUESTED_ AP - Mediation Participation HS-FEMA-02430-202....eml (76.9 KB).msg",
+    "file_size": 108032,
+    "file_hash": "f0c14ad9ebe8bf178c255d1134c858e474095589607556d2fe01d14f642032c8",
+    "mime_type": "application/vnd.ms-outlook"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:32.001940",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:32.001940",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

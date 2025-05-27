@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-FW_ MEINDL-FMLA PAPERWORK-NEW REQUEST.eml[1](2)-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_ MEINDL-FMLA PAPERWORK-NEW REQUEST.eml[1](2).eml",
+    "file_size": 4741813,
+    "file_hash": "8049dec240a16f6ec66479f7a89a2946f96deba60ffe22bfb2b11aa856c9aa3f",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:27.884253",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:27.884253",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-18   FY 2021   Average Processing Days (APD) Final Orders (FOs) Not Fully Implementing (NFI) AJ Decisions-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-18   FY 2021   Average Processing Days (APD) Final Orders (FOs) Not Fully Implementing (NFI) AJ Decisions.xlsx",
+    "file_size": 13681,
+    "file_hash": "a32a64d3faa3d2bbc75336aec39b21ad94d15dd29395d1dd9ad745407a9e9932",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.633872",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.633872",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

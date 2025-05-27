@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-2017-dhs-affirmative-action-plan-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "2017-dhs-affirmative-action-plan.pdf",
+    "file_size": 571303,
+    "file_hash": "e8a441c28a7c65fba1dfda3a7ab18501d2c12598e2c49330c3351196be0e96b9",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:58.127844",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:58.127844",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-20   FY 2021   ADR Complaint Resolutions (Formal Phase)-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-20   FY 2021   ADR Complaint Resolutions (Formal Phase).xlsx",
+    "file_size": 13486,
+    "file_hash": "9eedf35e5f363879af6929ac5a41824c25f46d8a2f9a084a366d4d823be56572",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.712775",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.712775",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

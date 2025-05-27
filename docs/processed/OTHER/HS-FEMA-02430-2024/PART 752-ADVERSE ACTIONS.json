@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-PART 752-ADVERSE ACTIONS-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "PART 752-ADVERSE ACTIONS.pdf",
+    "file_size": 72353,
+    "file_hash": "505f4a2a8d1040da984891348ce3fac878f32369b5d93fafaa2343709c2008b7",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:57.028612",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:57.028612",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

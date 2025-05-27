@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RAR0042452 for Telework_ 100_ has been assigned...-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RAR0042452 for Telework_ 100_ has been assigned....pdf",
+    "file_size": 178097,
+    "file_hash": "e0177940425584ed012ffe20e4ca3e41e17c9a0334f5d640a35e423653c586e9",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:18.834061",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:18.834061",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

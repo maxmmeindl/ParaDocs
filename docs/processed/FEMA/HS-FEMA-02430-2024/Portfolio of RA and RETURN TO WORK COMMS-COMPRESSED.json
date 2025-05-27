@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Portfolio of RA and RETURN TO WORK COMMS-COMPRESSED-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Portfolio of RA and RETURN TO WORK COMMS-COMPRESSED.pdf",
+    "file_size": 106151265,
+    "file_hash": "19efae5b8c781103461c21df69440310aa0927d7906daf4b3f5f93f901e80345",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:14.577900",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:14.577900",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

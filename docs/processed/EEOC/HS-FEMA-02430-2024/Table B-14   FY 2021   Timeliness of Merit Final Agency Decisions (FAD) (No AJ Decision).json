@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-14   FY 2021   Timeliness of Merit Final Agency Decisions (FAD) (No AJ Decision)-20250526",
+  "document_type": [
+    "Timeline_Document"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-14   FY 2021   Timeliness of Merit Final Agency Decisions (FAD) (No AJ Decision).xlsx",
+    "file_size": 16070,
+    "file_hash": "eefddb6da24740c9fdb58532ec74efc4ad894d3925c3f93e3f75993c05963dc7",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.533101",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.533101",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

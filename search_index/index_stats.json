@@ -1,0 +1,88 @@
+{
+  "generated_at": "2025-05-27T13:32:30.609238",
+  "total_documents": 449,
+  "total_keywords": 555,
+  "total_dates": 381,
+  "most_common_keywords": [
+    {
+      "keyword": "hs-fema-02430-2024",
+      "document_count": 449
+    },
+    {
+      "keyword": "other",
+      "document_count": 220
+    },
+    {
+      "keyword": "email_communication",
+      "document_count": 170
+    },
+    {
+      "keyword": "reasonable accommodation",
+      "document_count": 112
+    },
+    {
+      "keyword": "discrimination",
+      "document_count": 61
+    },
+    {
+      "keyword": "essential functions",
+      "document_count": 51
+    },
+    {
+      "keyword": "adverse action",
+      "document_count": 48
+    },
+    {
+      "keyword": "undue hardship",
+      "document_count": 45
+    },
+    {
+      "keyword": "eeoc_charge",
+      "document_count": 37
+    },
+    {
+      "keyword": "interactive process",
+      "document_count": 34
+    },
+    {
+      "keyword": "interactive_process",
+      "document_count": 28
+    },
+    {
+      "keyword": "retaliation",
+      "document_count": 21
+    },
+    {
+      "keyword": "termination",
+      "document_count": 12
+    },
+    {
+      "keyword": "timeline_document",
+      "document_count": 9
+    },
+    {
+      "keyword": "whistleblower",
+      "document_count": 8
+    },
+    {
+      "keyword": "disparate treatment",
+      "document_count": 6
+    },
+    {
+      "keyword": "hostile work environment",
+      "document_count": 6
+    },
+    {
+      "keyword": "00 pm\nimage001.png",
+      "document_count": 6
+    },
+    {
+      "keyword": "00 am\nimage001.png",
+      "document_count": 6
+    },
+    {
+      "keyword": "76 fr 41274.",
+      "document_count": 6
+    }
+  ]
+}

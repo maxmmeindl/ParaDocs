@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-8   FY 2021   Complaints Filed Basis and Issues  - Grand Total-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-8   FY 2021   Complaints Filed Basis and Issues  - Grand Total.xlsx",
+    "file_size": 19760,
+    "file_hash": "ce888fa55dd5543b0ca94fabe614fa4206be4d86ff7df28a824c7d158b224ebc",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:24.211463",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:24.211463",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

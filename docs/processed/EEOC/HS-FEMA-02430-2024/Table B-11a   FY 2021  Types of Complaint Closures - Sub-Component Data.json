@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-11a   FY 2021  Types of Complaint Closures - Sub-Component Data-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-11a   FY 2021  Types of Complaint Closures - Sub-Component Data.xlsx",
+    "file_size": 28122,
+    "file_hash": "1729ff278a30a56fbfcc9143da3d8bbdbcc1658df03d4801ac2f65fc7bba974d",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.461102",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.461102",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

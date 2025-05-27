@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-27   FY 2021   Contractor New Staff Training-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-27   FY 2021   Contractor New Staff Training.xlsx",
+    "file_size": 16256,
+    "file_hash": "fc218c8ce7e08e262512317a56b1f7bb1b80948cc71aa6984539c012f5823124",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.863961",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.863961",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

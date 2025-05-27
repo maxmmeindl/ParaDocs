@@ -1,0 +1,589 @@
+U.S. Equal Employment Opportunity Commission (EEOC) 
+
+EEOC Public Portal User’s Guide 
+
+Vol 1 – Getting Started 
+
+December 20 2024 
+
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page i 
+
+Table of Contents 
+
+Table of Contents ..................................................................................................... i 
+
+Introduction to the EEOC Public Portal .................................................................... 1 
+
+Chapter 1  Getting Started .................................................................................... 2 
+
+1.1 
+
+1.2 
+
+1.3 
+
+The EEOC Public Portal Home Page ................................................................. 2 
+
+Tips for Using the EEOC Public Portal ............................................................... 3 
+
+EEOC Public Portal Access .............................................................................. 3 
+
+Chapter 2 
+
+Creating an EEOC Public Portal User Account ...................................... 4 
+
+2.1 
+
+2.2 
+
+EEOC Public Portal Access for Charging Parties/Complainants ............................. 4 
+
+EEOC Public Portal Access for Representatives .................................................. 6 
+
+Chapter 3 
+
+Change or Reset Your Password .......................................................... 7 
+
+Chapter 4 
+
+Change Your Account Information ...................................................... 8 
+
+4.1 
+
+4.2 
+
+Change Your Address or Phone Number ........................................................... 8 
+
+Change Your Email Address .......................................................................... 10 
+
+Chapter 5 
+
+The EEOC Public Portal Application Window ...................................... 11 
+
+5.1 
+
+5.2 
+
+5.3 
+
+5.4 
+
+Open an Inquiry/Case ................................................................................. 11 
+
+My Inquiries/Charges/Cases ......................................................................... 11 
+
+Guidance ................................................................................................... 11 
+
+Locate an EEOC Office ................................................................................. 11 
+
+Chapter 6  Keyboard Navigation ......................................................................... 13 
+
+Chapter 7 
+
+The Calendar Dialog .......................................................................... 14 
+
+Chapter 8 
+
+Tutorials and Learning More .............................................................. 15 
+
+Figures 
+
+Figure 1 – EEOC Public Portal Home Page ...................................................................... 2 
+Figure 2 – Guidance Page .......................................................................................... 11 
+Figure 3 – Locate an EEOC Office Page ........................................................................ 12 
+Figure 4 – Calendar Dialog ........................................................................................ 14 
+
+ 
+ 
+ 
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 1 
+
+Introduction to the EEOC Public Portal 
+
+The EEOC Public Portal is a secure, web-based application developed for individuals to interact 
+with the EEOC regarding a complaint of employment discrimination. Using the EEOC Public 
+Portal, you may file a complaint against an employer in the Private Sector (i.e., Business or 
+non-profit) or a State or Local Government Agency. If you work or worked for the U.S. Federal 
+Government as an employee or a contractor, or applied to work for the Federal Government, 
+you may request a hearing with or appeal a decision to the EEOC regarding your formal EEO 
+complaint. The EEOC Public Portal is the primary point of communication between you and 
+the EEOC.  
+
+About the User’s Guide 
+
+The EEOC Public Portal  User’s  Guide (“User’s Guide”) provides  comprehensive guidance for 
+using  the  EEOC  Public  Portal’s  features  and  functions.  The  User’s  Guide  is  published  as 
+individual documents, each of which covers a feature or related features of the EEOC Public 
+Portal. 
+
+The  following  EEOC  Public  Portal  User’s  Guide  documents  are  available;  the  highlighted 
+Document Name is the one you’re reading now: 
+
+❖  Vol 1 – Getting Started (learn about EEOC Public Portal access, structure, and other 
+
+basic information) 
+
+❖  Vol 2 – Submit an Online Inquiry to the EEOC 
+
+❖  Vol  3  –  Post-Inquiry  Tasks  (learn  about  scheduling  an  interview  with  the  EEOC, 
+entering  additional  information  about  an  online  inquiry,  and  signing  a  Charge  of 
+Discrimination) 
+
+❖  Vol 4 – Post-Charge Tasks (learn how to check the status of your charge, respond to 
+an Invitation to Mediate, and request/respond to a Respondent’s Position Statement) 
+
+❖  Vol 5 – Charge Closure (learn what happens when your charge has been closed) 
+
+❖  Vol 6 – Federal Sector EEO Complaint Hearings with the EEOC 
+
+❖  Vol 7 – Appealing Federal Agency Decisions to the EEOC 
+
+❖  Vol 8 – Manage Case/Charge Information (learn how to display information about your 
+representatives,  and 
+
+information,  add 
+
+case,  enter/update  your  personal 
+submit/receive documents associated with your case) 
+
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 2 
+
+Chapter 1 
+
+Getting Started 
+
+The  EEOC  Public  Portal  is  your  means  of  communicating  with  the  EEOC  regarding 
+discrimination  complaints.  Here  you  can  submit  a  discrimination  complaint  electronically, 
+track the progress of your case, upload associated documents and manage information about 
+your representative(s). You will also receive notification from the EEOC in the Portal when an 
+action is required regarding your case. 
+
+The EEOC Public Portal is optimized for and officially supports Microsoft Edge and 
+Google Chrome browsers. For the best user experience and seamless functionality, 
+we  recommend  accessing  this  website  using  either  Microsoft  Edge  or  Google 
+Chrome.  Please  note  that  using  other  browsers  may  result  in  diminished 
+performance or compatibility issues. 
+
+1.1  The EEOC Public Portal Home Page 
+The EEOC Public Portal Home page has four links to choose from which are described in detail 
+in Chapter 5: 
+
+•  Open an Inquiry/Case – Allows you to submit an inquiry, hearing request, an appeal, 
+
+or a request for reconsideration (charging party/complainant only). 
+
+•  My Inquiries/Charges/Cases – Allows you to view information about and track the 
+progress  of  your  case(s).  You  can  upload  documents  and  enter/update  information 
+about your representative(s). 
+
+•  Guidance – Allows you to view the Public Portal User Guide. 
+
+•  Find an EEOC Office – Allows you to locate an EEOC office. 
+
+The EEOC Public Portal  is Section 508-compliant, which means the website is accessible to 
+people with disabilities. 
+
+The EEOC Public Portal Home page is illustrated in Figure 1  below. 
+
+Figure 1 – EEOC Public Portal Home Page 
+
+ 
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 3 
+
+1.2  Tips for Using the EEOC Public Portal 
+The following are tips to ensure a smooth experience using the EEOC Public Portal: 
+
+➢  Select the house icon (
+
+) from any page to return to the Home page. 
+
+➢  Turn off Pop-Up blockers in your browser. 
+
+➢  Do not use the browser buttons to navigate the application. Use the  Back and Next 
+
+buttons. 
+
+1.3  EEOC Public Portal Access 
+You must have an EEOC Public Portal user account to submit an inquiry, a hearing request, 
+an appeal, or a request for reconsideration to the EEOC; and to view information about your 
+case(s) and track their progress. Instructions on creating an EEOC Public Portal user account 
+are provided in the next chapter. 
+
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 4 
+
+Chapter 2 
+
+Creating an EEOC Public Portal User Account 
+
+Your user account is identified by a unique username (your email address) and protected by 
+a  secure  password  of  your  choice.  If  you  are  a  charging  party/complainant  who  doesn’t 
+already have an EEOC Public Portal user account, you will be prompted to register during the 
+submission process. If you are an attorney/representative for a charging party/complainant, 
+you can register from the Home Page. 
+
+2.1  EEOC Public Portal Access for Charging Parties/Complainants 
+To create a user account, perform the following steps: 
+
+Step 1.  When prompted, select the Register link (inquiries) or the Sign Up Now button 
+
+(federal sector hearings/appeals). 
+
+Step 2.  On  the  Create  Account  page,  enter  the  required  information,  including  a 
+
+password. 
+
+ 
+ 
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 5 
+
+➢  Tip! Enter a zip code to automatically populate the city and state fields. 
+
+➢  Tip! Your password must be at least 8-characters and contain at least one uppercase, 
+
+lowercase, and numeric character. 
+
+Step 3.  Select the Validate button to verify your email address. A verification code will be 
+sent to the email address you provided. Enter the code when prompted and select 
+the  Submit  button.  When  the  pop-up  appears  indicating  the  validation  was 
+successful, select the OK button. 
+
+➢  Tip! Can’t find the email with the verification code? Check your spam folder. 
+
+Step 4.  When you are finished entering the information, select the Submit button to create 
+
+your account. 
+
+ 
+ 
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 6 
+
+Once you have created a user account, you can login via the Sign in page, either by selecting 
+the Returning Users button (when it appears), or on My Cases. 
+
+2.2  EEOC Public Portal Access for Representatives 
+
+If  you  represent  clients  who  have  filed  charges,  hearing  requests,  appeals,  or  requests  for 
+reconsideration (RFRs) with the EEOC, you may access the EEOC Public Portal to view  your 
+clients’ cases. Select the Register link on the Home Page; when the Create Account page 
+displays, select the I represent a charging party or complainant checkbox and enter your 
+contact  information.  Be  sure  to  select  the  Validate  button  to  validate  your  email  address. 
+When you have finished entering information select the Submit button. 
+
+When you select My Cases from the Home Page and log in, you will see on the My Cases 
+page  a  list  of  all  the  charges,  hearing  requests,  appeals  and/or  RFRs  for  which  you  are 
+identified as a representative for the charging party or complainant. Select the Case Number 
+link to view the case specifics. 
+
+In addition to accessing your client’s cases, you may also update your client’s information and 
+your (the representative’s) information, submit documents to the EEOC or take an action on 
+your client’s behalf, and view any documents associated with the case. 
+
+➢  Tip! You will access the Public Portal as if you were the client you represent. 
+
+➢  Tip! You can only access your client’s cases after they have been filed with the EEOC. 
+
+➢  Tip! If you do not see your client’s charge, hearing request, appeal, or RFR, contact your client 
+
+to ensure that you were identified as a representative for matters concerning that case. 
+
+NOTE:  You cannot submit a hearing request, file an appeal, or submit a RFR, on behalf of 
+your client; only your client can perform these actions. 
+
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 7 
+
+Chapter 3 
+
+Change or Reset Your Password 
+
+If you want to change your password or have forgotten your password and need a new one, 
+you can get a new password by selecting the Forgot Password? link on the Sign in page. 
+
+To obtain a new password, perform the following steps: 
+
+Step 1.  Select the Forgot Password? link on the Sign in page. 
+
+Step 2.  Enter your identifying information, either your first name, last name, zip code or 
+
+your email address and select the Next button. 
+
+➢  Tip! Selecting the Clear button will clear the fields on the screen. 
+
+Step 3.  Next  answer  the  security  questions  you  entered  when  you  created  your  user 
+account. Provide your answers and select the Reset Password button to continue. 
+
+➢  Tip! Forgot the answers? Select the Forgot Answers button and they will be emailed 
+
+to you. 
+
+Step 4.  The Reset Password screen displays. Enter a new password and select the Save 
+
+Password button. A confirmation email will be sent to you. 
+
+ 
+ 
+ 
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 8 
+
+Chapter 4 
+
+Change Your Account Information 
+
+If the information you entered when you created your account in the Public Portal has changed 
+(e.g., address, phone number, email address), you may modify it by selecting your name link 
+at the top of any screen. 
+
+➢  Tip! Your email address is your login ID for the Public Portal. If you change it, remember to 
+
+login using the new email address. 
+
+➢  Tip! You cannot change your email address using the Update My Information button on either 
+the My Charge or My Case page for a specific case. You must use the Update Account page 
+as described below. 
+
+4.1  Change Your Address or Phone Number 
+To change your address or phone number, perform the following steps: 
+
+Step 1.  Select your name at the top-right corner of any page (the Public Portal home page 
+
+is shown in this example). 
+
+Step 2.  Select the OK button to acknowledge the Privacy Policy. 
+
+Step 3.  The Update Account page displays. 
+
+Step 4.  Make the necessary changes and select the Submit button to update your account. 
+
+ 
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 9 
+
+Step 5.  A  confirmation  pop-up  window  displays.  When  prompted  “Your  changes  will  be 
+made  to  any  appeal,  charge,  hearing,  or  inquiry  involving  this  account.  Do  you 
+want to continue?” select OK to continue. 
+
+Step 6.  The changes are saved, and you are returned to the page where you selected your 
+
+name link. 
+
+ 
+ 
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 10 
+
+4.2  Change Your Email Address 
+To change your email address, perform the following steps:  
+
+Step 1.  Perform steps 1-3 in Section 4.1 above to display the Update Account page. Enter 
+
+your new email address and press Tab.   
+
+Step 2.  A confirmation pop-up window displays. Select OK to continue. 
+
+Step 3.  Select the Validate button to verify your new email address.  
+
+Step 4.  A verification code will be sent to the new email address you provided. Enter the 
+code  when  prompted  and  select  the  Submit  button.  When  the  pop-up  appears 
+indicating the validation was successful, select the OK button. 
+
+➢  Tip! Can’t find the email with the verification code? Check your spam folder. 
+
+Step 5.  Select the Submit button to update your account. 
+
+Step 6.  You will be logged out and returned to the Home page of the Public Portal. Select 
+
+Login to login again with your new email address. 
+
+➢  Tip! Your password and security questions will remain the same.  
+
+ 
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 11 
+
+Chapter 5 
+
+The EEOC Public Portal Application Window 
+
+The components of the EEOC Public Portal Application Window are described in the subsections 
+that follow. 
+
+5.1  Open an Inquiry/Case 
+The Open an Inquiry/Case link allows you to submit an inquiry, hearing request, an appeal, 
+or a request for reconsideration to the EEOC. After you select the Open an Inquiry/Case 
+link, you will be asked to select the type of employer you work for, worked for, or applied to, 
+and then be directed to the appropriate submission process. (NOTE: If you are an attorney/ 
+representative for a complainant do not use this link. You cannot submit a hearing request, 
+file an appeal, or submit a RFR on behalf of your client; only your client can perform these 
+actions.) 
+
+5.2  My Inquiries/Charges/Cases 
+The  My  Inquiries/Charges/Cases  link  allows  you  to  track  the  process  of  your  online 
+inquiries, charges, hearing requests, and/or appeals, respond to the EEOC when an action is 
+required,  maintain  information  on  your  representatives  and  your  personal  contact 
+information,  and  view/submit  documents  associated  with  your  case.  If  you  submitted  an 
+online inquiry, the My Cases link will allow you to schedule an interview with the EEOC, enter 
+supplemental information, or sign a Charge of Discrimination, depending on where you are in 
+the process. 
+
+5.3  Guidance 
+The Guidance link allows you to access the EEOC Public Portal User Guides. Here you can 
+get information about how to use the EEOC Public Portal. Select a link to display the document. 
+Select the Back button to return to the previous page. 
+
+To display the Guidance page, Select the Guidance link on the Home page. The Guidance 
+page is shown in Figure 2 below. 
+
+Figure 2 – Guidance Page 
+
+5.4  Locate an EEOC Office 
+If you need help locating an EEOC office, the Find an EEOC Office link will help you. Selecting 
+the  link  brings  up  a  map  of  the  EEOC  districts  in  the  United  States,  as  shown  in  Figure  3 
+
+ 
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 12 
+
+below. Enter a zip code or select the link below the map to display information about a specific 
+EEOC office. 
+
+To display the  Locate  an EEOC Office page,  select the  Find  an EEOC Office link  on the 
+Home page: 
+
+Figure 3 – Locate an EEOC Office Page 
+
+ 
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 13 
+
+Chapter 6 
+
+Keyboard Navigation 
+
+For brevity, procedures in the User’s Guide presume that you’ll use your mouse to navigate 
+the EEOC Public Portal. However, the EEOC Public Portal is Section 508 compliant, so you can 
+also navigate it using your keyboard. 
+
+❖  Tab, Shift+Tab Keys 
+
+Pressing the Tab key moves your cursor forward and pressing the Shift+Tab keys moves it 
+back. The steps in the User’s Guide’s procedures typically follow the tabulation order of  the 
+screens. 
+
+❖  Space Key 
+
+Place your cursor on a checkbox field or radio button and press the Space key to add/remove 
+a checkmark (this also can be used to select a radio button).  
+
+❖  «Key»+Up/Down Arrow Keys 
+
+Place your cursor on a field with a drop list, type a letter to drill-down to the list values that 
+begin with that letter, and then use the Up () or Down () keys to scroll up or down through 
+the listed values. 
+
+❖  Enter Key 
+
+Place  your  cursor  on  a  button  then  press  the  Enter  key  to  execute  the  button  action.  The 
+Enter Key may also be used to enter the highlighted value in a drop-down list into a field. 
+
+ 
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 14 
+
+Chapter 7 
+
+The Calendar Dialog 
+
+When you enter a date value (e.g., date of birth, date you filed your formal EEO complaint, 
+etc.) you may select it using the calendar dialog. 
+
+When you encounter a field that lets you enter a date, when you place your cursor in the field 
+the Calendar dialog will open. The dialog will display the current month, as shown in Figure 4 
+below: 
+
+Figure 4 – Calendar Dialog 
+
+Above the Month and Year are the Prev and Next buttons, which let you select a different 
+year and/or month by toggling through the calendar one month at a time. 
+
+The current day is highlighted for you in the calendar grid (e.g., “1” in Figure 4). If you want 
+to enter a different day, select that day to highlight it. 
+
+Once you select the desired date, the dialog will close and the date you selected will be entered 
+in the field. 
+
+ 
+ 
+ 
+EEOC Public Portal User’s Guide – Vol. 1 
+
+Page 15 
+
+Chapter 8 
+
+Tutorials and Learning More 
+
+When you start the process of submitting an inquiry, requesting a hearing, filing an appeal, 
+or submitting a request for reconsideration, after selecting the type of employer you work or 
+worked for, a page will display with links to information about the EEOC and its processes. 
+Select a link to learn more before getting started. 
+
+If  you  are  submitting  an  inquiry,  there  is  a  video  available,  in  English  and  Spanish,  that 
+explains the basics of filing a charge with the EEOC. Select the Play button to view the video 
+to learn more before getting started. 
+
+When you are ready to start, select the Next button. 
+
+ 
+ 
+

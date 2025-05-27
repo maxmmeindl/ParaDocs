@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-8a   FY 2021   Complaints Filed Basis and Issues  - Cabinet Level Agencies-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-8a   FY 2021   Complaints Filed Basis and Issues  - Cabinet Level Agencies.xlsx",
+    "file_size": 14706,
+    "file_hash": "59730d1a62f32d2c0d74893c7820102f4fc7fe2603c0c2fb47188aa928dd86b7",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:24.231955",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:24.231955",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

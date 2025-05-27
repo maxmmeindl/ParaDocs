@@ -1,0 +1,33 @@
+{
+  "document_id": "OTHER-MEINDL FORMAL EEOC COMPLAINT-E-SIGNED_ FEMA EMPLOYEE (1)-20250526",
+  "document_type": [
+    "EEOC_Charge",
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "MEINDL FORMAL EEOC COMPLAINT-E-SIGNED_ FEMA EMPLOYEE (1).eml",
+    "file_size": 7535764,
+    "file_hash": "31431d0646f2f1fea17d513dd32cc491a6fc3796c555ba6ba6cdec0252e62b9f",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:28.962275",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:28.962275",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

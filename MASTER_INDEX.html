@@ -6,6 +6,7 @@
     <title>ParaDocs Master Index - EEOC Case HS-FEMA-02430-2024</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <style>
         :root {
             --primary: #3f51b5;
@@ -316,50 +317,38 @@
             <i class="bi bi-search"></i>
             <input type="text" placeholder="Search all files... (type keywords like 'timeline', 'damages', 'violations', etc.)" id="masterSearch">
         </div>
+        <div id="searchStatus" class="form-text text-muted text-center mt-1">Loading search data...</div>
     </div>
 
     <!-- Case Summary Alert -->
     <div class="container-fluid px-4 mb-4">
-        <div class="alert alert-warning" style="background: #fff3cd; border: 2px solid #ffc107;">
-            <h5 class="alert-heading"><i class="bi bi-exclamation-triangle-fill"></i> Case Summary: Extreme ADA Violation</h5>
-            <p class="mb-2"><strong>Key Violation:</strong> 1,340 days (3.7 years) of ignoring reasonable accommodation request - one of the most extreme ADA violations on record</p>
+        <div class="alert alert-danger" style="background: #f8d7da; border: 2px solid #dc3545;">
+            <h5 class="alert-heading"><i class="bi bi-info-circle"></i> Case Findings Summary</h5>
+            <p class="mb-2" id="primaryFinding">Key finding will load…</p>
             <hr>
-            <div class="row">
-                <div class="col-md-3">
-                    <strong>Liability:</strong> 99%+ certainty (automatic)
-                </div>
-                <div class="col-md-3">
-                    <strong>Settlement Value:</strong> $800K-$1.2M
-                </div>
-                <div class="col-md-3">
-                    <strong>Key Actors:</strong> 13 individuals
-                </div>
-                <div class="col-md-3">
-                    <strong>Evidence:</strong> 450 documents
-                </div>
-            </div>
+            <div id="violationBadges" class="mt-2"></div>
         </div>
     </div>
 
     <div class="stats-grid">
         <div class="stat-card danger">
-            <div class="stat-number">$2.27M</div>
-            <div class="stat-label">Total Damages</div>
+            <div class="stat-number" id="exposureLow">–</div>
+            <div class="stat-label">Total Exposure</div>
+        </div>
+        
+        <div class="stat-card danger">
+            <div class="stat-number" id="retaliationDays">–</div>
+            <div class="stat-label">To Retaliation</div>
         </div>
         
         <div class="stat-card warning">
-            <div class="stat-number">1,340</div>
-            <div class="stat-label">Days Violated</div>
+            <div class="stat-number">Criminal</div>
+            <div class="stat-label">HIPAA Violations</div>
         </div>
         
         <div class="stat-card info">
-            <div class="stat-number">76</div>
-            <div class="stat-label">Total Violations</div>
-        </div>
-        
-        <div class="stat-card success">
-            <div class="stat-number">450</div>
-            <div class="stat-label">Documents Indexed</div>
+            <div class="stat-number">Age 74</div>
+            <div class="stat-label">At Termination</div>
         </div>
     </div>
 
@@ -499,6 +488,23 @@
                 <div class="tool-name">Legal Authority Tool</div>
                 <small class="text-muted">15+ statutes cited</small>
             </div>
+            
+            <!-- Secondary tools (ADR / AJ / Trial) -->
+            <div class="tool-card secondary" onclick="window.open('ADR_MEDIATION_PORTAL.html','_blank')">
+                <i class="bi bi-people-fill tool-icon"></i>
+                <div class="tool-name">ADR Portal</div>
+                <small class="text-muted">Alternative Dispute Resolution</small>
+            </div>
+            <div class="tool-card secondary" onclick="window.open('ADMINISTRATIVE_HEARING_PORTAL.html','_blank')">
+                <i class="bi bi-gavel tool-icon"></i>
+                <div class="tool-name">AJ Portal</div>
+                <small class="text-muted">EEOC Administrative Judge</small>
+            </div>
+            <div class="tool-card secondary" onclick="window.open('FEDERAL_LAWSUIT_PORTAL.html','_blank')">
+                <i class="bi bi-bank tool-icon"></i>
+                <div class="tool-name">Trial Portal</div>
+                <small class="text-muted">Federal District Court</small>
+            </div>
         </div>
     </section>
 
@@ -561,22 +567,22 @@
             
             <div class="link-group">
                 <h4>Key Evidence & Violations</h4>
-                <a href="email_index_HS-FEMA-02430-2024.html">
+                <a href="email_index_HS-FEMA-02430-2024.html#hipaa">
                     <i class="bi bi-exclamation-triangle"></i> 1,340-Day RA Delay
                 </a>
-                <a href="#">
+                <a href="CASE_VIOLATIONS_SUMMARY.html#hurricane-damage">
                     <i class="bi bi-shield-exclamation"></i> HIPAA Breach (Jul 10, 2024)
                 </a>
                 <a href="#">
                     <i class="bi bi-cash-stack"></i> $15,000 Hurricane Damage
                 </a>
-                <a href="#">
+                <a href="paradocs_master_timeline_enhanced.html#retaliation-17">
                     <i class="bi bi-clock-history"></i> 17-Day Retaliation
                 </a>
-                <a href="#">
+                <a href="CASE_VIOLATIONS_SUMMARY.html#zero-interactive">
                     <i class="bi bi-x-circle"></i> Zero Interactive Process
                 </a>
-                <a href="#">
+                <a href="CASE_VIOLATIONS_SUMMARY.html#key-actors">
                     <i class="bi bi-person-x"></i> 13 Key Actors Identified
                 </a>
             </div>
@@ -609,59 +615,158 @@
         <p>ParaDocs Case Management System &copy; 2025 | Case: HS-FEMA-02430-2024 | Max J. Meindl vs FEMA Region 6</p>
     </footer>
 
+    <!-- Search Results Modal -->
+    <div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg modal-dialog-scrollable">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="searchModalLabel">Search Results</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body" id="searchResultsBody">
+            <p class="text-muted">Type at least 2 characters to search…</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <script>
-        // Search functionality
-        document.getElementById('masterSearch').addEventListener('input', function(e) {
-            const searchTerm = e.target.value.toLowerCase();
-            
-            // Define searchable items with all dashboards
-            const searchableItems = [
-                // Dashboards
-                { term: 'legal strategy', url: 'paradocs_legal_strategy_dashboard.html' },
-                { term: 'timeline', url: 'paradocs_master_timeline_enhanced.html' },
-                { term: 'investigation', url: 'paradocs_comprehensive_eeo_investigation.html' },
-                { term: 'dashboard', url: 'paradocs_master_dashboard.html' },
-                { term: 'analysis', url: 'paradocs-enhanced.html' },
-                { term: 'emails', url: 'email_index_HS-FEMA-02430-2024.html' },
-                { term: 'documents', url: 'paradocs-index.html' },
-                
-                // Key topics
-                { term: 'violations', url: 'paradocs_comprehensive_eeo_investigation.html' },
-                { term: 'damages', url: 'paradocs-enhanced.html' },
-                { term: 'questions', url: 'eeo_investigation_questions.csv' },
-                { term: '1340', url: 'email_index_HS-FEMA-02430-2024.html' },
-                { term: 'accommodation', url: 'email_index_HS-FEMA-02430-2024.html' },
-                { term: 'retaliation', url: 'paradocs_comprehensive_eeo_investigation.html' },
-                { term: 'federal', url: 'paradocs_legal_strategy_dashboard.html' },
-                
-                // Data files
-                { term: 'csv', url: 'evidence_index_HS-FEMA-02430-2024.csv' },
-                { term: 'json', url: 'paradocs_case_analysis_complete.json' },
-                { term: 'evidence', url: 'evidence_index_HS-FEMA-02430-2024.csv' }
-            ];
-            
-            // Find matching item and redirect
-            if (searchTerm.length > 2) {
-                const match = searchableItems.find(item => item.term.includes(searchTerm));
-                if (match && e.key === 'Enter') {
-                    window.open(match.url, '_blank');
+        // ---------------------------------------------
+        // Dynamic Search (keyword_index.json)
+        // ---------------------------------------------
+        let keywordIndex = [];
+        const searchInput = document.getElementById('masterSearch');
+        const searchModal = new bootstrap.Modal(document.getElementById('searchModal'));
+        const resultsBody = document.getElementById('searchResultsBody');
+        const searchStatus = document.getElementById('searchStatus');
+
+        function renderResults(term) {
+            const lower = term.toLowerCase();
+            const matches = keywordIndex.filter(k => k.keyword.includes(lower)).slice(0, 50);
+            if (!matches.length) {
+                resultsBody.innerHTML = `<p class="text-danger">No results for "${term}"</p>`;
+                return;
+            }
+            let html = `<p class="text-muted">Top ${matches.length} results for <strong>${term}</strong> (click to open)</p><ul class="list-group">`;
+            matches.forEach(m => {
+                const doc = m.documents[0];
+                html += `<li class="list-group-item list-group-item-action" onclick="window.open('${doc}','_blank')">${doc} <span class="badge bg-secondary float-end">${m.documents.length}</span></li>`;
+            });
+            html += '</ul>';
+            resultsBody.innerHTML = html;
+        }
+
+        searchInput.addEventListener('input', (e) => {
+            const term = e.target.value.trim();
+            if (term.length > 2) {
+                renderResults(term);
+                searchModal.show();
+            }
+        });
+        // Press Enter opens first match
+        searchInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                const term = e.target.value.trim();
+                if (term.length > 2 && keywordIndex.length) {
+                    const first = keywordIndex.find(k => k.keyword.includes(term.toLowerCase()));
+                    if (first && first.documents.length) {
+                        window.open(first.documents[0], '_blank');
+                    }
                 }
             }
         });
-        
-        // Animate stats on load
-        window.addEventListener('load', function() {
-            const statNumbers = document.querySelectorAll('.stat-number');
-            statNumbers.forEach(stat => {
-                stat.style.opacity = '0';
-                stat.style.transform = 'translateY(20px)';
-                setTimeout(() => {
-                    stat.style.transition = 'all 0.6s ease';
-                    stat.style.opacity = '1';
-                    stat.style.transform = 'translateY(0)';
-                }, 100);
+
+        fetch('search_index/keyword_index.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status} - ${response.statusText}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                keywordIndex = data;
+                if (data && data.length > 0) {
+                    searchStatus.textContent = `Search ready (${data.length} keywords indexed).`;
+                    searchStatus.className = 'form-text text-success text-center mt-1';
+                } else {
+                    searchStatus.textContent = 'Search index is empty. Run data processing pipeline.';
+                    searchStatus.className = 'form-text text-warning text-center mt-1';
+                    keywordIndex = []; // Ensure it's an empty array
+                }
+            })
+            .catch(error => {
+                console.error('Failed to load keyword_index.json:', error);
+                keywordIndex = [];
+                searchStatus.textContent = 'Search index not found or error loading. Run data processing pipeline.';
+                searchStatus.className = 'form-text text-danger text-center mt-1';
             });
-        });
+
+        fetch('search_index/summary_metrics.json').then(r=>r.json()).then(sm=>{
+            document.getElementById('totalDocs')?.textContent = sm.total_documents;
+            if (sm.violations && sm.violations.length) {
+                const topList = sm.violations.slice(0, 3).map(v => {
+                    const href = v.first_doc || '#';
+                    return `<a href="${href}" target="_blank">${v.violation}</a> (<em>${v.docs} docs</em>)`;
+                }).join(' | ');
+                const summaryText = `<strong>Key Violations/Injuries:</strong> ${topList}`;
+                document.getElementById('primaryFinding').innerHTML = summaryText;
+                const container = document.getElementById('violationBadges');
+                container.innerHTML = '';
+                sm.violations.slice(0, 8).forEach((v, idx) => {
+                    // Create dropdown wrapper
+                    const wrapper = document.createElement('div');
+                    wrapper.className = 'dropdown d-inline-block me-1 mb-1';
+
+                    // Toggle badge
+                    const toggle = document.createElement('a');
+                    toggle.href = '#';
+                    toggle.className = (idx < 3 ? 'badge bg-danger' : 'badge bg-secondary') + ' dropdown-toggle';
+                    toggle.setAttribute('role', 'button');
+                    toggle.setAttribute('data-bs-toggle', 'dropdown');
+                    toggle.setAttribute('aria-expanded', 'false');
+                    toggle.textContent = `${idx + 1}. ${v.violation}`;
+                    wrapper.appendChild(toggle);
+
+                    // Dropdown menu
+                    const menu = document.createElement('ul');
+                    menu.className = 'dropdown-menu';
+                    if (v.doc_paths && v.doc_paths.length) {
+                        v.doc_paths.forEach(p => {
+                            const li = document.createElement('li');
+                            const a = document.createElement('a');
+                            a.className = 'dropdown-item';
+                            a.href = p;
+                            a.target = '_blank';
+                            a.textContent = p.split('/').pop();
+                            li.appendChild(a);
+                            menu.appendChild(li);
+                        });
+                    } else if (v.first_doc) {
+                        const li = document.createElement('li');
+                        const a = document.createElement('a');
+                        a.className = 'dropdown-item';
+                        a.href = v.first_doc;
+                        a.target = '_blank';
+                        a.textContent = v.first_doc.split('/').pop();
+                        li.appendChild(a);
+                        menu.appendChild(li);
+                    } else {
+                        const li = document.createElement('li');
+                        li.innerHTML = '<span class="dropdown-item text-muted">No docs</span>';
+                        menu.appendChild(li);
+                    }
+                    wrapper.appendChild(menu);
+
+                    container.appendChild(wrapper);
+                });
+            }
+            if (sm.exposure_low) {
+                document.getElementById('exposureLow').textContent = `$${(sm.exposure_low / 1e6).toFixed(2)}M`;
+            }
+            if (sm.retaliation_days && sm.retaliation_days !== 'N/A') {
+                document.getElementById('retaliationDays').textContent = `${sm.retaliation_days} Days`;
+            }
+        }).catch(()=>{});
     </script>
 </body>
 </html> 

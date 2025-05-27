@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-[Compare Report] 06-22-RA POLICY-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "[Compare Report] 06-22-RA POLICY.pdf",
+    "file_size": 2933316,
+    "file_hash": "6bc7eb4fe5c2eaac221e0a2d9c9dc8d8a474eb33852f60f3105e7fc6409ad5d5",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:21.348904",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:21.348904",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "EEOC-Federal Complaints Dashboard Instruction Manual Draft-Final-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Federal Complaints Dashboard Instruction Manual Draft-Final.pdf",
+    "file_size": 1243566,
+    "file_hash": "624b9ccd397df1461ee2ce482246d34272a8f34fe849b647de9aab3f6a1b1bcd",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:21.659384",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:21.659384",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

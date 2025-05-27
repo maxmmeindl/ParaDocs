@@ -1,0 +1,1047 @@
+OPM-VI-I-1 
+
+A Guide to Telework in the Federal Government 
+
+Introduction 
+
+Late 20th-century technology revolutionized the workplace, and the 21st-century workplace is 
+evolving even further.  Computers, remote connectivity, voice and electronic communications, 
+paperless work processes, and other innovations make information and work increasingly 
+mobile.   
+
+Such innovations help the Federal Government, as the Nation’s largest employer, serve the 
+needs of the American public more efficiently and effectively.  Federal employees have used 
+mobile work technology for a long time.  In recent years, telework has become increasingly 
+widespread and formalized, with legislative mandates as well as new programmatic and policy 
+supports and structures. 
+
+The Office of Personnel Management defines telework as “work arrangements in which an 
+employee regularly performs officially assigned duties at home or other worksites geographically 
+convenient to the residence of the employee.”  Telework is simply a way of getting work done 
+from a different location.  It can serve multiple purposes – and have multiple benefits – when it 
+is implemented effectively in an organization. 
+
+For Federal agencies, telework is of particular interest for its benefits in the following areas: 
+
+•  Recruiting and retaining the best possible workforce - particularly newer workers who 
+
+have high expectations of a technologically forward-thinking workplace and any worker 
+who values work/life balance 
+
+•  Helping employees manage long commutes and other work/life issues that, if not 
+
+addressed, can have a negative impact on their effectiveness or lead to employees 
+leaving Federal employment 
+
+•  Reducing traffic congestion, emissions, and infrastructure impact in urban areas, thereby 
+
+improving the environment 
+
+•  Saving taxpayer dollars by decreasing Government real estate costs 
+•  Ensuring continuity of essential Government functions in the event of national or local 
+
+emergencies 
+
+This guide is intended to help Federal managers and employees understand how to make 
+telework a routine part of doing business, as well as how to integrate telework into emergency 
+planning.  
+
+Legislative Background 
+
+For over a decade, laws addressing telework (under various names – “work at home,” “flexible 
+work,” “telecommuting,” etc.) have been in effect for Federal employees.  The main legislative 
+mandate for telework was established in 2000 (§ 359 of Public Law 106-346).  This law states 
+that “[e]ach executive agency shall establish a policy under which eligible employees of the 
+agency may participate in telecommuting to the maximum extent possible without diminished 
+employee performance.”  Associated language in the conference report for this legislation 
+expanded on that requirement:   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPM-VI-I-2 
+
+Each agency participating in the program shall develop criteria to be used in 
+implementing such a policy and ensure that managerial, logistical, organizational, 
+or other barriers to full implementation and successful functioning of the policy 
+are removed.  Each agency should also provide for adequate administrative, 
+human resources, technical, and logistical support for carrying out the policy. 
+
+Further legislation (Public Law 108-199, Division B, § 627 of January 23, 2004, and Public Law 
+108-447, Division B, § 622 of December 8, 2004) followed this mandate with directives to 
+certain agencies to increase telework participation in the workforce by specified amounts. 
+
+As part of this congressional mandate, OPM began to survey Federal agencies about telework 
+in 2000.  This Call for Telework Data collects information about agency programs and 
+participation rates. 
+
+Joint OPM/GSA Support 
+
+OPM and the General Services Administration (GSA) work together to support telework in 
+Federal agencies.  The joint OPM/GSA Website www.telework.gov provides information to 
+agencies, managers, and employees about how to effectively implement telework programs and 
+arrangements.  OPM and GSA also work directly with telework coordinators in each agency to 
+provide guidance and assistance. 
+
+Definitions/Types of Telework 
+
+The terms “telework,” “telecommuting,” “flexible workplace,”  “remote work,” “virtual work,” and 
+“mobile work” are all used to refer to work done outside of the traditional on-site work 
+environment.  These terms are defined in different ways and used in different contexts to refer 
+to anything from jobs that are completely “virtual” or “mobile,” to arrangements that enable 
+employees to work from home a few days per week or per month. 
+
+OPM uses the term “telework” for reporting purposes and for all other activities related to policy 
+and legislation.  OPM defines telework as “work arrangements in which an employee regularly 
+performs officially assigned duties at home or other work sites geographically convenient to the 
+residence of the employee.”   
+
+Telework arrangements in the Federal Government are most often part-time rather than full-
+time, although full-time telework does exist.  Agencies may, at their own discretion, define and 
+use the types of telework that best fit their business needs.  However, for purposes of reporting 
+and judging progress towards meeting the legislative mandate, OPM will count employees 
+whose telework frequency is in one of the following categories only: 
+
+•  Regular/recurring at least 3 days per week 
+•  1 or 2 days per week 
+•  Less often than once a week, but at least once a month 
+
+As defined by OPM, telework is not— 
+
+•  Work extension:  Many employees take work home with them.  This is remote work, but 
+
+it is not considered telework within the scope of the legislation. 
+
+•  Mobile work:  Some agencies have employees who, by the nature of their jobs, are 
+
+generally off-site, and may even use their home as their “home base.”  Because their 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPM-VI-I-3 
+
+work requires this setup and they travel much of the time, they are not considered 
+teleworkers.  This is different from “hoteling” arrangements, in which frequent 
+teleworkers use shared space when they are on-site. 
+
+Telework is not an employee right.  Federal law requires agencies to have telework programs, 
+but does not give individual employees a legal right to telework. 
+
+Sustaining a Successful Telework Program –  
+A Manager’s Perspective 
+
+What’s in it for me? 
+
+Compliance with the Mandate 
+
+As described in Legislative Background, telework should be implemented to the maximum 
+extent possible. 
+
+Human Capital Management Tool 
+
+Telework, like other flexibilities, can assist managers in attracting, recruiting, and retaining the 
+best possible workforce.  In addition, by decreasing employee commute times and other 
+work/life stressors, telework can help make employees more effective in their jobs.  Telework 
+may also be used as a reasonable accommodation for disability. 
+
+Emergency Response 
+
+Integrating work fully into an organization’s operations and culture can help maintain critical 
+functionality in the event of an emergency.  
+
+The Basics 
+
+Know Your Telework Coordinator 
+
+Each agency should designate a telework coordinator who acts as the key contact for policy and 
+program questions.  Managers should maintain frequent contact with their telework coordinator 
+to ensure the agency’s policy and procedures are properly applied and to ensure they are aware 
+of the full range of support and resources available to them. 
+
+Know Your Policy and Procedures 
+
+As detailed in §359 of Public Law 106-346, all agencies must have a telework policy.  Managers 
+should familiarize themselves and their employees with their agency’s policy to ensure they are 
+in compliance with its requirements.  Most agency policies will include additional procedures for 
+establishing telework agreements, obtaining equipment, etc.  
+
+In addition, all agencies should have policies on information systems and technology security 
+(see Security), and managers must ensure their equipment choices and telework agreements 
+comply with this policy.  Information security includes protection of sensitive “hard-copy” files 
+and documents. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+OPM-VI-I-4 
+
+Participate in Training 
+
+OPM offers online telework training for employees and managers, which can be accessed via 
+the joint OPM/GSA Website http://telework.gov/tools_and_resources/training/index.aspx.  In 
+addition, many agencies offer telework training, and telework coordinators are available to 
+consult with managers.  
+
+Information technology security training, administered at the agency level, is mandatory (see 
+Security), and managers must ensure teleworkers complete this training and understand their 
+responsibilities in safeguarding work-related information. 
+
+How To Be an Effective Telework Manager 
+
+To comply with the legislation, managers must be committed to using telework to the fullest 
+extent possible.  Beyond the basic requirements outlined above, managerial skill, participation, 
+and support can make telework a real asset to an organization.  To effectively implement a 
+telework program, managers should accomplish the following: 
+
+Determine Employee Eligibility 
+
+Generally, agencies have discretion to determine telework eligibility criteria for their employees.  
+These criteria should be detailed in agency policy.  Individual managers should assess who is 
+and who is not eligible in their workgroup based on these eligibility guidelines and any 
+applicable collective bargaining agreements.  Some agencies may provide managers additional 
+discretion in deciding whether to grant or deny a request to telework from an eligible employee, 
+based on additional factors such as staffing or budget. 
+
+All employees are considered eligible for telework except the following:  
+
+•  Employees whose positions require, on a daily basis (i.e., every work day), direct 
+
+handling of secure materials or on-site activity that cannot be handled remotely or at 
+an alternative worksite, such as face-to-face personal contact in some medical, 
+counseling, or similar services; hands-on contact with machinery, equipment, vehicles, 
+etc.; or other physical presence/site dependent activity, such as forest ranger or guard 
+duty tasks; and 
+
+•  Employees whose last performance rating of record (or its equivalent) is below fully 
+
+successful (or the agency’s equivalent) or whose conduct has resulted in disciplinary 
+action within the last year.  (NOTE:  Agencies may require a rating of record higher than 
+fully successful for eligibility, but must still report as eligible all employees rated fully 
+successful or higher.) 
+
+Understand and Assess the Needs of the Workgroup 
+
+Telework is often implemented piecemeal, rather than strategically, as individuals request 
+arrangements.  This reactive approach carries the risk of raising fairness issues, with decisions 
+about telework arrangements being made on a first-come, first-served basis.  Telework should 
+be implemented strategically, taking into account the needs and work of the group, rather than 
+granting or denying telework requests one by one.  Employees should participate in the process 
+and may be asked to help formulate possible solutions to issues that may arise. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPM-VI-I-5 
+
+Create Signed Agreements 
+
+The teleworker and his or her manager should enter into a written agreement for every type of 
+telework, whether the employee teleworks regularly or not.  The parameters of this agreement 
+are most often laid out by the agency policy and/or collective bargaining agreement, but should 
+include certain key elements (see How To Be an Effective Teleworker).  Most importantly, the 
+agreement should be signed and dated by the manager.  Managers should keep copies of all 
+telework agreements on file.  
+
+Telework agreements are living documents and should be revisited by the manager and 
+teleworker and re-signed regularly, preferably at least once a year.  At a minimum, new telework 
+agreements should be executed when a new employee/manager relationship is established. 
+
+OPM strongly recommends any individuals asked to telework in the case of a Continuity of 
+Operations (COOP) event or a pandemic health crisis have a telework agreement in place that 
+provides for such an occurrence.  Such individuals also should practice teleworking on a regular 
+basis as much as possible. 
+
+Base Denials on Business Reasons 
+
+Telework requests may be denied and telework agreements may be terminated.  Telework is 
+not an employee right, even if the employee is considered “eligible” by OPM standards and/or 
+the individual agency standards.   
+
+Denial and termination decisions must be based on business needs or performance, not 
+personal reasons.  For example, a manager may deny a telework agreement if, due to staffing 
+issues, an employee who otherwise has portable duties must provide on-site office coverage.  In 
+this case, and whenever applicable, the denial or termination should include information about 
+when the employee might reapply, and also if applicable, what actions the employee should 
+take to improve his or her chance of approval.  Denials should be provided in a timely manner.  
+Managers should also review the agency’s negotiated agreement(s) and telework policy to 
+ensure they meet any applicable requirements. 
+
+Managers should provide affected employees (and keep copies of) signed written denials or 
+terminations of telework agreements.  These should include information about why the 
+arrangement was denied or terminated.  OPM tracks the numbers of agreements denied and/or 
+terminated, as well as the reasons for such an action; therefore, copies should be given to the 
+agency telework coordinator as well. 
+
+Bargaining unit employees may file a grievance about the denial or cancellation of a telework 
+agreement through the negotiated grievance procedure.   
+
+Use Good Performance Management Practices 
+
+Managers often ask, “How do I know what my employees are doing when I can’t see them?”  
+Performance standards for off-site employees are the same as performance standards for on-
+site employees.  Management expectations of a teleworker’s performance should be clearly 
+addressed in the telework agreement.  As with on-site employees, teleworkers must, and can, 
+be held accountable for the results they produce.  Good performance management techniques 
+practiced by a manager will mean a smooth, easy transition to a telework environment.  
+Resources for performance management are available from OPM at www.opm.gov/perform.   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPM-VI-I-6 
+
+Communicate Expectations  
+
+The telework agreement (see How To Be an Effective Teleworker for key elements) provides 
+a framework for the discussion that needs to take place between the manager and the 
+employee about expectations.  For both routine and emergency telework, this discussion is 
+important to ensure the manager and the employee understand each other’s expectations 
+around basic issues such as the following: 
+
+•  How will the manager know the employee is present?  (Signing in, signing off 
+
+procedures may be needed.) 
+
+•  How will the manager know the work is being accomplished? 
+•  What technologies will be used to maintain contact? 
+•  What equipment is the agency providing?  What equipment is the teleworker providing?  
+•  Who provides technical assistance in the event of equipment disruption? 
+•  What will the weekly/monthly telework schedule be?  How will the manager and co-
+
+workers be kept updated about the schedule?  Do changes need to be pre-approved? 
+
+•  What will the daily telework schedule be?  Will the hours be the same as in the main 
+
+office, or will they be different? 
+
+•  What are the physical attributes of the telework office, and do they conform to basic 
+
+safety standards?  (Use a safety checklist.) 
+
+•  What are the expectations for availability (phone, e-mail, etc.)? 
+•  What is the expectation regarding the amount of notice (if any) given for reporting to the 
+
+official worksite, and how will such notice be provided? 
+
+•  How is a telework agreement terminated by management or an employee? 
+
+Facilitate Communication With All Members of the Workgroup 
+
+Teleworking and non-teleworking employees must understand expectations regarding telework 
+arrangements, including coverage, communication, and responsibilities.  Although individual 
+teleworkers must take responsibility for their own availability and information sharing, managers 
+should ensure methods are in place to maintain open communication across the members of a 
+workgroup. 
+
+Remain Equitable in Assigning Work and Rewarding Performance 
+
+Managers should avoid distributing work based on “availability” as measured by physical 
+presence, and avoid the pitfall of assuming someone who is present and looks busy is actually 
+accomplishing more work than someone who is not on-site.  Good performance management 
+practices are essential for telework to work effectively and equitably. 
+
+Make Good Decisions About Equipment 
+
+In Federal Management Regulation (FMR) Bulletin 2006-B3, Guidelines for Alternative 
+Workplace Arrangements (a link is available at www.telework.gov ), GSA provides guidelines for 
+the equipment and support an agency may provide teleworkers.  Generally, decisions are made 
+by the agency or by individual managers regarding the ways in which teleworkers should be 
+equipped.  Managers should familiarize themselves with these guidelines and also with their 
+agency’s policy on equipment.  Within those constraints, the challenge for managers is finding 
+the right balance of budget, security, and effectiveness.  Factors to consider include technology 
+needs based on the work of the employee, agency security requirements, and budget 
+constraints.  
+
+ 
+ 
+ 
+ 
+ 
+OPM-VI-I-7 
+
+Practice, Practice, Practice   
+
+The success of an organization’s telework program depends on regular, routine use.  
+Experience is the only way to enable managers, employees, IT support, and other stakeholders 
+to work through any technology, equipment, communications, workflow, and associated issues 
+that may inhibit the transparency of remote work.  Individuals expected to telework in an 
+emergency situation should, with some frequency, telework under non-emergency 
+circumstances as well. 
+
+The Bottom Line 
+
+Managers MUST— 
+
+Implement routine telework in their organization to the fullest extent possible  
+• 
+•  Treat employees equitably and fairly in implementing telework in their organization 
+• 
+• 
+
+Identify eligible and ineligible employees using established agency criteria 
+Include telework in COOP and other emergency response planning 
+
+Managers MAY NOT— 
+
+•  Under normal circumstances, require that an employee work from home 
+•  Terminate a telework agreement for reasons other than business or performance  
+
+reasons 
+
+Managers MAY— 
+
+•  Require an employee to work at an alternative worksite (e.g., a telework center) within 
+
+the employee’s commuting area 
+
+•  Terminate a telework agreement for business reasons, e.g., an employee’s poor 
+
+performance or a change in the nature of the work 
+
+Sustaining a Successful Telework Arrangement –  
+An Employee’s Perspective 
+
+What’s in it for me? 
+
+Work/life Balance 
+
+Telework gives employees more flexibility in meeting personal and professional responsibilities.  
+
+Stress Reduction 
+
+Telework can help make life less stressful overall by reducing commuting time and adding to 
+discretionary time, thus reducing commuting stress. 
+
+Freedom From Office Distractions 
+
+Offices can be busy places, especially in environments where employees work in cubicles.  
+Distractions are plentiful.  Many employees find they are able to focus and be more productive 
+when they telework. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPM-VI-I-8 
+
+Engagement 
+
+When employees feel they have greater control over their work, they tend to feel more 
+committed to their organizations.   
+
+The Basics 
+
+Know Your Telework Coordinator 
+
+All agencies must designate a telework coordinator who acts as the key contact for policy and 
+program questions.  Employees should maintain contact with their telework coordinator for 
+support and assistance as well as to ensure they follow the agency’s policy and procedures.   
+
+Know Your Agency’s Policy and Procedures 
+
+As required by Public Law 106-346, § 359, all agencies must have a telework policy.  
+Employees should familiarize themselves with this policy to ensure they are in compliance with 
+its requirements.  Most agency policies will include procedures to be followed for establishing 
+telework arrangements, obtaining equipment, etc.  
+
+In addition, employees need to work with their managers and information technology (IT) 
+support to ensure their equipment choices and telework agreements comply with their agency’s 
+policy on information systems and technology security (see Security).  This includes the 
+protection of sensitive files and documents needed for work. 
+
+Participate in Training 
+
+OPM offers online teleworker training, which can be accessed via the joint OPM/GSA Website 
+at http://telework.gov/tools_and_resources/training/index.aspx.  In addition, many agencies offer 
+various types of training.  Some training may be required for participation in a telework program. 
+
+Information technology security training, administered at the agency level, is mandatory (see 
+Security).  Teleworkers must complete this training and understand their responsibilities in 
+safeguarding work-related information. 
+
+How To Be an Effective Teleworker 
+
+Conduct an Honest Self-Assessment 
+
+A successful telework arrangement starts with a good self-assessment.  Employees should 
+consider the following factors in making an honest determination about their telework 
+capabilities: 
+
+•  Sufficient portable work for the amount of telework being proposed 
+•  Ability to work independently, without close supervision 
+•  Comfort with the technologies, if any, needed to telework 
+•  Good communication with manager, co-workers, and customers that will enable a 
+
+relatively seamless transition from on-site to off-site 
+
+•  Telework office space conducive to getting the work done 
+•  Dependent care (i.e., child care, elder care, or care of any other dependent adults) 
+
+arrangements in place 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPM-VI-I-9 
+
+•  Ability to be flexible about the telework arrangement to respond to the needs of the 
+
+manager, the workgroup, and the workload 
+
+Create a Good Telework Agreement 
+
+A successful telework arrangement also requires a strong foundation.  No matter how frequently 
+or infrequently an employee intends to telework, a written agreement should be executed 
+between the employee and manager.  Elements of this agreement should include the following: 
+
+•  Location of the telework office (e.g., home, telework center, other) 
+•  Equipment inventory – what the employee is supplying, what the agency is providing, 
+
+and if applicable, what the telework center is providing 
+In general, the job tasks to be performed while teleworking 
+
+• 
+•  Telework schedule 
+•  Telework contact information (e.g., the phone number to use on the telework day) 
+•  Safety checklist – certifying the home office meets certain standards (see Safety) 
+•  Expectations for emergency telework (specify whether the employee is expected to 
+telework in the case of a COOP event, pandemic health crisis, shutdown of agency 
+operations, etc.) 
+
+Telework agreements need to be updated as circumstances change (e.g., if the telework 
+schedule changes).  The manager and teleworker should work together to evaluate the 
+arrangement periodically, make changes in the agreement as necessary, and re-sign the 
+document.  In the first year this may happen within a few months; thereafter, perhaps annually. 
+
+Safeguard Information and Data 
+
+Employees must take responsibility for the security of the data and other information they 
+handle while teleworking, as described in Security.  Employees should— 
+
+•  Be familiar with, understand, and comply with their agency’s information security 
+
+policies; 
+
+•  Participate in agency information security training; and 
+•  Maintain security of any relevant materials, including files, correspondence, and 
+
+equipment, in addition to following security protocols for remote connectivity.  Depending 
+on the sensitivity of the information being handled, the home office may need to include 
+security measures such as locked file cabinets, similar to what may be used in the 
+worksite 
+
+Plan the Work 
+
+Employees who telework should assess the portability of their work and the level of technology 
+available at the remote site as they prepare to telework.  Employees will need to plan their 
+telework days to be as productive as possible by considering the following questions: 
+
+•  What files or other documents will I need to take with me when I leave my regular 
+
+workplace the day before teleworking? 
+
+•  What equipment will I need to take? 
+•  Who needs to be notified that I will be teleworking? 
+•  What other steps should I take before I leave my office? (e.g., forwarding the phone) 
+• 
+
+In the case of emergency telework, what should I have available at all times at my home 
+office or, if applicable, a telework center, to enable me to be functional without coming 
+on-site to retrieve materials? 
+
+ 
+ 
+ 
+ 
+ 
+OPM-VI-I-10 
+
+Manage Expectations and Communication 
+
+Managers are ultimately responsible for the effective functioning of the workgroup.  
+Nevertheless, teleworkers should help manage the group’s expectations and their own 
+communication in order to avoid any negative impact from their arrangement.  Issues that 
+should be addressed include the following: 
+
+•  Backup:  Even with very portable work there are inevitably instances where physical 
+
+presence is required and a co-worker may need to step in.  Co-worker backup should be 
+planned, it should not be onerous, and it should be reciprocal.  Cross-training of staff has 
+broad organizational benefits and should be a management priority.   
+
+•  On-the-spot assistance:  Teleworkers may occasionally need someone who is physically 
+in the main office to assist them (e.g., to fax a document or look up information).  Again, 
+these arrangements should not be unduly burdensome; a “buddy system” between 
+teleworkers may be the least disruptive solution. 
+
+•  Communication with manager:  The manager must be kept apprised of the teleworker’s 
+schedule, how to make contact with the teleworker, and the status of all pending work. 
+•  Communication with co-workers:  Co-workers must be informed about the appropriate 
+
+handling of telephone calls or other communications that are the teleworker’s 
+responsibility. 
+
+The Bottom Line 
+
+Teleworkers MUST— 
+
+•  Comply with the security and telework policies of their agency 
+•  Take responsibility for ensuring the success of their arrangement 
+•  Notify the manager of any changes in their situation that may affect the arrangement 
+
+Teleworkers MAY NOT— 
+
+•  Assume a telework arrangement is permanent 
+•  Use telework as a substitute for child or other dependent care 
+
+Teleworkers MAY— 
+
+•  Use appropriate grievance procedures if they believe their telework request or 
+
+agreement was wrongfully denied or terminated.  Telework requests or agreements may 
+be denied or terminated only for business reasons, and managers must provide written 
+justification to the affected employee. 
+
+Safety 
+
+Teleworkers must address issues of their own personal safety to be effective while teleworking 
+from a home office.  This is not an issue in telework centers, where appropriate workstations are 
+provided. 
+
+Government employees causing or suffering work-related injuries and/or damages at the 
+alternative worksite (home, telework center, or other location) are covered by the Military 
+Personnel and Civilian Employees Claims Act, the Federal Tort Claims Act, or the Federal 
+Employees' Compensation Act (workers' compensation), as appropriate. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPM-VI-I-11 
+
+Manager Safety Responsibilities 
+
+•  Review safety checklist with teleworker. 
+•  Depending on agency policy, managers may have the authority to visit home offices, 
+
+with advance notice to the teleworker. 
+
+Teleworker Safety Responsibilities (for home-based telework) 
+
+•  Provide appropriate telework space, with ergonomically correct chair, desk, and 
+
+computer equipment. 
+
+•  Complete safety checklist certifying the space is free from hazards.  This checklist is not 
+
+• 
+
+legally binding, but details management expectations and, if signed, assumes 
+compliance. 
+Immediately report any work-related accident occurring at the telework site and provide 
+the supervisor with all medical documentation related to the accident.  It may be 
+necessary for an agency representative to access the home office to investigate the 
+report. 
+
+Security 
+
+(Note:  This guidance is subject to change to incorporate pertinent information from the June 23, 
+2006, Office of Management and Budget (OMB) memo, “Protection of Sensitive Agency 
+Information” http://www.whitehouse.gov/omb/memoranda/fy2006/m06-16.pdf.) 
+
+Federal employees and their managers are responsible for the security of Federal Government 
+property and information, regardless of their work location.  Agency security policies do not 
+change and should be enforced at the same rigorous level when employees telework as when 
+they are in the office. 
+
+The Federal Information Security Management Act of 2002 (FISMA) defines information security 
+as protecting information and information systems from unauthorized access, use, disclosure, 
+disruption, modification, or destruction in order to provide— 
+
+(A) integrity, which means guarding against improper information modification or destruction 
+
+and includes ensuring information nonrepudiation and authenticity; 
+
+(B)  confidentiality, which means preserving authorized restrictions on access and disclosure, 
+
+including means for protecting personal privacy and proprietary information; and 
+
+(C) availability, which means ensuring timely and reliable access to and use of information. 
+
+As in the main office, security measures should cover not only information systems and 
+technology, but all aspects of the information systems used by the employee, including paper 
+files, other media, storage devices, and telecommunications equipment (e.g., laptops, PDAs, 
+and cell phones).  Employees who telework from home need to keep Government property and 
+information safe, secure, and separated from their personal property and information.   
+
+Agencies managing or operating records systems are required by the Privacy Act of 1974 and 
+other relevant laws and regulations to issue rules for maintaining the security of information 
+contained in those records, whether the information is maintained in electronic or paper form.  
+Managers and employees must follow these rules whenever they are accessing this information, 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPM-VI-I-12 
+
+whether they are working from home, at another remote location, or at their regular duty station.  
+For example, OPM regulates access and use of Government personnel records as follows: 
+
+Section 293.106(a) of title 5, Code of Federal Regulations, mandates that “[a]ll persons 
+whose official duties require access to and use of personnel records be responsible and 
+accountable for safeguarding those records and for ensuring that the records are 
+secured whenever they are not in use or under the direct control of authorized persons.  
+Generally, personnel records should be held, processed, or stored only where facilities 
+and conditions are adequate to prevent unauthorized access.”   
+
+Under 5 CFR 293.108, “Office and agency employees whose official duties involve 
+personnel records shall be sensitive to individual rights to personal privacy and shall not 
+disclose information from any personnel record unless disclosure is part of their official 
+duties or required by executive order, regulation, or statute (e.g., required by the 
+Freedom of Information Act, 5 U.S.C. 552).”  Also, “[a]ny Office or agency employee who 
+makes a disclosure of personnel records knowing that such disclosure is unauthorized, 
+or otherwise knowingly violates these regulations, shall be subject to disciplinary action 
+and may also be subject to criminal penalties where the records are subject to the 
+Privacy Act (5 U.S.C. 552a).” 
+
+Each Executive agency must develop a Federal information systems security awareness and 
+training plan and provide role-specific security training to employees as required by 5 CFR 
+930.301.  The regulations advise agencies to follow the guidance published by the National 
+Institute of Standards and Technology (NIST). 
+
+NIST publications include Special Publication 800-50, “Building an Information Technology 
+Security Awareness and Training Program,” which provides a blueprint for developing agency-
+specific security awareness and training materials.  NIST advises agencies that users of 
+information systems must— 
+
+•  Understand and comply with agency security policies and procedures; 
+•  Be appropriately trained in the rules of behavior for the systems and applications to 
+
+which they have access; 
+
+•  Work with management to meet training needs; 
+•  Keep software/applications updated with security patches; and 
+•  Be aware of actions they can take to better protect their agency’s information.  These 
+actions include, but are not limited to, proper password usage, data backup, proper 
+antivirus protection, reporting any suspected incidents or violations of security policy, 
+and following rules established to avoid social engineering attacks and rules to deter the 
+spread of spam or viruses and worms. 
+
+Special Publication 800-50 recommends addressing these topics in agency security awareness 
+campaigns.  Other topics may include accessing unknown email and attachments, dealing with 
+spam, protecting against “shoulder surfing (i.e., someone reading a document or a computer 
+screen from behind the user),” physical protection of data (e.g., from water, fire, dust or dirt, 
+physical access), inventory and property transfer, personal use of systems at work and home, 
+use of encryption, transmission of sensitive/confidential information, laptop security, and 
+personally-owned systems and software. 
+
+In Special Publication 800-46, “Security for Telecommuting and Broadband Communications,” 
+NIST helps Federal agencies address security issues by providing recommendations on 
+
+ 
+ 
+ 
+ 
+OPM-VI-I-13 
+
+securing a variety of applications, protocols, and networking architectures to be used by 
+teleworkers.  NIST recommendations encompass the following five security principles: 
+
+•  All home networks connected to the Internet via a broadband connection should have 
+
+some firewall device installed. 
+
+•  Web browsers should be configured to limit vulnerability to intrusion. 
+•  Operating system configuration options should be selected to increase security. 
+•  Selection of wireless and other home networking technologies should be in accordance 
+
+with security goals. 
+
+•  Federal agencies should provide teleworking users with guidance on selecting 
+
+appropriate technologies, software, and tools consistent with the agency network and 
+with agency security policies. 
+
+Complete texts of these and other NIST publications are available at 
+http://csrc.nist.gov/publications/nistpubs/.  
+
+Manager Security Responsibilities 
+
+•  Thoroughly review all telework agreements to ensure they are in compliance with 
+
+agency information security policies. 
+
+•  Ensure employees receive agency information systems security training. 
+•  Work with employees to ensure they fully understand and have the technical expertise to 
+
+comply with agency requirements. 
+Invest in technology and equipment that can support success. 
+
+• 
+•  Work with employees to develop secure systems for potentially sensitive documents and 
+
+other materials. 
+
+•  Track removal and return of potentially sensitive materials, such as personnel records. 
+•  Enforce personal privacy requirements for records. 
+
+Teleworker Security Responsibilities 
+
+•  Participate in agency information systems security training. 
+•  Achieve sufficient technical proficiency to implement the required measures. 
+•  Provide a high level of security to any personal or private information accessed at the 
+
+telework site or transported between locations. 
+
+•  Remain sensitive to individual rights to personal privacy. 
+•  Comply with agency policies and with any additional requirements spelled out in the 
+
+telework agreement. 
+
+Emergency Response Telework:   
+Continuity of Operations (COOP)  
+
+Telework should be part of all agency emergency planning.  Management must be committed to 
+implementing remote work arrangements as broadly as possible to take full advantage of the 
+potential of telework for this purpose and ensure that— 
+
+•  Equipment, technology, and technical support have been tested 
+•  Employees are comfortable with technology and communications methods 
+•  Managers are comfortable managing a distributed workgroup 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPM-VI-I-14 
+
+In addition, agencies and management should consider investing in and using— 
+
+•  Teleconferencing, videoconferencing, and other technologies that enable multi-channel 
+
+communication 
+•  Paperless systems 
+
+Continuity of Operations (COOP) 
+
+The Federal Emergency Management Agency’s Federal Continuity Directive (FDC) 1 defines 
+COOP planning as “an effort within individual agencies to ensure they can continue to perform 
+their Mission Essential Functions (MEFs) and Primary Mission Essential Functions (PMEFs) 
+during a wide range of emergencies, including localized acts of nature, accidents, and 
+technological or attack-related emergencies. 
+
+Telework can play a vital role in helping agencies preserve their essential functionality in this 
+environment. 
+
+Manager COOP Responsibilities 
+
+•  Understand the agency COOP plan and management roles in executing the plan. 
+•  Notify employees designated as essential personnel for COOP. 
+•  Communicate expectations both to COOP and non-COOP employees regarding what 
+
+steps they need to take in case of an emergency. 
+
+•  Establish communication processes to notify COOP and non-COOP employees of 
+
+COOP status in the event of an emergency. 
+Integrate COOP expectations into telework agreements as appropriate. 
+
+• 
+•  Allow essential personnel who might telework in case of an emergency to telework 
+
+regularly to ensure functionality. 
+
+Teleworker COOP Responsibilities 
+
+•  Maintain a current telework agreement detailing any COOP responsibilities, as 
+
+appropriate. 
+
+•  Practice telework regularly to ensure effectiveness. 
+•  Be familiar with agency and workgroup COOP plans and individual expectations during 
+
+COOP events. 
+
+Pandemic 
+
+The National Strategy for Pandemic Influenza Implementation Plan references the benefits of 
+using telework to slow the spread of disease by keeping face-to-face contact to a minimum 
+(often referred to as “social distancing”) while maintaining operations as close to normal as 
+possible.  Telework can also help agencies retain functionality as infrastructure issues and other 
+challenges make the main worksite difficult to access. 
+
+The key to successful use of telework in the event of a pandemic health crisis is an effective 
+routine telework program.  As many employees as possible should have telework capability (i.e., 
+current telework arrangements, connectivity, and equipment commensurate with their work 
+needs and frequent enough opportunities to telework to ensure all systems have been tested 
+and are known to be functional).  This may entail creative thinking beyond current 
+implementation of telework, drawing in employees who otherwise might not engage in remote 
+access and ensuring their effectiveness as a distributed workforce. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OPM-VI-I-15 
+
+Manager Pandemic Responsibilities 
+
+• 
+
+Implement telework to the greatest extent possible in the workgroup so systems are in 
+place to support successful remote work in an emergency. 
+
+•  Communicate expectations to all employees regarding their roles and responsibilities in 
+
+relation to remote work in the event of a pandemic health crisis. 
+
+•  Establish communication processes to notify employees of activation of this plan. 
+Integrate pandemic health crisis response expectations into telework agreements. 
+• 
+•  With the employee, assess requirements for working at home (supplies and equipment 
+
+needed for an extended telework period). 
+
+•  Determine how all employees who may telework will communicate with one another and 
+
+with management to accomplish work. 
+Identify how time and attendance will be maintained. 
+
+• 
+
+Teleworker Pandemic Responsibilities 
+
+•  Maintain current telework agreement specifying pandemic health crisis telework 
+
+responsibilities, as appropriate. 
+
+•  Perform all duties assigned by management, even if they are outside usual or customary 
+
+duties. 
+
+•  Practice telework regularly to ensure effectiveness. 
+•  Be familiar with agency and workgroup pandemic health crisis plans and individual 
+
+expectations for telework during a pandemic health crisis. 
+
+ 
+ 
+ 
+ 
+OPM-VI-I-16 
+
+References 
+
+Federal Employee’s Emergency Guide 
+Office of Personnel Management 
+http://www.opm.gov/emergency/PDF/EmployeesGuide.pdf 
+
+Federal Information Security Management Act (FISMA) 
+http://csrc.nist.gov/groups/SMA/fisma/index.html 
+
+Federal Management Regulation (FMR) Bulletin 2006-B3 
+Guidelines for Alternative Workplace Arrangements  
+Link to FMR Bulletin No. 2006-B3 
+
+Federal Manager’s/Decision Maker’s Emergency Guide 
+Office of Personnel Management 
+http://www.opm.gov/emergency/PDF/ManagersGuide.pdf 
+
+Federal Continuity Directive (FDC) 1 
+http://www.fema.gov/pdf/about/offices/fcd1.pdf 
+
+GAO-03-679, July 2003 
+Report to the Chairman, Committee on Government Reform, House of Representatives 
+Human Capital: Further Guidance, Assistance, and Coordination Can Improve Federal Telework 
+Efforts 
+http://www.gao.gov/new.items/d03679.pdf 
+
+GAO-06-713, May 2006 
+Report to the Chairman, Committee on Government Reform, House of Representatives 
+Continuity of Operations:  Selected Agencies Could Improve Planning for Use of Alternate 
+Facilities and Telework during Disruptions 
+http://www.gao.gov/new.items/d06713.pdf 
+
+National Strategy for Pandemic Influenza Implementation Plan 
+http://www.whitehouse.gov/homeland/pandemic-influenza.html 
+
+NIST Special Publication 800-46 Revision 1
+Guide to Enterprise Telework and Remote Access Security 
+http://csrc.nist.gov/publications/nistpubs/800-46-rev1/sp800-46r1.pdf 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

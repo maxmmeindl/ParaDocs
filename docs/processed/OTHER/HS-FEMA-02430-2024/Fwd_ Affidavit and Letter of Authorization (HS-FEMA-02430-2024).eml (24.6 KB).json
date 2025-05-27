@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-Fwd_ Affidavit and Letter of Authorization (HS-FEMA-02430-2024).eml (24.6 KB)-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Fwd_ Affidavit and Letter of Authorization (HS-FEMA-02430-2024).eml (24.6 KB).msg",
+    "file_size": 59392,
+    "file_hash": "2973fbb12812a9488872c682c5b6d7613b5060f44d909fbd74d5b2d8495d61bc",
+    "mime_type": "application/vnd.ms-outlook"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:31.991609",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:31.991609",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

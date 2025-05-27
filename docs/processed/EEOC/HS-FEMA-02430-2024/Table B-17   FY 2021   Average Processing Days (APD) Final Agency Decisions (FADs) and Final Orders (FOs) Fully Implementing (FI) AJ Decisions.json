@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-17   FY 2021   Average Processing Days (APD) Final Agency Decisions (FADs) and Final Orders (FOs) Fully Implementing (FI) AJ Decisions-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-17   FY 2021   Average Processing Days (APD) Final Agency Decisions (FADs) and Final Orders (FOs) Fully Implementing (FI) AJ Decisions.xlsx",
+    "file_size": 17391,
+    "file_hash": "72f6aa3ccd67842a3956b455be0c1ca60c6170da1b83841427f9f600ba4eaa3d",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.611735",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.611735",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

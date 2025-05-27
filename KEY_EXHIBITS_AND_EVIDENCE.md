@@ -18,7 +18,7 @@
 - No responses to any email
 - Escalating urgency over time
 - Multiple recipients (supervisor, HR, leadership)
-**Impact**: 10/10 - Devastating pattern evidence
+**Impact**: 10/10 - substantial pattern evidence
 
 ### EXHIBIT 3: January 6, 2025 Termination Letter
 **Description**: Termination during pending EEO proceedings

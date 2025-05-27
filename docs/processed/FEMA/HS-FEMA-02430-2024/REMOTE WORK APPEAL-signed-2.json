@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-REMOTE WORK APPEAL-signed-2-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "REMOTE WORK APPEAL-signed-2.pdf",
+    "file_size": 260402,
+    "file_hash": "6b195dfed87dbbf8cb5844cfc4223cb2dba61e8a91c7b5883d35daa61fafb077",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:19.307487",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:19.307487",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

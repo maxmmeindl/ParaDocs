@@ -1,0 +1,33 @@
+{
+  "document_id": "OTHER-FW_ FMLA Determination(1)-20250526",
+  "document_type": [
+    "Email_Communication",
+    "Termination"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_ FMLA Determination(1).eml",
+    "file_size": 53186,
+    "file_hash": "12d0a7d091e627c35823bcd2e38f69a0985e0c51fc0231cbecdec2aadf949b4f",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:27.347090",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:27.347090",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

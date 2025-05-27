@@ -1,0 +1,589 @@
+GENERAL SERVICES ADMINISTRATION 
+    Washington, DC 20405                  
+
+OAS 5770.1 
+January 28, 2015 
+
+GSA ORDER 
+
+SUBJECT:  Local Travel 
+
+1.  Purpose.  To provide guidance on the reimbursement of transportation expenses 
+incurred on official business within the local area of an employee’s official worksite/duty 
+station or appropriate alternative worksite. 
+
+2.  Background.  While the Federal Travel Regulation (FTR) regulates expense 
+reimbursement for temporary duty (TDY) travel away from the official station for GSA 
+employees, it does not provide guidance for local travel expense reimbursement.  Also, due 
+to new policies, such as telework, the scope of local travel must be clarified.  
+
+3.  Scope and applicability.  This directive provides guidance for reimbursing transportation 
+expenses incurred on official business performed near a GSA employee’s official 
+worksite/duty station.  Non-GSA employees who perform local travel at the request of GSA 
+may be reimbursed as provided by their contract or inter- and intra-government agreement, 
+as applicable.  Reimbursement to non-GSA employees will be processed through the 
+financial system, not the e-Gov Travel System (ETS). 
+
+4.  Cancellation.  This directive cancels chapter 7 of PFM P 4290.1 GSA Internal Travel 
+Regulations and Control of Official Travel, dated August 24, 2004 (as extended). 
+
+5.  Revisions.  This directive limits the reimbursement of local travel expenses to the 
+amount that exceeds an employee’s daily commuting costs.  It also defines “commuting 
+expense.” 
+
+6.  Responsibilities.  The Travel Policy and Charge Card Program Office (H1BB) develops 
+local travel policy for GSA employees.  Regional offices may supplement this policy, but 
+regional policy may not change or conflict with official policy.  Regional policy must be 
+cleared by H1BB. 
+
+7.  Signature. 
+
+/S/_____________________________ 
+CYNTHIA A. METZLER 
+Chief Administrative Services Officer 
+Office of Administrative Services 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OAS 5770.1 
+January 28, 2015 
+
+TABLE OF CONTENTS 
+
+1.  Policy ………………………………..…………..…………………………….  1 
+2.  Definition of local travel……………………………………………….……..  1 
+3.  Commuting expenses …….…………………………………………..……..  1 
+4.  Mass transit subsidies ……………………………………………………….  1 
+5.  Local travel areas …………………………………………………………….  2 
+     a. Central office employees .………………………………………………...  2 
+     b. Regional employees .……………………………………………………..  2 
+     c. Full-time telework employees ……………………………………………  2 
+6.  Travel authorization ………………………………………………………….  2 
+7.  Government contractor-issued travel charge card …….…………………  2 
+8.  Tokens, tickets, and passes ……………………………………………..….  2 
+9.  Local transportation expenses …………………………………………..….  2 
+     a. Government owned automobile (GOA)………….…………………..….  3 
+     b. Privately owned vehicle (POV)...………………………………………...  3 
+     c. Mass transit services …………...…………………………………………  3 
+     d. Tolls, fares, etc. ……………………………………………………………  3 
+     e. Taxicab ……………………………………………………..………………  3 
+10.  Per diem …….…………………….…………………………………………  3 
+     a. Prohibition …….……………………………………………………………  3 
+     b. Exception for protection of human life or Federal property …………...  3 
+11. Claiming reimbursement ……………………………………………………  4 
+Appendix: Local Travel Scenarios ………………..……………………………  A-1 
+
+                                                                                                                                          i 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OAS 5770.1 
+January 28, 2015 
+
+LOCAL TRAVEL 
+
+1.  Policy.  Reimbursement for transportation expenses incurred by a GSA employee 
+performing official duties near his/her worksite/duty station1 will be limited to the amount 
+that exceeds the employee’s round-trip regular commuting costs, even if that commute 
+is not performed every day. 
+
+2.  Definition of local travel.  Local travel is travel necessary to conduct official GSA 
+business and is performed by the most direct route within and adjacent to an 
+employee’s official worksite/duty station or appropriate alternative worksite.  The 
+proximity of travel to the employee’s official worksite/duty station determines whether 
+expenses are reimbursed as local travel expenses, as described in this policy, or as 
+TDY travel expenses, as described in the FTR. Local travel does not include any official 
+travel that is part of a TDY travel authorization, including travel to a common carrier 
+terminal in the employee’s local travel area in conjunction with TDY. 
+
+3.  Commuting expenses.  Commuting expenses are costs incurred while traveling 
+between an employee’s residence and his/her official worksite/duty station.  Commuting 
+expenses are calculated on a daily basis and are based on the method of transportation 
+used for that day’s commute.  For example, if an employee purchases a monthly bus 
+pass, but chooses to drive on the day he or she conducts local travel, the employee 
+may be reimbursed for driving expenses (e.g., mileage, parking, tolls), that exceed the 
+normal commuting costs of driving from his or her residence to the official station.  
+When computing the amount for reimbursement, expenses are considered individually, 
+rather than in aggregate, so that all excess mileage, tolls, and parking fees are 
+reimbursed even if certain expenses are less than normal commuting costs.  The cost of 
+the pro-rated “unused” bus pass is not a reimbursable expense. 
+
+4.  Mass transit subsidies.  The GSA Fare Subsidy Program offers qualifying employees 
+a financial incentive to use mass transit and other options for commuting to and from 
+work in an effort to reduce traffic congestion and dangerous pollutants in metropolitan 
+areas.  GSA employees who commute by public transportation, including subway, bus, 
+train, or qualified vanpool, may receive "transit passes" or "fare media" through the 
+program. The subsidy is only intended to cover the costs of commuting to an 
+
+1 HCO 6040.1A GSA Mobility and Telework Policy paragraph 6d defines the official worksite/duty station as “the location where the 
+employee regularly performs his or her official work duties …. Designation … must be determined on a case-by-case basis using the 
+following considerations: 
+
+   (1) The official worksite is the … place where the employee would normally work if not teleworking - as long as the employee is 
+scheduled to report physically at least twice each biweekly pay period to that Agency worksite; 
+
+   (2) The official worksite for an employee who is not scheduled to report at least twice a biweekly pay period to the Agency worksite 
+(includes virtual workers/full time teleworkers) is the location of the appropriate alternative worksite (except in certain temporary duty 
+situations); 
+
+   (3) The official worksite for an employee whose work location varies on a recurring basis (mobile work), and who does not report 
+at least twice each biweekly pay period to the Agency worksite, is the Agency worksite, as long as the employee is performing work 
+within the same geographic area (established for the purpose of a given pay entitlement) as the Agency worksite.” 
+
+1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                            
+ 
+ 
+ 
+ 
+employee’s official worksite/duty station and return to home. It is not intended to pay for 
+local travel to/from/between other places of official business, such as travel to an offsite 
+meeting location. 
+
+OAS 5770.1 
+January 28, 2015 
+
+5.  Local travel areas. 
+
+     a.   Central Office employees. 
+
+           (1)  The local travel area for Central Office employees whose official 
+worksite/duty station is in the Washington, DC metropolitan area has been established 
+as follows: The District of Columbia, the cities of Alexandria, Fairfax, and Falls Church 
+in Virginia; Arlington and Fairfax Counties in Virginia; and Montgomery and Prince 
+George's Counties in Maryland. 
+
+           (2)  For Central Office employees whose official worksite/duty station is located 
+in a regional office, excluding the National Capital Region office (e.g., satellite 
+employee), the local travel area is established by the respective Regional Administrator. 
+
+     b.   Regional employees.  Regional Administrators (RAs) will determine their region’s 
+local travel area.  RAs may use a mileage radius, the corporate limits of the city or town, 
+or the usual commuting area of the official worksite/duty station (area served by local 
+transportation services such as buses, streetcars, subways and trains).  No part of the 
+area, however, can be more than 50 miles from where the employee regularly performs 
+his/her duties or from an invitational traveler’s residence or regular place of business. 
+
+     c.   Full-time telework employees.  Employees who telework full-time will have a local 
+travel area of 50 miles from their residence or other appropriate alternative worksite 
+designated as their official worksite/duty station. (HCO 6040.1A GSA Mobility and 
+Telework Policy.) 
+
+6.  Travel authorization.  A written or electronic travel authorization will not be issued for 
+travel solely within an employee’s local travel area. 
+
+7.  Government contractor-issued travel charge card.  Travel charge cards will not be 
+used to pay for expenses unrelated to official TDY travel, including local travel, except 
+for situations of imminent danger to human life or Federal property. 
+
+8.  Tokens, tickets and passes.  In areas where mass transit services are available 
+(subways, buses, etc.), offices should obtain tokens, tickets, and/or passes in advance 
+with a purchase card (OAS 4200.1A Management and Use of the GSA SmartPay® 
+Purchase Card), to eliminate the need for reimbursing these costs via a local travel 
+voucher.  Offices should establish procedures to prevent inappropriate use of these 
+items. 
+
+9.  Local transportation expenses.  Based on cost and other factors (e.g., distance 
+traveled, number of travelers, urgency), employees should select the method of travel 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OAS 5770.1 
+January 28, 2015 
+
+most advantageous to the Government.  Otherwise, reimbursement will be limited to the 
+constructive amount of using the most advantageous method of travel (see examples in 
+Appendix). 
+
+     a.   Government-owned automobile (GOA).  A GOA must be used for local travel 
+whenever available and most advantageous to the Government. 
+
+     b.   Privately owned vehicle (POV).  Local travel via POV will be reimbursed based 
+on the actual distance traveled (as shown on the odometer), minus the employee’s 
+normal round-trip commuting distance/expenses, times the applicable mileage rate on 
+http://www.gsa.gov/mileage.  POVs include privately owned automobiles (POA), 
+privately owned motorcycles, and privately owned airplanes.  Reimbursement will be 
+limited to the GOA rate when a GOA was available and advantageous to the 
+Government, but a POA is used due to the personal choice of the employee instead. 
+
+     c.   Mass transit services.  Travel between places of business via bus, subway, ferry, 
+streetcar, etc., may be reimbursed as a transportation expense. 
+
+     d.   Tolls, fares, etc.  Parking, ferry fares, and tolls may be reimbursed as a 
+transportation expense when their use is determined to be necessary and 
+advantageous to the Government. 
+
+     e.   Taxicab. 
+
+           (1)  A taxicab may be used if advantageous to the Government and necessary 
+for urgent business.  Taxicabs may also be authorized for local travel between an 
+employee’s office and residence if the employee depends on public transportation to 
+perform official duties and he/she is directed to work outside of his/her regular hours 
+and the local travel occurs during darkness or hours of infrequently scheduled public 
+transportation. 
+
+           (2)  Reimbursement is limited to taxicab fare for the usually traveled route plus tip 
+(maximum 15% rounded up to the next dollar). 
+
+           (3)  Receipts are required for any single taxicab fare (including tip) that exceeds 
+$25. 
+
+10.  Per diem. 
+
+       a.  Prohibition.  No per diem or actual subsistence expense allowance (lodging or 
+meals) will be paid for travel within an employee’s local travel area. 
+
+b.  Exception for protection of human life or Federal property.  The Administrator of 
+General Services or his/her designee may authorize reimbursement of subsistence/per 
+diem expenses for an employee who must remain at his/her official worksite/duty station 
+or appropriate alternative worksite due to imminent danger to human life or Federal 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OAS 5770.1 
+January 28, 2015 
+
+property, and as a result, incurs lodging and/or meal expenses.  The Administrator or 
+his/her designee must authorize in writing the need to incur subsistence/per diem 
+expenses and the employee must then upload this authorization into the e-Gov Travel 
+System (ETS) and request reimbursement.  The reimbursement will be processed on a 
+local voucher as a miscellaneous expense.  As situations permit, contact the Office of 
+General Counsel in writing for additional guidance before incurring any expense that 
+may be covered by this exception. 
+
+11.  Claiming reimbursement. 
+
+a.  Approving officials must review claims for accuracy before approval.  Relevant 
+factors include mode of transportation utilized, distance traveled, and the amount that 
+exceeds the employee’s commuting costs.  The approval official must ensure that the 
+mode of transportation used was more advantageous to the Government than other 
+available modes of transportation.  
+
+ b.  Claims must be filed on an ETS local voucher (travel.gsa.gov). 
+
+c.  Claims should be filed monthly or when the amount for reimbursement exceeds 
+
+$25.  If required, however, claims may be filed sooner. 
+
+d.  When travel involves two or more GSA employees on official business, one 
+employee should pay and claim the entire expense (e.g., taxicab fare, bridge toll, etc.). 
+
+e.  All taxicab fare receipts exceeding $25 and any other local travel expense 
+
+receipt exceeding $75 must be attached to the ETS voucher. 
+
+f.   Employees must explain all taxicab use described in paragraph 9(e)(1).  That 
+explanation must include the employee’s departure time from the office and justification 
+for use of the taxicab. 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix.  Local Travel Scenarios 
+
+OAS 5770.1 
+January 28, 2015 
+
+This Appendix applies GSA’s local travel policy to real-life scenarios.  Each scenario 
+explains and calculates an employee’s local travel and commuting expenses, and if 
+applicable, the reimbursement amount.  All mileage rates used below are examples 
+only.  Current mileage reimbursement rates are posted at www.gsa.gov/mileage.  The 
+scenarios also explain how different facts would affect reimbursement calculations. 
+
+Scenario 1.  Sarah commutes 15 miles (one-way) to her official worksite and incurs a 
+$20 daily parking fee.  On the day of local travel she reports to her official worksite in 
+her privately owned automobile (POA) and incurs a $10 short-term parking fee before 
+driving 10 miles to an off-site meeting where she incurs another $10 parking fee.  After 
+the meeting, she drives 25 miles to her home.  Assuming a rate of 55.5 cents/mile when 
+a POA is most advantageous, what is her reimbursable local travel expense? 
+
+Expense 
+Description 
+Mileage 
+Parking 
+
+Day's 
+Expenses 
+50 miles 
+$20 
+
+Commuting 
+Expenses 
+30 miles 
+$20 
+
+Reimbursable 
+Expenses 
+20 miles 
+$0 
+
+Reimbursement:  20 miles x 55.5 cents/mile = $11.10 
+
+Explanation 1.  Sarah would be reimbursed for the 20 additional miles. The $10 
+parking fee incurred at the meeting, however, is not reimbursable because it does not 
+exceed her normal parking expenses usually incurred as part of her commute.  If she 
+had been required to return to her official worksite, and as a result, incurred additional 
+mileage and parking expenses before going home, the additional mileage would be 
+reimbursed.  The additional parking would also be reimbursed, if it exceeded her normal 
+$20 parking expenses. 
+
+Scenario 2.  Same as scenario 1, but Sarah chooses to use her POA when a GOA is 
+available and most advantageous to the Government, and returns to the office to do 
+work, incurs another $10 parking fee and then goes home for the day.  Assuming a rate 
+of 55.5 cents/mile when a POA is most advantageous, and a rate of 24 cents/mile when 
+a GOA is most advantageous but a POA is used instead, what is her reimbursable local 
+travel expense? 
+
+Expense 
+Description 
+Mileage 
+Parking 
+
+Day's 
+Expenses 
+50 miles 
+$30 
+
+Commuting 
+Expenses 
+30 miles 
+$20 
+
+Reimbursable 
+Expenses 
+20 miles 
+$10 
+
+Reimbursement:  $4.80 (20 miles x 24 cents/mile) + $10 = $14.80 
+
+                                                                                                                                      A-1 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OAS 5770.1 
+January 28, 2015 
+
+Explanation 2.  Like explanation 1, Sarah would be reimbursed the additional 20 miles, 
+but since she failed to use an available and advantageous GOA, her reimbursement 
+would be limited to the reduced rate.  Unlike explanation 1, Sarah would be reimbursed 
+for the additional parking since her $30 parking expenses exceed her normal $20 
+parking expenses. 
+
+Scenario 3.  Bob teleworks full-time.  For personal reasons, he drives 15 miles to a 
+local coffee shop to perform his work. 
+
+Expense 
+Description 
+Mileage 
+Parking 
+
+Day's 
+Expenses 
+15 miles 
+$0 
+
+Commuting 
+Expenses 
+0 miles 
+$0 
+
+Reimbursable 
+Expenses 
+0 miles 
+$0 
+
+Reimbursement:  $0 
+
+Explanation 3.  As a full-time telework employee, Bob’s residence is his official 
+worksite.  Since Bob was not required to perform his official duties at the coffee shop, 
+the costs incurred while traveling there are personal expenses and are not 
+reimbursable. 
+
+Scenario 4.  Julie is a full-time telework employee.  She is required to attend a meeting 
+45 miles round-trip from her home.  Julie drives her POA, which is most advantageous 
+to the Government in this case, to and from the meeting location.  Julie incurs two $5 
+tolls on her EZ Pass and a $10 parking fee at the meeting location.  What is Julie’s 
+reimbursable local travel expense? 
+
+Expense 
+Description 
+Mileage 
+Tolls 
+Parking 
+
+Day's 
+Expenses 
+45 miles 
+$10 
+$10 
+
+Commuting 
+Expenses 
+0 miles 
+$0 
+$0 
+
+Reimbursable 
+Expenses 
+45 miles 
+$10 
+$10 
+
+Reimbursement:  $24.98 (45 miles x 55.5 cents/mile) + $10 + $10 = $44.98 
+
+Explanation 4.  As a full-time telework employee, Julie’s official worksite is her home.  
+Since Julie was required to leave her home to perform her official duties at the meeting, 
+the costs incurred traveling to the meeting, as well as the parking fee are reimbursable. 
+
+Scenario 5.  Typically, Ken commutes 75 miles round-trip to his worksite/duty station 
+via van pool.  The van pool costs $175 per month ($125 paid with his transit subsidy 
+and $50 paid out of pocket).  Ken is directed to attend a meeting near his worksite/duty 
+
+                                                                                                                                      A-2 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OAS 5770.1 
+January 28, 2015 
+
+station.  Ken drives to the meeting and incurs a $10 parking fee.  After the meeting he 
+stops by the office to do some work and incurs another $10 parking fee.  Ken then 
+returns home at the end of the day, driving a total of 100 miles.  What is his 
+reimbursable local travel expense? 
+
+Expense 
+Description 
+Mileage 
+Parking 
+
+Day's 
+Expenses 
+100 miles 
+$20 
+
+Commuting 
+Expenses 
+75 miles 
+$10 
+
+Reimbursable 
+Expenses 
+25 miles 
+$10 
+
+Reimbursement:  $13.88 (25 miles x 55.5 cents/mile) + $10 = $23.88 
+
+Explanation 5.  When an employee uses a mode of transportation for commuting that 
+is different from what he/she normally uses, all normal commuting expenses associated 
+with that mode are non-reimbursable expenses.  In this scenario, since Ken chose to 
+drive, rather than use the van pool, his reimbursement is based on his expenses 
+associated with driving.  Thus, the additional mileage and parking incurred at the 
+meeting site are reimbursable.  The round-trip mileage between Ken’s home and 
+worksite/duty station and the $10 parking fee at the worksite, however, are non-
+reimbursable commuting expenses.  In addition, Ken is not reimbursed for the pro-rated 
+“unused” bus pass. 
+
+                                                                                                                                      A-3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

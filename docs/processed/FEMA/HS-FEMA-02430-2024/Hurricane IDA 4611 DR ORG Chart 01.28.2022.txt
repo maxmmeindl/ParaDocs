@@ -1,0 +1,836 @@
+Hurricane IDA 4611 DR
+Public Assistance Organization Chart
+
+Mission Assignment End Dates
+USACE 02/17/22
+
+BVI  03/2022
+
+Advisor
+Advisor
+Eddie Williams 
+Eddie Williams 
+
+USACE Coordinator
+USACE Coordinator
+Jo Schumacher
+Jo Schumacher
+
+SERCO Coordinator
+SERCO Coordinator
+Joe Kibe
+Joe Kibe
+
+BVI Coordinator
+BVI Coordinator
+Thomas (Rick) Rous
+Thomas (Rick) Rous
+
+PA Infrastructure Branch 
+PA Infrastructure Branch 
+Director 
+Director 
+Justin Bowen
+Justin Bowen
+
+IBD Special Projects
+IBD Special Projects
+Brenda Hines 
+Brenda Hines 
+
+PA GM Mentor
+PA GM Mentor
+Brigid Deloach
+Brigid Deloach
+
+PA GM Mentor
+PA GM Mentor
+Kathleen Brewington 
+Kathleen Brewington 
+
+PA GM Mentor
+PA GM Mentor
+Yvette Richardson 
+Yvette Richardson 
+
+PA Deputy Infrastructure Branch 
+PA Deputy Infrastructure Branch 
+Director 
+Director 
+Anthony In
+Anthony In
+
+Ops Support Mentor
+Ops Support Mentor
+Denna Freeman 
+Denna Freeman 
+
+Ops Support Mentor
+Ops Support Mentor
+Jerrevelle Dailey
+Jerrevelle Dailey
+
+OSTL
+OSTL
+Linda Miller 
+Linda Miller 
+
+OSCL  (BR 3&4)
+OSCL  (BR 3&4)
+Felitia Dozier 
+Felitia Dozier 
+
+OSSP (State Agencies)
+OSSP (State Agencies)
+Venner Milewski 
+Venner Milewski 
+
+OSCL  (BR 5&6)
+OSCL  (BR 5&6)
+Teresa Morin 
+Teresa Morin 
+
+OSSP (BR 2)
+OSSP (BR 2)
+Marilyn Antwine 
+Marilyn Antwine 
+
+OSSP
+OSSP
+Dwayne Burton 
+Dwayne Burton 
+
+OSSP  (BR 1)
+OSSP  (BR 1)
+Carmen Schnutenhaus 
+Carmen Schnutenhaus 
+
+PAGS (State Agencies)
+PAGS (State Agencies)
+Rachel McKenzie
+Rachel McKenzie
+
+PAGS (BR 1)
+PAGS (BR 1)
+Eugene Greenberg
+Eugene Greenberg
+
+PAGS (BR 2)
+PAGS (BR 2)
+Daphne Jackson
+Daphne Jackson
+
+PAGS (BR 3&4)
+PAGS (BR 3&4)
+Javier Asencio Luciano
+Javier Asencio Luciano
+
+PAGS (BR 5&6)
+PAGS (BR 5&6)
+John Bergin
+John Bergin
+
+PAGS Mentor
+PAGS Mentor
+Russell Towndrow
+Russell Towndrow
+
+PAGS (Tech. Specialist)
+PAGS (Tech. Specialist)
+Akinlabi Afolayan
+Akinlabi Afolayan
+
+PDTL
+PDTL
+Derwin Joseph
+Derwin Joseph
+
+PDTL
+PDTL
+Rick Malbrough
+Rick Malbrough
+
+PDMG (SERCO)
+PDMG (SERCO)
+Amir Alkaysey
+Amir Alkaysey
+
+PDMG
+PDMG
+Stephanie Blanding-Walker
+Stephanie Blanding-Walker
+
+PDMG
+PDMG
+Ray Berrier
+Ray Berrier
+
+PDMG (SERCO)
+PDMG (SERCO)
+Jerry Hames
+Jerry Hames
+
+PDMG
+PDMG
+Anthony Higgins
+Anthony Higgins
+
+PDMG
+PDMG
+Tuan Ho
+Tuan Ho
+
+PDMG (BVI)
+PDMG (BVI)
+Thomas Peek
+Thomas Peek
+
+PDMG
+PDMG
+Kristine Brown
+Kristine Brown
+
+PDMG
+PDMG
+Laura Cain
+Laura Cain
+
+PDMG (SERCO)
+PDMG (SERCO)
+James Latchaw
+James Latchaw
+
+PDMG (SERCO)
+PDMG (SERCO)
+David Pickens
+David Pickens
+
+PDTL
+PDTL
+Evie Angelique
+Evie Angelique
+
+PDMG (BVI)
+PDMG (BVI)
+Michael Cornett
+Michael Cornett
+
+PDMG
+PDMG
+Adeaner Jiles
+Adeaner Jiles
+
+PDMG
+PDMG
+Kathleen Jones
+Kathleen Jones
+
+PDMG (USACE)
+PDMG (USACE)
+Heidi Novotny
+Heidi Novotny
+
+PDMG (SERCO) 
+PDMG (SERCO) 
+Norman Stoerr
+Norman Stoerr
+
+PDMG (SERCO)
+PDMG (SERCO)
+Michael Hyde
+Michael Hyde
+
+PDMG (SERCO)
+PDMG (SERCO)
+Richard Passard
+Richard Passard
+
+PDTL
+PDTL
+Mark Underhill
+Mark Underhill
+
+PDMG (USACE)
+PDMG (USACE)
+Edwina (Pat) Benny
+Edwina (Pat) Benny
+
+PDMG (SERCO)
+PDMG (SERCO)
+John Bruns
+John Bruns
+
+PDMG (BVI)
+PDMG (BVI)
+Richard Herrin
+Richard Herrin
+
+PDMG (USACE)
+PDMG (USACE)
+Joni Hibbard
+Joni Hibbard
+
+PDMG (USACE)
+PDMG (USACE)
+Brian Mallory
+Brian Mallory
+
+PDMG (SERCO)
+PDMG (SERCO)
+Armon Mann
+Armon Mann
+
+PDMG
+PDMG
+Doug Molund
+Doug Molund
+
+PDTL
+PDTL
+Kristina Kemp
+Kristina Kemp
+
+PDMG
+PDMG
+Jean Bova
+Jean Bova
+
+PDMG
+PDMG
+Sheila Guice
+Sheila Guice
+
+PDMG
+PDMG
+Bendji Louis
+Bendji Louis
+
+PDMG
+PDMG
+Mary Tovar
+Mary Tovar
+
+PDTL
+PDTL
+Keri Caminita
+Keri Caminita
+
+PDMG (SERCO)
+PDMG (SERCO)
+Paulla Brocar
+Paulla Brocar
+
+PDMG (BVI)
+PDMG (BVI)
+Suellen Brown
+Suellen Brown
+
+PDMG (SERCO)
+PDMG (SERCO)
+Karla Cormier (HOW) 
+Karla Cormier (HOW) 
+
+PDMG (SERCO)
+PDMG (SERCO)
+Erica Cossio
+Erica Cossio
+
+PDMG (SERCO)
+PDMG (SERCO)
+Kiyanne Kelly
+Kiyanne Kelly
+
+PDMG (BVI)
+PDMG (BVI)
+John Layne
+John Layne
+
+PDTL
+PDTL
+Arnab Sinha
+Arnab Sinha
+
+PDTL
+PDTL
+Mae Phillips
+Mae Phillips
+
+PDMG (BVI) 02/04
+PDMG (BVI) 02/04
+Carolyn (Dawn) Arnold
+Carolyn (Dawn) Arnold
+
+PDMG (USACE) 01/31
+PDMG (USACE) 01/31
+Robert Borges
+Robert Borges
+
+PDMG (USACE)
+PDMG (USACE)
+Marilyn Lang
+Marilyn Lang
+
+PDMG (USACE)
+PDMG (USACE)
+Robert Jay Jr
+Robert Jay Jr
+
+PDMG (BVI Coord)
+PDMG (BVI Coord)
+Thomas (Rick) Rous
+Thomas (Rick) Rous
+
+PDMG BVI
+PDMG BVI
+Susan Sanders
+Susan Sanders
+
+PDMG (USACE)
+PDMG (USACE)
+Gordon Gregory 
+Gordon Gregory 
+
+PDMG
+PDMG
+Wade Chestnut III
+Wade Chestnut III
+
+PDMG (USACE)
+PDMG (USACE)
+Sara Pines
+Sara Pines
+
+PDMG (BVI)
+PDMG (BVI)
+Karen (Renee) Turnbow
+Karen (Renee) Turnbow
+
+PDMG
+PDMG
+Paris Welch
+Paris Welch
+
+PDMG
+PDMG
+Rulfus Wilson
+Rulfus Wilson
+
+PDTL
+PDTL
+Michael Ortengren
+Michael Ortengren
+
+PDMG 
+PDMG 
+Jose Alvarado
+Jose Alvarado
+
+PDMG (BVI)
+PDMG (BVI)
+Ralph Chambers
+Ralph Chambers
+
+PDMG (SERCO)
+PDMG (SERCO)
+Tina Llyod
+Tina Llyod
+
+PDMG
+PDMG
+Albertus (Buz) Outlaw
+Albertus (Buz) Outlaw
+
+PDMG (SERCO)
+PDMG (SERCO)
+Paul Ryden
+Paul Ryden
+
+PDTL
+PDTL
+Gary Spier
+Gary Spier
+
+PDMG
+PDMG
+Alejandra Alvarez-Toucet
+Alejandra Alvarez-Toucet
+
+PDMG
+PDMG
+J’Nique Bryan
+J’Nique Bryan
+
+PDMG
+PDMG
+Vivian Chardon-Ramirez
+Vivian Chardon-Ramirez
+
+PDMG (SERCO)
+PDMG (SERCO)
+Adam Chenevert
+Adam Chenevert
+
+PDMG
+PDMG
+Cheryl Kirkpatrick
+Cheryl Kirkpatrick
+
+PDMG
+PDMG
+Chance Noonkester
+Chance Noonkester
+
+PDMG (BVI)
+PDMG (BVI)
+Robin Seaman
+Robin Seaman
+
+PDTL
+PDTL
+Peggy Osborne
+Peggy Osborne
+
+PDMG (USACE)
+PDMG (USACE)
+Michael Cox
+Michael Cox
+
+PDMG (SERCO)
+PDMG (SERCO)
+Colleen Gareau
+Colleen Gareau
+
+PDTL
+PDTL
+Allen Martin
+Allen Martin
+
+PDMG
+PDMG
+Nancy Arroyo
+Nancy Arroyo
+
+PDMG (SERCO)
+PDMG (SERCO)
+Travis Bean
+Travis Bean
+
+PDMG
+PDMG
+Timothy Bush
+Timothy Bush
+
+PDMG (BVI)
+PDMG (BVI)
+Deborah McDonald
+Deborah McDonald
+
+PDMG
+PDMG
+Wayne Hollis
+Wayne Hollis
+
+PDMG
+PDMG
+Mal Hooker
+Mal Hooker
+
+PDMG (BVI)
+PDMG (BVI)
+William Turnbow
+William Turnbow
+
+PDTL
+PDTL
+Joe Vulgamore
+Joe Vulgamore
+
+PDMG (SERCO)
+PDMG (SERCO)
+Brian Allen
+Brian Allen
+
+PDMG
+PDMG
+Thomas Downs
+Thomas Downs
+
+PDMG (USACE)
+PDMG (USACE)
+Daniel Gentil
+Daniel Gentil
+
+PDMG (SERCO)
+PDMG (SERCO)
+Sandra Stewart
+Sandra Stewart
+
+PDMG (BVI)
+PDMG (BVI)
+Merlin Stansbury
+Merlin Stansbury
+
+PDMG (SERCO)
+PDMG (SERCO)
+Ledargis Reese
+Ledargis Reese
+
+PDMG (BVI)
+PDMG (BVI)
+David Simpkins
+David Simpkins
+
+PDTL
+PDTL
+Elizabeth Smith
+Elizabeth Smith
+
+PDMG (PE) (USACE)
+PDMG (PE) (USACE)
+John Erwin
+John Erwin
+
+PA Tech. Specialist
+PA Tech. Specialist
+Jacob Fehler
+Jacob Fehler
+
+PDMG (PE) (USACE)
+PDMG (PE) (USACE)
+Gary Gamel
+Gary Gamel
+
+PDMG (ME/HVAC) (USACE)
+PDMG (ME/HVAC) (USACE)
+Leonard Havel
+Leonard Havel
+
+PDMG (PE) (USACE)
+PDMG (PE) (USACE)
+Lawrence Romett
+Lawrence Romett
+
+PA Policy
+PA Policy
+John Uwanekezi
+John Uwanekezi
+
+PDTL (BR 5&6)
+PDTL (BR 5&6)
+Joe Young
+Joe Young
+
+PDTL
+PDTL
+Darla Dickerson
+Darla Dickerson
+
+PDMG
+PDMG
+Julia Greenberg
+Julia Greenberg
+
+PDTL
+PDTL
+Max Meindl
+Max Meindl
+
+PDMG
+PDMG
+James Galligan
+James Galligan
+
+PDTL (Debris)
+PDTL (Debris)
+Sam Cannon
+Sam Cannon
+
+PDMG (Debris)
+PDMG (Debris)
+Johanne Benjamin
+Johanne Benjamin
+
+PDMG (SERCO)
+PDMG (SERCO)
+Emmitt Head
+Emmitt Head
+
+PDMG (SERCO) 
+PDMG (SERCO) 
+Reinaldo Martinez- 
+Reinaldo Martinez- 
+Velazquez
+Velazquez
+
+PDMG (USACE)
+PDMG (USACE)
+Donald Newman
+Donald Newman
+
+PDMG  (USACE)
+PDMG  (USACE)
+Jeffrey Wheeler
+Jeffrey Wheeler
+
+PDMG (SERCO)
+PDMG (SERCO)
+Carlos Rivera Rodriguez
+Carlos Rivera Rodriguez
+
+PDMG (USACE)
+PDMG (USACE)
+Howard Whittington
+Howard Whittington
+
+PDTL
+PDTL
+Martin Kirkman
+Martin Kirkman
+
+PDMG (USACE)
+PDMG (USACE)
+William Lennartz
+William Lennartz
+
+PDMG (USACE)
+PDMG (USACE)
+Thomas Luzano
+Thomas Luzano
+
+PDMG (SERCO)
+PDMG (SERCO)
+Lorenzo Rhodes
+Lorenzo Rhodes
+
+PDTL (Debris)
+PDTL (Debris)
+Jack Cress
+Jack Cress
+
+PDMG
+PDMG
+Maurice Baird
+Maurice Baird
+
+PDMG (SERCO)
+PDMG (SERCO)
+Angela Boudreaux
+Angela Boudreaux
+
+PDMG (USACE)
+PDMG (USACE)
+Susan Couch
+Susan Couch
+
+PDMG (SERCO)
+PDMG (SERCO)
+Scott Matti
+Scott Matti
+
+PDMG (SERCO)
+PDMG (SERCO)
+David McMahill
+David McMahill
+
+PDMG (USACE)
+PDMG (USACE)
+George Ofslager
+George Ofslager
+
+PDTL
+PDTL
+Sandra Santiago
+Sandra Santiago
+
+PDMG (USACE)
+PDMG (USACE)
+Phillip Eakle
+Phillip Eakle
+
+PDMG (USACE)
+PDMG (USACE)
+Alfred Kozminski
+Alfred Kozminski
+
+PDMG (SERCO)
+PDMG (SERCO)
+Spencer Savoie
+Spencer Savoie
+
+PDMG (SERCO)
+PDMG (SERCO)
+James Loughran
+James Loughran
+
+406 Lead
+406 Lead
+Phill Maxwell
+Phill Maxwell
+
+PA HM 406
+PA HM 406
+John Devlin
+John Devlin
+
+PA HM 406
+PA HM 406
+Jorge Munoz
+Jorge Munoz
+
+PA HM 406
+PA HM 406
+Shiryl White
+Shiryl White
+
+PA HM 406
+PA HM 406
+Sharita Harris-Clark
+Sharita Harris-Clark
+
+PA HM 406 (SERCO)
+PA HM 406 (SERCO)
+Jacques Burhama
+Jacques Burhama
+
+PA HM 406 (SERCO)
+PA HM 406 (SERCO)
+John Laser
+John Laser
+
+PA HM 406 (SERCO)
+PA HM 406 (SERCO)
+Robert Linden
+Robert Linden
+
+PA HM 406 (SERCO)
+PA HM 406 (SERCO)
+Stewart Lovece
+Stewart Lovece
+
+PA HM 406 (SERCO)
+PA HM 406 (SERCO)
+James Moranz
+James Moranz
+
+PA HM 406 (SERCO)
+PA HM 406 (SERCO)
+Jorge Romano
+Jorge Romano
+
+PA HM 406 (SERCO)
+PA HM 406 (SERCO)
+Salman Ayash 
+Salman Ayash 
+
+PA HM 406 (SERCO)
+PA HM 406 (SERCO)
+Robert Speilmen
+Robert Speilmen
+
+Updated 01/28/2022
+
+ 
+ 
+ 
+ 
+

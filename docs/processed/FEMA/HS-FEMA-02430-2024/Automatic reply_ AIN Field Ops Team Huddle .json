@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Automatic reply_ AIN Field Ops Team Huddle -20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Automatic reply_ AIN Field Ops Team Huddle .pdf",
+    "file_size": 87878,
+    "file_hash": "3b072035340dd4460b2f025779bfefe7259d7c6e83b3148b5b814769aa528344",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:03.617539",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:03.617539",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

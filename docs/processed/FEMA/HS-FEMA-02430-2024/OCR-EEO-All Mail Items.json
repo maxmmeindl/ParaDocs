@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-OCR-EEO-All Mail Items-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "OCR-EEO-All Mail Items.pdf",
+    "file_size": 3609445,
+    "file_hash": "a4f92cfa8154abe7b082387b30b9de8829b53b1807ffeb972f517bb1826f71fd",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:13.863347",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:13.863347",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

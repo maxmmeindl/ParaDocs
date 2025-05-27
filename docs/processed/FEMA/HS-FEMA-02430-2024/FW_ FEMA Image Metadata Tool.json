@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-FW_ FEMA Image Metadata Tool-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_ FEMA Image Metadata Tool.pdf",
+    "file_size": 1697398,
+    "file_hash": "6fbcccb1cf165928f4ad0f6e42915a964d54c5642b57f56ef0729f09472d23c1",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:10.713703",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:10.713703",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

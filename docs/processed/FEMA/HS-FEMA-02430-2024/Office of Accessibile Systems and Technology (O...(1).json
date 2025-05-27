@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Office of Accessibile Systems and Technology (O...(1)-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Office of Accessibile Systems and Technology (O...(1).pdf",
+    "file_size": 165823,
+    "file_hash": "4e8407c06f1f77317acad3102686b62c6343c847af52dff1aa5635efb9091423",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:14.005712",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:14.005712",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-6   FY 2021   Benefits Provided in All Pre-Complaint Settlements-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-6   FY 2021   Benefits Provided in All Pre-Complaint Settlements.xlsx",
+    "file_size": 16029,
+    "file_hash": "48fceeb5446f332e87b067909d5037eba9791d2caf15ed65c660f2d8f37e7d96",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:24.131123",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:24.131123",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

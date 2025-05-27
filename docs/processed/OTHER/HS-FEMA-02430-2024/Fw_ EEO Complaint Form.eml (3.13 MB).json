@@ -1,0 +1,33 @@
+{
+  "document_id": "OTHER-Fw_ EEO Complaint Form.eml (3.13 MB)-20250526",
+  "document_type": [
+    "EEOC_Charge",
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Fw_ EEO Complaint Form.eml (3.13 MB).msg",
+    "file_size": 3266560,
+    "file_hash": "010c136cc7e62743ac65f56dbd328773105c28a0cf429f6f54d45704bec01543",
+    "mime_type": "application/vnd.ms-outlook"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:32.058611",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:32.058611",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

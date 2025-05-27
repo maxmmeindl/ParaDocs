@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-RE_ Non-Responsive Employees in Vaccine Status ...-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "RE_ Non-Responsive Employees in Vaccine Status ....pdf",
+    "file_size": 274375,
+    "file_hash": "c78e78d7b79a6b8efb273ec93126ca178cae088795695363911ed5ac63c38b95",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:19.971663",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:19.971663",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

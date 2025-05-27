@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-fema_manual_1430_1_reasonable_accommodations[1]-20250526",
+  "document_type": [
+    "Interactive_Process"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "fema_manual_1430_1_reasonable_accommodations[1].pdf",
+    "file_size": 236016,
+    "file_hash": "71339976e9f19ca22bf63482f27f55f95d98fdc6fb2225e7a2cd7ceb1e806200",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:10.037223",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:10.037223",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

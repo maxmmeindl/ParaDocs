@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-OSC Case No. MA-20-1288.eml[2]-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "OSC Case No. MA-20-1288.eml[2].eml",
+    "file_size": 15110,
+    "file_hash": "8490c1a4051f70cb950f8cf3e77cff729c4ecdffc1574537a9f008dcb3c1a0f5",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:29.401397",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:29.401397",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

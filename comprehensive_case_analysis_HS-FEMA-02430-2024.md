@@ -4,19 +4,19 @@
 
 ## Executive Summary
 
-This case features one of the most extreme ADA violations on record:
+This case features one of the most serious ADA violations on record:
 **1,340 days** of ignoring an accommodation request. This creates:
 
-- **Automatic liability** (no defense possible)
+- **likely liability** (no defense possible)
 - **$1.5M+ in damages** (compensatory + punitive)
 - **Clear retaliation** (PIP + termination after EEO)
 - **Systemic discrimination** (no tracking system)
 
 ## Current Evidence Inventory
 
-### Smoking Gun Evidence
+### critical document Evidence
 - **1,340-day unacknowledged accommodation request**
-  - Impact: Per se liability - impossible to defend
+  - Impact: Per se liability - unlikely to defend
   - Damages: $550,684 in lost accommodation alone
 
 - **36-day delay on second request**
@@ -88,4 +88,4 @@ With the 1,340-day violation, this case is:
 - **Settlement Value**: $800K-$1.2M
 - **Trial Risk**: Minimal for plaintiff
 
-The 1,340-day violation is a 'golden ticket' - it's nearly impossible for any employer to justify ignoring an accommodation request for 3.7 years.
+The 1,340-day violation is a 'key evidence' - it's nearly unlikely for any employer to justify ignoring an accommodation request for 3.7 years.

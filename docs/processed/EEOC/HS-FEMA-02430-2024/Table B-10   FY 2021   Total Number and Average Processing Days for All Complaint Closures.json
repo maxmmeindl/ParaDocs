@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-10   FY 2021   Total Number and Average Processing Days for All Complaint Closures-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-10   FY 2021   Total Number and Average Processing Days for All Complaint Closures.xlsx",
+    "file_size": 20034,
+    "file_hash": "b08f23eb233c35e1759e76be52dcc766c893b64a2639d1675db7a53c6787e3b1",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.413128",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.413128",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

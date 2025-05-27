@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Not read_ RE_ 24-04-114778_DR-4485-TX_TEXAS CHR...-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Not read_ RE_ 24-04-114778_DR-4485-TX_TEXAS CHR....pdf",
+    "file_size": 117460,
+    "file_hash": "f9cac0942ab8df32eb9a94eb490a0972949ca969e684f62b4b98006d52e5bb8d",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:13.730000",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:13.730000",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-256-0-2 MANAGEMENT RESPONSE to REQ for RA Meindl-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "256-0-2 MANAGEMENT RESPONSE to REQ for RA Meindl.pdf",
+    "file_size": 2414690,
+    "file_hash": "f852faafae52c976198a53570b094f4ece2de013f0a074fa3216ffcb29de5bd5",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:58.455326",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:58.455326",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

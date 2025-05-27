@@ -7,7 +7,7 @@ ParaDocs is an evolving system for managing and searching EEOC legal documentati
 
 ### 1. Search Tools
 - **`search_documents.py`** - Basic document search and indexing
-- **`search_documents_with_logging.py`** - Enhanced version with automatic action tracking
+- **`search_documents_with_logging.py`** - Enhanced version with likely action tracking
 
 ### 2. Documentation Files
 - **`README.md`** - User guide for the search system
@@ -27,7 +27,7 @@ ParaDocs is an evolving system for managing and searching EEOC legal documentati
 ✅ Keyword-based search  
 ✅ Category filtering  
 ✅ Year-based filtering  
-✅ Automatic categorization  
+✅ likely categorization  
 ✅ Action logging  
 ✅ Category reports  
 
@@ -58,7 +58,7 @@ python search_documents.py report
 
 ### Enhanced Search with Logging
 ```bash
-# Same commands, but with automatic logging
+# Same commands, but with likely logging
 python search_documents_with_logging.py scan
 python search_documents_with_logging.py search -q "adr"
 python search_documents_with_logging.py log  # View recent actions

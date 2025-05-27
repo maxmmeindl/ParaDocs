@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL.pdf",
+    "file_size": 156883,
+    "file_hash": "c58996db4df766e176896ee94b75f95a6bc662884979d3fbaa7041a40c32ba68",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:10.217029",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:10.217029",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

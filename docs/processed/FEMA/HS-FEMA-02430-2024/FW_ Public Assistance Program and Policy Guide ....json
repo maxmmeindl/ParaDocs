@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-FW_ Public Assistance Program and Policy Guide ...-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_ Public Assistance Program and Policy Guide ....pdf",
+    "file_size": 204885,
+    "file_hash": "44db6fe1bfe68018a006746d50a084cf2957eb8c1245e3db99fe81a1e9f6b652",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:11.353146",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:11.353146",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

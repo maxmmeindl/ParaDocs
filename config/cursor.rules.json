@@ -1,0 +1,115 @@
+{
+  "templates": {
+    "validate_eeoc": {
+      "system": "You are an EEOC compliance auditor specializing in federal employment discrimination law.",
+      "user": "Check this text for missing 29 CFR 1630.2(o) items and list any gaps. Focus on interactive process documentation, reasonable accommodation requests, and essential function analysis.",
+      "model": "claude-opus"
+    },
+    "classify_eeo1": {
+      "system": "You are a data analyst for EEO-1 reporting with expertise in workforce demographics and NAICS classification.",
+      "user": "Classify these fields into EEO-1 Component 1 categories and flag missing fields. Verify NAICS code accuracy and workforce snapshot date compliance.",
+      "model": "claude-opus"
+    },
+    "extract_deadlines": {
+      "system": "You are a legal case manager specializing in federal employment law deadlines and procedural requirements.",
+      "user": "Extract all deadlines, time limits, and critical dates from this document. Include statutory deadlines, agency response times, and appeal windows.",
+      "model": "claude-opus"
+    },
+    "identify_violations": {
+      "system": "You are an employment law attorney analyzing discrimination and retaliation claims.",
+      "user": "Identify all potential violations, claims, and legal theories in this document. Categorize by type (discrimination, retaliation, etc.) and protected basis.",
+      "model": "claude-opus"
+    },
+    "timeline_extraction": {
+      "system": "You are a legal analyst creating comprehensive case timelines.",
+      "user": "Extract all date-related information and create a chronological timeline of events. Include document dates, incident dates, and procedural milestones.",
+      "model": "claude-opus"
+    },
+    "keyword_indexing": {
+      "system": "You are an indexing assistant specializing in legal document search optimization.",
+      "user": "Generate a comprehensive keyword index for this document including legal terms, regulation citations, case IDs, party names, and technical terms.",
+      "model": "claude-opus"
+    },
+    "metadata_extraction": {
+      "system": "You are a document processing specialist extracting structured metadata from legal documents.",
+      "user": "Extract all metadata fields according to the ParaDocs schema including document type, parties, dates, case numbers, and regulation references.",
+      "model": "claude-opus"
+    },
+    "compliance_check": {
+      "system": "You are a compliance officer reviewing documents for adherence to EEOC, FEMA, and Privacy Act requirements.",
+      "user": "Review this document for compliance with applicable regulations. Flag any missing required elements, procedural violations, or privacy concerns.",
+      "model": "claude-opus"
+    }
+  },
+  "globs": {
+    "EEOC": [
+      "*charge*.pdf",
+      "*charge*.docx",
+      "*accommodation*.pdf",
+      "*accommodation*.docx",
+      "*interactive*.pdf",
+      "*determination*.pdf",
+      "*eeoc*.pdf",
+      "*eeo*.pdf"
+    ],
+    "FEMA": [
+      "*termination*.pdf",
+      "*termination*.docx",
+      "*fema*.pdf",
+      "*position*.pdf",
+      "*removal*.pdf"
+    ],
+    "MEDICAL": [
+      "*medical*.pdf",
+      "*doctor*.pdf",
+      "*physician*.pdf",
+      "*health*.pdf",
+      "*disability*.pdf"
+    ],
+    "LEGAL": [
+      "*brief*.pdf",
+      "*brief*.docx",
+      "*motion*.pdf",
+      "*complaint*.pdf",
+      "*answer*.pdf",
+      "*discovery*.pdf"
+    ],
+    "EMAIL": [
+      "*.eml",
+      "*.msg",
+      "*email*.pdf"
+    ]
+  },
+  "processing_rules": {
+    "ocr_settings": {
+      "languages": ["eng"],
+      "dpi": 300,
+      "output_format": "text",
+      "preserve_formatting": true
+    },
+    "validation_rules": {
+      "require_case_number": true,
+      "require_dates": true,
+      "date_format": "YYYY-MM-DD",
+      "max_file_size_mb": 100
+    },
+    "privacy_rules": {
+      "redact_ssn": true,
+      "redact_medical_details": false,
+      "redact_witness_info": false,
+      "flag_sensitive_content": true
+    }
+  },
+  "automation": {
+    "watch_folders": [
+      "docs/raw/EEOC",
+      "docs/raw/FEMA",
+      "docs/raw/OTHER"
+    ],
+    "auto_process": true,
+    "auto_validate": true,
+    "auto_index": true,
+    "notification_email": "",
+    "error_handling": "log_and_continue"
+  }
+} 

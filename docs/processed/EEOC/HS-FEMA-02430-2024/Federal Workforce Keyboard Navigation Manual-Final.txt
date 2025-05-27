@@ -1,0 +1,1167 @@
+Federal Workforce Dashboard 
+Keyboard Navigation Manual  
+
+Version 2.6 
+
+U.S. Equal Employment Opportunity Commission 
+
+Office of Federal Operations 
+
+May 2024 
+
+ 
+ 
+ 
+ 
+Contents 
+
+Overview of the Federal Workforce Dashboard ..................................................................... 4 
+
+Definitions .................................................................................................................................... 4 
+
+Accessing the Federal Workforce Dashboard ........................................................................ 5 
+
+Pages of the Federal Workforce Dashboard ........................................................................... 5 
+
+Page 1: Introduction ............................................................................................................... 6 
+
+Page 2: Race-Ethnicity-Gender by Agency ........................................................................ 7 
+
+Page 3: Race-Ethnicity-Gender by Demographic .............................................................. 8 
+
+Page 4: Disability by Agency ................................................................................................. 9 
+
+Page 5: Disability by Disability Type .................................................................................... 10 
+
+Page 6: Race-Ethnicity-Gender-Grade by Agency ......................................................... 11 
+
+Page 7: Race-Ethnicity-Gender-Grade by Demographic ............................................... 12 
+
+Page 8: Race-Ethnicity-Gender by Grade ......................................................................... 13 
+
+Page 9: Race-Ethnicity-Gender Table ................................................................................ 14 
+
+Page 10: Disability Table ....................................................................................................... 15 
+
+Page 11: Race-Ethnicity-Gender-Grade Table ................................................................. 16 
+
+Page 12: Certification Status ............................................................................................... 17 
+
+Navigating Between Pages (Ctrl + F6) .................................................................................... 18 
+
+Navigating Between Visuals and Levels Within Visuals ........................................................ 18 
+
+Using Slicer Visuals ................................................................................................................... 19 
+
+Single-Select Vertical List Slicers ........................................................................................... 19 
+
+Single-Select Dropdown Slicers ........................................................................................... 20 
+
+Multi-Select Vertical List Slicers ............................................................................................. 20 
+
+Multi-Select Dropdown Slicers ............................................................................................. 21 
+
+Line Graphs ............................................................................................................................... 22 
+
+Navigating the Plot Area ..................................................................................................... 22 
+
+Navigating the Legend ........................................................................................................ 23 
+
+Bar Graphs ................................................................................................................................. 25 
+
+Navigating the Grade Band Labels .................................................................................... 25 
+
+Navigating the Data Bars ..................................................................................................... 26 
+
+Navigating the Legend ........................................................................................................ 26 
+
+Table Visuals .............................................................................................................................. 27 
+
+Navigating the Table ............................................................................................................ 27 
+
+2 
+
+ 
+Context Menus .......................................................................................................................... 29 
+
+Show as a Table .................................................................................................................... 29 
+
+Clear Selections .................................................................................................................... 29 
+
+Copy ....................................................................................................................................... 30 
+
+Options to Avoid ................................................................................................................... 30 
+
+Visual Menus ............................................................................................................................. 31 
+
+Additional Accessibility Resources ......................................................................................... 31 
+
+Frequently Used Keyboard Shortcuts ..................................................................................... 31 
+
+3 
+
+ 
+ 
+Overview of the Federal Workforce Dashboard 
+
+The Federal Workforce Dashboard reports Federal workforce data at the agency level. 
+Data by race, ethnicity, and gender is available starting from fiscal year (FY) 2012. Data 
+by disability as well as data by race, ethnicity, gender, and grade band are available 
+starting from FY 2016. The dashboard also includes governmentwide and civilian labor 
+force (CLF) comparators.1 
+
+The Federal Workforce Dashboard complements the workforce tables from Annual 
+Reports on the Federal Workforce released by the U.S. Equal Employment Opportunity 
+Commission (EEOC). To access the workforce tables, visit the EEOC’s Federal Sector 
+Reports webpage. 
+
+The EEOC collects these data from Federal Agency Annual EEO Program Status Reports 
+(MD-715 Reports), which are submitted and certified by Federal agencies.  
+
+To ensure accessibility for persons with disabilities, this supplemental manual describes 
+how to navigate the Federal Workforce Dashboard exclusively using a keyboard. A 
+separate manual describes how to navigate the dashboard with the use of a mouse. 
+
+This manual was written based on navigation using a Microsoft Edge browser on a 
+Windows operating system. Using a different browser, a different operating system, or a 
+screen reader may alter how the user can navigate the dashboard with a keyboard. In 
+addition, the Federal Workforce Dashboard was created using Microsoft Power BI. 
+Updates to Power BI may alter the dashboard’s features and how keyboard navigation 
+works. 
+
+Definitions 
+
+To better understand this manual, the EEOC has defined several key terms: 
+
+Federal Workforce Dashboard. A Power BI online report made by the EEOC with 
+multiple pages containing interactive data tables and graphs describing the 
+demographic distribution of the Federal workforce and Federal agencies.2 
+
+Page. A section of the Federal Workforce Dashboard containing information or data on 
+a particular topic or in a particular layout. The pages contained in the Federal 
+Workforce Dashboard are described in the Pages of the Federal Workforce Dashboard 
+section of this manual. 
+
+1 CLF comparators for race, ethnicity, and gender come from the U.S. Census Bureau’s EEO Tabulation. 
+
+2 A dashboard is a specific type of business intelligence (BI) page within a report that uses visualizations to 
+tell a story. Most pages in the Federal Workforce Dashboard are technically dashboards within themselves. 
+
+4 
+
+ 
+ 
+Visual (or Visualization). A section within a page that displays information in a particular 
+format. Types of visuals used in the Federal Workforce Dashboard include line graphs, 
+tables,3 slicers, and text boxes. 
+
+Slicer. A visual used to filter the data displayed on a page. Examples include single-
+selection radio buttons and multiple-selection checkboxes. They are sometimes 
+displayed in dropdown menus. 
+
+Accessing the Federal Workforce Dashboard 
+
+To access the dashboard, visit the EEOC’s Federal Sector Reports webpage. Use the 
+Tab key to navigate to the header “Annual Reports on the Federal Workforce.” Then, 
+press the Enter key on the link titled “Federal Workforce Dashboard.” This will open the 
+Federal Workforce Dashboard. 
+
+Pages of the Federal Workforce Dashboard 
+
+The Federal Workforce Dashboard has 12 pages, which this section describes. A 
+separate manual describes how to navigate the dashboard with a mouse. The next 
+section explains how to navigate between the pages. 
+
+For those using screen readers, demographic distribution data is most easily accessible 
+from the Race-Ethnicity-Gender Table page, the Disability Table page, and the Race-
+Ethnicity-Gender-Grade Table page. 
+
+3 Technically, the tables are designed using matrix visuals, but as they are only two dimensional and read-
+only, they function as tables do. For more information on the difference between tables and matrices, see 
+Tables, matrixes, and lists in Power BI Report Builder - Power BI | Microsoft Learn. 
+
+5 
+
+ 
+ 
+ 
+ 
+Page 1: Introduction 
+
+This page has four visuals (listed by focus order): 
+
+1.  The title, “Federal Workforce Dashboard.” 
+
+2.  The EEOC seal. 
+
+3.  A text box with a list of the pages in the report and notes about the data within 
+
+the report. 
+
+4.  A text box with product version information and an email contact for assistance 
+
+with the report (OFOResearch@eeoc.gov). 
+
+Figure 1. Introduction Page 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+Page 2: Race-Ethnicity-Gender by Agency 
+
+The second dashboard page shows participation for a specific race and ethnicity by 
+gender group. Users may select multiple agencies as well as governmentwide and CLF 
+comparators. Users may also choose to show participation data as numbers or rates 
+across one or more years.  
+
+The page has the following visuals: 
+
+1.  A dynamic title describing the displayed data.  
+
+2.  Calculation Type slicer (single-select vertical list: Participation Numbers or 
+
+Participation Rates). 
+
+3.  Agency of Interest slicer (single-select dropdown with search bar). 
+
+4.  Agency Comparator One slicer (single-select dropdown with search bar). 
+
+5.  Agency Comparator Two slicer (single-select dropdown with search bar). 
+
+6.  Years slicer (multi-select dropdown). 
+
+7.  Race, Ethnicity, and Gender slicer (single-select dropdown with search bar). 
+
+8.  Notes text box. 
+
+9.  A line graph displaying the selected data. 
+
+10. A table with the same data found in the line graph. 
+
+Figure 2. Race-Ethnicity-Gender by Agency Page 
+
+7 
+
+ 
+ 
+Page 3: Race-Ethnicity-Gender by Demographic 
+
+The second dashboard page shows participation for a specific race and ethnicity by 
+gender group. Users may select multiple agencies as well as governmentwide and CLF 
+comparators. Users may also choose to show participation data as numbers or rates 
+across one or more years. 
+
+The page has the following visuals: 
+
+1.  A dynamic title describing the displayed data.  
+
+2.  Calculation Type slicer (single-select vertical list: Participation Numbers or 
+
+Participation Rates). 
+
+3.  Agency of Interest slicer (single-select dropdown with search bar). 
+
+4.  Years slicer (multi-select dropdown). 
+
+5.  Race, Ethnicity, and Gender slicer (multi-select vertical list with search bar). 
+
+6.  Notes text box. 
+
+7.  A line graph displaying the selected data.  
+
+8.  A table with the same data found in the line graph. 
+
+Figure 3. Race-Ethnicity-Gender by Demographic Page 
+
+8 
+
+ 
+ 
+ 
+Page 4: Disability by Agency 
+
+This page shows participation for one disability category. Users may select multiple 
+agencies as well as a governmentwide value. Users may also choose to show 
+participation data as numbers or rates across one or more years. 
+
+The page has the following visuals: 
+
+1.  A dynamic title describing the displayed data.  
+
+2.  Calculation Type slicer (single-select vertical list: Participation Numbers or 
+
+Participation Rates). 
+
+3.  Agency of Interest slicer (single-select dropdown with search bar). 
+
+4.  Agency Comparator One slicer (single-select dropdown with search bar). 
+
+5.  Agency Comparator Two slicer (single-select dropdown with search bar). 
+
+6.  Years slicer (multi-select dropdown). 
+
+7.  Disabilities Categories slicer (single-select dropdown with search bar). 
+
+8.  Notes text box. 
+
+9.  A line graph displaying the selected data.  
+
+10. A table with the same data found in the line graph.  
+
+Figure 4. Disability by Agency Page 
+
+9 
+
+ 
+ 
+ 
+Page 5: Disability by Disability Type 
+
+This page shows participation for multiple disability categories at a particular Federal 
+agency. Users may choose to show participation data as numbers or rates across one 
+or more years. 
+
+The page has the following visuals: 
+
+1.  A dynamic title describing the displayed data.  
+
+2.  Calculation Type slicer (single-select vertical list: Participation Numbers or 
+
+Participation Rates). 
+
+3.  Agency of Interest slicer (single-select dropdown with search bar). 
+
+4.  Years slicer (multi-select dropdown). 
+
+5.  Disability Categories slicer (multi-select vertical list with search bar). 
+
+6.  Notes text box. 
+
+7.  A line graph displaying the selected data.  
+
+8.  A table with the same data found in the line graph. 
+
+Figure 5. Disability by Disability Type Page 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+Page 6: Race-Ethnicity-Gender-Grade by Agency 
+
+This page shows participation for one race, ethnicity, and gender group by grade band 
+during one specific year. The grade band options are General Schedule (GS) 1-10, GS 
+11 through Senior Executive Service (SES) and Senior Pay, and SES and Senior Pay Alone. 
+Users may select multiple agencies as well as a governmentwide value. Users may also 
+choose to show participation data as numbers or rates.  
+
+This page has the following visuals: 
+
+1.  A dynamic title describing the displayed data.  
+
+2.  Calculation Type slicer (single-select vertical list: Participation Numbers or 
+
+Participation Rates). 
+
+3.  Agencies of Interest slicer (multi-select vertical list with search bar). 
+
+4.  Years slicer (single-select dropdown). 
+
+5.  Grade Band slicer (multi-select dropdown). 
+
+6.  Race, Ethnicity, and Gender slicer (single-select dropdown with search bar). 
+
+7.  Notes text box. 
+
+8.  A horizontal bar graph displaying the selected data. 
+
+9.  A table with the same data found in the line graph.  
+
+Figure 6. Race-Ethnicity-Gender-Grade by Agency Page 
+
+11 
+
+ 
+ 
+ 
+ 
+Page 7: Race-Ethnicity-Gender-Grade by Demographic 
+
+This page shows participation by multiple race, ethnicity, and gender groups. Users may 
+select one particular agency and one grade band. Users may also choose to show 
+participation data as numbers or rates across one or more years.  
+
+The page has the following visuals: 
+
+1.  A dynamic title describing the displayed data.  
+
+2.  Calculation Type slicer (single-select vertical list: Participation Numbers or 
+
+Participation Rates). 
+
+3.  Agency of Interest slicer (single-select dropdown with search bar). 
+
+4.  Years slicer (multi-select dropdown). 
+
+5.  Grade Band slicer (single-select dropdown). 
+
+6.  Race, Ethnicity, and Gender slicer (multi-select vertical list with search bar). 
+
+7.  Notes text box. 
+
+8.  A line graph displaying the selected data.  
+
+9.  A table with the same data found in the line graph. 
+
+Figure 7. Race-Ethnicity-Gender-Grade by Demographic Page 
+
+12 
+
+ 
+ 
+ 
+Page 8: Race-Ethnicity-Gender by Grade 
+
+This page shows participation for one demographic group across all three grade 
+bands. Users may select one particular agency or the governmentwide value. Users 
+may choose to show participation data as numbers or rates across one or more years.  
+
+The page has the following visuals: 
+
+1.  A dynamic title describing the displayed data.  
+
+2.  Calculation Type slicer (single-select vertical list: Participation Numbers or 
+
+Participation Rates). 
+
+3.  Agency of Interest slicer (single-select dropdown with search bar). 
+
+4.  Years slicer (multi-select dropdown). 
+
+5.  Race, Ethnicity, and Gender slicer (single-select dropdown with search bar). 
+
+6.  Notes text box. 
+
+7.  A line graph displaying the selected data.  
+
+8.  A table with the same data found in the line graph. 
+
+Figure 8. Race-Ethnicity-Gender by Grade Page 
+
+13 
+
+ 
+ 
+ 
+ 
+Page 9: Race-Ethnicity-Gender Table 
+
+This page contains a table with race, ethnicity, and gender data by agency and year 
+in a tabular format. Users may select multiple agencies, multiple demographic groups, 
+and multiple years. Users may also choose to show participation data as numbers 
+and/or rates under Calculation Type. All slicers allow for multiple selections with 
+checkbox dropdown menus. 
+
+The table includes a four-character Agency Code. The agency code is a standard 
+unique code assigned to each agency. It may be used to connect agency-level data 
+from the Federal Workforce Dashboard to external data sources. 
+
+The page has the following visuals: 
+
+1.  Title. 
+
+2.  Agency slicer (multi-select dropdown with search bar). 
+
+3.  Calculation Type slicer (multi-select dropdown). 
+
+4.  Years slicer (multi-select dropdown). 
+
+5.  Race, Ethnicity, and Gender slicer (multi-select dropdown with search bar). 
+
+6.  A data table displaying the selected data. 
+
+7.  Notes text box.  
+
+Figure 9. Race-Ethnicity-Gender Table Page 
+
+14 
+
+ 
+ 
+ 
+Page 10: Disability Table 
+
+This page contains a table with disability-related workforce data by agency and year in 
+a tabular format. Users may select multiple agencies, multiple disability categories, and 
+multiple years. Users may also choose to show participation data as numbers and/or 
+rates under Calculation Type. All slicers allow for multiple selections with checkbox 
+dropdown menus. 
+
+The table includes a four-character Agency Code. 
+
+The page has the following visuals: 
+
+1.  Title. 
+
+2.  Agency slicer (multi-select dropdown with search bar). 
+
+3.  Calculation Type slicer (multi-select dropdown). 
+
+4.  Years slicer (multi-select dropdown). 
+
+5.  Disability Categories slicer (multi-select dropdown with search bar). 
+
+6.  A data table displaying the selected data. 
+
+7.  Notes text box.  
+
+Figure 10. Disability Table Page 
+
+15 
+
+ 
+ 
+ 
+Page 11: Race-Ethnicity-Gender-Grade Table 
+
+This page contains a table with race, ethnicity, gender, and grade band data by 
+agency and year in a tabular format. Users may select multiple agencies, multiple 
+demographic groups, multiple grade bands, and multiple years. Users may also choose 
+to show participation data as numbers and/or rates under Calculation Type. All slicers 
+allow for multiple selections with checkbox dropdown menus. 
+
+The table includes a four-character Agency Code. 
+
+The page has the following visuals: 
+
+1.  Title. 
+
+2.  Agency slicer (multi-select dropdown with search bar). 
+
+3.  Calculation Type slicer (multi-select dropdown). 
+
+4.  Years slicer (multi-select dropdown). 
+
+5.  Race, Ethnicity, and Gender slicer (multi-select dropdown with search bar). 
+
+6.  Grade Band slicer (multi-select dropdown). 
+
+7.  A data table displaying the selected data. 
+
+8.  Notes text box.  
+
+Figure 11. Race-Ethnicity-Gender-Grade Table Page 
+
+16 
+
+ 
+ 
+ 
+Page 12: Certification Status 
+
+This page contains a table with agencies’ MD-715 report certification statuses since 
+fiscal year 2012. Users may select multiple agencies. Users may also filter agencies by 
+“Certification Status.” A status of “Yes” indicates that the agency submitted a certified 
+MD-715 Report that fiscal year. A status of “No” indicates that the agency was required 
+to submit a certified MD-715 Report but did not do so. A status of “N/A” indicates that 
+the agency was not required to submit an MD-715 Report that fiscal year. 
+
+The table includes a four-character Agency Code.  
+
+The page has the following visuals: 
+
+1.  Agency slicer (multi-select dropdown with search bar). 
+
+2.  A table listing agencies’ codes, names, and MD-715 report certification statuses 
+
+for all years. 
+
+3.  Notes text box with data definitions. 
+
+Figure 12. Certification Status Page 
+
+17 
+
+ 
+ 
+ 
+ 
+Navigating Between Pages (Ctrl + F6) 
+
+Ctrl + F6 is the primary shortcut to move the focus between sections in Power BI online 
+reports. This shortcut moves the focus between the content of pages and the page 
+tabs used for navigating between pages. 
+
+After opening the Federal Workforce Dashboard in the web browser, the user may press 
+Ctrl + F6 until the focus is on the Intro page tab. The user usually must press Ctrl + F6 
+twice to bring the focus to the page tabs, but this may vary. 
+
+Once the focus comes to the page tabs, the user may shift the focus to the tab 
+corresponding to the next page by pressing Tab. To shift the focus to the tab 
+corresponding to the previous page, press Shift + Tab. The Arrow keys may also be used 
+to navigate between tabs.  
+
+Once the focus is on the desired tab, the user should press Enter to select that page. 
+Pressing Ctrl + F6 shifts the focus to the first visual of that page. Pressing Ctrl + F6 an 
+additional time shifts the focus back to the page tabs. 
+
+Navigating Between Visuals and Levels Within Visuals 
+
+This section explains how to navigate between visuals (e.g., text boxes, slicers, graphs, 
+and tables). Sections to follow describe how to navigate within specific types of visuals. 
+
+Once the focus is on the first visual of a page, the user can move the focus to the next 
+visual with the Tab key, the Down Arrow key, or the Right Arrow key. Move the focus to 
+the previous visual by pressing Shift + Tab, the Up Arrow key, or the Left Arrow key.  
+
+Once the focus is on the desired visual, press Enter to interact with the next layer of that 
+visual. Interacting with slicer visuals allows the user to apply or remove filters. Interacting 
+with tables and graphs allows the user to focus on specific data points. Some visuals 
+have multiple layers. To enter deeper layers, press Enter. To go back to a higher layer, 
+press Esc. 
+
+When done interacting with a visual, press Esc to bring the focus to the top level of the 
+visual. From here, pressing Tab brings the user to the next visual. 
+
+Pressing Esc when on a visual’s top level moves the focus to the page level. At this level, 
+pressing Tab will go to the first visual on the page. Pressing Esc will exit the main content. 
+
+If the user exits the main content and presses Tab, a menu appears that can be 
+navigated with the Tab key (or Shift + Tab). Select from three options with the Enter key: 
+
+1.  Show keyboard shortcuts (displays a table of keyboard shortcuts). 
+
+2.  Show screen reader tips (opens a Microsoft webpage with screen reader tips). 
+
+3.  Skip to main content (returns to the first visual on the page).  
+
+Alternatively, press Tab to focus on the first visual on the current page. 
+
+18 
+
+ 
+Using Slicer Visuals 
+
+The Federal Workforce Dashboard uses several types of slicers: single-select vertical list, 
+single-select dropdown, multi-select vertical list, and multi-select dropdown. Slicers used 
+to select agencies and demographic groups include search bars. Slicers used to select 
+the calculation type and years do not include search bars.  
+
+All visuals, including slicers, have a context menu and a visual menu that allow the 
+visual to be displayed as a table. Those are discussed later in this manual. 
+
+Figure 13. Examples of Slicers 
+
+Single-Select Vertical List Slicers 
+
+Single-select vertical lists allow the user to select the calculation type on pages that 
+include line graphs. When the focus is on the slicer, press Enter. The focus will move to 
+the first option in the slicer—for example, the first calculation type, Participation 
+Numbers. Use the Down Arrow and the Up Arrow to move the focus to the desired 
+option. Pressing Enter applies a filter to only show the selected data. 
+
+To change a selection while on this layer of the visual, the user may again use the Down 
+Arrow or Up Arrow until the focus is on the desired option and then press Enter or the 
+Spacebar. 
+
+When done applying filters with this type of slicer, press Esc to move the focus to the first 
+layer of the slicer. To move to the next visual, press Tab or the Down Arrow. 
+
+19 
+
+ 
+ 
+ 
+Single-Select Dropdown Slicers 
+
+Depending on the page, single-select dropdown slicers allow the user to select 
+agencies, demographic groups, years, and/or grade bands. When the focus is on the 
+slicer, press Enter. The focus will move to the dropdown menu. Pressing Enter again, the 
+Up Arrow, or the Down Arrow displays the list of options in the dropdown menu.  
+
+In year and grade band single-select slicers, this moves the focus to either the first 
+option (when the dashboard is first opened) or the currently selected year or grade 
+band. The user may press the Down Arrow to cycle through the list of options. When the 
+focus is on the desired option, press Enter or the Spacebar. Only one option may be 
+selected. Selecting a new option clears the previous one. 
+
+In agency and demographic group single-select slicers, when focus is on the dropdown 
+menu, pressing Enter, the Up Arrow, or the Down Arrow displays the list of options in the 
+dropdown menu and also puts the cursor in the search bar. To limit the number of 
+options in the dropdown menu, type part of the name of the desired option in the 
+search bar. To clear the filter, delete the text in the search box. From the search bar, the 
+user may press the Down Arrow to cycle through the list of options. When the focus is on 
+the desired option, press Enter or the Spacebar. Only one option may be selected. 
+Selecting a new option clears the previous one. 
+
+When done selecting an option from the dropdown menu, the user may press Esc to 
+collapse the dropdown menu. Press Esc again to move the focus to the first layer of the 
+slicer. To move to the next visual, press Tab or the Down Arrow. 
+
+Multi-Select Vertical List Slicers 
+
+On the following pages, a multi-select vertical list slicer is used to allow the user to 
+compare multiple demographic groups or multiple agencies: 
+
+•  Race-Ethnicity-Gender by Demographic. 
+
+•  Disability by Disability Type. 
+
+•  Race-Ethnicity-Gender-Grade by Agency. 
+
+•  Race-Ethnicity-Gender-Grade by Demographic. 
+
+When the focus is on the slicer, press Enter. Depending on the current selections, this 
+may move the focus to the Clear Selections button or to the search bar. If the focus is 
+on the Clear Selections button, press Enter to clear all selections and display data for all 
+demographic groups. Alternatively, the user may press Tab to move the focus to the 
+search bar. To move the focus back to the first layer of the slicer, press Esc twice. 
+
+When the focus is on the search bar, the user may type part of the option’s name to 
+filter the list of options. To clear the filter, delete the text in the search box. To move the 
+focus to the list of options, press Tab or the Down Arrow. Pressing the Down Arrow again 
+moves the focus to the next option in the list. To select or unselect an option, the user 
+
+20 
+
+ 
+may press Enter or the Spacebar. Pressing the Tab key moves the focus to the Clear 
+Selection button. When the focus is on the list of options or on the search bar, press Esc 
+once to move the focus back to the first layer of the slicer.  
+
+After moving the focus back to the first layer of the slicer, the user may press Tab or the 
+Down Arrow to move to the next visual. 
+
+Multi-Select Dropdown Slicers 
+
+Multi-select dropdown slicers allow the user to choose multiple selections from one 
+category listed in a dropdown menu format. When the focus is on the slicer, press Enter. 
+Depending on the current selections, the focus may move to one of three places: the 
+Clear Selection button, the first option in the dropdown menu, or the search bar.  
+
+If the focus is on the Clear Selections button, the user may press Enter to clear all 
+selections and display data related to all options in the dropdown menu. Alternatively, 
+the user may press the Tab key or the Down Arrow to move the focus to the dropdown 
+menu. When the focus is on the Clear Selections button, press Esc twice to move the 
+focus back to the first layer of the slicer. 
+
+When the focus is on the dropdown menu, the user may press Enter, the Spacebar, or 
+the Down Arrow to open the dropdown menu. If the menu includes a search bar, the 
+user may type part of the option’s name to filter down results. To clear the filter, delete 
+the text in the search box.  
+
+To move the focus to the list of options, press the Down Arrow. Pressing the Down Arrow 
+again moves the focus to the next option in the list. To select or unselect an option, 
+press Enter or the Spacebar. Pressing the Tab key moves the focus to the Clear 
+Selection button. Pressing Esc closes the dropdown menu. The user may press Esc again 
+to move the focus to back to the first layer of the slicer.  
+
+After moving the focus back to the first layer of the slicer, press Tab or the Down Arrow 
+to move to the next visual. 
+
+21 
+
+ 
+ 
+ 
+Line Graphs 
+
+In the Federal Workforce Dashboard, line graphs display workforce participation data 
+at specified organizations for specified demographic groups over time. The x-axis shows 
+the fiscal year, while the y-axis shows the participation numbers or rates (depending on 
+user selection). 
+
+The graphs on the following pages include a line for the Agency of Interest and up to 
+two additional lines for the Agency Comparators: 
+
+•  Race-Ethnicity-Gender by Agency. 
+
+•  Disability by Agency. 
+
+The graphs on the pages below show a line for each demographic group selected in 
+the corresponding slicer: 
+
+•  Race-Ethnicity-Gender by Demographic. 
+
+•  Disability by Disability Type. 
+
+•  Race-Ethnicity-Gender-Grade by Demographic (one line per grade band). 
+
+The lines connect data points that represent participation calculations for each year for 
+the organization or demographic group.  
+
+When the focus is on the line graph visual, press Enter to move the focus to the plot 
+area. Press Tab or the Arrow keys to move the focus between the plot area and the 
+legend. 
+
+Figure 14. Example of a Line Graph 
+
+Navigating the Plot Area 
+
+When the focus is on the plot area, the user may press Enter to move the focus to a 
+data point. If it is the first time that the focus has been moved to a data point, the 
+
+22 
+
+ 
+ 
+ 
+program will focus the data point for the earliest year for the first organization, 
+demographic group, or grade band in alphabetical order. If the focus had been 
+moved to a data point previously in the same Power BI session, the focus will move to 
+the data point where the program focused most recently. 
+
+To move to the next data point on the same line, press the Tab key or the Right Arrow. 
+To move to the previous data point on the same line, press Shift + Tab or the Left Arrow. 
+When the focus gets to the rightmost data point on a line, pressing Tab or the Right 
+Arrow will move the focus to the next line. When the focus gets to the leftmost point on 
+a line, pressing Shift + Tab or the Left Arrow will move the focus to the previous line. 
+
+To move the focus to a data point in the same year on another line (e.g., a different 
+organization, demographic group, or grade band), press the Up Arrow. Once the last 
+organization, demographic group, or grade band in alphabetical order for that year is 
+reached, pressing the Up Arrow will move the focus to the first data point for the next 
+year. To move the focus to a data point in the same year for the previous organization, 
+demographic group, or grade band in alphabetical order, press the Down Arrow. 
+
+Selecting a data point highlights that data and applies a filter to the table on that page 
+to only show the selected data. To select or deselect a single data point, press Enter or 
+the Spacebar. To select multiple data points, select one data point, navigate to the 
+next desired point, and then press Ctrl + Enter. To clear all selections, press Ctrl + Shift + 
+C. 
+
+To move the focus up a layer to the plot area, the user may press Esc once. Pressing Esc 
+again will move the focus to the line graph visual layer. 
+
+Figure 15. Example of a Selected Data Point 
+
+Navigating the Legend 
+
+When the focus is on the line graph legend, the user may press Enter to move the focus 
+to the first category within the legend. Legend categories are the organizations, 
+demographic groups, or grade bands corresponding to lines on the graph.  
+
+23 
+
+ 
+ 
+ 
+To move between categories, press Tab, Shift + Tab, or the Arrow keys. When the focus 
+is on a legend category, pressing the Spacebar or Enter will select or deselect that 
+category. This will highlight that category’s data on the graph and filter the table to 
+only data from that category. To select multiple categories, press Ctrl + Spacebar. To 
+clear all selections, press Ctrl + Shift + C. 
+
+To move the focus up to the legend area, press Esc once. Pressing Esc again will move 
+the focus to the line graph visual layer. 
+
+Figure 16. Example of a Legend  
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+Bar Graphs 
+
+The Race-Ethnicity-Gender-Grade by Agency page contains a horizontal bar graph 
+displaying the within-grade band participation or participation rates for a single 
+demographic group in a single year at multiple agencies. The bars are clustered by 
+grade band with multiple agencies per cluster. The x-axis shows the participation 
+number or rates, while the y-axis shows the grade band. 
+
+On the bar graph, there are three high-level elements to navigate through: the grade 
+band labels on the y-axis, the legend, and the data bars. When the focus is on a bar 
+graph, press Enter to navigate through the visual. This will move the focus to the grade 
+band labels. When the focus is on the grade band labels, pressing Ctrl + Tab, the Left 
+Arrow, or the Up Arrow once will move the focus to the legend. Pressing Ctrl + Tab, the 
+Left Arrow, or the Up Arrow again will move the focus to the data bars. Pressing Ctrl + 
+Tab, the Left Arrow, or the Up Arrow a third time will move the focus back to the to the 
+grade band labels.  
+
+When the focus is on the grade band levels, pressing Tab, the Right Arrow, or the Down 
+Arrow will move the focus to the data bars. Pressing Tab, the Right Arrow, or the Down 
+Arrow again will move the focus to the legend. However, when the focus is on the 
+legend, pressing Tab, the Right Arrow, or the Down Arrow will move the focus out of the 
+bar graph visual and to the Agency of Interest slicer. To move the focus back to the bar 
+graph press Tab, the Down Arrow, or the Right Arrow to navigate through the other 
+visuals until the focus has returned to the top level of the bar graph visual. 
+
+Figure 17. Example of a Bar Graph 
+
+Navigating the Grade Band Labels 
+
+When the focus is on the set of grade band labels, pressing Enter moves the focus to 
+the GS 1-10 grade band. Press Tab, the Left Arrow, or the Right Arrow to navigate to the 
+other grade bands. Press Enter or the Spacebar to select a grade band. Selecting a 
+
+25 
+
+ 
+ 
+ 
+grade band highlights that grade band’s data bars and applies a filter to the table on 
+that page to only show the selected data. The user may select multiple grade bands 
+using Ctrl + Enter or Ctrl + Spacebar. To clear all selections, press Ctrl + Shift + C. To 
+return the focus to the set of grade band labels, press Esc. 
+
+Navigating the Data Bars 
+
+When the focus is on the set of grade band labels, pressing Tab will move the focus to 
+the plot area with the data bars. Pressing Enter will then move the focus to a single bar 
+(or data point). To navigate between bars, press Tab or the Arrow keys. To select a 
+single bar, press Enter or the Spacebar. To select multiple bars, press Ctrl + Enter or Ctrl + 
+Spacebar. This will highlight the selected data on the graph and filter the table to only 
+show the selected data.  
+
+Pressing Ctrl + Shift + C will clear all selections. To return the focus to the full plot area, 
+press Esc.  
+
+Navigating the Legend 
+
+When the focus is on the plot area, pressing the Tab key will move the focus to the 
+legend. Press Enter to move the focus to the first category within the legend. Legend 
+categories show the organizations corresponding to the bars on the graph.  
+
+To move between categories, press Tab, Shift + Tab, or the Arrow keys. Press the 
+Spacebar or Enter to select or deselect a specific category. This will highlight that 
+category’s data on the graph and filter the table to only show data from that category. 
+To select multiple categories, press Ctrl + Spacebar. 
+
+To clear all selections, press Ctrl + Shift + C. To move the focus up to the legend area, 
+press Esc once. Pressing Esc again will move the focus to the bar graph visual layer. 
+
+26 
+
+ 
+ 
+ 
+Table Visuals 
+
+In the Federal Workforce Dashboard, every page except the Intro page contains a 
+table visual. For example, on the Race-Ethnicity-Gender by Agency and Disability by 
+Agency pages, the table has one row per selected agency. The first column contains 
+the Agency Name. To the right, there is one column per year selected.  
+
+On the Race-Ethnicity-Gender by Demographic, Disability by Disability Type, and Race-
+Ethnicity-Gender-Grade by Demographic pages, the table has one row per selected 
+demographic group. The first column contains the demographic group. On the Race-
+Ethnicity-Gender-Grade by Demographic page, the first column also contains the 
+grade band. To the right, there is one column per year selected.  
+
+On the Race-Ethnicity-Gender-Grade by Agency page, the table has one row per 
+selected agency. The first column contains the Agency Name. To the right, there is one 
+column per grade band selected.  
+
+On the Race-Ethnicity-Gender by Grade page, the table has one row per selected 
+grade band. The first column contains the Agency Name, while the second column 
+contains the demographic group selected and the relevant grade band. After that, 
+there is one column per year selected.  
+
+On the Race-Ethnicity-Gender Table, Disability Table, and Race-Ethnicity-Gender-
+Grade Table pages, the first three columns are the Agency Name, the four-character 
+Agency Code, and demographic group. On these pages, the demographic group 
+column displays the demographic group and the calculation type corresponding to 
+the data on that row. On the Race-Ethnicity-Gender-Grade Table page, the 
+demographic group column also displays the grade band of the data. There are 
+additional columns for each year selected. The participation data are displayed in the 
+columns for each year. If more than one agency is selected, then these tables are 
+displayed in a nested fashion under each agency name. 
+
+On the Certification Status page, the first column contains the agency name, while the 
+second column contains the four-character Agency Code. On the right, there is one 
+column per year. The cells under the year columns identify the certification statuses. 
+
+Navigating the Table 
+
+When the focus is on a table, press Enter to begin navigating it. This will move the focus 
+to the leftmost column header. Press the Arrow keys to navigate to each cell in the 
+table. When the focus reaches the rightmost cell of a row, the user may press the Down 
+Arrow to move to the rightmost cell in the next row. 
+
+Alternatively, in non-nested tables, the user may press the Tab key to move the focus to 
+the cell to the right. When the focus reaches the rightmost cell, pressing Tab again will 
+move the focus to the leftmost cell on the next row. Shift + Tab moves the focus to the 
+
+27 
+
+ 
+left. (Using the Tab key to navigate nested tables is not recommended as not all cells 
+can be navigated to using the Tab key alone.) 
+
+To select or deselect a Year column, navigate to it and press Enter or the Spacebar. 
+When the focus is on a row header, press Enter or the Spacebar to select or deselect 
+that row. Pressing Enter or the Spacebar when on a cell selects or deselects that cell. To 
+make multiple selections, press Ctrl + Enter or Ctrl + Spacebar.  
+
+To clear all selections, the user may press Ctrl + Shift + C. To move the focus up to the 
+table visual layer, press Esc. 
+
+Figure 18. Example of a Table with a Cell Selected 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+Context Menus 
+
+Context menus provide the user with additional options. When the focus is on a visual or 
+visual element (e.g., option categories in slicers, data points in graphs, and cells in 
+tables), open the context menu by pressing Shift + F10 or the Menu key or by right-
+clicking. Once the context menu is open, navigate between options with the Arrow 
+keys and select an option by pressing Enter.  
+
+Depending on the type of visual or visual element, the options in the context menu may 
+vary. Page titles, text boxes, and static images have no available options in the context 
+menu. Some options in the context menu are also available in the visual menu, 
+described later in this manual. The most useful context menu options available in the 
+Federal Workforce Dashboard are described below.  
+
+Show as a Table 
+
+When the “Show as a table” option is selected on a visual, Power BI displays a canvas 
+with only that visual and a table. The visual functions the same as on the main page. For 
+slicers, the table lists all options in the slicer. For tables and graphs, the table displays the 
+data in a manner that can be read by a screen reader. 
+
+When in “Show as a table” mode, the user may zoom in or out by pressing Ctrl + Plus or 
+Ctrl+ Minus. This works on both the visual and the table. 
+
+The table in the “Show as a table” mode can be navigated one cell at a time using the 
+Arrow keys or the Tab key. Press the Page Up or the Page Down buttons to scroll 
+through long lists more quickly.  
+
+All visuals in the Federal Workforce Dashboard (except page titles, text boxes, and 
+static images) have a “Show as a table” option. This option also appears in the context 
+menus of categories in slicers, data points on graphs, and cells in tables. Regardless of 
+how the option is selected, it is applied to the entire visual. 
+
+When finished using the “Show as a table” mode, the user may return to the main page 
+by pressing Esc until the focus is on the “Back to report” button. Then press Enter. 
+
+Figure 19. Example of a Table Visual in “Show as a Table” Mode 
+
+Clear Selections 
+
+On a multi-select slicer, using the “Clear selections” option will deselect all currently 
+selected slicer options. When one or more data points in a graph or one or more cells 
+
+29 
+
+ 
+ 
+ 
+(including headers) are selected in a table, the “Clear selections” option will deselect 
+all currently selected data points or cells. 
+
+The Clear selections option is not available on single-select slicers. If the context menu is 
+opened from an option on a single-select slicer, “Clear selections” will appear as an 
+option, but it will not work. 
+
+Copy 
+
+The "Copy” option is available from the context menu when the focus is on one or more 
+cells in a data table. It has two sub-options: “Copy value” and “Copy selection.”  
+
+“Copy value” copies the value in the cell to the clipboard. The value will not be 
+rounded even if the value was rounded in the table. On the other hand, “Copy 
+selection” copies both the value and the information in the row and column headers in 
+a tab delimited format. 
+
+Options to Avoid 
+
+The user should avoid the Include and Exclude options while using the Federal 
+Workforce Dashboard. Slicers included in the Federal Workforce Dashboard eliminate 
+the need for these two options. These options hide data elements in a manner that 
+cannot be reversed easily. If these options are accidentally selected, press Ctrl + F5 to 
+refresh the webpage. 
+
+30 
+
+ 
+ 
+ 
+Visual Menus 
+
+When focusing on a table or graph, press Alt + Shift + F10 to open the visual menu. Press 
+the Tab or Arrow keys to navigate through the menu options. Examples of useful options 
+in the visual menu include copy as image with caption, focus mode, and more options. 
+When the focus is on more options, select enter to access export data, show as a table 
+(same as in the context menu), spotlight, get insights, and sort. Like the “Show as a 
+table” option, “Focus mode” focuses on a single visual on a separate canvas—but it 
+does not include a table. Spotlight dims all other visuals on the page to focus on the 
+spotlighted visual. 
+
+Users should avoid using the Include, Exclude, Drill up, Drill down, Expand, and Collapse 
+options. Slicers included in the Federal Workforce Dashboard eliminate the need for 
+these options. The Include and Exclude options hide data elements in a manner that 
+cannot be reversed easily. If these options are accidentally selected, the user should 
+refresh the webpage.  
+
+Due to the nature of the data in the Federal Workforce Dashboard, the Drill up, Drill 
+down, Expand, and Collapse options provide no additional function. It is possible to 
+reverse Drill up, Drill down, Expand, and Collapse without refreshing the webpage. 
+
+Additional Accessibility Resources 
+
+The Federal Workforce Dashboard was created using Microsoft Power BI which has 
+many features to allow persons with disabilities to interact with reports. Microsoft’s 
+website includes a page on Keyboard shortcuts in Power BI Desktop. 
+
+The following links also have useful information on Power BI accessibility features: 
+
+•  Overview of Accessibility in Power BI 
+
+•  Consume Power BI Reports by Using Accessibility Features. 
+
+Frequently Used Keyboard Shortcuts 
+
+To Perform This Action 
+
+Press 
+
+Show basic keyboard shortcuts 
+
+Move focus between pages 
+
+Move focus forward in a page 
+
+Move focus backward in a page 
+
+Shift + ? 
+
+Ctrl + F6 
+
+Tab 
+
+Shift + Tab 
+
+Select or clear selection of an object 
+
+Enter or Spacebar 
+
+Multi-select objects 
+
+Refresh page 
+
+Ctrl + Spacebar 
+
+Ctrl + F5 
+
+31 
+
+ 
+ 
+

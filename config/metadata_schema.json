@@ -1,0 +1,241 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ParaDocs Document Metadata Schema",
+  "description": "Standardized metadata schema for legal document management",
+  "type": "object",
+  "required": ["document_id", "document_type", "agency", "case_number", "created_date"],
+  "properties": {
+    "document_id": {
+      "type": "string",
+      "description": "Unique identifier for the document",
+      "pattern": "^[A-Z0-9-]+$"
+    },
+    "document_type": {
+      "type": "array",
+      "description": "Classification of document type(s)",
+      "items": {
+        "type": "string",
+        "enum": [
+          "EEOC_Charge",
+          "EEOC_Response",
+          "EEOC_Determination",
+          "FEMA_Termination",
+          "FEMA_Policy",
+          "Medical_Documentation",
+          "Interactive_Process",
+          "Accommodation_Request",
+          "Email_Communication",
+          "Legal_Brief",
+          "Evidence",
+          "Witness_Statement",
+          "Timeline_Document",
+          "Other"
+        ]
+      }
+    },
+    "agency": {
+      "type": "array",
+      "description": "Related agencies",
+      "items": {
+        "type": "string",
+        "enum": ["EEOC", "FEMA", "DOL", "OSHA", "OTHER"]
+      }
+    },
+    "regulation_refs": {
+      "type": "array",
+      "description": "Applicable regulations and statutes",
+      "items": {
+        "type": "string",
+        "pattern": "^[0-9]+_[A-Z]+_[0-9.()a-z]+$"
+      }
+    },
+    "case_number": {
+      "type": "string",
+      "description": "Case identifier",
+      "pattern": "^[A-Z0-9-]+$"
+    },
+    "event_date": {
+      "type": "string",
+      "description": "Date of the event described in document",
+      "format": "date"
+    },
+    "created_date": {
+      "type": "string",
+      "description": "Date document was created",
+      "format": "date"
+    },
+    "received_date": {
+      "type": "string",
+      "description": "Date document was received",
+      "format": "date"
+    },
+    "workforce_snapshot": {
+      "type": "string",
+      "description": "Date of workforce data snapshot for EEO-1 reporting",
+      "format": "date"
+    },
+    "naics_code": {
+      "type": "string",
+      "description": "North American Industry Classification System code",
+      "pattern": "^[0-9]{6}$"
+    },
+    "legal_entity": {
+      "type": "object",
+      "description": "Legal entity hierarchy",
+      "properties": {
+        "parent": {
+          "type": "string"
+        },
+        "children": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "keywords": {
+      "type": "array",
+      "description": "Searchable keywords and terms",
+      "items": {
+        "type": "string"
+      }
+    },
+    "parties": {
+      "type": "object",
+      "description": "Parties involved in the document",
+      "properties": {
+        "complainant": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "respondent": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "witnesses": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "representatives": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      }
+    },
+    "violations": {
+      "type": "array",
+      "description": "Alleged violations or claims",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": ["Discrimination", "Retaliation", "Hostile_Work_Environment", "Failure_to_Accommodate", "Wrongful_Termination", "Other"]
+          },
+          "basis": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": ["Race", "Color", "Religion", "Sex", "National_Origin", "Age", "Disability", "Genetic_Information", "Retaliation", "Other"]
+            }
+          },
+          "description": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "deadlines": {
+      "type": "array",
+      "description": "Important deadlines associated with document",
+      "items": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "description": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["Filing", "Response", "Discovery", "Hearing", "Appeal", "Other"]
+          }
+        }
+      }
+    },
+    "file_info": {
+      "type": "object",
+      "description": "File system information",
+      "properties": {
+        "original_filename": {
+          "type": "string"
+        },
+        "file_size": {
+          "type": "integer",
+          "description": "File size in bytes"
+        },
+        "file_hash": {
+          "type": "string",
+          "description": "SHA-256 hash of file content"
+        },
+        "mime_type": {
+          "type": "string"
+        }
+      }
+    },
+    "processing_info": {
+      "type": "object",
+      "description": "Document processing metadata",
+      "properties": {
+        "ocr_performed": {
+          "type": "boolean"
+        },
+        "ocr_confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "processed_date": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "validation_status": {
+          "type": "string",
+          "enum": ["Pending", "Validated", "Failed", "Needs_Review"]
+        },
+        "validation_errors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "audit_trail": {
+      "type": "array",
+      "description": "Document access and modification history",
+      "items": {
+        "type": "object",
+        "properties": {
+          "timestamp": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "action": {
+            "type": "string",
+            "enum": ["Created", "Modified", "Accessed", "Validated", "Indexed", "Exported"]
+          },
+          "user": {
+            "type": "string"
+          },
+          "details": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+} 

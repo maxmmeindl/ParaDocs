@@ -1,0 +1,2178 @@
+Guide to Appeal Brief Writing for Unrepresented Complainants  
+before the EEOC Office of Federal Operations 
+
+I. 
+
+Introduction 
+
+This guide helps people without legal training prepare written arguments 
+called appeal briefs. You will find general information, such as time requirements for 
+filing briefs, as well as helpful suggestions for organizing, formatting, and writing a 
+brief. 
+
+II.  General Information About Appeal Briefs and Due Dates 
+
+What is an appeal brief? 
+
+An appeal brief is an optional written document where the parties explain to the 
+EEOC Office of Federal Operations why an earlier decision by a federal agency or 
+EEOC Administrative Judge made a mistake or decided the case correctly. Two briefs 
+may be filed during the appeals process: 
+
+•  A brief or statement in support of the appeal. 
+
+This brief usually sets out the history of the case, explains to the EEOC Office of 
+Federal Operations the mistake or error that the previous decision made, and 
+argues why the previous decision should be reversed. 
+
+•  A brief or statement in opposition to the appeal. 
+
+This brief responds to the arguments raised in the brief in support of an appeal 
+(when filed by a complainant it is responding to an appeal by the agency) and sets 
+out arguments that the previous decision was correct and should be affirmed. 
+
+Due Dates for Filing Briefs 
+
+•  Brief or statement in support of the appeal. 
+
+A brief in support of an appeal must be filed within 30 calendar days of filing the 
+appeal.  
+
+•  Brief or statement in opposition to the appeal. 
+
+If the agency files an appeal and a supporting brief, you may file a brief in 
+opposition to the appeal within 30 calendar days from when you receive the 
+agency’s brief in support of its appeal.   
+
+ 
+ 
+ 
+ 
+•  Brief or statement in support of a request for reconsideration. 
+
+If you request the EEOC reconsider one of its prior appellate decisions, you can 
+submit a brief or statement to support your request for reconsideration. You must 
+file your brief at the same time as you file your request for reconsideration. 
+
+III.  How to File Your Brief 
+
+Online through the EEOC Public Portal (https://publicportal.eeoc.gov)   
+
+The EEOC Public Portal is a secure, web-based application that allows individuals 
+with discrimination complaints against the federal government to submit and receive 
+documents supporting their appeal. 
+
+If you use the Public Portal to submit your brief, the Public Portal will automatically 
+notify the agency; you do not need to send a copy to the agency. Even if you did not 
+file your appeal using the Public Portal, you may still file your brief using the Portal. 
+
+Mail by U.S. Postal Service 
+
+Mail your brief to: 
+
+Equal Employment Opportunity Commission 
+Office of Federal Operations 
+P.O. Box 77960 
+Washington, D.C. 20013 
+
+If you mail your brief to EEOC, you must mail a copy of your brief to the agency at 
+the same time. 
+
+IV.  How to Organize Your Brief 
+
+There is no required format for briefs, but you may find it helpful to organize your 
+brief into the following sections. 
+
+Coversheet 
+
+Because the filing of the appeal and brief can happen separately, a coversheet with 
+identifying information helps ensure that your brief will be paired with the right 
+appeal. A coversheet should have: the names of the parties, the Agency Complaint 
+Number, an EEOC Hearing Number (if applicable), and the EEOC Appeal Number. 
+Here is a sample: 
+
+2 
+
+ 
+ 
+ 
+ 
+U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION 
+
+OFFICE OF FEDERAL OPERATIONS  
+
+Jane Doe 
+
+Complainant, 
+
+vs. 
+
+U.S. Dept. of XYZ (Sub-agency) 
+
+Agency. 
+
+____________________ 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+)  
+
+) 
+
+) 
+
+EEOC Appeal No. 202100ZZZZ 
+
+EEOC Hearing No. (if applicable): N/A 
+
+Agency Case No. 123-ABC-XXX 
+
+Check which brief this is: 
+
+☒   BRIEF IN SUPPORT OF APPEAL 
+
+☐  BRIEF IN OPPOSITION TO APPEAL 
+
+Your Name:   
+
+Jane Doe 
+
+Address:  
+
+123 Anywhere Lane 
+
+Anytown, MD XXXXX 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Background Information on Discriminatory Actions; Procedural History of EEO 
+Complaint(s) 
+
+This section should explain in chronological order the discriminatory events that 
+happened which caused you to file an EEO complaint. List only the specific facts 
+connected to the issues on appeal. You may also describe the relevant procedural 
+history of the EEO complaint.  
+
+The EEOC Office of Federal Operations will generally only consider information that 
+was provided during the investigation or during the hearing process. This means now 
+you cannot include new facts or evidence that was not presented earlier. The only 
+exception is if you can show that the evidence was not reasonably available prior to or 
+during the investigation or during the hearing process.  
+
+If you can, you should include the specific page or pages in the record where that fact 
+can be found. See the section below on citations to the record for more information. 
+
+Standard of Review 
+
+When the EEOC Office of Federal Operations reviews an issue on appeal, it needs 
+some kind of rules or guidelines to determine whether the previous decision made an 
+error. Different kinds of rulings require different kinds of review guidelines. These 
+guidelines are called standards of review. The three most common standards of 
+review are: de novo review, substantial evidence, and clearly erroneous.  
+
+This section should state the standard of review the EEOC Office of Federal 
+Operations should apply to your appeal. To determine which standard of review 
+applies, use the table below to match the type of decision being appealed with the 
+corresponding standard of review. 
+
+What is being appealed? 
+
+Standard of review used on 
+appeal 
+
+Procedural final agency decision 
+
+De novo review 
+
+A final agency decision that 
+dismisses your complaint on 
+procedural grounds (such as failing 
+to state a valid claim of 
+discrimination, untimely contacting 
+an EEO counselor, or untimely 
+filing the EEO complaint). 
+
+What the EEOC Office of 
+Federal Operations will do under 
+this standard of review 
+The Commission will examine the 
+record without regard to the factual 
+and legal determinations of the 
+previous decision. The Commission 
+will review the documents, 
+statements, and testimony of record, 
+including any timely and relevant 
+submissions of the parties, and the 
+Commission will issue its decision 
+based on the Commission's own 
+assessment of the record and its 
+interpretation of the law. 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+Final agency decision on the 
+merits 
+
+De novo review 
+
+A federal agency’s final decision 
+that determines you were not 
+subjected to discrimination or finds 
+you were subjected to 
+discrimination but does not give 
+you the remedies you believe you 
+deserve. 
+
+De novo review 
+
+Summary judgment decision 
+(decision without a hearing) by 
+an EEOC administrative judge 
+
+An EEOC administrative judge 
+issues a decision in favor of one 
+party without a full hearing 
+
+Decision by an EEOC 
+administrative judge after a full 
+hearing 
+
+Substantial evidence for factual 
+findings (including whether there 
+was discriminatory intent) 
+
+5 
+
+Generally, no new evidence will be 
+considered on appeal unless a party 
+shows that the evidence was not 
+reasonably available prior to or 
+during the investigation or during 
+the hearing process. 
+The same as above, except 
+following de novo review, the 
+Commission will the examine the 
+merits of the employment 
+discrimination claims based on a 
+preponderance of the evidence.  
+
+Under this evidentiary standard, a 
+complainant satisfies the burden of 
+proof by offering evidence that 
+demonstrates their claim of 
+employment discrimination has a 
+greater than 50% chance to be true. 
+In other words, if a complainant can 
+convince the EEOC Office of 
+Federal Operations that 
+discrimination more likely than not 
+occurred, the complainant meets his 
+or her burden of proof, and the 
+Commission will find that 
+discrimination occurred. 
+Same as above, except the 
+Commission will determine if it 
+was appropriate for the EEOC 
+administrative judge to issue 
+summary judgment. Issuing 
+summary judgment is not 
+appropriate if a case can only be 
+resolved by weighing conflicting 
+evidence. 
+
+If the Commission finds that 
+summary judgment is appropriate, 
+the Commission will then examine 
+the merits of the employment 
+discrimination claims based on a 
+preponderance of the evidence (see 
+above for an explanation of 
+preponderance of the evidence). 
+The Commission will give 
+deference to an administrative 
+judge's post-hearing factual 
+findings based on evidence in the 
+record.  
+
+For example, an administrative 
+judge finds a management witness’ 
+testimony credible based on the 
+demeanor or tone of voice during 
+the hearing. The Commission will 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+De novo review for legal 
+determinations 
+
+Clearly erroneous standard 
+
+A previous appellate decision 
+issued by the EEOC Office of 
+Federal Operations  
+
+A party may request that the EEOC 
+Office of Federal Operations 
+reconsider one of its initial 
+decisions. 
+
+accept the administrative judge’s 
+credibility determination, unless 
+documents or other objective 
+evidence so contradicts the 
+testimony of the witness or the 
+testimony of the witness otherwise 
+so lacks in credibility that a 
+reasonable fact finder would not 
+credit it. 
+
+The Commission will review legal 
+determinations made by an 
+administrative judge or agency 
+without presuming that the previous 
+decision-maker was correct in 
+interpreting or applying the law. 
+The Commission may reconsider a 
+previous decision if a party 
+demonstrates that the earlier 
+appellate decision involved a 
+clearly erroneous interpretation of 
+material fact or law. Did the 
+previous decision make a clear, 
+obvious error that affected the 
+outcome of the appeal? 
+
+Understanding which standard of review will be used will help you make relevant 
+arguments to support your appeal.  
+
+For example, say you are alleging that a supervisor subjected you to sexual 
+harassment. Part of your allegations include an incident on May 4 when the 
+supervisor said that you were “my girl” and forcibly kissed you. The supervisor 
+testified that he did not say that phrase on May 4 and he gave you a friendly hug. In 
+terms of the “my girl” reference, he testified that on May 10 he used that phrase to ask 
+a male coworker what movie he was watching: “I asked the coworker whether he was 
+watching Forrest Gump, which is my girl, the phrase was there, or was it Old School, 
+which is my boy.” 
+
+Scenario 1: Appeal from a final agency decision on the merits 
+
+The agency issued a final decision, finding no discrimination because the 
+supervisor’s testimony was more credible.  
+
+On appeal, the standard of review is de novo review, which means the 
+Commission does not have to defer to the Agency’s credibility determinations.  
+
+In your brief, you can argue in detail why your version is more credible than 
+the supervisor’s version. You may argue, for example, that the supervisor had 
+made prior inconsistent statements; he was biased; the supervisor’s version is 
+contradicted by other coworkers who witnessed the conversation and your 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+appearance and reaction after the forcible kissing; or the inherent 
+improbability of the supervisor’s version of events. See, e.g., Complainant v. 
+Department of the Army, EEOC Appeal No. 0120111865 (July 9, 2014) 
+(finding the supervisor's account, that he juxtaposed the phrase "my girl" with 
+asking whether someone was watching "Forrest Gump" to be implausible.), at 
+https://www.eeoc.gov/sites/default/files/migrated_files/decisions/0120111865.
+txt 
+
+Scenario 2: Appeal from an administrative judge’s summary judgment decision 
+
+An EEOC administrative judge issued a summary judgment decision in favor 
+of the Agency. The administrative judge found it appropriate to issue summary 
+judgment because there was no genuine issue of material fact, even when all 
+the evidence was considered in the light most favorable to the complainant. 
+The administrative judge then determined that the complainant failed to prove 
+she was subjected to sexual harassment. 
+
+On appeal, the standard of review is de novo review, which means the 
+Commission does not have to defer to the administrative judge’s factual 
+findings or legal determinations. 
+
+In your brief, you cannot simply repeat the same arguments made in scenario 
+1. Rather, you should argue that the administrative judge made a mistake in 
+granting summary judgment because this case can only be resolved by 
+weighing conflicting evidence.  
+
+For example, you can argue that your testimony, and the testimony of other 
+coworkers, establish that on May 4, your supervisor verbally harassed you by 
+trying to claim possession over you when he declared you were “my girl.” 
+Moreover, he made unwelcome physical contact by forcibly kissing you. The 
+supervisor testified that this conversation never took place on May 4, and 
+instead refers to a different conversation with a different coworker on May 10. 
+Moreover, he denied kissing you and instead gave a consensual friendly hug. 
+The only way to resolve this conflicting evidence about what happened on 
+May 4 is to hold a hearing. Therefore, you ask the Commission to reverse the 
+administrative judge’s summary judgement decision and remand the matter for 
+a hearing. 
+
+Scenario 3: Appeal from an administrative judge’s decision after a full hearing 
+
+An EEOC administrative judge conducts a full hearing and listens and 
+observes the witnesses as they testify. After the hearing, the administrative 
+judge issues a decision, finding the supervisor more credible and concluding 
+that there was no sexual harassment. 
+
+7 
+
+ 
+On appeal, the standard of review is substantial evidence for post-hearing 
+factual findings. This means the Commission will accept the administrative 
+judge’s credibility determination, unless the complainant shows one of two 
+things: 
+
+o  documents or other objective evidence so contradicts the testimony of the 
+
+o 
+
+supervisor that a reasonable fact finder would not credit it; or 
+the testimony of the supervisor otherwise so lacks in credibility that a 
+reasonable fact finder would not credit it. 
+
+In your brief, you cannot simply repeat the same arguments made in scenarios 
+1 or 2. Instead, you could try to highlight documents or other objective 
+evidence that casts great doubt on the credibility of the supervisor’s testimony. 
+For example, you can point to contemporaneous emails or text messages from 
+the supervisor who consistently expressed his belief that “You are my girl.” 
+His subsequent texts after the incident also reference the kiss. Such 
+documentary evidence so contradicts the supervisor’s testimony at the hearing 
+that the administrative judge should not have credited it. 
+
+The Law That Should Be Applied 
+
+If you believe that the previous decision applied the wrong law to your case, explain 
+in this section what law should be applied to decide your appeal. Legal authorities 
+may include EEOC regulations, laws passed by the U.S. Congress, judicial decisions, 
+especially those issued by the U.S. Supreme Court, and EEOC federal sector 
+administrative appellate decisions.  
+
+It may be difficult for people representing themselves to determine the appropriate 
+law. If you are not able to figure this out, you can skip this section. 
+
+Arguments on Appeal 
+
+If you are the appealing party, explain in this section why the previous decision was 
+wrong. For example, did the previous decision incorrectly decide the facts? If so, 
+what facts? If you can, you should include the specific page or pages in the record 
+where that fact can be found. This allows the EEOC Office of Federal Operations to 
+understand whether a factual assertion is accurate. If you do not provide supporting 
+cites for factual statements, it is harder for the EEOC Office of Federal Operations to 
+fairly consider the factual arguments you raise. 
+
+If you think the previous decision applied the wrong law, how should the case be 
+decided if the EEOC applied the right law? Do you feel that there are other reasons 
+why the previous decision was wrong? If so, what are they? If making multiple 
+arguments, you may want to use headings to separate each argument.  
+
+8 
+
+ 
+If you are the party opposing the appeal, explain why the previous decision was 
+correct. 
+
+It is important to include all of your arguments in your brief. If you later submit an 
+additional brief, it may not be considered by the EEOC Office of Federal Operations 
+because each party is allowed only one brief. 
+
+Actions that EEOC Should Take in This Appeal 
+
+Explain what you want the EEOC Office of Federal Operations to do to the previous 
+decision: reverse or change the previous decision; affirm or keep the previous 
+decision; or some other action.  
+
+Additionally, if the Commission will determine in this appellate decision whether you 
+were discriminated or not, what type of relief do you want if the Commission finds in 
+your favor? The types of relief available are listed in the sample briefs. 
+
+Certificate of Service 
+
+Include the date the brief was sent to OFO and the way you filed it (Public Portal, 
+U.S. Mail, FedEx, etc.) and, if mailed, the date a copy was sent to the agency and how 
+it was sent to the agency. 
+
+Here is a sample: 
+
+CERTIFICATE OF SERVICE 
+
+I certify that on September 15, 2021, this brief was filed with the EEOC’s Office of Federal 
+Operations and served on the Agency, U.S. Dept. of XYZ, via the EEOC Public Portal.   
+
+Jane Doe 
+
+V.  How to Format Your Brief 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+There is no required format for briefs, but you may find helpful the following suggestions for 
+formatting. 
+
+Font and Font Size 
+
+For typed briefs, a font size between 12 to 14 will help with legibility and readability.  
+
+While the EEOC accepts handwritten briefs, we do not recommend it. 
+
+Citations to the Record 
+
+You should follow every factual statement that you make in your brief with a citation 
+to the record. The record contains all of the paperwork filed in the EEO process, 
+which usually includes the report of investigation, exhibits, the administrative hearing 
+transcript, motions, orders, and the final decision or action from the case. Citing to the 
+record will help the EEOC Office of Federal Operations understand whether a factual 
+assertion is accurate. If you do not provide supporting cites for every factual 
+statement, it is harder for the EEOC Office of Federal Operations to fairly consider 
+the issues you raise. 
+
+If you refer to documents in: 
+
+o 
+
+the Report of the Investigation, cite to them as (ROI __) and put the page 
+number in the blank; 
+
+o  an exhibit, cite to them as (Exh. __ at ___) and put the exhibit number in 
+
+the first blank and the relevant page number from that exhibit in the second 
+blank; 
+
+o  The hearing transcript, cite to them as (Tr. ___) and put the page number in 
+
+the blank. 
+
+For example, if you say in your brief, "The Agency denied my request for reasonable 
+accommodation on July 14, 20XX” you should provide a citation to the record to 
+support that statement. 
+
+o  “The Agency denied my request for reasonable accommodation on July 14, 
+20XX.” (ROI 110). (ROI 110) means that on page 110 of the Report of 
+Investigation, there is a document that supports the statement that you were 
+denied a reasonable accommodation on July 14, 20XX. Page 110 may be 
+an email from the disability program manager informing you of the denial, 
+or an affidavit where your supervisor testified that he told you about the 
+denial in a meeting on that date. 
+
+o  “The Agency denied my request for reasonable accommodation on July 14, 
+20XX.” (Exh. 2b, at 3). (Exh. 2b, at 3) means that page 3 of Exhibit 2b 
+contains a document that supports the statement that you were denied a 
+reasonable accommodation on July 14, 20XX. Page 3 of Exhibit 2b may 
+
+10 
+
+ 
+ 
+contain an official letter of denial of your reasonable accommodation 
+request. 
+
+o  “The Agency denied my request for reasonable accommodation on July 14, 
+20XX.” (Tr. 301). (Tr. 301, 346-47) means that pages 301, 346, and 347 of 
+the hearing transcript contain testimony that supports the statement that 
+you were denied a reasonable accommodation on July 14, 20XX.” Page 
+301 may be testimony from the disability program manager recounting 
+when the email was sent informing you of the denial. Pages 346 to 347 
+may be testimony from your supervisor about being copied on the email 
+notifying you of the denial of reasonable accommodation. 
+
+When you are citing to documents contained in the Report of Investigation or other 
+parts of the record, you do not need to attach copies of those documents to your brief. 
+The agency is required to submit a copy of the record including: the complaint file, 
+Report of Investigation, and any documents once the case went before an EEOC AJ 
+(if applicable). However, if you believe there is something missing from the agency’s 
+record, please discuss this information in your brief and, if possible, attach a copy of 
+the document or other evidence you believe is missing. 
+
+Citations to Case Law 
+
+Case law are legal propositions that are based on administrative appellate and judicial 
+decisions rather than on statutes. You do not need to cite to case law in your brief. But 
+if you are aware of a case supporting your argument, you may cite to it.  
+
+Where can you research case law?  
+
+•  You can read published administrative appellate decisions at 
+https://www.eeoc.gov/federal-sector/appellate-decisions.  
+
+•  Particularly noteworthy administrative appellate decisions are listed at 
+
+https://www.eeoc.gov/federal-sector/selected-noteworthy-federal-sector-appellate-
+decisions.  
+
+•  You can review summaries of decisions by topic in the Digest of Equal 
+
+Employment Opportunity Law, at https://www.eeoc.gov/digest.  
+
+While there is no required format for citing to a case, this is the way we cite previous 
+EEOC administrative appellate decisions: 
+
+• 
+
+Initial EEOC appellate decision: the name of complainant or pseudonym v. the name 
+of the agency (the name of the subagency is in parenthesis), EEOC Appeal No. 
+_____ (date of the decision). 
+
+11 
+
+ 
+ 
+ 
+Example: Jones v. U.S. Department of Justice (Federal Bureau of Prisons), EEOC 
+Appeal No. 01996624 (Nov. 1, 2001). 
+
+•  EEOC decision upon a request for reconsideration: the name of complainant or 
+
+pseudonym v. the name of the agency (the name of the subagency is in parenthesis), 
+EEOC Request No. _____ (date of the decision). 
+
+Example: Adams v. U.S. Department of Justice (Federal Bureau of Prisons), EEOC 
+Request No. 05990718 (May 16, 2001). 
+
+•  EEOC decision upon a petition for review of a decision by the U.S. Merits Systems 
+Protection Board: the name of complainant or pseudonym v. the name of the agency 
+(the name of the subagency is in parenthesis), EEOC Petition No. _____ (date of the 
+decision). 
+
+Example: Petitioner v. Department of Homeland Security, EEOC Petition No. 
+0320110053 (July 10, 2014) 
+
+When looking for complainant’s names in decisions, you may find some published 
+decisions do not list complainants’ names. This is because from October 2013 to 
+October 2015, the Commission used the term “Complainant” or “Petitioner” in the 
+caption of cases, rather than complainants’ names to protect privacy interests. After 
+October 1, 2015, all federal sector appellate decisions issued for publication use a 
+randomly generated name as a substitute for the name of the complainant. This 
+randomly generated name consists of a first name and last initial, and is assigned 
+using a computer program that selects names from a list of pseudonyms bearing no 
+relation to the complainant's actual name. 
+
+VI.  What To Focus on in Your Brief 
+
+Briefs Involving Appeals from Procedural Dismissals 
+
+If the Agency or AJ dismissed a complaint on “procedural” grounds (such as untimely 
+EEO Counselor contact, failure to state a claim, etc.), rather than making a 
+determination as to whether or not discrimination occurred (on the “merits”), you 
+should not argue the merits of the complaint in your brief.  Rather, you should focus 
+on what you believe is improper about the Agency’s procedural dismissal.   
+
+For example, if the agency dismissed your complaint on the grounds that the formal 
+complaint was not filed within 15 days of receipt of the Notice of Right to File, you 
+should clearly state in your brief why your formal complaint should be considered 
+timely by clearly identifying significant dates, such as receipt of the Notice of Right 
+
+12 
+
+ 
+ 
+ 
+ 
+to File and the manner and date that the formal complaint was filed.  If you have 
+proof of those dates (such as a certified-mail receipt or a copy of an e-mail), attach a 
+copy to your brief and “cite” or reference it in the brief.   
+
+Please refer to Attachment I for a sample brief involving an appeal from a procedural 
+dismissal. 
+
+Briefs Involving Appeals from Final Agency Decisions/Final Order on the Merits  
+
+If you are appealing a final agency decision or final order on the merits of the 
+complaint that found that discrimination did not occur, your brief should focus on 
+why you believe the agency’s/Administrative Judge ‘s (AJ’s) finding is incorrect.  For 
+example, if you believe that the agency/AJ overlooked or misinterpreted a significant 
+fact, the brief should discuss, in detail, what specific facts were overlooked or 
+misinterpreted and should reference specific documents or testimony in the record 
+that support your position.  If you believe the agency/AJ misapplied the law, the brief 
+should set forth in detail the agency’s/ AJ’s error.  If the decision involved an AJ 
+issuing a merits decision without a hearing (summary judgment), the brief should set 
+forth why the matter should be sent back for a hearing, such as if the AJ needs to 
+make specific credibility determinations or if the record is not adequately developed. 
+
+Please refer to Attachment II for a sample brief involving an appeal from a final 
+agency decision on the “merits." 
+
+Brief in Opposition to Appeal 
+
+If an AJ reached a decision that was partly or entirely in your favor, and the agency 
+disagrees with that decision, the agency must file an appeal with the EEOC. The 
+agency will then submit a brief in support of its appeal, and you will have the 
+opportunity to respond by submitting an opposition brief.  Your brief should address 
+each of the arguments raised by the agency in its brief. 
+
+Briefs Involving Appeals from Final Determinations Finding No Breach of 
+Settlement Agreements or Agency’s Failure to Implement Its Own Decision 
+
+If you are appealing a final determination finding no breach of an EEO Settlement 
+Agreement or an agency’s own decision finding discrimination, your brief should 
+clearly identify what specific provisions of the settlement agreement or agency 
+decision you believe to have been breached and why you believe the agency’s 
+reasoning finding no breach is incorrect; or what remedy the agency promised in its 
+decision that it has not provided. 
+
+Briefs in Support of Requests for Reconsideration 
+
+If you are submitting a brief in support of a request for reconsideration, your brief 
+should focus on: a) that OFO’s initial decision involved a clearly erroneous 
+
+13 
+
+ 
+interpretation of material fact or law; or b) OFO’s initial decision will have a 
+substantial impact on the policies, practices, or operations of the agency.  
+
+A fact or point of law is “material” if changing it would affect the outcome of the 
+case. You should clearly specify what material facts/law were misinterpreted in 
+OFO’s initial decision and reference documents and/or testimony in support of your 
+argument. A request for reconsideration is not a second chance at an appeal and you 
+must identify and address what you believe are errors in the original appellate 
+decision upon which reconsideration is sought. 
+
+VII.  Sample Briefs 
+
+Attachments I and II provide sample briefs. Attachment I is a sample brief involving an 
+appeal of a procedural dismissal. Attachment II is a sample brief involving an appeal of a 
+decision on the merits of a claim of discrimination.  
+
+VIII. Checklist for Filing Your Brief 
+
+You may find the following checklist helpful when submitting your brief. 
+
+  
+
+Clarity and Conciseness 
+
+  
+
+   
+
+   
+
+Stay focused on your arguments and avoid providing too much background 
+information or irrelevant information. Avoid using legal jargon. 
+
+Timeliness 
+Pay close attention to the deadlines for filing your appeal and brief. Failure to 
+follow time requirements may result in the denial of your appeal or the EEOC 
+Office of Federal Operations not considering your brief. 
+
+Cite to the Record 
+Reference the documents and testimony in the record that support your 
+arguments.   
+
+Typed 
+Typed briefs are preferred, but not required. If your brief is handwritten, 
+please make sure that the handwriting is legible so that other people will be 
+able to read your handwriting. 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Inclusion of All Arguments 
+Please include all your arguments in your initial brief. Commission regulations 
+do not provide for the submission of supplemental briefs. 
+
+IX.  What Happens After You File Your Appeal and Brief? 
+
+The Parties File Their Briefs 
+
+If you file an appeal, the Agency may submit an opposition brief. At times, EEOC 
+may request additional information or missing documents from the parties.   
+
+The EEOC Office of Federal Operations Reads the Briefs, Reviews the Record, 
+Performs Legal Research, and Issues a Decision 
+
+An attorney in the EEOC Office of Federal Operations will be assigned to your 
+appeal. The attorney will carefully review the record that was sent by the agency, read 
+the briefs and understand the arguments raised in those briefs, perform legal research, 
+and issue decisions.  
+
+How Long Will It Take for EEOC to Issue a Decision on Appeal? 
+
+Due to the volume of appeals, we cannot predict how quickly you will receive your 
+decision on your appeal. Usually, the EEOC Office of Federal Operations issues a 
+decision on a “procedural” appeals within 6-10 months after the filing of the appeal. 
+A decision on a “merits” appeal, where a previous decision determined whether 
+discrimination occurred, typically takes more time. 
+
+If the case is complicated or there is disagreement on the outcome, it may take longer.  
+
+How Can I Check the Status of My Appeal? 
+
+If you are registered on the EEOC Public Portal (https://publicportal.eeoc.gov), you 
+can check the status of your appeal on the Portal through your account. Telephone 
+and email status inquiries simply provide the same information as is available on the 
+Public Portal. 
+
+What Can I Do If I Feel the EEOC’s Appellate Decision Made an Obvious 
+Mistake? 
+
+If you wish to dispute the appellate decision issued by the EEOC Office of Federal 
+Operations, you may file a “request for reconsideration” with the EEOC. 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What Happens After the Administrative Appellate Process Is Over?  
+
+o  EEOC Office of Federal Operations Decides In Your Favor 
+
+If you prevailed on a “procedural” appeal, your complaint will most likely be 
+sent back either to the agency or to an EEOC administrative judge for further 
+proceedings, depending on where your complaint was in the EEO process 
+before it was dismissed. A compliance officer in the EEOC Office of Federal 
+Operations will monitor developments to make sure the Agency complies with 
+the orders in the appellate decision. 
+
+If you prevailed on a “merits” appeal, your complaint will most likely be sent 
+back either to the agency or to an EEOC administrative judge to determine 
+what type and amount of relief to award you. If you later disagree with the 
+relief you received, you can appeal the relief ordered to the EEOC Office of 
+Federal Operations. A compliance officer in the EEOC Office of Federal 
+Operations will monitor developments to make sure the Agency complies with 
+the orders in the appellate decision. 
+
+o  EEOC Office of Federal Operations Decides in the Agency’s Favor 
+
+If you did not prevail in your case, you may file a civil action in federal district 
+court. The decision issued by the EEOC Office of Federal Operations will 
+provide information on your right to file a civil action. 
+
+However, the question of which federal district court may have personal and 
+subject matter jurisdiction to hear your case is legal in nature, and the answer 
+will depend on the specific circumstances surrounding your situation. 
+Additionally, each federal district court may have its own specific rules and 
+procedures and forms for filing civil actions, so you should contact the clerk of 
+that district court to find out what you need to do to file a civil action. Because 
+of these nuances, and because EEOC is an executive branch agency and the 
+federal district courts are part of the judicial branch with its own procedures 
+and legal rules, the EEOC Office of Federal Operations cannot provide 
+complainants specific instructions in its appellate decisions for where or how 
+to file civil actions.  
+
+However, some of these resources may be helpful: 
+
+  The US Department of Justice publishes a Civil Resource Manual, and 
+one section talks about where civil actions can be brought against 
+government officers and agencies: https://www.justice.gov/jm/civil-
+resource-manual-41-venue-government-officers-and-agencies-
+defendants 
+
+16 
+
+ 
+ 
+  The website for the United States Courts has an FAQ that answers 
+some of the most common questions about filing a case in federal 
+court: https://www.uscourts.gov/faqs-filing-case 
+
+  The United States Courts website has a "federal court finder" where 
+
+you can search for a federal court by location:  
+https://www.uscourts.gov/federal-court-finder/search 
+
+X.  Glossary of Terms 
+
+Administrative Judge   An EEOC employee who independently decides discrimination complaints of federal 
+
+Affidavit 
+
+Affirm 
+
+AJ 
+
+Appeal 
+
+Appellate 
+
+Argument 
+
+Attorney's fees  
+
+Brief 
+
+employees. An administrative judge will issue a variety of orders designed to ensure fair 
+and expeditious processing of a complainant’s case, will analyze the applicable law and 
+the evidence and issue a decision. 
+
+A written statement that is signed under the penalty of perjury and sworn to before a 
+person who is officially permitted by law to administer an oath. 
+
+When the EEOC Office of Federal Operations says that a previous decision was right. 
+
+An acronym for an EEOC Administrative Judge. 
+
+A review by the EEOC Office of Federal Operations of what happened in a previous 
+decision to determine if any mistakes happened and if the mistakes are significant enough 
+to reverse or remand the decision. 
+
+Having to do with appeals. 
+
+Section of the brief that explains your side of the case. A brief in support of the appeal 
+uses this section to show how the previous decision made a mistake in deciding the case. 
+A brief in opposition to the appeal uses this section to respond to the opposing party’s 
+arguments, and show why the previous decision is correct. 
+
+If the complainant wins the appeal and is represented by an attorney, the EEOC Office of 
+Federal Operations may order the losing federal agency to pay all or part of the attorney’s 
+fees. 
+
+A written statement that each side may give to the EEOC Office of Federal Operations 
+that explains why the EEOC should decide that they are right. A brief presents a party’s 
+arguments about the issues on appeal and cites to legal authorities (such as statutes, 
+regulations, or case law) to support their positions. A brief in support of the appeal argues 
+why the previous decision was an error or mistake; a brief in opposition to the appeal 
+argues why the previous decision was correct. 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Case law  
+
+Citation 
+
+Civil Action 
+
+Legal propositions that are based on administrative appellate and judicial decisions rather 
+than on statutes. You can read published administrative appellate decisions at 
+https://www.eeoc.gov/federal-sector/appellate-decisions. Particularly noteworthy 
+administrative appellate decisions are listed at https://www.eeoc.gov/federal-
+sector/selected-noteworthy-federal-sector-appellate-decisions. 
+
+This term can have two meanings. First, it is a reference to a legal authority, such as a 
+case that has already been decided by EEOC, a court, a statute, or the United States 
+Constitution. Second, it is a reference to the record or the hearing transcript in the case. 
+
+A noncriminal lawsuit that begins with a complaint. The plaintiff is the party filing the 
+complaint, and the defendant is the party defending against the complaint’s allegations. 
+The complaint describes the plaintiff’s damages or injury, explains how the defendant 
+caused the harm, shows that the court has jurisdiction, and asks the court to order relief.   
+
+Complaint File 
+
+An electronic document assembled by an agency that includes all various documents and 
+information acquired during fact-finding. The complaint file should include, when 
+applicable: 
+
+• 
+
+• 
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+• 
+
+• 
+
+• 
+• 
+• 
+
+the EEO Counselor's report and all documents generated in the informal process, 
+including the notice of right to file a complaint 
+the formal EEO complaint and documents submitted by the complainant. 
+the agency's notice of claims to be investigated; copies of any other documents 
+bearing on delineation of the claims to be investigated; documents pertaining to the 
+partial dismissal of claim(s) and/or the notice of late investigation 
+documented attempts at resolution, including any settlement agreement reached on 
+any aspect of the complaint; however, documentation should not include the 
+substance of such attempts. 
+any documentation of appellate activity and any decisions affecting the processing of 
+the complaint if any 
+the summary of investigation/summary analysis of the facts. The summary should 
+cite to exhibits and evidence and be signed and dated by the investigator. 
+the investigative evidence and documents. 
+all pre-hearing submissions, including those relevant to summary judgment, and all 
+discovery documentation, and motions, orders, exhibits, and transcripts. 
+all submissions from an administrative hearing, including motions, exhibits, and 
+transcripts. 
+the decision(s) of the Commission's Administrative Judge. 
+the Final Agency Action and any documentation related to service on the parties. 
+any miscellaneous material. 
+
+Compliance 
+
+De novo 
+
+An administrative process to make sure a federal agency complies with the orders of 
+EEOC’s federal sector administrative appellate decisions. 
+
+A standard of review used by the EEOC Office of Federal Operations when reviewing 
+decisions or actions issued by other federal agencies. The EEOC Office of Federal 
+Operations will consider the issues by taking a fresh look at the case and review the 
+evidentiary documents, statements, and testimony of record, including any timely and 
+relevant submissions of the parties. The Commission will issue its decision based on its 
+own assessment of the record and its interpretation of the law. 
+
+18 
+
+ 
+ 
+ 
+Decision 
+
+Deposition 
+
+Discovery 
+
+EEO 
+
+Evidence 
+
+Exhibit 
+
+FAD 
+
+File 
+
+Final Action 
+
+A judgment or order that settles a dispute and decides an issue. 
+
+An out-of-court statement given under oath by any person involved in the case. 
+Commonly used during the discovery process in preparation for a hearing. Depositions 
+usually consist of an oral examination, followed by cross-examination by the opposing 
+side. 
+
+A process of exchanging information between the parties about the witnesses and 
+evidence they will present at a hearing. One of the most common methods of discovery is 
+to take depositions. A deposition is an out-of-court statement given under oath by any 
+person involved in the case. It is to be used at a hearing or in preparation for a hearing. 
+
+An acronym that stands for Equal Employment Opportunity 
+
+Any proof legally presented during an investigation or an administrative hearing through 
+witnesses, records, and exhibits. 
+
+A paper, document, or other physical object received by an EEOC administrative judge 
+as evidence during an administrative hearing. Or it can mean a document or an object 
+shown and identified in an investigation or administrative hearing as evidence in a case. 
+
+An acronym for Final Agency Decision. 
+
+When a person officially gives a paper to a federal agency or the EEOC Office of Federal 
+Operations and that paper becomes part of the record of a case. 
+
+An agency final action involves agency issuance of a final order to the complainant. The 
+final order informs the complainant whether the agency will fully implement the decision 
+of an EEOC Administrative Judge and contains notice of the complainant's right to 
+appeal to the Commission. The term “fully implement” means that the agency adopts 
+without modification the decision of an EEOC Administrative Judge. If the agency's final 
+order advises the complainant that the agency will not fully implement the decision of the 
+Administrative Judge, the agency must file an appeal of the decision with the 
+Commission simultaneously with issuing the final order to the complainant. In this way, 
+an agency will take final action on a complaint referred to an Administrative Judge by 
+issuing a final order, but it will not be provided with the opportunity of introducing new 
+evidence or writing a new decision in the case. 
+
+Final Agency Decision  A decision issued by an agency that either (1) dismisses an EEO complaint on procedural 
+
+grounds, or (2) examines the evidence after completing an investigation and determines 
+whether complainant was subjected to discrimination. 
+
+Final Judgment 
+
+Final decision by an EEOC Administrative Judge. This judgment resolves all of the 
+issues that were presented in the administrative hearing. 
+
+Final Order 
+
+The final order informs the complainant whether an agency will fully implement the 
+decision of an EEOC Administrative Judge and contains notice of the complainant's right 
+to appeal to the Commission. The term “fully implement” means that the agency adopts 
+without modification the decision of an EEOC Administrative Judge. If the agency's final 
+order advises the complainant that the agency will not fully implement the decision of the 
+Administrative Judge, the agency must file an appeal of the decision with the 
+Commission simultaneously with issuing the final order to the complainant. 
+
+Finding 
+
+When a factfinder, such as a federal agency, an administrative judge, or the EEOC Office 
+of Federal Operations, says something is a fact. 
+
+19 
+
+ 
+ 
+Formal Complaint 
+
+Hearing 
+
+A formal discrimination complaint that is filed with an agency’s EEO office. The formal 
+complaint must be a signed statement from the complainant or the complainant's attorney, 
+containing the complainant’s (or representative’s) telephone number and address, and 
+must be sufficiently precise to identify the complainant and the agency, and describe 
+generally the action or practice which forms the basis of the complaint. 
+
+An administrative proceeding with an EEOC Administrative Judge and opposing sides 
+present. The purpose of a hearing is to make a full and accurate record of the events a 
+complainant raised in the EEO complaint. The EEOC Administrative Judge will then use 
+this record to decide whether discrimination occurred. 
+
+IF 
+
+An acronym for Investigative File. 
+
+Interrogatory 
+
+Investigation 
+
+A list of questions one party sends to another as part of the discovery process. The 
+recipient must answer the questions under oath. 
+
+An investigation of a formal complaint of discrimination is an official inquiry into claims 
+raised in an EEO complaint. EEO investigations may include a variety of fact-finding 
+methods such as interviews, a fact-finding conference, requests for information, 
+interrogatories, and/or affidavits. 
+
+Investigative File 
+
+ A factual record assembled by an EEO investigator that will allow a fact finder to 
+determine whether discrimination occurred. This record is sometimes also called a 
+“Report of Investigation.”  The Investigative File should include: 
+
+Lawyer 
+
+Motion 
+
+Notice of Appeal 
+
+Oath 
+
+Order 
+
+• 
+• 
+• 
+• 
+• 
+
+a summary of the investigation, 
+informal counseling documents, 
+the formal EEO complaint, 
+all statements, affidavits, and declarations from the investigation, 
+all documents submitted by the parties. 
+
+A person licensed to practice law. Every state has a Bar Association, which can provide a 
+lot of useful information about the lawyers in its state. Additionally, the National 
+Employment Lawyers Association may have members who can help complainants. 
+
+The document a party files to ask an EEOC Administrative Judge to do something or to 
+permit one of the parties to do something. Typically, one party files a motion. Then the 
+opposing party files an opposition. After reviewing both, the EEOC administrative judge 
+will make a decision on the motion. 
+
+A document filed in the EEOC Office of Federal Operations that states you are appealing 
+the previous decision. This document starts the appeal. Complainants should use EEOC 
+Form 573, Notice of Appeal/Petition, available at https://www.eeoc.gov/federal-
+sector/management-directive/notice-appealpetition-complainant. Federal agencies must 
+attach copies of EEOC Form 573 to all final actions and dismissals of equal employment 
+complaints. 
+
+All people must swear or affirm to tell the truth if they want their statement or testimony 
+to be considered as evidence. All written statements must be submitted as affidavits to be 
+considered as evidence. 
+
+A written or oral decision by an EEOC administrative judge, federal agency, or EEOC 
+Office of Federal Operations that resolves a matter and/or directs the parties to do 
+something. 
+
+20 
+
+ 
+Party 
+
+Precedent 
+
+Preponderance of  
+evidence  
+
+The technical legal word for the people who are part of a legal case and have a right to 
+ask the EEOC Office of Federal Operations to make a decision on a dispute. 
+
+A published administrative appellate or court decision in an earlier case with facts and 
+legal issues similar to the dispute currently before the EEOC Office of Federal 
+Operations. The EEOC Office of Federal Operations will generally “follow precedent,” 
+meaning that it uses the principles established in earlier cases to decide new cases dealing 
+with similar facts and legal issues. The EEOC Office of Federal Operations will overlook 
+precedent if a party can show that the earlier case was decided incorrectly or that it 
+differed in some significant way from the current case. 
+
+A type of evidentiary standard. Under this standard, a complainant satisfies the burden of  
+proof by offering evidence that demonstrates their claim of employment discrimination 
+has a greater than 50% chance to be true. In other words, if a complainant can convince a 
+fact finder that discrimination more likely than not occurred, the complainant meets his or 
+her burden of proof. 
+
+Prevailing party 
+
+The party that wins the case. 
+
+Pro se 
+
+Public Portal 
+
+Record 
+
+Remand 
+
+Latin for “for oneself, on one’s own behalf.” A pro se complainant is a person who does 
+not have an attorney and is representing himself or herself in a case.  
+
+The Public Portal is EEOC’s secure, web-based application that allows individuals with 
+discrimination complaints against the federal government to submit and receive 
+documents supporting their appeal. 
+
+All of the paperwork filed in the EEO process, which the EEOC Office of Federal 
+Operations will review in the appeal. This usually includes the report of investigation, 
+exhibits, the hearing transcript, motions, orders, and the final decision or action from the 
+case. 
+
+When the EEOC Office of Federal Operations sends an EEO complaint back to a federal 
+agency or EEOC administrative judge for further proceedings. 
+
+Report of Investigation  A factual record assembled by an EEO investigator that will allow a fact finder to 
+
+determine whether discrimination occurred. This record is sometimes also called an 
+“Investigative File.”  The Report of Investigation should include: 
+
+• 
+• 
+• 
+• 
+• 
+
+a summary of the investigation, 
+informal counseling documents, 
+the formal EEO complaint, 
+all statements, affidavits, and declarations from the investigation, 
+all documents submitted by the parties. 
+
+Reverse 
+
+When the EEOC Office of Federal Operations sets aside the previous decision. A reversal 
+may be accompanied by a remand to the federal agency or an EEOC administrative judge 
+for further proceedings. 
+
+ROI 
+
+An acronym for Report of Investigation. 
+
+Standard of review 
+
+The standard of review is how much weight (or deference) the EEOC Office of Federal 
+Operations gives to the previous decision when reviewing that decision on appeal. There 
+are different standards of review for different kinds of decisions.  
+
+Statute 
+
+A law passed by the U.S. Congress. 
+
+21 
+
+ 
+ 
+Substantial evidence 
+
+A standard of review in which the Commission will give deference to an administrative 
+judge's post-hearing factual findings based on evidence in the record.  
+
+Summary judgment 
+
+For example, an administrative judge finds a management witness’ testimony credible 
+based on the demeanor or tone of voice during the hearing. The Commission will accept 
+the administrative judge’s credibility determination, unless documents or other objective 
+evidence so contradicts the testimony of the witness or the testimony of the witness 
+otherwise so lacks in credibility that a reasonable fact finder would not credit it. 
+
+Summary judgment (also known as a decision without a hearing) is a judgment entered 
+by an EEOC Administrative Judge for one party and against another party without a full 
+hearing. Summary judgment indicates there is sufficient evidence to declare one party the 
+clear winner.  
+
+In other words, an EEOC Administrative Judge has reviewed the undisputed facts of the 
+case, along with any acceptable evidence provided by each party to support their 
+argument, and sees no point in having an administrative hearing. The EEOC 
+Administrative Judge will then rule on the case based on the facts and evidence. 
+
+Testimony 
+
+Transcript 
+
+The words spoken during an administrative hearing by witnesses that is evidence. 
+
+Written version of everything that was said by the parties, the EEOC administrative 
+judge, and any witnesses at the administrative hearing.  
+
+U.S. Supreme Court 
+
+Located in Washington, D.C., it is the highest court in the United States; the U.S. 
+Supreme Court has final appellate jurisdiction and has jurisdiction over all other courts in 
+the nation. 
+
+Witness 
+
+A person called by a party to speak under oath about what he or she knows or has 
+observed that is relevant to the case. There are no witnesses used in appeals. 
+
+22 
+
+ 
+Attachment I-Sample Brief for a Procedural Dismissal 
+
+EQUAL EMPLOYMENT OPPORTUNITY COMMISSION 
+
+OFFICE OF FEDERAL OPERATIONS  
+
+Julie Smith, Complainant 
+
+v. 
+
+U.S. Dept. of XYZ, Agency 
+
+Complainant’s Brief 
+
+From Julie Smith 
+
+123 ABC Way 
+
+Garden City, NY 11530 
+
+EEOC Appeal No. 202100XXXX 
+
+Agency Case No. ABC-123-XYZ 
+
+ 
+ 
+ 
+ 
+ 
+Attachment I-Sample Brief for a Procedural Dismissal 
+
+PROCEDURAL HISTORY/BACKGROUND 
+
+In 2003, Complainant was hired by the Agency to work as an Administrative Assistant in its New 
+
+York, NY office.  Complainant received a Notice of Termination effective April 1, 2021.  (Complaint 
+
+File at 8).  On April 5, 2021, Complainant contacted an EEO Counselor about her termination.  At 
+
+the  end  of  EEO  counseling,  the  Agency  sent  her  a  Notice  of  Right  to  File  a  Formal  Complaint 
+
+(Notice).  On May 3, 2021, Complainant received the Notice by certified U.S. mail. (Complaint File 
+
+at 21). On May 17, 2021, Complainant filed her formal complaint with the Agency by email and 
+
+alleged that she was terminated based on age.  (Complaint File at 25).  On July 1, 2021, the Agency 
+
+issued a final decision dismissing Complainant’s complaint on the grounds her formal complaint 
+
+was not timely filed. (Complaint File at 40).  On July 15, 2021, Complainant appealed the matter 
+
+to OFO via the EEOC Public Portal.  This brief was filed with OFO on July 26, 2021.   
+
+ARGUMENT 
+
+I. 
+
+The Final Decision made a mistake in finding that Complainant’s formal complaint 
+
+was filed on May 20, 2021.   
+
+EEOC  Regulation  29  C.F.R.  §  1614.106(b)  requires  the  filing  of  a  written  complaint  with  an 
+
+appropriate agency official within fifteen (15) calendar days after receipt of the notice of the right 
+
+to file a formal complaint.   
+
+Complainant received the Notice by U. S. certified mail on May 3, 2021. (Complaint File at 21).  
+
+The Notice informed her to file her formal complaint with the Agency within 15 days of receipt. 
+
+(Complaint File at 21).   In its final decision, the Agency found that Complainant filed her formal 
+
+complaint on May 20, 2021 via U.S. mail (postmark date), outside the 15-day time period.  
+
+2 
+
+ 
+ 
+Attachment I-Sample Brief for a Procedural Dismissal 
+
+(Complaint File at 40.).  However, the record shows that Complainant first filed her formal 
+
+complaint with the Agency by email on May 17, 2021.  (Complaint File at 25).  Complainant later  
+
+mailed a copy of her formal complaint to the Agency on May 20, 2021.  (Complaint File at 30).  
+
+For these reasons, Complainant timely filed her formal complaint on May 17, 2021 via email, 
+
+within 15 days of receiving the Notice on May 3, 2021.   
+
+CONCLUSION   
+
+For  these  reasons,  OFO  should  REVERSE  the  Agency’s  final  decision  dismissing  Complainant’s 
+
+complaint and REMAND this matter to the Agency for investigation. 
+
+3 
+
+ 
+ 
+ 
+Attachment I-Sample Brief for a Procedural Dismissal 
+
+CERTIFICATE OF SERVICE 
+
+I certify that on July 26, 2021, this brief was filed with the EEOC’s Office of Federal Operations 
+and served on the Agency, U.S. Dept. of XYZ, via the EEOC Public Portal.   
+
+Julie Smith 
+
+4 
+
+ 
+ 
+ 
+ 
+Attachment II-Sample Brief for a Merits Decision 
+
+U.S. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION 
+
+OFFICE OF FEDERAL OPERATIONS  
+
+Jane Doe 
+
+Complainant, 
+
+vs. 
+
+U.S. Dept. of XYZ (Sub-agency) 
+
+Agency. 
+
+____________________ 
+
+) 
+
+) 
+
+) 
+
+) 
+
+) 
+
+)  
+
+) 
+
+) 
+
+EEOC Appeal No. 202100ZZZZ 
+
+EEOC Hearing No. (if applicable): N/A 
+
+Agency Case No. 123-ABC-XXX 
+
+Check which brief this is: 
+
+☒   BRIEF IN SUPPORT OF APPEAL 
+
+☐  BRIEF IN OPPOSITION TO APPEAL 
+
+Your Name:   
+
+Jane Doe 
+
+Address:  
+
+123 Anywhere Lane 
+
+Anytown, MD XXXXX 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment II-Sample Brief for a Merits Decision 
+
+BACKGROUND INFORMATION ON DISCRIMINATORY ACTIONS; 
+PROCEDURAL HISTORY OF EEO COMPLAINT 
+
+Please explain in chronological order the discriminatory events that happened which caused 
+you to file an EEO complaint. List only the specific facts connected to the issues on appeal. 
+You may also describe the relevant procedural history of the EEO complaint.  
+
+The EEOC Office of Federal Operations will generally only consider information that was 
+provided during the investigation or during the hearing process. This means now you cannot 
+include new facts or evidence that was not presented earlier. The only exception is if you can 
+show that the evidence was not reasonably available prior to or during the investigation or 
+during the hearing process.  
+
+If you can, you should include the specific page or pages in the record where that fact can be 
+found. (After stating a fact, please give the page in the record supporting that fact by using: 
+“Complaint File at page #” or “Report of Investigation at page #”). 
+
+In 2017, Complainant began working at the Agency’s Washington, D.C. facility as 
+
+a GS-7 Financial Analyst. In 2021, she applied and interviewed for a GS-9 Financial 
+
+Analyst position under Vacancy Announcement No. XXXX. On March 1, 2021, she 
+
+learned that the Agency had selected a male applicant instead of her (Complaint File at 
+
+13).    
+
+On March 12, 2021, Complainant contacted an EEO Counselor to start the EEO 
+
+process because she was not chosen for the job. (Complaint File at 15). On April 12, 
+
+2021, Complainant filed a formal EEO complaint, alleging that she was discriminated 
+
+because of her sex when she was not selected for the Financial Analyst-GS-9 position.  
+
+(Complaint File at 23-25). On June 20, 2021, the Agency sent Complainant a copy of the 
+
+Report of Investigation (ROI) and notice of her right to elect a final agency decision or a 
+
+2 
+
+ 
+ 
+ 
+ 
+Attachment II-Sample Brief for a Merits Decision 
+
+hearing before an EEOC Administrative Judge. Complainant requested a final decision. 
+
+(Complaint File at 40).   
+
+On August 20, 2021, the Agency issued a final decision, finding no discrimination.  
+
+(Complaint File at 45). The final decision determined that the Agency articulated a 
+
+legitimate, non-discriminatory reason for hiring the male selectee over Complainant in 
+
+that the selectee’s responses during the interview were more thorough and more detailed 
+
+than Complainant’s responses. The final decision then determined that Complainant 
+
+failed to prove that the Agency’s articulated reason was a pretext for discrimination. 
+
+On August 28, 2021, Complainant appealed the matter to EEOC using the EEOC 
+
+Public Portal.  (Complainant File at 60). This brief is timely filed on September 15, 2021. 
+
+STANDARD OF REVIEW 
+
+When the EEOC Office of Federal Operations reviews an issue on appeal, it needs some kind 
+of rules or guidelines to determine whether the Agency or administrative judge has made an 
+error. Different kinds of rulings require different kinds of review guidelines. These guidelines 
+are called standards of review. 
+
+When an appealing party argues that the previous decision made a mistake, the EEOC Office 
+of Federal Operations looks first at what the standard of review is for that particular issue. 
+The three most common standards of review are: de novo review, substantial evidence, and 
+clearly erroneous. A detailed discussion about the various standards of review on appeal can 
+be found in Chapter 9, section VI of EEOC Management Directive 110, at 
+https://www.eeoc.gov/federal-sector/management-directive/chapter-9-appeals-commission 
+
+It may be difficult for people representing themselves to determine the appropriate standard 
+of review. If you are not able to figure this out, you can skip this section. 
+
+What is being appealed? 
+
+☐ Procedural final agency decision → Use de novo review 
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+Attachment II-Sample Brief for a Merits Decision 
+
+A procedural final agency decision is a decision issued by a federal agency that dismisses an EEO 
+claim or complaint on procedural grounds, such as failing to state a valid claim of discrimination, 
+untimely contacting an EEO counselor, or untimely filing the EEO complaint. The standard of 
+review to use on appeal is de novo review. 
+
+☒ Final agency decision on the merits → Use de novo review 
+
+A final agency decision on the merits is a decision issued by a federal agency after it has 
+conducted an investigation. The final decision examines the evidence gathered from the 
+investigation and determines whether complainant was subjected to employment discrimination. 
+The standard of review to use on appeal is de novo review. 
+
+☐ Summary judgment decision (decision without a hearing by an administrative judge) → 
+Use de novo review 
+
+A summary judgment decision is issued by an EEOC administrative judge who decides in favor of 
+one party without a full hearing. The standard of review to use on appeal is de novo review. 
+
+☐ Decision by an EEOC administrative judge after a hearing → Use substantial evidence  
+   standard for factual findings, and de novo review for legal determinations 
+
+The Commission will give deference to an administrative judge's post-hearing factual findings 
+based on evidence in the record. For example, say an administrative judge finds a management 
+witness’ testimony credible based on the demeanor or tone of voice during the hearing. The 
+Commission will accept the administrative judge’s credibility determination, unless documents or 
+other objective evidence so contradicts the testimony of the witness or the testimony of the witness 
+otherwise so lacks in credibility that a reasonable fact finder would not credit it. 
+
+The Commission will review legal determinations made by an administrative judge or agency 
+without presuming that the previous decision-maker was correct in interpreting or applying the 
+law. 
+
+☐ Previous administrative appellate decision by the EEOC Office of Federal Operations →  
+   Use clearly erroneous standard  
+
+A party may request that the EEOC Office of Federal Operations reconsider one of its initial 
+decision. The Commission may reconsider a previous decision if a party demonstrates that the 
+earlier appellate decision involved a clearly erroneous interpretation of material fact or law. In 
+other words, did the previous decision make a clear, obvious error that affected the outcome of the 
+appeal? 
+
+For example, the EEOC Office of Federal Operations issued an initial decision, agreeing with a 
+federal agency to dismiss complainant’s appeal because it was untimely filed based on the date of 
+an email complainant sent to the Commission. Complainant requests that the Commission 
+reconsider its initial decision, because the initial decision made an obvious mistake by not using 
+the earlier postmark date when she mailed her appeal. 
+
+☐ Other (please specify): 
+
+☐ Not sure 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Attachment II-Sample Brief for a Merits Decision 
+
+Final agency decisions on the merits of individual complaints shall be reviewed de 
+
+novo. The de novo standard of review requires that the Commission will examine the 
+
+record without regard to the factual and legal determinations of the previous decision. 
+
+The Commission will review the documents, statements, and testimony of record, 
+
+including any timely and relevant submissions of the parties, and the Commission will 
+
+issue its decision based on the Commission's own assessment of the record and its 
+
+interpretation of the law. 
+
+THE LAW THAT SHOULD BE APPLIED 
+
+If you believe that the previous decision applied the wrong law to your case, tell the EEOC 
+Office of Federal Operations what law it should apply to decide your appeal. Legal 
+authorities may include EEOC regulations, laws passed by the U.S. Congress, judicial 
+decisions, especially those issued by the U.S. Supreme Court, and EEOC federal sector 
+administrative appellate decisions. It may be difficult for people representing themselves to 
+determine the appropriate law. If you are not able to figure this out, you can skip this section. 
+
+Do you think the previous decision applied the wrong law? ☐ YES  
+
+    ☒ NO 
+
+☐ NOT SURE 
+
+A claim alleging disparate treatment is examined under the three-part test set forth 
+
+in McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973). Under this analysis, a 
+
+complainant initially must establish a prima facie case of discrimination by presenting 
+
+facts that, if unexplained, reasonably give rise to an inference of discrimination (that a 
+
+prohibited consideration was a factor in the adverse employment action). McDonnell 
+
+Douglas 411 U.S. at 802.  
+
+Next, in response, the agency management witnesses must state a legitimate, non-
+
+discriminatory reason for the challenged actions. McDonnell Douglas, 411 U.S. at 802.  
+
+5 
+
+ 
+ 
+ 
+Attachment II-Sample Brief for a Merits Decision 
+
+Finally, complainant must demonstrate that the agency's action was more likely 
+
+than not based on prohibited considerations of discrimination. To do so, complainant 
+
+must show that the agency’s reasons for its action were not its true reasons but a sham or 
+
+pretext to try to mask discrimination.  See McDonnell Douglas, 411 U.S. at 804.  
+
+In a non-selection case like this, a complainant may show that an employer’s 
+
+reason for the non-selection was pretext for discrimination by demonstrating that her 
+
+qualifications were “plainly superior” to those of the selectee.  Wasser v. Dept. of Labor, 
+
+EEOC Request No. 05940058 (Nov. 2, 1995). 
+
+ARGUMENTS ON APPEAL 
+
+If you are the appealing party, tell the EEOC Office of Federal Operations why the previous 
+decision was wrong. For example, did the previous decision incorrectly decide the facts? If 
+so, what facts? If you can, you should include the specific page or pages in the record where 
+that fact can be found. (After stating a fact, please cite to the page in the record by using: 
+“Complaint File at page #”; “Report of Investigation at page #”; “Exhibit A at page #”). 
+This allows the EEOC Office of Federal Operations to understand whether a factual 
+assertion is accurate. If you do not provide supporting cites for factual statements, it is 
+harder for the EEOC Office of Federal Operations to fairly consider the factual arguments 
+you raise. 
+
+If you think the previous decision applied the wrong law, how should the case be decided if 
+the EEOC applied the right law? Do you feel that there are other reasons why the previous 
+decision was wrong? If so, what are they?  
+
+If you are the party opposing the appeal, explain why the previous decision was correct. 
+
+Did the previous decision incorrectly decide the facts?         ☒ YES  
+
+    ☐ NO 
+
+Do you think the previous decision applied the wrong law? ☐ YES  
+
+    ☒ NO 
+
+☐ NOT SURE 
+
+Do you feel there are any other reasons why the previous decision was wrong? ☐ YES     ☒ NO 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment II-Sample Brief for a Merits Decision 
+
+I. 
+
+Complainant established a prima facie case of sex discrimination. 
+
+Complainant has established a prima facie case of sex discrimination.  
+
+Complainant applied for the position in question and was found qualified for the position.  
+
+Report of Investigation (ROI) at 45-46. However, another applicant was chosen for the 
+
+position. Unlike Complainant, the applicant chosen was male.  (ROI at 48).   
+
+II. 
+
+Although the Agency articulated a non-discriminatory reason for its actions, 
+other evidence demonstrate that this articulated reason was more likely than 
+not a pretext for sex discrimination. 
+
+a.  The interview panel’s notes show that Complainant gave more thorough 
+
+and detailed answers than the selectee. 
+
+The selecting official and other members of the interview panel stated, in their 
+
+affidavits, that they hired the selectee because his responses during the interview were 
+
+more thorough and more detailed than Complainant’s responses.  (ROI at 100, paragraph 
+
+4; 111, paragraph 3).  
+
+However, this testimony is contradicted by other evidence. The Report of 
+
+Investigation contains copies of the interview notes from the members of the interview 
+
+panel. The notes indicate that Complainant’s responses were more detailed and thorough 
+
+than the selectee’s responses. (ROI at 115-119). For example, Complainant’s interview 
+
+responses generally contained multiple detailed examples for each of the Agency’s skills-
+
+based questions. (ROI at 115-117). The selectee’s responses, however, generally 
+
+contained only one example for each question with little detail. (ROI at 118-119). 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment II-Sample Brief for a Merits Decision 
+
+Therefore, the interview notes show that the Agency’s articulated reason for hiring the 
+
+selectee was not its true reason but a sham or pretext to try to mask sex discrimination.   
+
+b.  Complainant’s  qualifications  were  plainly  superior  to  the  selectee’s 
+
+qualifications. 
+
+Complainant’s qualifications were plainly superior to the selectee’s qualifications.  
+
+For example, the record reflects that Complainant served in a year-long detail to the 
+
+Financial Analyst, GS-9 position and performed all of the functions of this position.  
+
+(ROI at 124). In addition, the record reflects that Complainant received an “Outstanding” 
+
+performance evaluation while detailed to the Financial Analyst, GS-9 position.  (ROI at 
+
+130-135). There is no evidence in the record showing that the selectee served in a detail 
+
+to the position in question. Therefore, there is no valid, non-discriminatory explanation 
+
+for why Complainant was not chosen for the job. Based on the evidence, Complainant 
+
+has established that the Agency’s articulated reason for not picking her was more likely 
+
+than not a pretext for sex discrimination. 
+
+ACTIONS THAT EEOC SHOULD TAKE IN THIS APPEAL 
+
+For the reasons stated above, the Commission should:  
+
+☒ reverse or change the previous decision.   
+
+☐ affirm or keep the previous decision. 
+
+☐ other:                                
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment II-Sample Brief for a Merits Decision 
+
+If the Commission finds in favor of Complainant, the Commission should grant 
+
+Complainant the following relief:  
+
+☒ Compensatory damages 
+
+Payment to victims of discrimination for out-of-pocket expenses caused by the 
+discrimination (such as costs associated with a job search or medical expenses) and to 
+compensate them for any emotional harm suffered (such as mental anguish, 
+inconvenience, or loss of enjoyment of life). 
+
+☒ Retroactive placement in a job (please specify): Financial Analyst, GS-9 position  
+
+For cases in which the employee or applicant is not selected for a position or promotion 
+due to discrimination, this would include an offer of placement into the position sought, 
+or a substantially equivalent position within the same commuting area. The offer should 
+be made retroactive to the date of the selection in question 
+
+In cases involving a discriminatory termination, the agency should offer to reinstate the 
+complainant to his or her former position retroactive to the date of the termination. 
+
+☐ Front Pay 
+
+Front pay compensates an individual when reinstatement is not possible in certain limited 
+circumstances. Front pay may be awarded in lieu of reinstatement when: (1) no position 
+is available; (2) a subsequent working relationship between the parties would be 
+antagonistic; or (3) the employer has a record of long-term resistance to anti-
+discrimination efforts. 
+
+☐ Back Pay 
+
+The purpose of a back pay award is to restore to the complainant the income he or she 
+would have otherwise earned but for the discrimination. The most common 
+discriminatory actions generating back pay are: removals, suspensions, denials of 
+promotions, and failure to hire. 
+
+☐ Liquidated Damages 
+
+Liquidated damages are generally monetary awards equal to, and in addition to, the back 
+pay due to the complainant. Such damages may be available for a violation of the Equal 
+Pay Act.  
+
+☐ Restoration of Leave 
+
+Where there has been a finding of discrimination, the complainant is entitled to the 
+restoration of any leave used because of the agency's discriminatory actions. 
+
+☐ Cancel an unwarranted personnel action and restore the employee to the status he or she   
+     occupied prior to the discrimination (please specify): 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment II-Sample Brief for a Merits Decision 
+
+An example is canceling a discriminatory termination of complainant and restoring 
+complainant to his or her previous position. 
+
+☐ Expunge adverse materials relating to the discriminatory employment practice from the  
+     agency's records (please specify): 
+
+An example is expunging a discriminatory disciplinary action from complainant’s 
+personnel records. 
+
+☐ Provide complainant with a full opportunity to participate in the employee benefit that  
+     was denied (please specify): 
+
+Examples of employee benefits include training, preferential work assignments, or 
+overtime scheduling. 
+
+☐ Raise a performance rating (please specify): 
+
+When the finding of discrimination involves a performance appraisal, the appropriate 
+relief should include raising the rating to that which the individual would have received 
+absent the discrimination. 
+
+☐ Awards of costs and fees for attorney, expert, or non-legal services 
+
+Complainants who prevail on claims alleging discrimination in violation of Title VII of 
+the Civil Rights Act of 1964, as amended and the Rehabilitation Act of 1973, as 
+amended, are presumptively entitled to an award of attorney’s fees and costs. A 
+prevailing complainant is entitled to recovery of his/her costs.  
+
+Complainants prevailing on claims under the Age Discrimination in Employment Act of 
+1967, as amended, and the Equal Pay Act of 1963, as amended, are not entitled to 
+attorney’s fees at the administrative level. 
+
+A prevailing complainant is entitled to recovery of his or her costs. Costs include: witness 
+fees; transcript costs; and printing and copying costs.  
+
+A prevailing complainant is entitled to compensation for the work of law clerks, 
+paralegals, and law students under the supervision of members of the bar, at market rates, 
+but not for clerical services. 
+
+Reasonable costs incurred directly by a prevailing complainant (for example, one who is 
+unrepresented or who is represented by a non-lawyer) are compensable. Costs must be 
+proved in the same manner as fees are, and the complainant must provide documentation, 
+such as bills or receipts. 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Attachment II-Sample Brief for a Merits Decision 
+
+CERTIFICATE OF SERVICE 
+
+I certify that on September 15, 2021, this brief was filed with the EEOC’s Office of Federal 
+Operations and served on the Agency, U.S. Dept. of XYZ, via the EEOC Public Portal.   
+
+Jane Doe 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+

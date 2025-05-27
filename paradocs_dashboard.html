@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ParaDocs - Legal Document Management Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f7fa;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 2rem 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        /* Navigation */
+        .nav {
+            background: white;
+            padding: 1rem 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+            list-style: none;
+        }
+        
+        .nav-links a {
+            color: #333;
+            text-decoration: none;
+            font-weight: 500;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            transition: all 0.3s;
+        }
+        
+        .nav-links a:hover {
+            background: #e8f0fe;
+            color: #1e3c72;
+        }
+        
+        /* Status Cards */
+        .status-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .status-card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            transition: transform 0.3s;
+        }
+        
+        .status-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 20px rgba(0,0,0,0.12);
+        }
+        
+        .status-card h3 {
+            color: #1e3c72;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .status-icon {
+            font-size: 1.5rem;
+        }
+        
+        .status-ready { color: #4caf50; }
+        .status-pending { color: #ff9800; }
+        .status-error { color: #f44336; }
+        
+        /* Features Section */
+        .features {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            margin: 2rem 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+        
+        .feature-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 1.5rem;
+        }
+        
+        .feature {
+            padding: 1.5rem;
+            background: #f8f9fa;
+            border-radius: 8px;
+            border-left: 4px solid #1e3c72;
+        }
+        
+        .feature h4 {
+            color: #1e3c72;
+            margin-bottom: 0.5rem;
+        }
+        
+        .feature ul {
+            list-style: none;
+            margin-top: 0.5rem;
+        }
+        
+        .feature li {
+            padding: 0.25rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+        
+        .feature li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #4caf50;
+            font-weight: bold;
+        }
+        
+        /* Quick Actions */
+        .actions {
+            background: #e8f0fe;
+            padding: 2rem;
+            border-radius: 10px;
+            margin: 2rem 0;
+        }
+        
+        .action-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        
+        .action-btn {
+            background: white;
+            border: 2px solid #1e3c72;
+            color: #1e3c72;
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: center;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s;
+            display: block;
+        }
+        
+        .action-btn:hover {
+            background: #1e3c72;
+            color: white;
+            transform: translateY(-2px);
+        }
+        
+        /* Code Blocks */
+        .code-block {
+            background: #f5f5f5;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem 0;
+            font-family: 'Consolas', 'Monaco', monospace;
+            overflow-x: auto;
+        }
+        
+        /* Footer */
+        .footer {
+            background: #333;
+            color: white;
+            padding: 2rem 0;
+            margin-top: 4rem;
+            text-align: center;
+        }
+        
+        .footer a {
+            color: #4fc3f7;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>🏛️ ParaDocs Dashboard</h1>
+            <p class="subtitle">Legal Document Management System - Case HS-FEMA-02430-2024</p>
+        </div>
+    </header>
+
+    <nav class="nav">
+        <div class="container">
+            <ul class="nav-links">
+                <li><a href="#status">System Status</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#actions">Quick Actions</a></li>
+                <li><a href="#docs">Documentation</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <section id="status">
+            <h2 style="margin: 2rem 0 1rem; color: #1e3c72;">System Status</h2>
+            <div class="status-grid">
+                <div class="status-card">
+                    <h3><span class="status-icon status-ready">✅</span> Folder Structure</h3>
+                    <p>All directories created and organized</p>
+                    <ul style="list-style: none; margin-top: 1rem;">
+                        <li>📁 docs/raw - Original documents</li>
+                        <li>📁 docs/processed - Metadata & OCR</li>
+                        <li>📁 config - System configuration</li>
+                        <li>📁 scripts - Automation tools</li>
+                    </ul>
+                </div>
+
+                <div class="status-card">
+                    <h3><span class="status-icon status-ready">✅</span> Git Repository</h3>
+                    <p>Version control initialized</p>
+                    <ul style="list-style: none; margin-top: 1rem;">
+                        <li>✓ Git initialized</li>
+                        <li>✓ Git LFS configured</li>
+                        <li>✓ .gitignore set up</li>
+                        <li>✓ Binary files tracked</li>
+                    </ul>
+                </div>
+
+                <div class="status-card">
+                    <h3><span class="status-icon status-pending">⏳</span> Documents</h3>
+                    <p>Ready for migration</p>
+                    <ul style="list-style: none; margin-top: 1rem;">
+                        <li>📄 0 raw documents</li>
+                        <li>📄 0 processed documents</li>
+                        <li>🔍 0 indexed documents</li>
+                        <li>⚡ Migration script ready</li>
+                    </ul>
+                </div>
+
+                <div class="status-card">
+                    <h3><span class="status-icon status-ready">✅</span> Configuration</h3>
+                    <p>All config files in place</p>
+                    <ul style="list-style: none; margin-top: 1rem;">
+                        <li>✓ Metadata schema</li>
+                        <li>✓ EEOC compliance rules</li>
+                        <li>✓ FEMA compliance rules</li>
+                        <li>✓ AI prompt templates</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="features" class="features">
+            <h2 style="color: #1e3c72;">Key Features</h2>
+            <div class="feature-grid">
+                <div class="feature">
+                    <h4>📋 Document Processing</h4>
+                    <ul>
+                        <li>likely classification by agency</li>
+                        <li>Metadata extraction & validation</li>
+                        <li>SHA-256 hash verification</li>
+                        <li>OCR support (ready)</li>
+                    </ul>
+                </div>
+
+                <div class="feature">
+                    <h4>⚖️ Compliance Validation</h4>
+                    <ul>
+                        <li>EEOC regulations (29 CFR)</li>
+                        <li>FEMA rules (44 CFR, 5 CFR)</li>
+                        <li>NAICS code validation</li>
+                        <li>Deadline tracking</li>
+                    </ul>
+                </div>
+
+                <div class="feature">
+                    <h4>🔍 Search & Indexing</h4>
+                    <ul>
+                        <li>Keyword search across all docs</li>
+                        <li>Date-based timeline generation</li>
+                        <li>Legal citation indexing</li>
+                        <li>Metadata search</li>
+                    </ul>
+                </div>
+
+                <div class="feature">
+                    <h4>🔒 Security & Audit</h4>
+                    <ul>
+                        <li>Complete chain of custody</li>
+                        <li>File integrity verification</li>
+                        <li>FOIA & Privacy Act compliance</li>
+                        <li>Immutable audit logs</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section id="actions" class="actions">
+            <h2 style="color: #1e3c72;">Quick Actions</h2>
+            <div class="action-grid">
+                <a href="#" class="action-btn" onclick="showCommand('migrate'); return false;">
+                    📁 Migrate Documents
+                </a>
+                <a href="#" class="action-btn" onclick="showCommand('process'); return false;">
+                    ⚙️ Process Documents
+                </a>
+                <a href="#" class="action-btn" onclick="showCommand('index'); return false;">
+                    🔍 Generate Indexes
+                </a>
+                <a href="#" class="action-btn" onclick="showCommand('status'); return false;">
+                    📊 Check Status
+                </a>
+            </div>
+            
+            <div id="command-display" class="code-block" style="display: none; margin-top: 2rem;">
+                <code id="command-text"></code>
+            </div>
+        </section>
+
+        <section id="docs" style="margin: 3rem 0;">
+            <h2 style="color: #1e3c72; margin-bottom: 1rem;">Documentation</h2>
+            <div class="feature-grid">
+                <div class="feature">
+                    <h4>📚 Main Documentation</h4>
+                    <ul>
+                        <li><a href="README.md">README.md</a> - Setup guide</li>
+                        <li><a href="IMPLEMENTATION_SUMMARY.md">Implementation Summary</a></li>
+                        <li><a href="requirements.txt">Python Requirements</a></li>
+                    </ul>
+                </div>
+
+                <div class="feature">
+                    <h4>🔧 Configuration Files</h4>
+                    <ul>
+                        <li><a href="config/metadata_schema.json">Metadata Schema</a></li>
+                        <li><a href="config/cursor.rules.json">AI Templates</a></li>
+                        <li><a href="config/compliance-rules/">Compliance Rules</a></li>
+                    </ul>
+                </div>
+
+                <div class="feature">
+                    <h4>📜 Scripts</h4>
+                    <ul>
+                        <li><a href="scripts/migrate_existing_files.ps1">Migration Script</a></li>
+                        <li><a href="scripts/run_pipeline.py">Processing Pipeline</a></li>
+                        <li><a href="scripts/run_indexing.py">Indexing Script</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>ParaDocs Legal Document Management System</p>
+            <p>© 2024 - Proprietary and Confidential</p>
+            <p><a href="file:///C:/Users/Max/Documents/EEO%20FILES/ParaDocs">Open Project Folder</a></p>
+        </div>
+    </footer>
+
+    <script>
+        function showCommand(action) {
+            const commandDisplay = document.getElementById('command-display');
+            const commandText = document.getElementById('command-text');
+            
+            const commands = {
+                migrate: 'PS> .\\scripts\\migrate_existing_files.ps1 -DryRun true\n# Review output, then:\nPS> .\\scripts\\migrate_existing_files.ps1 -DryRun false',
+                process: 'PS> python scripts/run_pipeline.py',
+                index: 'PS> python scripts/run_indexing.py',
+                status: 'PS> .\\scripts\\check_status_simple.ps1'
+            };
+            
+            commandText.textContent = commands[action];
+            commandDisplay.style.display = 'block';
+            commandDisplay.scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        // Smooth scrolling for navigation
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
+    </script>
+</body>
+</html> 

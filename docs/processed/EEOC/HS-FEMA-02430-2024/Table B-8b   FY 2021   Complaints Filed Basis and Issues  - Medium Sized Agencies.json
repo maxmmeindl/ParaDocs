@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-8b   FY 2021   Complaints Filed Basis and Issues  - Medium Sized Agencies-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-8b   FY 2021   Complaints Filed Basis and Issues  - Medium Sized Agencies.xlsx",
+    "file_size": 12678,
+    "file_hash": "df820a260136b6b19051173b05fc4a9ed5f8262d3a1ebbc87b077344edbe85a2",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:24.253880",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:24.253880",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

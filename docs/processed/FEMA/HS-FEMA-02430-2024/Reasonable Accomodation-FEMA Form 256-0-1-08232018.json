@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Reasonable Accomodation-FEMA Form 256-0-1-08232018-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Reasonable Accomodation-FEMA Form 256-0-1-08232018.pdf",
+    "file_size": 1121192,
+    "file_hash": "e7ac92950b0fec44cace0c69e534cb33c3f8f5c4f5c4dee0385950dd79aa0934",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:19.167408",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:19.167408",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "EEOC-EEOC_Memo_-_Guidance_to_Agencies_for_Applying_DRP_Agreements_to_Pending_EEO_Complaints-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "EEOC_Memo_-_Guidance_to_Agencies_for_Applying_DRP_Agreements_to_Pending_EEO_Complaints.pdf",
+    "file_size": 233714,
+    "file_hash": "7be692fb916d18637fb1324345314c2ac8abb5b168c4c23a65184c530ddc7eeb",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:21.607372",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:21.607372",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-FW_ ATS example, WebTA to GovTA-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_ ATS example, WebTA to GovTA.pdf",
+    "file_size": 468453,
+    "file_hash": "2da5412de499b571d52058201882e3dda18a275cd755ce5eb3d4e119610ae6b0",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:10.547883",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:10.547883",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

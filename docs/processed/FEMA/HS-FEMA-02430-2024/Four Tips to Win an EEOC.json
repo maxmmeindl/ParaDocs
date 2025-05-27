@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Four Tips to Win an EEOC-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Four Tips to Win an EEOC.pdf",
+    "file_size": 7119,
+    "file_hash": "3218c4d0d1222009a21b8e42149b5309e41c5d387e8bf78fb6b729d942a7de04",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:10.494361",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:10.494361",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

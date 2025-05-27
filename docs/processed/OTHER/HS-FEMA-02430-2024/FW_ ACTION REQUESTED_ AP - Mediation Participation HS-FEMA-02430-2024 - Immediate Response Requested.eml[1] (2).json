@@ -1,0 +1,32 @@
+{
+  "document_id": "OTHER-FW_ ACTION REQUESTED_ AP - Mediation Participation HS-FEMA-02430-2024 - Immediate Response Requested.eml[1] (2)-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_ ACTION REQUESTED_ AP - Mediation Participation HS-FEMA-02430-2024 - Immediate Response Requested.eml[1] (2).eml",
+    "file_size": 105092,
+    "file_hash": "26c177a6ee0a22639b97cc0739153ec530996358466f29f69a3c3458c11daf06",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:26.919020",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:26.919020",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

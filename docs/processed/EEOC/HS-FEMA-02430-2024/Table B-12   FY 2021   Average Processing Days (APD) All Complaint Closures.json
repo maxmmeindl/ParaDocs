@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-12   FY 2021   Average Processing Days (APD) All Complaint Closures-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-12   FY 2021   Average Processing Days (APD) All Complaint Closures.xlsx",
+    "file_size": 16488,
+    "file_hash": "363adebb24853f3740c49f76d774daee03407c70ed578a54348ec0d2c76d88b6",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.486915",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.486915",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

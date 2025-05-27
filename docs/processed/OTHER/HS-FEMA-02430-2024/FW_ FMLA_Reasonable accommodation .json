@@ -1,0 +1,33 @@
+{
+  "document_id": "OTHER-FW_ FMLA_Reasonable accommodation -20250526",
+  "document_type": [
+    "Interactive_Process",
+    "Email_Communication"
+  ],
+  "agency": [
+    "OTHER"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FW_ FMLA_Reasonable accommodation .eml",
+    "file_size": 1639082,
+    "file_hash": "f108e637e45ac1575845660d030cea345fcac638c12aecb1b26a02a579e3a5a1",
+    "mime_type": "message/rfc822"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:27.542781",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:27.542781",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

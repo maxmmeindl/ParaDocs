@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-202208 email correspondence-20250526",
+  "document_type": [
+    "Email_Communication"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "202208 email correspondence.pdf",
+    "file_size": 1460713,
+    "file_hash": "a75e90420307c276b7595bd8a2b61d7cb02f30d2b1e05a666bbc1db4cc84a600",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:48:58.190179",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:48:58.190179",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

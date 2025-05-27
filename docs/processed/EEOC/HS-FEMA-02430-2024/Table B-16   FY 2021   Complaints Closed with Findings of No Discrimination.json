@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-16   FY 2021   Complaints Closed with Findings of No Discrimination-20250526",
+  "document_type": [
+    "EEOC_Charge"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-16   FY 2021   Complaints Closed with Findings of No Discrimination.xlsx",
+    "file_size": 16770,
+    "file_hash": "9c8bdcbbec3d997717246654b0ec86cb47841331245daaec2d574608147315b1",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.593298",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.593298",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Request for Work Schedule FEMA Form 106-1-1-1 (002)-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Request for Work Schedule FEMA Form 106-1-1-1 (002).pdf",
+    "file_size": 554937,
+    "file_hash": "64548a0b3d9f2f1e8873a9903e06eabc2ef257f82c6988540180a198d3f99e79",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:19.352568",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:19.352568",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

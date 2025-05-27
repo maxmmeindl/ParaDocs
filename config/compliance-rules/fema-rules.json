@@ -1,0 +1,143 @@
+{
+  "agency": "FEMA",
+  "description": "Federal Emergency Management Agency compliance rules",
+  "regulations": {
+    "44_CFR_206": {
+      "title": "Federal Disaster Assistance",
+      "sections": {
+        "206.11": {
+          "title": "Nondiscrimination in disaster assistance",
+          "requirements": [
+            "No discrimination based on race, color, religion, nationality, sex, age, disability",
+            "Reasonable modifications for individuals with disabilities",
+            "Language assistance for limited English proficiency"
+          ]
+        }
+      }
+    },
+    "5_CFR_752": {
+      "title": "Adverse Actions",
+      "sections": {
+        "752.404": {
+          "title": "Procedures for removal or suspension",
+          "requirements": [
+            "30-day advance written notice",
+            "Specification of charges",
+            "Right to answer orally and in writing",
+            "Right to representation",
+            "Written decision with reasons"
+          ],
+          "exceptions": [
+            "Crime for which imprisonment is mandatory",
+            "National security",
+            "Imminent threat to safety"
+          ]
+        }
+      }
+    },
+    "5_USC_2302": {
+      "title": "Prohibited Personnel Practices",
+      "prohibitions": [
+        "Discrimination based on protected characteristics",
+        "Soliciting or considering improper recommendations",
+        "Coercing political activity",
+        "Obstructing competition for positions",
+        "Influencing withdrawal from competition",
+        "Granting unauthorized preference",
+        "Nepotism",
+        "Retaliation for whistleblowing",
+        "Retaliation for exercising appeal rights",
+        "Discrimination based on off-duty conduct",
+        "Violation of veterans' preference",
+        "Violation of any law implementing merit system principles"
+      ]
+    }
+  },
+  "employment_actions": {
+    "termination": {
+      "types": [
+        "Removal",
+        "Reduction in Grade",
+        "Reduction in Pay",
+        "Suspension",
+        "Furlough"
+      ],
+      "required_documentation": [
+        "SF-50 Notification of Personnel Action",
+        "Proposal Letter",
+        "Employee Response",
+        "Decision Letter",
+        "Supporting Evidence"
+      ],
+      "procedural_requirements": {
+        "proposal_notice_days": 30,
+        "response_time_minimum_days": 7,
+        "decision_consideration": "Must consider employee response",
+        "appeal_rights_notice": "Required in decision letter"
+      }
+    },
+    "performance_improvement": {
+      "pip_requirements": [
+        "Written performance standards",
+        "Specific improvement requirements",
+        "Reasonable time period (typically 60-120 days)",
+        "Assistance offered",
+        "Progress reviews"
+      ]
+    }
+  },
+  "reasonable_accommodation": {
+    "process_requirements": [
+      "Acknowledge request promptly",
+      "Interactive process",
+      "Document considerations",
+      "Provide decision in writing",
+      "Implement approved accommodations timely"
+    ],
+    "decision_timeframe_days": 30,
+    "extension_allowed": "Yes, with notice to employee"
+  },
+  "whistleblower_protections": {
+    "protected_disclosures": [
+      "Violation of law, rule, or regulation",
+      "Gross mismanagement",
+      "Gross waste of funds",
+      "Abuse of authority",
+      "Substantial danger to public health or safety"
+    ],
+    "prohibited_retaliation": [
+      "Termination",
+      "Demotion",
+      "Suspension",
+      "Transfer",
+      "Reassignment",
+      "Performance rating reduction",
+      "Any other significant change in duties or responsibilities"
+    ]
+  },
+  "merit_system_principles": [
+    "Recruit from all segments of society",
+    "Fair and open competition",
+    "Selection based on relative ability",
+    "Fair treatment without regard to protected characteristics",
+    "Equal pay for equal work",
+    "High standards of integrity and conduct",
+    "Efficient and effective use of workforce",
+    "Retain based on performance",
+    "Protect against arbitrary action and personal favoritism"
+  ],
+  "validation_rules": {
+    "proper_notice": {
+      "check": "notice_days >= 30 OR exception_applies",
+      "error": "Insufficient advance notice for adverse action"
+    },
+    "response_opportunity": {
+      "check": "response_time >= 7 AND response_considered",
+      "error": "Employee not given adequate opportunity to respond"
+    },
+    "documentation": {
+      "check": "all_required_documents_present",
+      "error": "Missing required documentation for personnel action"
+    }
+  }
+} 

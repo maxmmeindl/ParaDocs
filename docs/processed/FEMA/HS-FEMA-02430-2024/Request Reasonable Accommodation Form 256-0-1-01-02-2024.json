@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Request Reasonable Accommodation Form 256-0-1-01-02-2024-20250526",
+  "document_type": [
+    "Interactive_Process"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Request Reasonable Accommodation Form 256-0-1-01-02-2024.pdf",
+    "file_size": 1155581,
+    "file_hash": "a98a4f4827035555a28ac44205ecd0dc8de10baebe75764a501c57958310d5f2",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:19.463898",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:19.463898",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

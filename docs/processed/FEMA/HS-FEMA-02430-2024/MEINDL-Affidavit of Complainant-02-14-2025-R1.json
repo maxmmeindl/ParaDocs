@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-MEINDL-Affidavit of Complainant-02-14-2025-R1-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "MEINDL-Affidavit of Complainant-02-14-2025-R1.pdf",
+    "file_size": 300439,
+    "file_hash": "d84a147b40fa12b4ed406255559473de211246db29ebb74d7bf636b8caf70044",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:12.348035",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:12.348035",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

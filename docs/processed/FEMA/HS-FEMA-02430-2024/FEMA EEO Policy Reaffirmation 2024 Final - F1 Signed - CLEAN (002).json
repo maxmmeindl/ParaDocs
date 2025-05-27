@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-FEMA EEO Policy Reaffirmation 2024 Final - F1 Signed - CLEAN (002)-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "FEMA EEO Policy Reaffirmation 2024 Final - F1 Signed - CLEAN (002).pdf",
+    "file_size": 214390,
+    "file_hash": "83d9b15c80062b2d35bc6ce75fdb173ec2c2c966213f363a04bc58e4380233ba",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:09.519148",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:09.519148",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

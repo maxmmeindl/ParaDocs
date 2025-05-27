@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ParaDocs Unified Dashboard - Case HS-FEMA-02430-2024</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f0f2f5;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, #1a237e 0%, #3949ab 100%);
+            color: white;
+            padding: 2rem 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .subtitle {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+        
+        /* Navigation Tabs */
+        .nav-tabs {
+            background: white;
+            padding: 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .tab-list {
+            display: flex;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .tab {
+            flex: 1;
+            text-align: center;
+        }
+        
+        .tab button {
+            width: 100%;
+            padding: 1rem 2rem;
+            border: none;
+            background: none;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: #666;
+            cursor: pointer;
+            transition: all 0.3s;
+            border-bottom: 3px solid transparent;
+        }
+        
+        .tab button:hover {
+            background: #f5f5f5;
+        }
+        
+        .tab button.active {
+            color: #1a237e;
+            border-bottom-color: #1a237e;
+            background: #f0f2f5;
+        }
+        
+        /* Tab Content */
+        .tab-content {
+            display: none;
+            padding: 2rem 0;
+        }
+        
+        .tab-content.active {
+            display: block;
+        }
+        
+        /* Dashboard Cards */
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .card {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            transition: transform 0.3s;
+        }
+        
+        .card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+        }
+        
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+        
+        .card-icon {
+            font-size: 2rem;
+        }
+        
+        .card h3 {
+            color: #1a237e;
+            font-size: 1.2rem;
+            margin: 0;
+        }
+        
+        .stat-value {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #333;
+            margin: 0.5rem 0;
+        }
+        
+        .stat-label {
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        /* Evidence Table */
+        .evidence-table {
+            width: 100%;
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        
+        .evidence-table table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        .evidence-table th {
+            background: #f5f5f5;
+            padding: 1rem;
+            text-align: left;
+            font-weight: 600;
+            color: #333;
+            border-bottom: 2px solid #e0e0e0;
+        }
+        
+        .evidence-table td {
+            padding: 1rem;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .evidence-table tr:hover {
+            background: #f9f9f9;
+        }
+        
+        /* Timeline */
+        .timeline {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        
+        .timeline-item {
+            display: flex;
+            gap: 2rem;
+            margin-bottom: 2rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid #e0e0e0;
+        }
+        
+        .timeline-date {
+            flex-shrink: 0;
+            width: 120px;
+            font-weight: 600;
+            color: #1a237e;
+        }
+        
+        .timeline-content h4 {
+            margin: 0 0 0.5rem 0;
+            color: #333;
+        }
+        
+        /* Status Indicators */
+        .status {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 600;
+        }
+        
+        .status-ready {
+            background: #e8f5e9;
+            color: #2e7d32;
+        }
+        
+        .status-pending {
+            background: #fff3e0;
+            color: #f57c00;
+        }
+        
+        .status-critical {
+            background: #ffebee;
+            color: #c62828;
+        }
+        
+        /* Action Buttons */
+        .action-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+        
+        .action-btn {
+            background: white;
+            border: 2px solid #1a237e;
+            color: #1a237e;
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: center;
+            text-decoration: none;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .action-btn:hover {
+            background: #1a237e;
+            color: white;
+        }
+        
+        /* Search Box */
+        .search-container {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            margin-bottom: 2rem;
+        }
+        
+        .search-box {
+            width: 100%;
+            padding: 0.75rem 1rem;
+            border: 2px solid #e0e0e0;
+            border-radius: 4px;
+            font-size: 1rem;
+        }
+        
+        .search-box:focus {
+            outline: none;
+            border-color: #1a237e;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>ParaDocs Unified Dashboard</h1>
+            <p class="subtitle">Case HS-FEMA-02430-2024 | Complainant v. FEMA Region IX</p>
+        </div>
+    </header>
+
+    <nav class="nav-tabs">
+        <div class="container">
+            <ul class="tab-list">
+                <li class="tab">
+                    <button class="active" onclick="showTab('overview')">📊 Case Overview</button>
+                </li>
+                <li class="tab">
+                    <button onclick="showTab('evidence')">📁 Evidence & Documents</button>
+                </li>
+                <li class="tab">
+                    <button onclick="showTab('timeline')">📅 Timeline</button>
+                </li>
+                <li class="tab">
+                    <button onclick="showTab('system')">⚙️ System Status</button>
+                </li>
+                <li class="tab">
+                    <button onclick="showTab('actions')">🚀 Actions & Tools</button>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="container">
+        <!-- Case Overview Tab -->
+        <div id="overview" class="tab-content active">
+            <h2 style="margin-bottom: 2rem;">Case Overview & Statistics</h2>
+            
+            <div class="dashboard-grid">
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-icon">📋</span>
+                        <h3>Total Documents</h3>
+                    </div>
+                    <div class="stat-value"><span id="totalDocs">–</span></div>
+                    <div class="stat-label">Emails, exhibits, legal filings</div>
+                </div>
+                
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-icon">⚖️</span>
+                        <h3>Violations Identified</h3>
+                    </div>
+                    <div class="stat-value">12</div>
+                    <div class="stat-label">ADA, Retaliation, Due Process</div>
+                </div>
+                
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-icon">💰</span>
+                        <h3>Estimated Damages</h3>
+                    </div>
+                    <div class="stat-value">$2.5M+</div>
+                    <div class="stat-label">Economic & non-economic</div>
+                </div>
+                
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-icon">📅</span>
+                        <h3>Case Duration</h3>
+                    </div>
+                    <div class="stat-value">6+ Years</div>
+                    <div class="stat-label">2018 - Present</div>
+                </div>
+            </div>
+
+            <div class="card" style="margin-top: 2rem;">
+                <h3 style="margin-bottom: 1rem;">Key Legal Claims</h3>
+                <ul style="list-style: none; padding: 0;">
+                    <li style="padding: 0.5rem 0;">✓ <strong>ADA Violations:</strong> Failure to accommodate, discriminatory termination</li>
+                    <li style="padding: 0.5rem 0;">✓ <strong>Retaliation:</strong> For requesting accommodations and filing complaints</li>
+                    <li style="padding: 0.5rem 0;">✓ <strong>Due Process Violations:</strong> Improper termination procedures</li>
+                    <li style="padding: 0.5rem 0;">✓ <strong>Whistleblower Retaliation:</strong> For reporting safety concerns</li>
+                    <li style="padding: 0.5rem 0;">✓ <strong>Privacy Act Violations:</strong> Unauthorized disclosure of medical information</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Evidence Tab -->
+        <div id="evidence" class="tab-content">
+            <h2 style="margin-bottom: 2rem;">Evidence & Document Repository</h2>
+            
+            <div class="search-container">
+                <input type="text" class="search-box" placeholder="Search documents by keyword, date, or type..." id="evidenceSearch">
+            </div>
+
+            <div id="searchResults" style="margin-top:1rem;"></div>
+
+            <div class="evidence-table">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Document</th>
+                            <th>Type</th>
+                            <th>Date</th>
+                            <th>Status</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody id="evidenceBody">
+                        <tr>
+                            <td><strong>Initial Accommodation Request</strong></td>
+                            <td>Medical Documentation</td>
+                            <td>2018-11-15</td>
+                            <td><span class="status status-ready">Verified</span></td>
+                            <td><a href="#" class="action-btn" style="padding: 0.5rem;">View</a></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Termination Letter</strong></td>
+                            <td>Agency Action</td>
+                            <td>2019-11-01</td>
+                            <td><span class="status status-critical">Key Evidence</span></td>
+                            <td><a href="#" class="action-btn" style="padding: 0.5rem;">View</a></td>
+                        </tr>
+                        <tr>
+                            <td><strong>EEOC ROI (400+ pages)</strong></td>
+                            <td>Investigation File</td>
+                            <td>2023-08-14</td>
+                            <td><span class="status status-ready">Processed</span></td>
+                            <td><a href="#" class="action-btn" style="padding: 0.5rem;">View</a></td>
+                        </tr>
+                        <tr>
+                            <td><strong>Email Communications Archive</strong></td>
+                            <td>Correspondence</td>
+                            <td>2018-2024</td>
+                            <td><span class="status status-ready">Indexed</span></td>
+                            <td><a href="#" class="action-btn" style="padding: 0.5rem;">Search</a></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <div class="action-grid" style="margin-top: 2rem;">
+                <a href="MASTER_INDEX.html" class="action-btn">📋 Full Document Index</a>
+                <a href="email_index_HS-FEMA-02430-2024.html" class="action-btn">📧 Email Archive</a>
+                <a href="CASE_VIOLATIONS_SUMMARY.html" class="action-btn">⚖️ Violations Summary</a>
+            </div>
+        </div>
+
+        <!-- Timeline Tab -->
+        <div id="timeline" class="tab-content">
+            <h2 style="margin-bottom: 2rem;">Case Timeline</h2>
+            
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-date">Nov 15, 2018</div>
+                    <div class="timeline-content">
+                        <h4>Initial Accommodation Request</h4>
+                        <p>Complainant requests reasonable accommodations for disability</p>
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">Jan-Oct 2019</div>
+                    <div class="timeline-content">
+                        <h4>Pattern of Retaliation Begins</h4>
+                        <p>Hostile work environment, denied accommodations, excluded from meetings</p>
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">Nov 1, 2019</div>
+                    <div class="timeline-content">
+                        <h4>Wrongful Termination</h4>
+                        <p>Terminated while on approved medical leave</p>
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">Dec 2019</div>
+                    <div class="timeline-content">
+                        <h4>EEO Complaint Filed</h4>
+                        <p>Formal discrimination complaint initiated</p>
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">Aug 14, 2023</div>
+                    <div class="timeline-content">
+                        <h4>EEOC Investigation Complete</h4>
+                        <p>ROI issued with 400+ pages of evidence</p>
+                    </div>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">Present</div>
+                    <div class="timeline-content">
+                        <h4>Case Proceeding</h4>
+                        <p>Administrative hearing / Federal court options</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="action-grid" style="margin-top: 2rem;">
+                <a href="paradocs_master_timeline_enhanced.html" class="action-btn">📊 Interactive Timeline</a>
+                <a href="MASTER_TIMELINE_2018-2025.csv" class="action-btn">📄 Export Timeline</a>
+            </div>
+        </div>
+
+        <!-- System Status Tab -->
+        <div id="system" class="tab-content">
+            <h2 style="margin-bottom: 2rem;">ParaDocs System Status</h2>
+            
+            <div class="dashboard-grid">
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-icon">✅</span>
+                        <h3>Repository Structure</h3>
+                    </div>
+                    <p>All directories created and organized</p>
+                    <ul style="list-style: none; padding: 0; margin-top: 1rem;">
+                        <li>✓ Document storage configured</li>
+                        <li>✓ Compliance rules loaded</li>
+                        <li>✓ Search indexes ready</li>
+                    </ul>
+                </div>
+                
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-icon">🔒</span>
+                        <h3>Security & Compliance</h3>
+                    </div>
+                    <p>FOIA and Privacy Act compliant</p>
+                    <ul style="list-style: none; padding: 0; margin-top: 1rem;">
+                        <li>✓ Git version control</li>
+                        <li>✓ File integrity hashing</li>
+                        <li>✓ Audit trail enabled</li>
+                    </ul>
+                </div>
+                
+                <div class="card">
+                    <div class="card-header">
+                        <span class="card-icon">🤖</span>
+                        <h3>AI Integration</h3>
+                    </div>
+                    <p>Claude Opus templates configured</p>
+                    <ul style="list-style: none; padding: 0; margin-top: 1rem;">
+                        <li>✓ Compliance validation</li>
+                        <li>✓ Document classification</li>
+                        <li>✓ Metadata extraction</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card" style="margin-top: 2rem;">
+                <h3 style="margin-bottom: 1rem;">System Features</h3>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
+                    <div>
+                        <h4>Document Processing</h4>
+                        <ul style="padding-left: 1.5rem;">
+                            <li>likely classification</li>
+                            <li>Metadata extraction</li>
+                            <li>OCR support ready</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4>Compliance Validation</h4>
+                        <ul style="padding-left: 1.5rem;">
+                            <li>EEOC regulations</li>
+                            <li>FEMA rules</li>
+                            <li>Deadline tracking</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4>Search & Analysis</h4>
+                        <ul style="padding-left: 1.5rem;">
+                            <li>Full-text search</li>
+                            <li>Timeline generation</li>
+                            <li>Pattern detection</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Actions Tab -->
+        <div id="actions" class="tab-content">
+            <h2 style="margin-bottom: 2rem;">Actions & Tools</h2>
+            
+            <div class="card" style="margin-bottom: 2rem;">
+                <h3 style="margin-bottom: 1rem;">Legal Actions</h3>
+                <div class="action-grid">
+                    <a href="ADMINISTRATIVE_HEARING_PORTAL.html" class="action-btn">⚖️ Admin Hearing Portal</a>
+                    <a href="FEDERAL_LAWSUIT_PORTAL.html" class="action-btn">🏛️ Federal Court Portal</a>
+                    <a href="ADR_MEDIATION_PORTAL.html" class="action-btn">🤝 ADR/Mediation Portal</a>
+                    <a href="SETTLEMENT_DEMAND_PACKAGE.md" class="action-btn">💰 Settlement Package</a>
+                </div>
+            </div>
+
+            <div class="card" style="margin-bottom: 2rem;">
+                <h3 style="margin-bottom: 1rem;">Document Management</h3>
+                <div class="action-grid">
+                    <button class="action-btn" onclick="alert('Run: .\\scripts\\migrate_existing_files.ps1')">📁 Migrate Documents</button>
+                    <button class="action-btn" onclick="alert('Run: python scripts/run_pipeline.py')">⚙️ Process Documents</button>
+                    <button class="action-btn" onclick="alert('Run: python scripts/run_indexing.py')">🔍 Generate Indexes</button>
+                    <button class="action-btn" onclick="alert('Run: .\\scripts\\check_status_simple.ps1')">📊 Check Status</button>
+                </div>
+            </div>
+
+            <div class="card">
+                <h3 style="margin-bottom: 1rem;">Quick Links</h3>
+                <div class="action-grid">
+                    <a href="paradocs_legal_strategy_dashboard.html" class="action-btn">📋 Legal Strategy</a>
+                    <a href="KEY_EXHIBITS_AND_EVIDENCE.md" class="action-btn">🔑 Key Exhibits</a>
+                    <a href="HEARING_PREPARATION_OUTLINE.md" class="action-btn">📝 Hearing Prep</a>
+                    <a href="Create_Attorney_Package.ps1" class="action-btn">👔 Attorney Package</a>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        function showTab(tabName) {
+            // Hide all tab contents
+            const contents = document.querySelectorAll('.tab-content');
+            contents.forEach(content => {
+                content.classList.remove('active');
+            });
+            
+            // Remove active class from all buttons
+            const buttons = document.querySelectorAll('.tab button');
+            buttons.forEach(button => {
+                button.classList.remove('active');
+            });
+            
+            // Show selected tab
+            document.getElementById(tabName).classList.add('active');
+            
+            // Mark button as active
+            event.target.classList.add('active');
+        }
+        
+        // Evidence search functionality
+        const tableBody=document.getElementById('evidenceBody');
+        const searchBox=document.getElementById('evidenceSearch');
+        if(searchBox){
+            searchBox.addEventListener('input',async (e)=>{
+                const q=e.target.value.trim();
+                if(q.length<3){ tableBody.innerHTML=''; return; }
+                const res=await keywordSearch(q);
+                let html='';
+                res.forEach(r=>{
+                    const doc=r.documents[0];
+                    html+=`<tr><td>${doc.split('/').pop()}</td><td>${r.keyword}</td><td></td><td><span class='status status-ready'>Match</span></td><td><a href='${doc}' class='action-btn' style='padding:0.5rem'>Open</a></td></tr>`;
+                });
+                tableBody.innerHTML=html;
+            });
+        }
+
+        async function loadStats() {
+            try {
+                const sm = await (await fetch('search_index/summary_metrics.json')).json();
+                document.getElementById('totalDocs').textContent = sm.total_documents ?? '0';
+                document.getElementById('totalKeywords').textContent = sm.total_keywords ?? '0';
+                document.getElementById('totalDates').textContent = sm.total_dates ?? '0';
+                document.getElementById('dupCount').textContent = sm.duplicate_groups ?? '0';
+            } catch(e){console.error('summary fetch',e);} 
+        }
+        loadStats();
+
+        // Basic keyword search
+        async function keywordSearch(q){
+            const data = await (await fetch('search_index/keyword_index.json')).json();
+            const results = data.filter(k=>k.keyword.includes(q.toLowerCase())).slice(0,20);
+            return results;
+        }
+    </script>
+</body>
+</html> 

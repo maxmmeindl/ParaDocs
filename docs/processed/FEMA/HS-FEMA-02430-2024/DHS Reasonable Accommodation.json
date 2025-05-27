@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-DHS Reasonable Accommodation-20250526",
+  "document_type": [
+    "Interactive_Process"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "DHS Reasonable Accommodation.pdf",
+    "file_size": 162089,
+    "file_hash": "0e5964cfac9b729f7c6b24e433886b02afc32655fe3372b9d21ddcdf7d3da529",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:08.813649",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:08.813649",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

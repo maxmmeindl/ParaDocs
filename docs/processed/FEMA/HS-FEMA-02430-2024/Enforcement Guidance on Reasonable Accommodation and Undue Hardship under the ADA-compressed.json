@@ -1,0 +1,32 @@
+{
+  "document_id": "FEMA-Enforcement Guidance on Reasonable Accommodation and Undue Hardship under the ADA-compressed-20250526",
+  "document_type": [
+    "Interactive_Process"
+  ],
+  "agency": [
+    "FEMA"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Enforcement Guidance on Reasonable Accommodation and Undue Hardship under the ADA-compressed.pdf",
+    "file_size": 14107114,
+    "file_hash": "6f6537b6eac91638aaa73d3bf4813cfa4f0bfe5ae3d58a6f11b5f1d046104651",
+    "mime_type": "application/pdf"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:09.077269",
+    "validation_status": "Validated",
+    "validation_errors": [
+      "TEXT_EXTRACTION_FAILED"
+    ]
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:09.077269",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}

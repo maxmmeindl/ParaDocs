@@ -1,0 +1,30 @@
+{
+  "document_id": "EEOC-Table B-28   FY 2021   Contractor Experienced Staff Training-20250526",
+  "document_type": [
+    "Other"
+  ],
+  "agency": [
+    "EEOC"
+  ],
+  "case_number": "HS-FEMA-02430-2024",
+  "created_date": "2025-05-26",
+  "file_info": {
+    "original_filename": "Table B-28   FY 2021   Contractor Experienced Staff Training.xlsx",
+    "file_size": 17210,
+    "file_hash": "460bf74c51d4b47fbbca4b039e82dd8805a154d759bfab4be9b8cea0b48bc51c",
+    "mime_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+  },
+  "processing_info": {
+    "processed_date": "2025-05-26T20:49:23.892092",
+    "validation_status": "Validated",
+    "validation_errors": []
+  },
+  "audit_trail": [
+    {
+      "timestamp": "2025-05-26T20:49:23.892092",
+      "action": "Created",
+      "user": "Max",
+      "details": "Initial metadata creation"
+    }
+  ]
+}
