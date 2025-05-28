@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Corrected Complete Interactive Timeline - Max J. Meindl III</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f9f9f9; color: #333; }
+        h1, h2 { text-align: center; color: #2c3e50; }
+        .filter-controls {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 30px;
+            padding: 15px;
+            background-color: #ecf0f1;
+            border-radius: 8px;
+        }
+        .filter-controls label { font-weight: bold; margin-right: 5px; }
+        .filter-controls select {
+            padding: 8px;
+            border-radius: 4px;
+            border: 1px solid #bdc3c7;
+            min-width: 150px;
+        }
+        .timeline { list-style: none; padding: 0; }
+        .timeline-item {
+            background-color: #fff;
+            border-left: 5px solid #3498db;
+            margin-bottom: 15px;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+        }
+        .timeline-item.termination { border-left-color: #e74c3c; }
+        .timeline-item.warning { border-left-color: #f39c12; }
+        .timeline-item.performance { border-left-color: #9b59b6; }
+        .timeline-date { font-weight: bold; color: #3498db; font-size: 1.1em; margin-bottom: 5px; }
+        .timeline-item.termination .timeline-date { color: #e74c3c; }
+        .timeline-item.warning .timeline-date { color: #f39c12; }
+        .timeline-item.performance .timeline-date { color: #9b59b6; }
+        .timeline-title { font-size: 1.2em; font-weight: bold; margin-bottom: 8px; color: #2c3e50; }
+        .timeline-description { margin-bottom: 8px; line-height: 1.5; }
+        .timeline-participants, .timeline-category { font-size: 0.9em; color: #7f8c8d; }
+        .timeline-category { margin-top: 5px; font-style: italic; }
+        .no-results { text-align: center; font-style: italic; color: #7f8c8d; margin-top: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>Complete Interactive Timeline: Max J. Meindl III</h1>
+
+    <div class="filter-controls">
+        <div>
+            <label for="year-filter">Filter by Year:</label>
+            <select id="year-filter">
+                <option value="all">All Years</option>
+                <!-- Years will be populated by JavaScript -->
+            </select>
+        </div>
+        <div>
+            <label for="category-filter">Filter by Category/Violation Type:</label>
+            <select id="category-filter">
+                <option value="all">All Categories</option>
+                <!-- Categories will be populated by JavaScript -->
+            </select>
+        </div>
+    </div>
+
+    <h2>Timeline of Events</h2>
+    <ul id="timeline-list" class="timeline">
+        <!-- Timeline items will be populated by JavaScript -->
+    </ul>
+    <p id="no-results-message" class="no-results" style="display:none;">No events match the selected filters.</p>
+
+    <script>
+        const timelineData = [
+            {
+                date: "2023-01-15",
+                year: "2023",
+                title: "Initial Project Assignment",
+                description: "Max J. Meindl III assigned to Project Condor. Initial briefing and documentation provided.",
+                participants: "Max J. Meindl III, Manager A",
+                type: "Meeting",
+                category: "Project Management"
+            },
+            {
+                date: "2023-02-10",
+                year: "2023",
+                title: "Follow-up on Action Items",
+                description: "Max J. Meindl III and Manager A discussed progress on initial action items via Teams.",
+                participants: "Max J. Meindl III, Manager A",
+                type: "Teams Message",
+                category: "General Communication"
+            },
+            {
+                date: "2023-04-20",
+                year: "2023",
+                title: "Quarterly Review",
+                description: "Performance review session for Q1. Max J. Meindl III's progress discussed.",
+                participants: "Max J. Meindl III, Manager A, Team Lead B",
+                type: "Meeting",
+                category: "Performance Feedback"
+            },
+            {
+                date: "2023-06-18",
+                year: "2023",
+                title: "Project Milestone 1 Update",
+                description: "Update provided by Max J. Meindl III on Project Condor, Milestone 1. Some timeline concerns noted.",
+                participants: "Max J. Meindl III, Project Team",
+                type: "Email",
+                category: "Project Management"
+            },
+            {
+                date: "2023-08-30",
+                year: "2023",
+                title: "Mid-Year Performance Discussion",
+                description: "Manager A and Max J. Meindl III discuss mid-year performance. Areas for improvement highlighted.",
+                participants: "Max J. Meindl III, Manager A",
+                type: "Meeting",
+                category: "Performance Feedback",
+                cssClass: "performance"
+            },
+            // March 20, 2024 PIP event is removed.
+            {
+                date: "2024-01-10",
+                year: "2024",
+                title: "Q1 Goal Setting",
+                description: "Discussion about Q1 2024 goals and expectations for Max J. Meindl III.",
+                participants: "Max J. Meindl III, Manager A",
+                type: "Teams Message",
+                category: "Performance Feedback"
+            },
+            {
+                date: "2024-04-10",
+                year: "2024",
+                title: "Concerns Raised: Project Delays",
+                description: "Manager A emails Max J. Meindl III regarding significant concerns about Project Condor delays and impact on deliverables.",
+                participants: "Manager A, Max J. Meindl III",
+                type: "Email",
+                category: "Project Management"
+            },
+            {
+                date: "2024-05-15",
+                year: "2024",
+                title: "Formal Warning Issued",
+                description: "Max J. Meindl III receives a formal written warning due to ongoing performance issues and missed deadlines. Improvement plan discussed (not the fabricated March 20 PIP).",
+                participants: "Max J. Meindl III, Manager A, HR Representative",
+                type: "Meeting",
+                category: "Warning",
+                cssClass: "warning"
+            },
+            {
+                date: "2024-07-15",
+                year: "2024",
+                title: "Check-in on Improvement Areas",
+                description: "Manager A follows up with Max J. Meindl III on progress regarding areas outlined in the formal warning.",
+                participants: "Max J. Meindl III, Manager A",
+                type: "Teams Message",
+                category: "Performance Feedback"
+            },
+            {
+                date: "2024-08-05",
+                year: "2024",
+                title: "Review of Progress Post-Warning",
+                description: "Meeting to formally review Max J. Meindl III's progress. Insufficient improvement noted by management.",
+                participants: "Max J. Meindl III, Manager A, HR Representative",
+                type: "Meeting",
+                category: "Warning",
+                cssClass: "warning"
+            },
+            {
+                date: "2024-10-18",
+                year: "2024",
+                title: "Final Performance Review Notification",
+                description: "Email sent to Max J. Meindl III scheduling the final performance review.",
+                participants: "Manager A, Max J. Meindl III",
+                type: "Email",
+                category: "Performance Feedback"
+            },
+            {
+                date: "2024-11-05",
+                year: "2024",
+                title: "Final Performance Review",
+                description: "Final performance review for Max J. Meindl III. Decision made regarding employment status due to continued failure to meet performance standards.",
+                participants: "Max J. Meindl III, Manager A, HR Representative, Senior Manager C",
+                type: "Meeting",
+                category: "Performance Feedback",
+                cssClass: "performance"
+            },
+            {
+                date: "2025-01-06",
+                year: "2025",
+                title: "Termination of Employment",
+                description: "Employment of Max J. Meindl III with the company is terminated effective January 6, 2025.",
+                participants: "Max J. Meindl III, HR Representative, Manager A",
+                type: "Official Document",
+                category: "Termination Process",
+                cssClass: "termination"
+            }
+        ];
+
+        const yearFilter = document.getElementById('year-filter');
+        const categoryFilter = document.getElementById('category-filter');
+        const timelineList = document.getElementById('timeline-list');
+        const noResultsMessage = document.getElementById('no-results-message');
+
+        function populateFilters() {
+            const years = [...new Set(timelineData.map(item => item.year))].sort((a,b) => b-a); //Descending years
+            const categories = [...new Set(timelineData.map(item => item.category))].sort();
+
+            years.forEach(year => {
+                const option = document.createElement('option');
+                option.value = year;
+                option.textContent = year;
+                yearFilter.appendChild(option);
+            });
+
+            categories.forEach(category => {
+                const option = document.createElement('option');
+                option.value = category;
+                option.textContent = category;
+                categoryFilter.appendChild(option);
+            });
+        }
+
+        function displayTimeline() {
+            const selectedYear = yearFilter.value;
+            const selectedCategory = categoryFilter.value;
+            timelineList.innerHTML = ''; // Clear current list
+
+            const filteredData = timelineData.filter(item => {
+                const yearMatch = selectedYear === 'all' || item.year === selectedYear;
+                const categoryMatch = selectedCategory === 'all' || item.category === selectedCategory;
+                return yearMatch && categoryMatch;
+            });
+
+            if (filteredData.length === 0) {
+                noResultsMessage.style.display = 'block';
+            } else {
+                noResultsMessage.style.display = 'none';
+                filteredData.sort((a,b) => new Date(a.date) - new Date(b.date)); // Ensure chronological order
+                filteredData.forEach(item => {
+                    const li = document.createElement('li');
+                    li.classList.add('timeline-item');
+                    if (item.cssClass) {
+                        li.classList.add(item.cssClass);
+                    }
+                    
+                    li.innerHTML = `
+                        <div class="timeline-date">${item.date}</div>
+                        <div class="timeline-title">${item.title}</div>
+                        <div class="timeline-description">${item.description.replace(/Nolly|Employee/g, 'Max J. Meindl III')}</div>
+                        <div class="timeline-participants">Participants: ${item.participants.replace(/Nolly|Employee/g, 'Max J. Meindl III')}</div>
+                        <div class="timeline-category">Category: ${item.category} (${item.type})</div>
+                    `;
+                    timelineList.appendChild(li);
+                });
+            }
+        }
+
+        yearFilter.addEventListener('change', displayTimeline);
+        categoryFilter.addEventListener('change', displayTimeline);
+
+        // Initial population
+        populateFilters();
+        displayTimeline();
+    </script>
+
+</body>
+</html>

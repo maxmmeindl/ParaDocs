@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Corrected Interactive Timeline Exhibit - Max J. Meindl III</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .timeline-container {
+            width: 90%;
+            max-width: 1000px;
+            margin: 30px auto;
+            position: relative;
+        }
+        .timeline-container::before {
+            content: '';
+            position: absolute;
+            width: 4px;
+            background-color: #007bff;
+            left: 50%;
+            margin-left: -2px;
+            top: 0;
+            bottom: 0;
+            height: 100%;
+        }
+        .timeline-event {
+            padding: 15px 30px;
+            position: relative;
+            background-color: inherit;
+            width: 50%;
+            box-sizing: border-box;
+        }
+        .timeline-event.left {
+            left: 0;
+            padding-right: 60px; /* Space for the line and dot */
+            text-align: right;
+        }
+        .timeline-event.right {
+            left: 50%;
+            padding-left: 60px; /* Space for the line and dot */
+            text-align: left;
+        }
+        .timeline-event::after { /* The dot on the timeline */
+            content: '';
+            position: absolute;
+            width: 16px;
+            height: 16px;
+            right: -8px; /* Adjust for dot size */
+            background-color: white;
+            border: 4px solid #007bff;
+            top: 20px; 
+            border-radius: 50%;
+            z-index: 1;
+        }
+        .timeline-event.left::after {
+            right: -8px; /* Position dot on the line */
+        }
+        .timeline-event.right::after {
+            left: -8px; /* Position dot on the line */
+        }
+        .event-content {
+            padding: 15px;
+            background-color: white;
+            position: relative;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-left: 5px solid #007bff;
+        }
+        .timeline-event.left .event-content {
+             border-left: none;
+             border-right: 5px solid #007bff;
+        }
+        .event-date {
+            font-weight: bold;
+            color: #007bff;
+            margin-bottom: 8px;
+            font-size: 1.1em;
+        }
+        .event-title {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .event-description {
+            font-size: 0.95em;
+            line-height: 1.5;
+        }
+        .event-participants {
+            font-size: 0.8em;
+            color: #666;
+            margin-top: 10px;
+            font-style: italic;
+        }
+        .termination-event .event-content {
+            border-color: #dc3545; /* Red for termination */
+            background-color: #ffebee;
+        }
+        .termination-event .event-date {
+            color: #dc3545;
+        }
+        h1 {
+            text-align: center;
+            color: #007bff;
+            margin-bottom: 40px;
+        }
+
+        /* Clearfix to ensure container wraps floated children if any were used (not in this specific CSS but good practice) */
+        .timeline-container::after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Interactive Timeline Exhibit: The Case of Max J. Meindl III</h1>
+    <div class="timeline-container">
+        
+        <div class="timeline-event left">
+            <div class="event-content">
+                <div class="event-date">2023-01-15</div>
+                <div class="event-title">Initial Project Assignment</div>
+                <div class="event-description">Max J. Meindl III assigned to Project Condor. Initial briefing and documentation provided.</div>
+                <div class="event-participants">Participants: Max J. Meindl III, Manager A</div>
+            </div>
+        </div>
+
+        <div class="timeline-event right">
+            <div class="event-content">
+                <div class="event-date">2023-03-05</div>
+                <div class="event-title">Client Interaction & Requirement Clarification</div>
+                <div class="event-description">Meeting with Client X to discuss requirements for Project Condor. Max J. Meindl III tasked with follow-up actions.</div>
+                <div class="event-participants">Participants: Max J. Meindl III, Client X, Account Manager C</div>
+            </div>
+        </div>
+
+        <div class="timeline-event left">
+            <div class="event-content">
+                <div class="event-date">2023-06-18</div>
+                <div class="event-title">Milestone 1 Update</div>
+                <div class="event-description">Max J. Meindl III reports on Milestone 1. Some concerns noted by Manager A about timelines.</div>
+                <div class="event-participants">Participants: Max J. Meindl III, Manager A</div>
+            </div>
+        </div>
+
+        <div class="timeline-event right">
+            <div class="event-content">
+                <div class="event-date">2023-08-30</div>
+                <div class="event-title">Mid-Year Performance Review Discussion</div>
+                <div class="event-description">Scheduled performance review. Manager A discusses progress and areas for improvement with Max J. Meindl III. Positive aspects acknowledged, but project pacing highlighted.</div>
+                <div class="event-participants">Participants: Max J. Meindl III, Manager A</div>
+            </div>
+        </div>
+        
+        <div class="timeline-event left">
+            <div class="event-content">
+                <div class="event-date">2023-11-21</div>
+                <div class="event-title">Project Planning - Next Phase</div>
+                <div class="event-description">Team meeting to plan the next phase of Project Condor. Max J. Meindl III's role and responsibilities defined.</div>
+                <div class="event-participants">Participants: Max J. Meindl III, Manager A, Team Lead B, Client X</div>
+            </div>
+        </div>
+
+        <!-- March 20, 2024 PIP related event is removed -->
+        <!-- Example of a removed event:
+        <div class="timeline-event right">
+            <div class="event-content">
+                <div class="event-date">2024-03-20</div>
+                <div class="event-title">Performance Improvement Plan Issued</div>
+                <div class="event-description">A PIP was issued to Employee following ongoing concerns.</div>
+                <div class="event-participants">Participants: Employee, Manager A, HR Representative</div>
+            </div>
+        </div>
+        -->
+
+        <div class="timeline-event right">
+            <div class="event-content">
+                <div class="event-date">2024-04-10</div>
+                <div class="event-title">Project Delay Concerns Raised</div>
+                <div class="event-description">Manager A formally communicates concerns to Max J. Meindl III regarding significant delays in Project Condor. Recovery plan requested.</div>
+                <div class="event-participants">Participants: Manager A, Max J. Meindl III</div>
+            </div>
+        </div>
+
+        <div class="timeline-event left">
+            <div class="event-content">
+                <div class="event-date">2024-05-15</div>
+                <div class="event-title">Formal Warning Issued</div>
+                <div class="event-description">Max J. Meindl III receives a formal written warning regarding performance and project deadlines. Specific improvement metrics outlined.</div>
+                <div class="event-participants">Participants: Max J. Meindl III, Manager A, HR Representative</div>
+            </div>
+        </div>
+        
+        <div class="timeline-event right">
+            <div class="event-content">
+                <div class="event-date">2024-08-05</div>
+                <div class="event-title">Progress Review Post-Warning</div>
+                <div class="event-description">Meeting to review Max J. Meindl III's progress against the formal warning's requirements. Insufficient improvement noted.</div>
+                <div class="event-participants">Participants: Max J. Meindl III, Manager A, HR Representative</div>
+            </div>
+        </div>
+
+        <div class="timeline-event left">
+            <div class="event-content">
+                <div class="event-date">2024-11-05</div>
+                <div class="event-title">Final Performance Review</div>
+                <div class="event-description">Final performance review held. Decision communicated that targets were not met. Max J. Meindl III informed of potential upcoming separation.</div>
+                <div class="event-participants">Participants: Max J. Meindl III, Manager A, HR Rep, Senior Manager C</div>
+            </div>
+        </div>
+
+        <div class="timeline-event right termination-event">
+            <div class="event-content">
+                <div class="event-date">2025-01-06</div>
+                <div class="event-title">Termination of Employment</div>
+                <div class="event-description">Employment of Max J. Meindl III with [Company Name] terminated. Reasons cited: failure to meet performance standards and project deliverables.</div>
+                <div class="event-participants">Participants: Max J. Meindl III, HR Representative, Manager A</div>
+            </div>
+        </div>
+        
+        <!-- This is a sample; a full exhibit would have more events -->
+
+    </div>
+</body>
+</html>
