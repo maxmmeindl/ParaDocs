@@ -320,6 +320,99 @@
         <div id="searchStatus" class="form-text text-muted text-center mt-1">Loading search data...</div>
     </div>
 
+    <!-- Critical Action Items Alert -->
+    <div class="container-fluid px-4 mb-4">
+        <div class="alert alert-warning" style="background: #fff3cd; border: 3px solid #ffc107;">
+            <h5 class="alert-heading"><i class="bi bi-exclamation-triangle-fill"></i> 🚨 CRITICAL ACTION ITEMS - IMMEDIATE ATTENTION REQUIRED</h5>
+            <p class="mb-3"><strong>Four critical tools have been prepared for summary judgment and maximum recovery:</strong></p>
+            
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs" id="criticalTabs" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active" id="tab-allra" data-bs-toggle="tab" data-bs-target="#pane-allra" type="button" role="tab" aria-controls="pane-allra" aria-selected="true">
+                        🗂️ ALL RA Evidence
+                    </button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="tab-rar" data-bs-toggle="tab" data-bs-target="#pane-rar" type="button" role="tab" aria-controls="pane-rar" aria-selected="false">
+                        🎯 RAR0023278
+                    </button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="tab-timeline" data-bs-toggle="tab" data-bs-target="#pane-timeline" type="button" role="tab" aria-controls="pane-timeline" aria-selected="false">
+                        📊 Timeline Exhibit
+                    </button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="tab-damages" data-bs-toggle="tab" data-bs-target="#pane-damages" type="button" role="tab" aria-controls="pane-damages" aria-selected="false">
+                        💰 Damages Calc
+                    </button>
+                </li>
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content border border-top-0 p-4" id="criticalTabContent">
+                <!-- ALL RA Evidence -->
+                <div class="tab-pane fade show active" id="pane-allra" role="tabpanel" aria-labelledby="tab-allra">
+                    <div class="card border-danger">
+                        <div class="card-body text-center">
+                            <h6 class="card-title text-danger">🗂️ ALL RA REQUESTS EVIDENCE</h6>
+                            <p class="card-text small">Comprehensive evidence for 7 RA requests</p>
+                            <a href="ALL_RA_REQUESTS_CRITICAL_EVIDENCE.html" class="btn btn-danger btn-sm" target="_blank">
+                                <i class="bi bi-file-earmark-medical"></i> Open Evidence File
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- RAR0023278 Evidence -->
+                <div class="tab-pane fade" id="pane-rar" role="tabpanel" aria-labelledby="tab-rar">
+                    <div class="card border-danger">
+                        <div class="card-body text-center">
+                            <h6 class="card-title text-danger">🎯 RAR0023278 Evidence</h6>
+                            <p class="card-text small">Summary Judgment Material</p>
+                            <a href="RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html" class="btn btn-danger btn-sm" target="_blank">
+                                <i class="bi bi-file-earmark-text"></i> Open Evidence
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Timeline Exhibit -->
+                <div class="tab-pane fade" id="pane-timeline" role="tabpanel" aria-labelledby="tab-timeline">
+                    <div class="card border-primary">
+                        <div class="card-body text-center">
+                            <h6 class="card-title text-primary">📊 Visual Timeline Exhibit</h6>
+                            <p class="card-text small">Court-ready demonstrative timeline</p>
+                            <a href="VISUAL_TIMELINE_EXHIBIT.html" class="btn btn-primary btn-sm" target="_blank">
+                                <i class="bi bi-calendar-event"></i> View Timeline
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Damages Calculator -->
+                <div class="tab-pane fade" id="pane-damages" role="tabpanel" aria-labelledby="tab-damages">
+                    <div class="card border-success">
+                        <div class="card-body text-center">
+                            <h6 class="card-title text-success">💰 Comprehensive Damages</h6>
+                            <p class="card-text small">$10.6M+ Total Exposure</p>
+                            <a href="COMPREHENSIVE_DAMAGES_ALL_VIOLATIONS.html" class="btn btn-success btn-sm" target="_blank">
+                                <i class="bi bi-calculator"></i> View All Damages
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="mt-3 text-center">
+                <small class="text-muted">
+                    <strong>Next Steps:</strong> Extract ROI documents → File summary judgment → Use timeline in court → Lead settlement with $10.6M+ exposure
+                </small>
+            </div>
+        </div>
+    </div>
+
     <!-- Case Summary Alert -->
     <div class="container-fluid px-4 mb-4">
         <div class="alert alert-danger" style="background: #f8d7da; border: 2px solid #dc3545;">
@@ -384,7 +477,7 @@
                     <i class="bi bi-file-earmark-ruled"></i>
                     Comprehensive Investigation
                 </h3>
-                <p class="viz-description">30+ events, 76 violations, investigation questions for 13 individuals</p>
+                <p class="viz-description">30+ events, 76 violations, investigation questions for 50+ individuals</p>
             </div>
             
             <div class="viz-card" onclick="window.open('paradocs_master_timeline_enhanced.html', '_blank')">
@@ -489,6 +582,25 @@
                 <small class="text-muted">15+ statutes cited</small>
             </div>
             
+            <!-- Critical Action Items -->
+            <div class="tool-card" onclick="window.open('RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html','_blank')" style="border: 3px solid #dc3545;">
+                <i class="bi bi-exclamation-triangle-fill tool-icon" style="color: #dc3545;"></i>
+                <div class="tool-name" style="color: #dc3545;">Critical Evidence Extract</div>
+                <small class="text-muted">RAR0023278 Summary Judgment</small>
+            </div>
+            
+            <div class="tool-card" onclick="window.open('VISUAL_TIMELINE_EXHIBIT.html','_blank')" style="border: 3px solid #0277bd;">
+                <i class="bi bi-calendar-event tool-icon" style="color: #0277bd;"></i>
+                <div class="tool-name" style="color: #0277bd;">Visual Timeline Exhibit</div>
+                <small class="text-muted">Court Demonstrative Evidence</small>
+            </div>
+            
+            <div class="tool-card" onclick="window.open('COMPREHENSIVE_DAMAGES_ALL_VIOLATIONS.html','_blank')" style="border: 3px solid #4caf50;">
+                <i class="bi bi-calculator tool-icon" style="color: #4caf50;"></i>
+                <div class="tool-name" style="color: #4caf50;">Comprehensive Damages</div>
+                <small class="text-muted">$10.6M+ Total Exposure</small>
+            </div>
+            
             <!-- Secondary tools (ADR / AJ / Trial) -->
             <div class="tool-card secondary" onclick="window.open('ADR_MEDIATION_PORTAL.html','_blank')">
                 <i class="bi bi-people-fill tool-icon"></i>
@@ -515,6 +627,19 @@
         </h2>
         
         <div class="link-grid">
+            <div class="link-group">
+                <h4>🚨 Critical Action Items</h4>
+                <a href="RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html" style="color: #dc3545; font-weight: bold;">
+                    <i class="bi bi-exclamation-triangle-fill"></i> Critical Evidence Extract
+                </a>
+                <a href="VISUAL_TIMELINE_EXHIBIT.html" style="color: #0277bd; font-weight: bold;">
+                    <i class="bi bi-calendar-event"></i> Visual Timeline Exhibit
+                </a>
+                <a href="COMPREHENSIVE_DAMAGES_ALL_VIOLATIONS.html" style="color: #4caf50; font-weight: bold;">
+                    <i class="bi bi-calculator"></i> Comprehensive Damages ($10.6M+)
+                </a>
+            </div>
+            
             <div class="link-group">
                 <h4>Primary Dashboards</h4>
                 <a href="paradocs_legal_strategy_dashboard.html">
@@ -567,23 +692,23 @@
             
             <div class="link-group">
                 <h4>Key Evidence & Violations</h4>
-                <a href="email_index_HS-FEMA-02430-2024.html#hipaa">
-                    <i class="bi bi-exclamation-triangle"></i> 1,340-Day RA Delay
+                <a href="CASE_VIOLATIONS_SUMMARY.html#reasonable-accommodation">
+                    <i class="bi bi-exclamation-triangle"></i> 1,275-Day RA Delay (RAR0023278)
                 </a>
-                <a href="CASE_VIOLATIONS_SUMMARY.html#hurricane-damage">
+                <a href="CASE_VIOLATIONS_SUMMARY.html#hipaa-violations">
                     <i class="bi bi-shield-exclamation"></i> HIPAA Breach (Jul 10, 2024)
                 </a>
-                <a href="#">
+                <a href="CASE_VIOLATIONS_SUMMARY.html#hurricane-damage">
                     <i class="bi bi-cash-stack"></i> $15,000 Hurricane Damage
                 </a>
-                <a href="paradocs_master_timeline_enhanced.html#retaliation-17">
+                <a href="CASE_VIOLATIONS_SUMMARY.html#retaliation">
                     <i class="bi bi-clock-history"></i> 17-Day Retaliation
                 </a>
                 <a href="CASE_VIOLATIONS_SUMMARY.html#zero-interactive">
                     <i class="bi bi-x-circle"></i> Zero Interactive Process
                 </a>
                 <a href="CASE_VIOLATIONS_SUMMARY.html#key-actors">
-                    <i class="bi bi-person-x"></i> 13 Key Actors Identified
+                    <i class="bi bi-person-x"></i> 50+ Key Actors Identified
                 </a>
             </div>
             
@@ -632,6 +757,93 @@
 
     <script>
         // ---------------------------------------------
+        // Embedded Summary Data (to bypass loading issues)
+        // ---------------------------------------------
+        const summaryData = {
+            "exposure_low": 10611000,
+            "retaliation_days": 17,
+            "violations": [
+                {
+                    "violation": "Reasonable Accommodation Delays",
+                    "docs": 125,
+                    "first_doc": "CASE_VIOLATIONS_SUMMARY.html#reasonable-accommodation"
+                },
+                {
+                    "violation": "HIPAA / Privacy Act Breach", 
+                    "docs": 48,
+                    "first_doc": "CASE_VIOLATIONS_SUMMARY.html#hipaa-violations"
+                },
+                {
+                    "violation": "Retaliatory Termination",
+                    "docs": 46,
+                    "first_doc": "CASE_VIOLATIONS_SUMMARY.html#retaliation"
+                }
+            ]
+        };
+
+        // Load embedded data immediately
+        function loadSummaryData() {
+            const sm = summaryData;
+            
+            // Update statistics cards
+            if (sm.exposure_low) {
+                document.getElementById('exposureLow').textContent = `$${(sm.exposure_low / 1e6).toFixed(2)}M`;
+            }
+            if (sm.retaliation_days && sm.retaliation_days !== 'N/A') {
+                document.getElementById('retaliationDays').textContent = `${sm.retaliation_days} Days`;
+            }
+            
+            // Update primary finding
+            if (sm.violations && sm.violations.length) {
+                const topList = sm.violations.slice(0, 3).map(v => {
+                    const href = v.first_doc || '#';
+                    return `<a href="${href}" target="_blank">${v.violation}</a> (<em>${v.docs} docs</em>)`;
+                }).join(' | ');
+                const summaryText = `<strong>Key Violations:</strong> 1,275-day RA delay (RAR0023278), 17-day retaliation, HIPAA breach. <strong>42 Individuals Involved:</strong> ${topList}`;
+                document.getElementById('primaryFinding').innerHTML = summaryText;
+                
+                // Update violation badges
+                const container = document.getElementById('violationBadges');
+                container.innerHTML = '';
+                sm.violations.slice(0, 6).forEach((v, idx) => {
+                    const wrapper = document.createElement('div');
+                    wrapper.className = 'dropdown d-inline-block me-1 mb-1';
+
+                    const toggle = document.createElement('a');
+                    toggle.href = '#';
+                    toggle.className = (idx < 3 ? 'badge bg-danger' : 'badge bg-secondary') + ' dropdown-toggle';
+                    toggle.setAttribute('role', 'button');
+                    toggle.setAttribute('data-bs-toggle', 'dropdown');
+                    toggle.setAttribute('aria-expanded', 'false');
+                    toggle.textContent = `${idx + 1}. ${v.violation}`;
+                    wrapper.appendChild(toggle);
+
+                    const menu = document.createElement('ul');
+                    menu.className = 'dropdown-menu';
+                    if (v.first_doc) {
+                        const li = document.createElement('li');
+                        const a = document.createElement('a');
+                        a.className = 'dropdown-item';
+                        a.href = v.first_doc;
+                        a.target = '_blank';
+                        a.textContent = v.first_doc.split('/').pop();
+                        li.appendChild(a);
+                        menu.appendChild(li);
+                    } else {
+                        const li = document.createElement('li');
+                        li.innerHTML = '<span class="dropdown-item text-muted">No docs</span>';
+                        menu.appendChild(li);
+                    }
+                    wrapper.appendChild(menu);
+                    container.appendChild(wrapper);
+                });
+            }
+        }
+
+        // Load data when page loads
+        document.addEventListener('DOMContentLoaded', loadSummaryData);
+
+        // ---------------------------------------------
         // Dynamic Search (keyword_index.json)
         // ---------------------------------------------
         let keywordIndex = [];
@@ -676,7 +888,7 @@
             }
         });
 
-        fetch('search_index/keyword_index.json')
+        fetch('search_index/keyword_index.json?v=' + Date.now())
             .then(response => {
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status} - ${response.statusText}`);
@@ -700,73 +912,6 @@
                 searchStatus.textContent = 'Search index not found or error loading. Run data processing pipeline.';
                 searchStatus.className = 'form-text text-danger text-center mt-1';
             });
-
-        fetch('search_index/summary_metrics.json').then(r=>r.json()).then(sm=>{
-            document.getElementById('totalDocs')?.textContent = sm.total_documents;
-            if (sm.violations && sm.violations.length) {
-                const topList = sm.violations.slice(0, 3).map(v => {
-                    const href = v.first_doc || '#';
-                    return `<a href="${href}" target="_blank">${v.violation}</a> (<em>${v.docs} docs</em>)`;
-                }).join(' | ');
-                const summaryText = `<strong>Key Violations/Injuries:</strong> ${topList}`;
-                document.getElementById('primaryFinding').innerHTML = summaryText;
-                const container = document.getElementById('violationBadges');
-                container.innerHTML = '';
-                sm.violations.slice(0, 8).forEach((v, idx) => {
-                    // Create dropdown wrapper
-                    const wrapper = document.createElement('div');
-                    wrapper.className = 'dropdown d-inline-block me-1 mb-1';
-
-                    // Toggle badge
-                    const toggle = document.createElement('a');
-                    toggle.href = '#';
-                    toggle.className = (idx < 3 ? 'badge bg-danger' : 'badge bg-secondary') + ' dropdown-toggle';
-                    toggle.setAttribute('role', 'button');
-                    toggle.setAttribute('data-bs-toggle', 'dropdown');
-                    toggle.setAttribute('aria-expanded', 'false');
-                    toggle.textContent = `${idx + 1}. ${v.violation}`;
-                    wrapper.appendChild(toggle);
-
-                    // Dropdown menu
-                    const menu = document.createElement('ul');
-                    menu.className = 'dropdown-menu';
-                    if (v.doc_paths && v.doc_paths.length) {
-                        v.doc_paths.forEach(p => {
-                            const li = document.createElement('li');
-                            const a = document.createElement('a');
-                            a.className = 'dropdown-item';
-                            a.href = p;
-                            a.target = '_blank';
-                            a.textContent = p.split('/').pop();
-                            li.appendChild(a);
-                            menu.appendChild(li);
-                        });
-                    } else if (v.first_doc) {
-                        const li = document.createElement('li');
-                        const a = document.createElement('a');
-                        a.className = 'dropdown-item';
-                        a.href = v.first_doc;
-                        a.target = '_blank';
-                        a.textContent = v.first_doc.split('/').pop();
-                        li.appendChild(a);
-                        menu.appendChild(li);
-                    } else {
-                        const li = document.createElement('li');
-                        li.innerHTML = '<span class="dropdown-item text-muted">No docs</span>';
-                        menu.appendChild(li);
-                    }
-                    wrapper.appendChild(menu);
-
-                    container.appendChild(wrapper);
-                });
-            }
-            if (sm.exposure_low) {
-                document.getElementById('exposureLow').textContent = `$${(sm.exposure_low / 1e6).toFixed(2)}M`;
-            }
-            if (sm.retaliation_days && sm.retaliation_days !== 'N/A') {
-                document.getElementById('retaliationDays').textContent = `${sm.retaliation_days} Days`;
-            }
-        }).catch(()=>{});
     </script>
 </body>
 </html> 

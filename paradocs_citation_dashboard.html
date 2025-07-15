@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ParaDocs Citation & Violation Analysis Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .search-section {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .search-tabs {
+            display: flex;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .tab {
+            padding: 15px 25px;
+            cursor: pointer;
+            border: none;
+            background: none;
+            font-size: 16px;
+            color: #666;
+            border-bottom: 3px solid transparent;
+            transition: all 0.3s ease;
+        }
+
+        .tab.active {
+            color: #667eea;
+            border-bottom-color: #667eea;
+            font-weight: bold;
+        }
+
+        .search-form {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .search-input {
+            flex: 1;
+            padding: 15px;
+            border: 2px solid #e1e5e9;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: border-color 0.3s ease;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .search-btn {
+            padding: 15px 30px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background 0.3s ease;
+        }
+
+        .search-btn:hover {
+            background: #5a6fd8;
+        }
+
+        .quick-queries {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .quick-query {
+            padding: 8px 15px;
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+
+        .quick-query:hover {
+            background: #667eea;
+            color: white;
+        }
+
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .card h3 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.3em;
+        }
+
+        .citation-list {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        .citation-item {
+            padding: 15px;
+            border: 1px solid #e1e5e9;
+            border-radius: 8px;
+            margin-bottom: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .citation-item:hover {
+            border-color: #667eea;
+            background: #f8f9ff;
+        }
+
+        .citation-code {
+            font-weight: bold;
+            color: #667eea;
+            margin-bottom: 5px;
+        }
+
+        .citation-title {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .violation-summary {
+            display: grid;
+            gap: 15px;
+        }
+
+        .violation-category {
+            padding: 15px;
+            border-left: 4px solid #667eea;
+            background: #f8f9ff;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .violation-title {
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .violation-count {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .results-section {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+
+        .event-item {
+            padding: 20px;
+            border: 1px solid #e1e5e9;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            transition: all 0.3s ease;
+        }
+
+        .event-item:hover {
+            border-color: #667eea;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        .event-date {
+            color: #667eea;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .event-title {
+            font-size: 16px;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .event-meta {
+            display: flex;
+            gap: 15px;
+            font-size: 14px;
+            color: #666;
+        }
+
+        .severity-badge {
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        .severity-critical {
+            background: #ffe6e6;
+            color: #d63384;
+        }
+
+        .severity-high {
+            background: #fff3cd;
+            color: #b45f06;
+        }
+
+        .severity-medium {
+            background: #cff4fc;
+            color: #055160;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        @media (max-width: 768px) {
+            .dashboard-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .search-form {
+                flex-direction: column;
+            }
+            
+            .quick-queries {
+                justify-content: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏛️ ParaDocs Citation & Violation Dashboard</h1>
+            <p>Advanced Legal Research with Citation Mapping & Natural Language Queries</p>
+        </div>
+
+        <div class="search-section">
+            <div class="search-tabs">
+                <button class="tab active" onclick="switchTab('natural')">📝 Natural Language</button>
+                <button class="tab" onclick="switchTab('citation')">📚 Citation Search</button>
+                <button class="tab" onclick="switchTab('violation')">⚖️ Violation Analysis</button>
+            </div>
+
+            <div id="natural-search" class="search-content">
+                <div class="search-form">
+                    <input type="text" class="search-input" placeholder="Ask: 'Show me all RA policy violations and timeline breaches'" id="natural-query">
+                    <button class="search-btn" onclick="performNaturalSearch()">🔍 Search</button>
+                </div>
+                <div class="quick-queries">
+                    <span class="quick-query" onclick="setQuery('RA policies and timelines')">RA Policies & Timelines</span>
+                    <span class="quick-query" onclick="setQuery('disability discrimination')">Disability Discrimination</span>
+                    <span class="quick-query" onclick="setQuery('retaliation violations')">Retaliation Violations</span>
+                    <span class="quick-query" onclick="setQuery('HIPAA privacy breaches')">HIPAA Breaches</span>
+                    <span class="quick-query" onclick="setQuery('timeline delays')">Timeline Delays</span>
+                </div>
+            </div>
+
+            <div id="citation-search" class="search-content hidden">
+                <div class="search-form">
+                    <select class="search-input" id="citation-select">
+                        <option value="">Select a legal authority...</option>
+                        <option value="FEMA Instruction 256-022-01">FEMA Instruction 256-022-01 - RA Procedures</option>
+                        <option value="29 C.F.R.">29 C.F.R. - Code of Federal Regulations</option>
+                        <option value="29 U.S.C.">29 U.S.C. - United States Code</option>
+                        <option value="42 U.S.C.">42 U.S.C. - Civil Rights</option>
+                        <option value="HIPAA (45 CFR §164.312)">HIPAA - Health Information Privacy</option>
+                    </select>
+                    <button class="search-btn" onclick="performCitationSearch()">📚 Find Events</button>
+                </div>
+            </div>
+
+            <div id="violation-search" class="search-content hidden">
+                <div class="search-form">
+                    <select class="search-input" id="violation-select">
+                        <option value="">Select violation type...</option>
+                        <option value="timeline_breaches">Timeline Breaches</option>
+                        <option value="disability_discrimination">Disability Discrimination</option>
+                        <option value="age_discrimination">Age Discrimination</option>
+                        <option value="retaliation">Retaliation</option>
+                        <option value="hipaa_breaches">HIPAA Breaches</option>
+                        <option value="procedural_errors">Procedural Errors</option>
+                    </select>
+                    <button class="search-btn" onclick="performViolationSearch()">⚖️ Analyze</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="dashboard-grid">
+            <div class="card">
+                <h3>📋 Legal Authorities Registry</h3>
+                <div class="citation-list" id="citation-registry">
+                    <div class="citation-item" onclick="searchByCitation('FEMA Instruction 256-022-01')">
+                        <div class="citation-code">FEMA Instruction 256-022-01</div>
+                        <div class="citation-title">Reasonable Accommodation Procedures</div>
+                    </div>
+                    <div class="citation-item" onclick="searchByCitation('29 C.F.R.')">
+                        <div class="citation-code">29 C.F.R.</div>
+                        <div class="citation-title">Code of Federal Regulations - Labor</div>
+                    </div>
+                    <div class="citation-item" onclick="searchByCitation('29 U.S.C.')">
+                        <div class="citation-code">29 U.S.C.</div>
+                        <div class="citation-title">United States Code - Labor</div>
+                    </div>
+                    <div class="citation-item" onclick="searchByCitation('42 U.S.C.')">
+                        <div class="citation-code">42 U.S.C.</div>
+                        <div class="citation-title">Civil Rights Statutes</div>
+                    </div>
+                    <div class="citation-item" onclick="searchByCitation('HIPAA (45 CFR §164.312)')">
+                        <div class="citation-code">HIPAA (45 CFR §164.312)</div>
+                        <div class="citation-title">Health Information Privacy</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h3>📊 Violation Analysis Summary</h3>
+                <div class="violation-summary">
+                    <div class="violation-category">
+                        <div class="violation-title">Accommodation Request Violations</div>
+                        <div class="violation-count">12 Critical Events • FEMA 256-022-01</div>
+                    </div>
+                    <div class="violation-category">
+                        <div class="violation-title">Timeline Breach Violations</div>
+                        <div class="violation-count">21 Events • 29 C.F.R. Standards</div>
+                    </div>
+                    <div class="violation-category">
+                        <div class="violation-title">Agency Response Violations</div>
+                        <div class="violation-count">5 Critical Events • Multiple Authorities</div>
+                    </div>
+                    <div class="violation-category">
+                        <div class="violation-title">Privacy/HIPAA Violations</div>
+                        <div class="violation-count">1 Event • 45 CFR §164.312</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="results-section">
+            <h3>🔍 Search Results</h3>
+            <div id="search-results">
+                <p style="text-align: center; color: #666; font-style: italic; padding: 40px;">
+                    Use the search tools above to explore legal citations, violation patterns, and timeline events.<br>
+                    Try: "RA policies and timelines" or select a specific legal authority.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Sample data structure (in production, this would come from the citation registry)
+        const sampleEvents = {
+            'FEMA Instruction 256-022-01': [
+                {
+                    date: '2018-08-23',
+                    title: 'RA (RAR001234) submitted for schedule flexibility - blank form noted',
+                    category: 'Accommodation Request',
+                    severity: 'High',
+                    citation: 'FEMA Instruction 256-022-01'
+                },
+                {
+                    date: '2018-12-12',
+                    title: 'RA response delayed 111 days - employee escalation',
+                    category: 'Accommodation Request', 
+                    severity: 'Critical',
+                    citation: 'FEMA Instruction 256-022-01'
+                },
+                {
+                    date: '2021-10-28',
+                    title: 'RA (RAR0023278) submitted - unresolved for 1,275 days',
+                    category: 'Accommodation Request',
+                    severity: 'Critical',
+                    citation: 'FEMA Instruction 256-022-01'
+                },
+                {
+                    date: '2024-08-05',
+                    title: 'RA denial claiming deployment as essential function',
+                    category: 'Agency Response',
+                    severity: 'Critical',
+                    citation: 'FEMA Instruction 256-022-01'
+                }
+            ],
+            '29 C.F.R.': [
+                {
+                    date: '2018-08-23',
+                    title: 'Initial RA delay violates 15-day timeline (MD-110 §VI.C)',
+                    category: 'Accommodation Request',
+                    severity: 'High',
+                    citation: '29 C.F.R.'
+                },
+                {
+                    date: '2019-02-12',
+                    title: '172-day RA delay violates timeline requirements',
+                    category: 'Accommodation Request',
+                    severity: 'Critical',
+                    citation: '29 C.F.R.'
+                }
+            ]
+        };
+
+        function switchTab(tabName) {
+            // Hide all search content
+            document.querySelectorAll('.search-content').forEach(content => {
+                content.classList.add('hidden');
+            });
+            
+            // Remove active class from all tabs
+            document.querySelectorAll('.tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Show selected content and activate tab
+            document.getElementById(tabName + '-search').classList.remove('hidden');
+            event.target.classList.add('active');
+        }
+
+        function setQuery(query) {
+            document.getElementById('natural-query').value = query;
+            performNaturalSearch();
+        }
+
+        function performNaturalSearch() {
+            const query = document.getElementById('natural-query').value;
+            const resultsDiv = document.getElementById('search-results');
+            
+            resultsDiv.innerHTML = `
+                <h4>🔍 Natural Language Search: "${query}"</h4>
+                <p style="color: #666; margin-bottom: 20px;">
+                    <strong>Query Analysis:</strong> Searching for events related to accommodation policies, timeline violations, and legal authority breaches.
+                </p>
+            `;
+
+            // Simulate natural language processing results
+            let relevantEvents = [];
+            if (query.toLowerCase().includes('ra') || query.toLowerCase().includes('accommodation')) {
+                relevantEvents = [...(sampleEvents['FEMA Instruction 256-022-01'] || [])];
+            }
+            if (query.toLowerCase().includes('timeline') || query.toLowerCase().includes('delay')) {
+                relevantEvents = [...relevantEvents, ...(sampleEvents['29 C.F.R.'] || [])];
+            }
+
+            displayEvents(relevantEvents);
+        }
+
+        function performCitationSearch() {
+            const citation = document.getElementById('citation-select').value;
+            if (!citation) return;
+            
+            searchByCitation(citation);
+        }
+
+        function searchByCitation(citation) {
+            const resultsDiv = document.getElementById('search-results');
+            
+            resultsDiv.innerHTML = `
+                <h4>📚 Citation Search: "${citation}"</h4>
+                <p style="color: #666; margin-bottom: 20px;">
+                    <strong>Legal Authority:</strong> Events and violations related to this specific regulation or statute.
+                </p>
+            `;
+
+            const events = sampleEvents[citation] || [];
+            displayEvents(events);
+        }
+
+        function performViolationSearch() {
+            const violation = document.getElementById('violation-select').value;
+            if (!violation) return;
+            
+            const resultsDiv = document.getElementById('search-results');
+            
+            resultsDiv.innerHTML = `
+                <h4>⚖️ Violation Analysis: "${violation.replace('_', ' ')}"</h4>
+                <p style="color: #666; margin-bottom: 20px;">
+                    <strong>Violation Pattern:</strong> Timeline events that demonstrate this type of legal violation.
+                </p>
+            `;
+
+            // Simulate violation-based search
+            let relevantEvents = [];
+            if (violation.includes('timeline')) {
+                relevantEvents = sampleEvents['29 C.F.R.'] || [];
+            } else if (violation.includes('accommodation') || violation.includes('disability')) {
+                relevantEvents = sampleEvents['FEMA Instruction 256-022-01'] || [];
+            }
+
+            displayEvents(relevantEvents);
+        }
+
+        function displayEvents(events) {
+            const resultsDiv = document.getElementById('search-results');
+            
+            if (events.length === 0) {
+                resultsDiv.innerHTML += '<p style="color: #666;">No events found for this search.</p>';
+                return;
+            }
+
+            const eventsHtml = events.map(event => `
+                <div class="event-item">
+                    <div class="event-date">📅 ${event.date}</div>
+                    <div class="event-title">${event.title}</div>
+                    <div class="event-meta">
+                        <span>Category: ${event.category}</span>
+                        <span class="severity-badge severity-${event.severity.toLowerCase()}">${event.severity}</span>
+                        <span>Citation: ${event.citation}</span>
+                    </div>
+                </div>
+            `).join('');
+
+            resultsDiv.innerHTML += `
+                <div style="margin-top: 20px;">
+                    <h5>📋 Found ${events.length} relevant events:</h5>
+                    ${eventsHtml}
+                </div>
+            `;
+        }
+
+        // Initialize with a sample search
+        document.addEventListener('DOMContentLoaded', function() {
+            setTimeout(() => {
+                setQuery('RA policies and timelines');
+            }, 1000);
+        });
+    </script>
+</body>
+</html> 

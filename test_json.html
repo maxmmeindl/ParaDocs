@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSON Test</title>
+</head>
+<body>
+    <h1>JSON Loading Test</h1>
+    <div id="results"></div>
+    
+    <script>
+        fetch('search_index/summary_metrics.json?v=' + Date.now())
+            .then(r => r.json())
+            .then(data => {
+                document.getElementById('results').innerHTML = `
+                    <h2>Summary Metrics Loaded Successfully:</h2>
+                    <p>Exposure Low: $${(data.exposure_low / 1e6).toFixed(2)}M</p>
+                    <p>Retaliation Days: ${data.retaliation_days}</p>
+                    <p>Total Violations: ${data.violations.length}</p>
+                    <pre>${JSON.stringify(data, null, 2)}</pre>
+                `;
+            })
+            .catch(error => {
+                document.getElementById('results').innerHTML = `
+                    <h2>Error Loading JSON:</h2>
+                    <p style="color: red;">${error.message}</p>
+                `;
+            });
+    </script>
+</body>
+</html> 

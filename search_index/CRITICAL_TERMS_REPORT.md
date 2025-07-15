@@ -1,217 +1,739 @@
 # CRITICAL TERMS SEARCH REPORT
 
-Generated: 2025-05-25 20:40:59
-Documents Indexed: 62
+Generated: 2025-05-27 21:09:14
+Documents Indexed: 1333
 
 ## Critical Terms Found:
 
 
-### 1340 days (Found in 6 files)
+### 1340 days (Found in 16 files)
+- CORRECT_FILES_TO_USE.md
+- CRITICAL_TERMS_REPORT.md
+- EEOC_SEARCH_VOCABULARY.md
+- ENHANCED_MASTER_INDEX.html
 - MASTER_TIMELINE_2018-2025.csv
+- critical_terms.csv
 - cursor_current_processing_status_update-052525.md
+- damage_calculations_1340_day.json
+- damage_calculations_report.md
 - damages_calculation_report.json
 - document_scan_results.json
 - email_index_HS-FEMA-02430-2024.html
+- email_statistics_HS-FEMA-02430-2024.txt
 - evidence_index_HS-FEMA-02430-2024.csv
+- keyword_search.html
+- search_index.json
 
-### 1340-day (Found in 7 files)
+### 1340-day (Found in 14 files)
 - CASE_SUMMARY.json
 - CASE_SUMMARY.md
+- CRITICAL_TERMS_REPORT.md
 - EXHIBIT_LIST_PRIORITY.csv
+- GITHUB_PAGES_AND_EMAIL_INDEX_SUMMARY.md
 - MASTER_TIMELINE_2018-2025.csv
+- critical_terms.csv
 - cursor_current_processing_status_update-052525.md
 - damages_calculation_report.json
 - evidence_index_HS-FEMA-02430-2024.csv
+- github_pages_setup_guide.md
+- keyword_search.html
+- search_index.json
+- test_dashboard.html
 
-### 45 days (Found in 11 files)
+### 45 days (Found in 54 files)
+- 0046767 Max Meindl-Revised-second.txt
+- 0046767 Max Meindl-Revised.txt
+- 0046767 Max Meindl.txt
+- 06-22-RA POLICY.txt
+- 1430_1.txt
+- 24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508-APRIL 2024.txt
+- 24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508.txt
+- 256-0-2 MANAGEMENT RESPONSE to REQ for RA Max s.txt
+- 256-0-2 MANAGEMENT RESPONSE to REQ for RA Meindl-first.txt
+- 256-0-2 MANAGEMENT RESPONSE to REQ for RA Meindl.txt
+- 806726.txt
+- Binder2.txt
+- COMPREHENSIVE_VIOLATIONS_ANALYSIS.md
+- CRITICAL_TERMS_REPORT.md
 - CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md
+- DHS Reasonable Accommodation.txt
+- EEO FILES 1.txt
+- EMAILS-3.txt
+- FEMA EEO Policy Reaffirmation 2024 Final - F1 Signed - CLEAN (002).txt
+- FI-256-22-0001-RA Instruction 2024 Final Signature- 06-28-2024.txt
+- FW_ Request to consider Reassignment - Reasonable Accommodation of Last Resort.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2-1.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL.txt
 - LETTER_TO_RICK_GUERRA.md
+- Meindel III Max J. (FINAL Notice of Termination of Appointment)-1.txt
+- Meindl_1stLineDecisionFTTWRequest - Oke review (002) to JLJ.txt
+- Merge Result-V3-FINAL PAGE NUMBERS.txt
+- Merge Result.txt
+- PDTFL Position Assist.txt
+- RAR#0046767 Max Meindl-Revised.txt
+- RAR#0046767 Max Meindl.txt
+- Reasonable Accomodation-FEMA Form 256-0-1-08232018.txt
+- Request Reasonable Accommodation Form 256-0-1-01-02-2024.txt
+- TRULY_COMPREHENSIVE_EMAIL_INDEX.html
+- VISUAL_TIMELINE_EXHIBIT.html
+- [Compare Report] 06-22-RA POLICY.txt
+- critical_terms.csv
 - cursor_current_processing_status_update-052525.md
 - damages_calculation_report.json
 - document_scan_results.json
 - eeo_timeline_comprehensive_report.json
 - eeo_timeline_enhanced.json
 - evidence_index_HS-FEMA-02430-2024.csv
+- fema_manual_1430_1_reasonable_accommodations.txt
+- fema_manual_1430_1_reasonable_accommodations[1].txt
+- fi-256-22-0001-ra_instruction_final-signature-06-28-2024.txt
+- implementing_accommodation.txt
+- keyword_search.html
+- md-110.txt
+- meindel iii max j. (final notice of termination of appointment) (002).txt
 - paradocs_case_analysis_complete.json
-- paradocs_legal_strategy_dashboard.html
 - paradocs_master_timeline_enhanced.html
+- search_index.json
 
-### 45-day (Found in 13 files)
+### 45-day (Found in 23 files)
 - ADMINISTRATIVE_HEARING_PORTAL.html
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
 - CASE_VIOLATIONS_SUMMARY.html
+- CRITICAL_TERMS_REPORT.md
 - CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md
+- Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events.txt
+- Detailed Table of Events.txt
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html
+- VISUAL_TIMELINE_EXHIBIT.html
+- critical_terms.csv
 - damages_calculation_report.json
 - eeo_comprehensive_investigation.json
 - eeo_comprehensive_timeline.csv
 - eeo_timeline_comprehensive_report.json
 - eeo_timeline_enhanced.json
 - eeo_timeline_events.csv
+- keyword_search.html
+- md-110.txt
 - paradocs_comprehensive_eeo_investigation.html
 - paradocs_master_timeline_enhanced.html
+- search_index.json
 
-### December 20, 2024 (Found in 3 files)
+### December 20, 2024 (Found in 9 files)
 - CASE_VIOLATIONS_SUMMARY.html
+- CRITICAL_TERMS_REPORT.md
+- Fw_ EEO Complaint Form.eml[1].txt
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- critical_terms.csv
 - eeo_comprehensive_investigation.json
 - eeo_comprehensive_timeline.csv
+- keyword_search.html
+- search_index.json
 
-### FOIA (Found in 12 files)
+### FOIA (Found in 25 files)
 - ADMINISTRATIVE_HEARING_PORTAL.html
 - ADR_MEDIATION_PORTAL.html
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
-- CASE_VIOLATIONS_SUMMARY.html
+- CRITICAL_TERMS_REPORT.md
+- Final Response 2025-FEFO-01396.txt
 - LETTER_TO_RICK_GUERRA.md
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
 - PARADOCS_COMPLETE_INDEX.md
 - PARADOCS_FINAL_SUMMARY.txt
+- ParaDocs Programing Guidelinnes.txt
+- README.md
+- UNIFIED_PARADOCS_DASHBOARD.html
+- VISUAL_TIMELINE_EXHIBIT.html
+- critical_terms.csv
 - document_scan_results.json
 - eeo_comprehensive_investigation.json
+- keyword_search.html
+- l4060---fema-contract.txt
+- package-lock.json
 - paradocs_all_files.csv
 - paradocs_all_files.json
+- paradocs_dashboard.html
+- paradocs_legal_strategy_dashboard.html
+- search_index.json
 
-### Hurricane Beryl (Found in 14 files)
+### Hurricane Beryl (Found in 22 files)
 - ADMINISTRATIVE_HEARING_PORTAL.html
 - AGGRESSIVE_DAMAGES_CALCULATION.md
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
 - CASE_VIOLATIONS_SUMMARY.html
+- CRITICAL_TERMS_REPORT.md
+- Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events.txt
 - DAMAGES_CALCULATION_LEGAL_BASIS.md
+- Detailed Table of Events.txt
 - EXHIBIT_LIST_PRIORITY.csv
 - MASTER_TIMELINE_2018-2025.csv
 - MAXIMUM_DAMAGES_BY_STATUTE.md
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- VISUAL_TIMELINE_EXHIBIT.html
+- critical_terms.csv
 - eeo_comprehensive_investigation.json
 - eeo_comprehensive_timeline.csv
 - eeo_investigation_questions.csv
 - eeo_timeline_enhanced.json
+- keyword_search.html
 - paradocs_comprehensive_eeo_investigation.html
+- search_index.json
 
-### January 6, 2025 (Found in 6 files)
+### January 6, 2025 (Found in 49 files)
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
 - CASE_VIOLATIONS_SUMMARY.html
+- COMPLETE_EMAIL_INDEX.html
+- COMPREHENSIVE_COMMUNICATION_TIMELINE.html
+- COMPREHENSIVE_VIOLATIONS_ANALYSIS.md
+- CRITICAL_TERMS_REPORT.md
+- CRITICAL_USAGE_GUIDE.md
+- Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events.txt
 - DAMAGES_CALCULATION_LEGAL_BASIS.md
+- DISCOVERY_REQUESTS_SECOND_SET.md
+- Detailed Table of Events.txt
+- EEOC_SEARCH_VOCABULARY.md
+- FIXED_ENHANCED_MASTER_INDEX.html
+- FW_ ACTION REQUESTED_ AP - Mediation Participation HS-FEMA-02430-2024 - Immediate Response Requested.eml[1] (2).txt
+- FW_ ACTION REQUESTED_ AP - Mediation Participation HS-FEMA-02430-2024 - Immediate Response Requested.eml[1].txt
+- Fwd_ Affidavit and Letter of Authorization (HS-FEMA-02430-2024).eml[1] (2).txt
+- Fwd_ Affidavit and Letter of Authorization (HS-FEMA-02430-2024).eml[1].txt
+- GAMMA_APP_PRESENTATION.html
+- GAMMA_SLIDES_CONTENT.md
+- HEARING_PREPARATION_OUTLINE.md
+- INDEX_INSTRUCTIONS.md
+- KEY_EXHIBITS_AND_EVIDENCE.md
+- MEINDL-Affidavit of Complainant-02-14-2025-R1.txt
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- MOTION_FOR_SUMMARY_JUDGMENT.md
+- Merge Result.txt
+- PROJECT_COMPLETION_REPORT.md
+- PROJECT_DEEP_DIVE_ANALYSIS.md
+- PROJECT_SUMMARY.md
+- RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html
+- Revision 2 of scan.eml[1] (2).txt
+- Revision 2 of scan.eml[1].txt
+- SETTLEMENT_DEMAND_PACKAGE.md
+- SETUP_GUIDE.md
+- TRULY_COMPREHENSIVE_EMAIL_INDEX.html
+- Tab F-5 Affidavit of RMO template_Simko Final.txt
+- Tab F-8 Affidavit of Witness Traci Brasher_ final.txt
+- Tab F-9 Affidavit of Witness Anna Myers signed.txt
+- VERIFICATION_REPORT.md
+- corrected_verified_timeline.json
+- critical_terms.csv
 - cursor_current_processing_status_update-052525.md
+- keyword_search.html
 - paradocs_comprehensive_eeo_investigation.html
+- roi_contradictions_interactive_HS-FEMA-02430-2024.json
+- search_index.json
+- verification_report.json
+- weighted_harm_analysis.md
 
-### RAR0023261 (Found in 10 files)
+### RAR0023261 (Found in 36 files)
 - ADMINISTRATIVE_HEARING_PORTAL.html
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
 - CASE_VIOLATIONS_SUMMARY.html
+- CRITICAL_TERMS_REPORT.md
+- Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events.txt
+- Detailed Table of Events.txt
+- EEO.eml[3][1] (2).txt
+- EEO.eml[3][1].txt
 - EXHIBIT_LIST_PRIORITY.csv
 - MASTER_TIMELINE_2018-2025.csv
 - MAXIMUM_DAMAGES_BY_STATUTE.md
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- Merge Result.txt
+- PDFen.txt
+- RAR0023261 - Vaccine Exemption Request for Info....json
+- RAR0023261 - Vaccine Exemption Request for Info....txt
+- RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html
+- RE_ RAR0023261 - Vaccine Exemption Request for ...(1).json
+- RE_ RAR0023261 - Vaccine Exemption Request for ...(1).txt
+- RE_ RAR0023261 - Vaccine Exemption Request for ....json
+- RE_ RAR0023261 - Vaccine Exemption Request for ....txt
+- Revision 2 of scan.eml[1] (2).txt
+- Revision 2 of scan.eml[1].txt
+- VISUAL_TIMELINE_EXHIBIT.html
+- critical_terms.csv
+- date_index.json
 - eeo_comprehensive_investigation.json
 - eeo_comprehensive_timeline.csv
 - eeo_timeline_enhanced.json
+- keyword_index.json
+- keyword_search.html
+- paradocs-index.html
+- paradocs_legal_strategy_dashboard.html
+- search_index.json
+- violations_summary.json
 
-### RAR0023278 (Found in 15 files)
+### RAR0023278 (Found in 38 files)
 - ADMINISTRATIVE_HEARING_PORTAL.html
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
 - CASE_VIOLATIONS_SUMMARY.html
+- CRITICAL_TERMS_REPORT.md
+- DAMAGES_CALCULATION_WITH_INTEREST.html
+- EEO.eml[3][1] (2).txt
+- EEO.eml[3][1].txt
 - EXHIBIT_LIST_PRIORITY.csv
+- MASTER_INDEX.html
 - MASTER_TIMELINE_2018-2025.csv
 - MAXIMUM_DAMAGES_BY_STATUTE.md
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- Merge Result.txt
+- Office of Accessibile Systems and Technology (O...(1).txt
+- Office of Accessibile Systems and Technology (O....txt
+- PDFen.txt
+- RAR0023278 for COVID-19 Vaccine Exemption (for ...(1).json
+- RAR0023278 for COVID-19 Vaccine Exemption (for ...(1).txt
+- RAR0023278 for COVID-19 Vaccine Exemption (for ...(4).json
+- RAR0023278 for COVID-19 Vaccine Exemption (for ...(4).txt
+- RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html
+- Revision 2 of scan.eml[1] (2).txt
+- Revision 2 of scan.eml[1].txt
+- VISUAL_TIMELINE_EXHIBIT.html
+- critical_terms.csv
 - eeo_comprehensive_investigation.json
 - eeo_comprehensive_timeline.csv
 - eeo_timeline_comprehensive_report.json
 - eeo_timeline_enhanced.json
 - eeo_timeline_events.csv
 - email_detailed_index.json
+- keyword_search.html
+- paradocs-index.html
 - paradocs_comprehensive_eeo_investigation.html
+- paradocs_legal_strategy_dashboard.html
 - paradocs_master_timeline_enhanced.html
+- search_index.json
 
-### RAR0042452 (Found in 16 files)
+### RAR0042452 (Found in 71 files)
 - ADMINISTRATIVE_HEARING_PORTAL.html
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
+- Automatic reply_ Number RAR0042452.json
+- Automatic reply_ Number RAR0042452.txt
 - CASE_VIOLATIONS_SUMMARY.html
+- CRITICAL_TERMS_REPORT.md
+- EEO.eml[3][1] (2).txt
+- EEO.eml[3][1].txt
 - EXHIBIT_LIST_PRIORITY.csv
+- FW_ Max Meindl Reasonable Accommodation Request.txt
+- FW_ Number RAR0042452.json
+- FW_ Number RAR0042452.txt
+- FW_ RAR0042452 for Telework_ 100% .json
+- FW_ RAR0042452 for Telework_ 100% .txt
 - MASTER_TIMELINE_2018-2025.csv
 - MAXIMUM_DAMAGES_BY_STATUTE.md
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452 -V1-2.json
+- Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452 -V1.json
+- Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452-TONY IN-COMPRESSED TELEWORK.json
+- Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452.json
+- Merge Result.txt
+- Number RAR0042452.json
+- Number RAR0042452.txt
+- RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html
+- RAR0042452 for Telework_ 100% has been assigned....json
+- RAR0042452 for Telework_ 100% has been assigned....txt
+- RAR0042452 for Telework_ 100% has comments added.json
+- RAR0042452 for Telework_ 100% has comments added.txt
+- RAR0042452 for Telework_ 100_ has been assigned....json
+- RAR0042452 for Telework_ 100_ has been assigned....txt
+- RAR0042452 has been assigned to your group.json
+- RAR0042452 has been assigned to your group.txt
+- RE_ Max Meindl Reasonable Accommodation Request.txt
+- RE_ Number RAR0042452(1).json
+- RE_ Number RAR0042452(1).txt
+- RE_ Number RAR0042452(2).json
+- RE_ Number RAR0042452(2).txt
+- RE_ Number RAR0042452- Follow up Tuesday Septem....json
+- RE_ Number RAR0042452- Follow up Tuesday Septem....txt
+- RE_ Number RAR0042452.json
+- RE_ Number RAR0042452.txt
+- RE_ RAR0042452 for Telework_ 100% .json
+- RE_ RAR0042452 for Telework_ 100% .txt
+- Read_ Number RAR0042452.json
+- Read_ Number RAR0042452.txt
+- Read_ RAR0042452 for Telework_ 100% .json
+- Read_ RAR0042452 for Telework_ 100% .txt
+- Revision 2 of scan.eml[1] (2).txt
+- Revision 2 of scan.eml[1].txt
+- VISUAL_TIMELINE_EXHIBIT.html
+- Your request  for Telework_ 100% has been received.txt
+- critical_terms.csv
+- date_index.json
+- duplicates.json
 - eeo_comprehensive_investigation.json
 - eeo_comprehensive_timeline.csv
 - eeo_investigation_questions.csv
 - eeo_timeline_comprehensive_report.json
 - eeo_timeline_enhanced.json
 - eeo_timeline_events.csv
+- keyword_index.json
+- keyword_search.html
+- paradocs-index.html
 - paradocs_comprehensive_eeo_investigation.html
+- paradocs_legal_strategy_dashboard.html
 - paradocs_master_timeline_enhanced.html
+- search_index.json
 - timeline_analysis_results.json
+- violations_summary.json
 
-### age 74 (Found in 16 files)
+### age 74 (Found in 23 files)
 - ADR_MEDIATION_PORTAL.html
 - AGGRESSIVE_DAMAGES_CALCULATION.md
 - Attorney_Portal.html
-- CASE_VIOLATIONS_SUMMARY.html
+- COMPREHENSIVE_VIOLATIONS_ANALYSIS.md
+- CRITICAL_TERMS_REPORT.md
 - CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md
 - DAMAGES_CALCULATION_LEGAL_BASIS.md
 - LETTER_TO_RICK_GUERRA.md
+- MASTER_INDEX.html
 - MAXIMUM_DAMAGES_BY_STATUTE.md
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html
 - SHARING_PARADOCS_WITH_ATTORNEY.md
+- critical_terms.csv
 - eeo_comprehensive_investigation.json
 - eeo_comprehensive_timeline.csv
 - eeo_timeline_comprehensive_report.json
 - eeo_timeline_enhanced.json
 - eeo_timeline_events.csv
+- keyword_search.html
 - paradocs_comprehensive_eeo_investigation.html
 - paradocs_master_timeline_enhanced.html
+- search_index.json
 
-### disability (Found in 23 files)
+### disability (Found in 174 files)
+- 0046767 Max Meindl-Revised-second.txt
+- 0046767 Max Meindl-Revised.txt
+- 0046767 Max Meindl.txt
+- 01-22-RA POLICY.txt
+- 06-22-RA POLICY.txt
+- 08-06-2024.txt
+- 1430_1.txt
+- 2017-dhs-affirmative-action-plan.txt
+- 21C09C58-969E-71AA-B95D-C9FA67C8BAD9.txt
+- 24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508-APRIL 2024.txt
+- 24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508.txt
+- 256-0-2 MANAGEMENT RESPONSE to REQ for RA Max s.txt
+- 256-0-2 MANAGEMENT RESPONSE to REQ for RA Meindl-first.txt
+- 256-0-2 MANAGEMENT RESPONSE to REQ for RA Meindl.txt
+- 3 - Cadre of On-Call Response_Recovery Employee (CORE) Program_FM252-11-1.txt
+- 806726.txt
+- ACTION_LOG.md
 - ADMINISTRATIVE_HEARING_PORTAL.html
 - ADR_MEDIATION_PORTAL.html
 - AGGRESSIVE_DAMAGES_CALCULATION.md
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
+- Binder2.txt
 - CASE_VIOLATIONS_SUMMARY.html
+- COMMS SUMMARY-1.txt
+- COMMS SUMMARY-2.txt
+- COMMS SUMMARY.txt
+- COMPLETE_EMAIL_INDEX.html
+- COMPREHENSIVE_COMMUNICATION_TIMELINE.html
+- COMPREHENSIVE_PROJECT_REVIEW_AND_CORRECTIONS.md
+- COMPREHENSIVE_VIOLATIONS_ANALYSIS.md
+- CORRECTED_INDIVIDUAL_TITLES_AND_ROLES.md
+- CRITICAL_TERMS_REPORT.md
 - CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md
+- Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events.txt
+- Chief of Staff comms.txt
+- DHS Reasonable Accommodation.txt
+- DISCOVERY_REQUESTS_SECOND_SET.md
+- Detailed Table of Events.txt
+- EEO FILES 1.txt
+- EEO.eml[2] (2).txt
+- EEO.eml[2].txt
+- EEOC_SEARCH_VOCABULARY.md
+- EMAIL DOCUMENTATION.txt
+- EMAILS-2.txt
+- EMAILS-3.txt
+- ENHANCED_MASTER_INDEX.html
 - EXHIBIT_LIST_PRIORITY.csv
+- FD-256-22-0003- RA Program Policy Directive - FINAL Jan 2022.txt
 - FEDERAL_LAWSUIT_PORTAL.html
+- FEMA EEO Policy Reaffirmation 2024 Final - F1 Signed - CLEAN (002).txt
+- FEMA_Cadre_Management_Guide1-10282014.txt
+- FI-256-22-0001-RA Instruction 2024 Final Signature- 06-28-2024.txt
+- FM 123-9-1.txt
+- FW_ FMLA Recertification - M. Meindl.eml[1] (2).txt
+- FW_ FMLA Recertification - M. Meindl.eml[1](1).txt
+- FW_ FMLA Recertification - M. Meindl.eml[1](2).txt
+- FW_ FMLA Recertification - M. Meindl.eml[1].txt
+- FW_ MEINDL FORMAL EEOC COMPLAINT-E-SIGNED.txt
+- FW_ RAR0042452 for Telework_ 100% .txt
+- FW_ Reasonable Accommodation Request# RAR0017691.eml[1] (2).txt
+- FW_ Reasonable Accommodation Request# RAR0017691.eml[1].txt
+- FW_ Request to consider Reassignment - Reasonable Accommodation of Last Resort.txt
+- Federal Workforce Keyboard Navigation Manual-Final.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2-1.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL.txt
+- Fwd_ Affidavit and Letter of Authorization (HS-FEMA-02430-2024).eml[1] (2).txt
+- Fwd_ Affidavit and Letter of Authorization (HS-FEMA-02430-2024).eml[1].txt
+- Fwd_ WebTA.eml[1] (2).txt
+- Fwd_ WebTA.eml[1](1).txt
+- Fwd_ WebTA.eml[1].txt
+- GAMMA_APP_PRESENTATION.html
+- Guide_to_Brief_Writing_for_Pro_Se_Complainants.txt
+- HEARING_PREPARATION_OUTLINE.md
+- Heart Condition AN.txt
+- KEY_EXHIBITS_AND_EVIDENCE.md
+- LEGAL STUFF.txt
 - LETTER_TO_RICK_GUERRA.md
+- MEINDL-Affidavit of Complainant-02-14-2025-R1.txt
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- MEINDL-FEMA Informal Intake Form-09-03-24 (002).txt
+- MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info (2).txt
+- MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info (3).txt
+- MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info.txt
+- MEINDL-FEMA Informal Intake Form-09-03-24.txt
+- MOTION_FOR_SUMMARY_JUDGMENT.md
+- Meindel III Max J. (FINAL Notice of Termination of Appointment)-1.txt
+- Meindl_1stLineDecisionFTTWRequest - Oke review (002) to JLJ.txt
+- Merge Result-V3-FINAL PAGE NUMBERS.txt
+- Merge Result.txt
+- New EEO Poster 2024.txt
+- OPM telework agency2a-guide.txt
+- PART 752-ADVERSE ACTIONS.txt
+- PDFen.txt
+- PROJECT_COMPLETION_REPORT.md
+- Pages from 08-06-2024.txt
+- ParaDocs Programing Guidelinnes.txt
+- RAR#0046767 Max Meindl-Revised.txt
+- RAR#0046767 Max Meindl.txt
+- RAR0017691 .txt
+- RAR0023261 - Vaccine Exemption Request for Info....txt
+- RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html
+- RESPONDENT REPLY(1).txt
+- RESPONDENT REPLY-08-19-24-v1.txt
+- RE_ MEINDL-FINAL-V3-REASONABLE ACCOMMODATION SU....txt
+- RE_ Non-Responsive Employees in Vaccine Status ....txt
+- RE_ Number RAR0042452- Follow up Tuesday Septem....txt
+- RE_ RAR0023261 - Vaccine Exemption Request for ...(1).txt
+- RE_ RAR0023261 - Vaccine Exemption Request for ....txt
+- RE_ RAR0042452 for Telework_ 100% .txt
+- RE_ Request to consider Reassignment - Reasonable Accommodation of Last Resort-meindl-08022024.txt
+- RE_ Your request for Reasonable Accommodation R...(1).txt
+- Reasonable Accomodation-FEMA Form 256-0-1-08232018.txt
+- Request Reasonable Accommodation Form 256-0-1-01-02-2024.txt
+- Revision 2 of scan.eml[1] (2).txt
+- Revision 2 of scan.eml[1].txt
+- SETTLEMENT_DEMAND_PACKAGE.md
+- TRACI BRASHER CHAT RECORD.txt
+- TRULY_COMPREHENSIVE_EMAIL_INDEX.html
+- Tab F-5 Affidavit of RMO template_Simko Final.txt
+- Tab F-8 Affidavit of Witness Traci Brasher_ final.txt
+- Tab F-9 Affidavit of Witness Anna Myers signed.txt
+- UNIFIED_PARADOCS_DASHBOARD.html
+- VISUAL_TIMELINE_EXHIBIT.html
+- What is your age.txt
+- [Compare Report] 06-22-RA POLICY.txt
+- actual_timeline_from_roi.json
+- case_support_report_HS-FEMA-02430-2024.md
+- communication_timeline_HS-FEMA-02430-2024.html
+- communication_timeline_HS-FEMA-02430-2024.json
+- communication_timeline_HS-FEMA-02430-2024.md
+- comprehensive_timeline_HS-FEMA-02430-2024.json
+- critical_terms.csv
+- cursor.rules.json
 - cursor_current_processing_status_update-052525.md
+- data_extract_HS-FEMA-02430-2024.md
 - eeo_comprehensive_investigation.json
 - eeo_comprehensive_timeline.csv
 - eeo_investigation_questions.csv
 - eeo_timeline_comprehensive_report.json
 - eeo_timeline_enhanced.json
 - eeo_timeline_events.csv
+- eeoc-rules.json
 - email_analysis_report.json
 - email_detailed_index.json
+- email_index_HS-FEMA-02430-2024.csv
+- email_tracking_template_comprehensive.csv
+- fd_123_14_hiring_people_with_disabilities.txt
+- federal_citations_HS-FEMA-02430-2024.md
+- fema-directive-123-0-2-1.txt
+- fema-rules.json
+- fema_affirmative-action-plan.txt
+- fema_manual_1430_1_reasonable_accommodations.txt
+- fema_manual_1430_1_reasonable_accommodations[1].txt
+- fema_reasonable-accommodation-policy.txt
+- fi-256-22-0001-ra_instruction_final-signature-06-28-2024.txt
+- fmla.eml[4][1].txt
+- guide-to-telework-in-the-federal-government.txt
+- implementing_accommodation.txt
+- keyword_search.html
+- l4060---fema-contract.txt
+- manual_timeline_HS-FEMA-02430-2024.json
+- md-110.txt
+- meindel iii max j. (final notice of termination of appointment) (002).txt
+- metadata_schema.json
 - paradocs_case_analysis_complete.json
 - paradocs_legal_strategy_dashboard.html
 - paradocs_master_dashboard.html
 - paradocs_master_timeline_enhanced.html
+- ra (1).txt
+- search_index.json
+- termination_impact_analysis.md
+- timeline_exhibit_HS-FEMA-02430-2024.html
 
-### discrimination (Found in 34 files)
+### discrimination (Found in 164 files)
+- 01-22-RA POLICY.txt
+- 06-22-RA POLICY.txt
+- 2017-dhs-affirmative-action-plan.txt
+- 21C09C58-969E-71AA-B95D-C9FA67C8BAD9.txt
+- 24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508-APRIL 2024.txt
+- 24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508.txt
+- 3 - Cadre of On-Call Response_Recovery Employee (CORE) Program_FM252-11-1.txt
+- 806726.txt
+- ACTION_LOG.md
 - ADMINISTRATIVE_HEARING_PORTAL.html
+- ADR Agreement to participate - 5 Sig-MEINDL-10-15-2024-BS SIGNED.txt
 - ADR_MEDIATION_PORTAL.html
 - AGGRESSIVE_DAMAGES_CALCULATION.md
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
+- Binder2.txt
 - CASE_SUMMARY.json
 - CASE_SUMMARY.md
 - CASE_VIOLATIONS_SUMMARY.html
+- CATEGORY_REPORT.md
+- COMPLETE_EMAIL_INDEX.html
+- COMPREHENSIVE_COMMUNICATION_TIMELINE.html
+- COMPREHENSIVE_VIOLATIONS_ANALYSIS.md
+- CORRECTED_MASTER_INDEX_VERIFIED.html
+- CRITICAL_TERMS_REPORT.md
 - CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md
+- Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events.txt
 - DAMAGES_CALCULATION_LEGAL_BASIS.md
+- DAMAGES_CALCULATION_WITH_INTEREST.html
+- Detailed Table of Events.txt
+- EEO FILES 1.txt
+- EEO Process HS-FEMA-03389-2024 Meindl, M.txt
+- EEOC_Memo_-_Guidance_to_Agencies_for_Applying_DRP_Agreements_to_Pending_EEO_Complaints.txt
+- EEOC_SEARCH_VOCABULARY.md
+- EMAILS-3.txt
+- ENHANCED_MASTER_INDEX.html
 - EXHIBIT_LIST_PRIORITY.csv
+- Effectiveness of ADR Report_508.txt
+- Extension of Counseling_ HS-FEMA-03389-2024 Meindl M_ signed.txt
+- FD-256-22-0003- RA Program Policy Directive - FINAL Jan 2022.txt
 - FEDERAL_LAWSUIT_PORTAL.html
+- FEMA EEO Policy Reaffirmation 2024 Final - F1 Signed - CLEAN (002).txt
+- FEMA_Cadre_Management_Guide1-10282014.txt
+- FI-256-22-0001-RA Instruction 2024 Final Signature- 06-28-2024.txt
+- FW_ MEINDL FORMAL EEOC COMPLAINT-E-SIGNED.txt
+- Federal Complaints Dashboard Instruction Manual Draft-Final.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2-1.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL.txt
+- Fw_ EEO Complaint Form.eml[1].txt
+- Fwd_ Affidavit and Letter of Authorization (HS-FEMA-02430-2024).eml[1] (2).txt
+- Fwd_ Affidavit and Letter of Authorization (HS-FEMA-02430-2024).eml[1].txt
+- GAMMA_APP_PRESENTATION.html
+- GAMMA_SLIDES_CONTENT.md
+- GITHUB_PAGES_AND_EMAIL_INDEX_SUMMARY.md
+- Guidance-for-Using-the-2010-EEO-Tabulation-UPDATED-July-2013.txt
+- Guide_to_Brief_Writing_for_Pro_Se_Complainants.txt
+- HEARING_PREPARATION_OUTLINE.md
+- KEY_EXHIBITS_AND_EVIDENCE.md
 - LETTER_TO_RICK_GUERRA.md
 - MASTER_TIMELINE_2018-2025.csv
 - MAXIMUM_DAMAGES_BY_STATUTE.md
+- MEINDL-Affidavit of Complainant-02-14-2025-R1.txt
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- Meindel III Max J. (FINAL Notice of Termination of Appointment)-1.txt
+- Merge Result-V3-FINAL PAGE NUMBERS.txt
+- Merge Result.txt
+- NRTF HS-FEMA-02430-2024 Meindl J.txt
+- New EEO Poster 2024.txt
+- OSC Case No. MA-20-1288.eml[2] (2).txt
+- OSC Case No. MA-20-1288.eml[2](1).txt
+- OSC Case No. MA-20-1288.eml[2](2).txt
+- OSC Case No. MA-20-1288.eml[2].txt
+- OSC Case No. MA-20-1288.txt
+- PDFen.txt
+- PROJECT_COMPLETION_REPORT.md
+- ParaIndex.txt
+- RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html
+- README.md
+- RE_ Case #460.2016.01937.eml[1] (2).txt
+- RE_ Case #460.2016.01937.eml[1](1).txt
+- RE_ Case #460.2016.01937.eml[1].txt
+- Revision 2 of scan.eml[1] (2).txt
+- Revision 2 of scan.eml[1].txt
+- SETTLEMENT_DEMAND_PACKAGE.md
+- TRULY_COMPREHENSIVE_EMAIL_INDEX.html
+- Tab F-5 Affidavit of RMO template_Simko Final.txt
+- Tab F-8 Affidavit of Witness Traci Brasher_ final.txt
+- Tab F-9 Affidavit of Witness Anna Myers signed.txt
+- Table B-15   FY 2021   Complaints Closed with Findings of Discrimination.json
+- Table B-16   FY 2021   Complaints Closed with Findings of No Discrimination.json
+- UNIFIED_PARADOCS_DASHBOARD.html
+- Update on your Employee Rights claim..eml[1] (2).txt
+- Update on your Employee Rights claim..eml[1].txt
+- V1-Getting_Started.txt
+- VISUAL_TIMELINE_EXHIBIT.html
+- What is your age.txt
+- [Compare Report] 06-22-RA POLICY.txt
+- actual_timeline_from_roi.json
 - analysis_dashboard.json
+- case_support_report_HS-FEMA-02430-2024.md
+- communication_timeline_HS-FEMA-02430-2024.html
+- communication_timeline_HS-FEMA-02430-2024.json
+- communication_timeline_HS-FEMA-02430-2024.md
+- comprehensive_case_analysis_HS-FEMA-02430-2024.md
+- comprehensive_timeline_HS-FEMA-02430-2024.json
+- critical_terms.csv
+- cursor.rules.json
 - cursor_current_processing_status_update-052525.md
+- damage_calculations_1340_day.json
 - damages_calculation_report.json
+- damages_index_HS-FEMA-02430-2024.csv
+- data_extract_HS-FEMA-02430-2024.md
+- date_index.json
+- document_index.json
 - document_scan_results.json
 - eeo_comprehensive_investigation.json
 - eeo_comprehensive_timeline.csv
 - eeo_timeline_comprehensive_report.json
 - eeo_timeline_enhanced.json
 - eeo_timeline_events.csv
+- eeoc-rules.json
 - email_detailed_index.json
+- email_index_HS-FEMA-02430-2024.csv
+- email_tracking_template_comprehensive.csv
 - evidence_index_HS-FEMA-02430-2024.csv
+- fd_123_14_hiring_people_with_disabilities.txt
+- federal_citations_HS-FEMA-02430-2024.md
+- fema-directive-123-0-2-1.txt
+- fema-rules.json
+- fema_affirmative-action-plan.txt
+- fema_reasonable-accommodation-policy.txt
+- fi-256-22-0001-ra_instruction_final-signature-06-28-2024.txt
+- fyi.txt
+- implementing_accommodation.txt
 - index.md
+- index_stats.json
+- keyword_index.json
+- keyword_search.html
+- l4060---fema-contract.txt
+- manual_timeline_HS-FEMA-02430-2024.json
+- master_case_index_HS-FEMA-02430-2024.json
+- md-110.txt
+- meindel iii max j. (final notice of termination of appointment) (002).txt
+- metadata_schema.json
+- package.json
+- paradocs-index.html
 - paradocs_all_files.csv
 - paradocs_all_files.json
 - paradocs_case_analysis_complete.json
@@ -219,147 +741,747 @@ Documents Indexed: 62
 - paradocs_legal_strategy_dashboard.html
 - paradocs_master_dashboard.html
 - paradocs_master_timeline_enhanced.html
+- roi_comprehensive_analysis_HS-FEMA-02430-2024.json
+- roi_comprehensive_analysis_HS-FEMA-02430-2024.md
+- roi_contradictions_HS-FEMA-02430-2024.json
+- roi_contradictions_HS-FEMA-02430-2024.md
+- roi_contradictions_interactive_HS-FEMA-02430-2024.json
+- roi_specific_contradictions_HS-FEMA-02430-2024.md
+- search_index.json
+- stopwords.json
+- timeline_exhibit_HS-FEMA-02430-2024.html
+- weighted_harm_analysis.md
 
-### interactive process (Found in 22 files)
+### interactive process (Found in 106 files)
+- 01-22-RA POLICY.txt
+- 06-22-RA POLICY.txt
+- 1430_1.txt
+- 21C09C58-969E-71AA-B95D-C9FA67C8BAD9.txt
+- 24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508-APRIL 2024.txt
+- 24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508.txt
+- ACTION_LOG.md
 - ADMINISTRATIVE_HEARING_PORTAL.html
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
 - CASE_VIOLATIONS_SUMMARY.html
+- CHAT TIMELINE DISCUSSION-INTERACTIVE PROCESS.json
+- COMPLETE_EMAIL_INDEX.html
+- COMPLETE_TIMELINE_INTERACTIVE.html
+- COMPREHENSIVE_COMMUNICATION_TIMELINE.html
+- COMPREHENSIVE_VIOLATIONS_ANALYSIS.md
+- CRITICAL_TERMS_REPORT.md
 - CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md
+- Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events.txt
+- DHS Reasonable Accommodation.txt
+- DISCOVERY_REQUESTS_SECOND_SET.md
+- Detailed Table of Events.txt
+- EEO FILES 1.txt
+- EEOC_SEARCH_VOCABULARY.md
+- EMAIL DOCUMENTATION.txt
+- ENHANCED_MASTER_INDEX.html
 - EXHIBIT_LIST_PRIORITY.csv
+- FD-256-22-0003- RA Program Policy Directive - FINAL Jan 2022.txt
+- FI-256-22-0001-RA Instruction 2024 Final Signature- 06-28-2024.txt
+- FINAL_CASE_COMPLETION_SUMMARY.md
+- FW_ RAR0042452 for Telework_ 100% .txt
+- FW_ Request to consider Reassignment - Reasonable Accommodation of Last Resort.txt
+- GAMMA_APP_PRESENTATION.html
+- GAMMA_SLIDES_CONTENT.md
+- HEARING_PREPARATION_OUTLINE.md
+- INDEX_INSTRUCTIONS.md
+- LEGAL STUFF.txt
 - MASTER_INDEX.html
 - MASTER_TIMELINE_2018-2025.csv
+- MEINDL-Affidavit of Complainant-02-14-2025-R1.txt
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- MOTION_FOR_SUMMARY_JUDGMENT.md
+- Merge Result.txt
+- README.md
+- RESPONDENT REPLY(1).txt
+- RESPONDENT REPLY-08-19-24-v1.txt
+- RE_ RAR0042452 for Telework_ 100% .txt
+- RE_ Request to consider Reassignment - Reasonable Accommodation of Last Resort-meindl-08022024.txt
+- Revision 2 of scan.eml[1] (2).txt
+- Revision 2 of scan.eml[1].txt
+- SETTLEMENT_DEMAND_PACKAGE.md
+- VISUAL_TIMELINE_EXHIBIT.html
+- [Compare Report] 06-22-RA POLICY.txt
+- actual_timeline_from_roi.json
+- communication_timeline_HS-FEMA-02430-2024.md
+- comprehensive_case_analysis_HS-FEMA-02430-2024.md
+- comprehensive_timeline_HS-FEMA-02430-2024.json
+- corrected_verified_timeline.json
+- critical_terms.csv
+- cursor.rules.json
 - cursor_current_processing_status_update-052525.md
+- date_index.json
 - eeo_comprehensive_investigation.json
 - eeo_comprehensive_timeline.csv
 - eeo_investigation_questions.csv
 - eeo_timeline_comprehensive_report.json
 - eeo_timeline_enhanced.json
 - eeo_timeline_events.csv
+- eeoc-rules.json
 - email_detailed_index.json
+- email_index_HS-FEMA-02430-2024.csv
 - email_index_HS-FEMA-02430-2024.html
+- email_tracking_template_comprehensive.csv
 - evidence_index_HS-FEMA-02430-2024.csv
+- federal_citations_HS-FEMA-02430-2024.md
+- fema-rules.json
+- fema_manual_1430_1_reasonable_accommodations.txt
+- fema_manual_1430_1_reasonable_accommodations[1].txt
+- fema_reasonable-accommodation-policy.txt
+- fi-256-22-0001-ra_instruction_final-signature-06-28-2024.txt
+- fmla.eml[4][1].txt
+- github_pages_setup_guide.md
+- guide-to-telework-in-the-federal-government.txt
+- implementing_accommodation.txt
+- index_stats.json
+- keyword_index.json
+- keyword_search.html
+- master_case_index_HS-FEMA-02430-2024.json
+- paradocs-index.html
 - paradocs_case_analysis_complete.json
 - paradocs_legal_strategy_dashboard.html
 - paradocs_master_dashboard.html
 - paradocs_master_timeline_enhanced.html
+- ra (1).txt
+- ra_timing_violations_analysis.txt
+- roi_comprehensive_analysis_HS-FEMA-02430-2024.json
+- roi_comprehensive_analysis_HS-FEMA-02430-2024.md
+- roi_contradictions_HS-FEMA-02430-2024.json
+- roi_contradictions_HS-FEMA-02430-2024.md
+- roi_contradictions_interactive_HS-FEMA-02430-2024.json
+- roi_specific_contradictions_HS-FEMA-02430-2024.md
+- search_index.json
+- timeline_exhibit_HS-FEMA-02430-2024.html
+- timeline_index_HS-FEMA-02430-2024.csv
+- verification_report.json
+- violations_summary.json
 
-### no responsive records (Found in 3 files)
+### no responsive records (Found in 9 files)
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
-- CASE_VIOLATIONS_SUMMARY.html
+- CRITICAL_TERMS_REPORT.md
+- Final Response 2025-FEFO-01396.txt
+- VISUAL_TIMELINE_EXHIBIT.html
+- critical_terms.csv
+- keyword_search.html
+- paradocs_legal_strategy_dashboard.html
+- search_index.json
 
-### reasonable accommodation (Found in 27 files)
+### reasonable accommodation (Found in 246 files)
+- 0046767 Max Meindl-Revised-second.txt
+- 0046767 Max Meindl-Revised.txt
+- 0046767 Max Meindl.txt
+- 01-22-RA POLICY.txt
+- 06-22-RA POLICY.txt
+- 08-06-2024.txt
+- 1430_1.txt
+- 2017-dhs-affirmative-action-plan.txt
+- 21C09C58-969E-71AA-B95D-C9FA67C8BAD9.txt
+- 24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508-APRIL 2024.txt
+- 24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508.txt
+- 256-0-2 MANAGEMENT RESPONSE to REQ for RA Max s.txt
+- 256-0-2 MANAGEMENT RESPONSE to REQ for RA Meindl-first.txt
+- 256-0-2 MANAGEMENT RESPONSE to REQ for RA Meindl.txt
+- 3 - Cadre of On-Call Response_Recovery Employee (CORE) Program_FM252-11-1.txt
+- 806726.txt
 - ADMINISTRATIVE_HEARING_PORTAL.html
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
+- Action Required_ Submit Your Proof of Vaccination.txt
+- Binder1.txt
+- Binder2.txt
 - CASE_SUMMARY.json
 - CASE_SUMMARY.md
 - CASE_VIOLATIONS_SUMMARY.html
+- COMPLETE_EMAIL_INDEX.html
+- COMPLETE_TIMELINE_INTERACTIVE.html
+- COMPREHENSIVE_COMMUNICATION_TIMELINE.html
+- CORRECTED_INDIVIDUAL_TITLES_AND_ROLES.md
+- CORRECT_FILES_TO_USE.md
+- CRITICAL_TERMS_REPORT.md
+- Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events.txt
+- Chief of Staff comms.txt
+- DHS Reasonable Accommodation.json
+- DHS Reasonable Accommodation.txt
+- DISCOVERY_REQUESTS_SECOND_SET.md
+- Detailed Table of Events.txt
+- EEO FILES 1.txt
+- EEO.eml[3][1] (2).txt
+- EEO.eml[3][1].txt
+- EEOC_SEARCH_VOCABULARY.md
+- EMAIL DOCUMENTATION.txt
+- EMAILS-1.txt
+- EMAILS-3.txt
+- ENHANCED_MASTER_INDEX.html
+- Enforcement Guidance on Reasonable Accommodation and Undue Hardship under the ADA-compressed.json
+- Enforcement Guidance on Reasonable Accommodation and Undue Hardship under the ADA.json
+- FD-256-22-0003- RA Program Policy Directive - FINAL Jan 2022.txt
 - FEDERAL_LAWSUIT_PORTAL.html
+- FEMA EEO Policy Reaffirmation 2024 Final - F1 Signed - CLEAN (002).txt
+- FEMA_Cadre_Management_Guide1-10282014.txt
+- FI-256-22-0001-RA Instruction 2024 Final Signature- 06-28-2024.txt
+- FM 123-9-1.txt
+- FMLA.eml[1][1](2).txt
+- FMLA.eml[1][1].txt
+- FMLA.eml[2][1] (2).txt
+- FMLA.eml[2][1](1).txt
+- FMLA.eml[2][1].txt
+- FW_ Consideration.txt
+- FW_ FMLA Recertification - M. Meindl.eml[1] (2).txt
+- FW_ FMLA Recertification - M. Meindl.eml[1](1).txt
+- FW_ FMLA Recertification - M. Meindl.eml[1](2).txt
+- FW_ FMLA Recertification - M. Meindl.eml[1].txt
+- FW_ FMLA_Reasonable accommodation .json
+- FW_ FMLA_Reasonable accommodation .txt
+- FW_ Max Meindl Reasonable Accommodation Request.json
+- FW_ Max Meindl Reasonable Accommodation Request.txt
+- FW_ RAR0042452 for Telework_ 100% .txt
+- FW_ REMOTE WORK .txt
+- FW_ Reasonable Accommodation Request# RAR0017691.eml[1] (2).json
+- FW_ Reasonable Accommodation Request# RAR0017691.eml[1] (2).txt
+- FW_ Reasonable Accommodation Request# RAR0017691.eml[1].json
+- FW_ Reasonable Accommodation Request# RAR0017691.eml[1].txt
+- FW_ Reasonable accommodation (2).json
+- FW_ Reasonable accommodation (2).txt
+- FW_ Reasonable accommodation(1).json
+- FW_ Reasonable accommodation(1).txt
+- FW_ Reasonable accommodation.json
+- FW_ Reasonable accommodation.txt
+- FW_ Request to consider Reassignment - Reasonable Accommodation of Last Resort.json
+- FW_ Request to consider Reassignment - Reasonable Accommodation of Last Resort.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2-1.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL.txt
+- Final Response 2025-FEFO-01396.txt
+- Fwd_ Affidavit and Letter of Authorization (HS-FEMA-02430-2024).eml[1] (2).txt
+- Fwd_ Affidavit and Letter of Authorization (HS-FEMA-02430-2024).eml[1].txt
+- Fwd_ WebTA.eml[1] (2).txt
+- Fwd_ WebTA.eml[1](1).txt
+- Fwd_ WebTA.eml[1].txt
+- GAMMA_APP_PRESENTATION.html
+- Guide_to_Brief_Writing_for_Pro_Se_Complainants.txt
+- HEARING_PREPARATION_OUTLINE.md
+- KEY_EXHIBITS_AND_EVIDENCE.md
+- LEGAL STUFF.txt
 - LETTER_TO_RICK_GUERRA.md
 - MASTER_INDEX.html
 - MASTER_TIMELINE_2018-2025.csv
 - MAXIMUM_DAMAGES_BY_STATUTE.md
+- MEDICAL TELEWORK REQUIREMENTS FORM(1).txt
+- MEINDL-Affidavit of Complainant-02-14-2025-R1.txt
+- MEINDL-Appendix A - Reassignment Search Parameters_09-09-24-SIGNED-V1.txt
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- MEINDL-FEMA Informal Intake Form-09-03-24 (002).txt
+- MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info (2).txt
+- MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info (3).txt
+- MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info.txt
+- MEINDL-FEMA Informal Intake Form-09-03-24.txt
+- MOTION_FOR_SUMMARY_JUDGMENT.md
+- Meindel III Max J. (FINAL Notice of Termination of Appointment)-1.txt
+- Meindl_1stLineDecisionFTTWRequest - Oke review (002) to JLJ.txt
+- Merge Result-V3-FINAL PAGE NUMBERS.txt
+- Merge Result.txt
+- OPM telework agency2a-guide.txt
 - PARADOCS_FINAL_SUMMARY.txt
+- PDFen.txt
+- RA TEXT-SNIPS-01-02-2024.txt
+- RA.eml[6][1] (2).txt
+- RA.eml[6][1].txt
+- RAR#0046767 Max Meindl-Revised.txt
+- RAR#0046767 Max Meindl.txt
+- RAR0017691 .txt
+- RAR0017691 has been assigned to your group.txt
+- RAR0020089 has been assigned to your group.txt
+- RAR0023025 has been assigned to your group.txt
+- RAR0023261 - Vaccine Exemption Request for Info....txt
+- RAR0023278 for COVID-19 Vaccine Exemption (for ...(4).txt
+- RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html
+- RAR0042452 has been assigned to your group.txt
+- README.md
+- RESPONDENT REPLY(1).txt
+- RESPONDENT REPLY-08-19-24-v1.txt
+- RE_ Consideration.eml.txt
+- RE_ Consideration.eml[1] (2).txt
+- RE_ Consideration.eml[1](1).txt
+- RE_ Consideration.eml[1](2).txt
+- RE_ Consideration.eml[1](3).txt
+- RE_ Consideration.eml[1].txt
+- RE_ FMLA_Reasonable accommodation.eml[1].json
+- RE_ FMLA_Reasonable accommodation.eml[1].txt
+- RE_ MEINDL-FINAL-V3-REASONABLE ACCOMMODATION SU....json
+- RE_ MEINDL-FINAL-V3-REASONABLE ACCOMMODATION SU....txt
+- RE_ Max Meindl Reasonable Accommodation Request(1).json
+- RE_ Max Meindl Reasonable Accommodation Request(1).txt
+- RE_ Max Meindl Reasonable Accommodation Request.json
+- RE_ Max Meindl Reasonable Accommodation Request.txt
+- RE_ Non-Responsive Employees in Vaccine Status ....txt
+- RE_ Number RAR0042452- Follow up Tuesday Septem....txt
+- RE_ Number RAR0042452.txt
+- RE_ RAR0023261 - Vaccine Exemption Request for ...(1).txt
+- RE_ RAR0023261 - Vaccine Exemption Request for ....txt
+- RE_ RAR0042452 for Telework_ 100% .txt
+- RE_ RAR0046767 Final Agency Denial Letter.txt
+- RE_ Reasonable Accommodation Request(1).json
+- RE_ Reasonable Accommodation Request(1).txt
+- RE_ Reasonable Accommodation Request-Rev2.json
+- RE_ Reasonable Accommodation Request-Rev2.txt
+- RE_ Request to consider Reassignment - Reasonable Accommodation of Last Resort-meindl-08022024.json
+- RE_ Request to consider Reassignment - Reasonable Accommodation of Last Resort-meindl-08022024.txt
+- RE_ Request to consider Reassignment - Reasonable Accommodation of Last Resort.json
+- RE_ Your request for Reasonable Accommodation R...(1).json
+- RE_ Your request for Reasonable Accommodation R...(1).txt
+- Reasonable Accommodation .json
+- Reasonable Accommodation .txt
+- Reasonable Accommodation Request-1.json
+- Reasonable Accommodation Request-1.txt
+- Reasonable Accommodation Request-Rev2.json
+- Reasonable Accommodation Request-Rev2.txt
+- Reasonable Accomodation-FEMA Form 256-0-1-08232018.txt
+- Request Reasonable Accommodation Form 256-0-1-01-02-2024.json
+- Request Reasonable Accommodation Form 256-0-1-01-02-2024.txt
+- Request to consider Reassignment - Reasonable Accommodation of Last Resort.json
+- Revision 2 of scan.eml[1] (2).txt
+- Revision 2 of scan.eml[1].txt
+- SETTLEMENT_DEMAND_PACKAGE.md
+- TRACI BRASHER CHAT RECORD.txt
+- TRULY_COMPREHENSIVE_EMAIL_INDEX.html
+- Tab F-5 Affidavit of RMO template_Simko Final.txt
+- Tab F-8 Affidavit of Witness Traci Brasher_ final.txt
+- Tab F-9 Affidavit of Witness Anna Myers signed.txt
+- UNIFIED_PARADOCS_DASHBOARD.html
+- VISUAL_TIMELINE_EXHIBIT.html
+- What is your age.txt
+- Your request  for Telework_ 100% has been received.txt
+- Your request for Reasonable Accommodation Reque...(1).json
+- Your request for Reasonable Accommodation Reque...(1).txt
+- [Compare Report] 06-22-RA POLICY.txt
+- actual_timeline_from_roi.json
+- communication_timeline_HS-FEMA-02430-2024.html
+- communication_timeline_HS-FEMA-02430-2024.json
+- comprehensive_timeline_HS-FEMA-02430-2024.json
+- corrected_verified_timeline.json
+- critical_terms.csv
+- cursor.rules.json
 - cursor_current_processing_status_update-052525.md
 - damages_calculation_report.json
+- date_index.json
+- duplicates.json
 - eeo_comprehensive_investigation.json
 - eeo_comprehensive_timeline.csv
+- eeoc-rules.json
 - email_analysis_report.json
 - email_detailed_index.json
 - email_index.csv
 - email_index.json
+- email_index_HS-FEMA-02430-2024.csv
 - email_index_HS-FEMA-02430-2024.html
+- email_tracking_template_comprehensive.csv
+- fd_123_14_hiring_people_with_disabilities.txt
+- federal_citations_HS-FEMA-02430-2024.md
+- fema_affirmative-action-plan.txt
+- fema_manual_1430_1_reasonable_accommodations.txt
+- fema_manual_1430_1_reasonable_accommodations[1].txt
+- fema_reasonable-accommodation-policy.txt
+- fi-256-22-0001-ra_instruction_final-signature-06-28-2024.txt
+- fmla.eml[4][1].txt
+- guide-to-telework-in-the-federal-government.txt
+- implementing_accommodation.txt
+- index_stats.json
+- keyword_index.json
+- keyword_search.html
+- l4060---fema-contract.txt
+- manual_timeline_HS-FEMA-02430-2024.json
+- md-110.txt
+- meindel iii max j. (final notice of termination of appointment) (002).txt
+- paradocs-index.html
 - paradocs_all_files.csv
 - paradocs_all_files.json
 - paradocs_case_analysis_complete.json
 - paradocs_legal_strategy_dashboard.html
 - paradocs_master_dashboard.html
+- paradocs_master_timeline_enhanced.html
+- ra (1).txt
+- ra-4.txt
+- ra_timing_violations_analysis.txt
+- roi_comprehensive_analysis_HS-FEMA-02430-2024.json
+- roi_comprehensive_analysis_HS-FEMA-02430-2024.md
+- roi_contradictions_HS-FEMA-02430-2024.json
+- roi_contradictions_HS-FEMA-02430-2024.md
+- roi_specific_contradictions_HS-FEMA-02430-2024.md
+- search_index.json
+- summary_metrics.json
 - timeline_analysis_results.json
+- timeline_exhibit_HS-FEMA-02430-2024.html
+- verification_report.json
+- violations_summary.json
 
-### retaliation (Found in 30 files)
+### retaliation (Found in 116 files)
+- 806726.txt
+- ACTION_LOG.md
 - ADR_MEDIATION_PORTAL.html
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
+- Binder2.txt
 - CASE_SUMMARY.json
 - CASE_SUMMARY.md
 - CASE_VIOLATIONS_SUMMARY.html
+- COMPLETE_EMAIL_INDEX.html
+- COMPLETE_TIMELINE_INTERACTIVE.html
+- COMPREHENSIVE_COMMUNICATION_TIMELINE.html
+- COMPREHENSIVE_VIOLATIONS_ANALYSIS.md
+- CORRECTED_MASTER_INDEX_VERIFIED.html
+- CORRECT_FILES_TO_USE.md
+- CRITICAL_TERMS_REPORT.md
+- CRITICAL_USAGE_GUIDE.md
 - CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md
+- Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events.txt
 - DAMAGES_CALCULATION_LEGAL_BASIS.md
+- DAMAGES_CALCULATION_WITH_INTEREST.html
+- DISCOVERY_REQUESTS_SECOND_SET.md
+- Detailed Table of Events.txt
+- EEO FILES 1.txt
+- EEOC_SEARCH_VOCABULARY.md
+- EMAILS-2.txt
+- EMAILS-3.txt
+- ENHANCED_MASTER_INDEX.html
 - EXHIBIT_LIST_PRIORITY.csv
+- Effectiveness of ADR Report_508.txt
+- FINAL_CASE_COMPLETION_SUMMARY.md
+- FIXED_ENHANCED_MASTER_INDEX.html
+- FW_ MEINDL FORMAL EEOC COMPLAINT-E-SIGNED.txt
+- GAMMA_APP_COMPACT.html
+- GAMMA_APP_PRESENTATION.html
+- GAMMA_SLIDES_CONTENT.md
+- GITHUB_PAGES_AND_EMAIL_INDEX_SUMMARY.md
+- HEARING_PREPARATION_OUTLINE.md
+- INDEX_INSTRUCTIONS.md
+- KEY_EXHIBITS_AND_EVIDENCE.md
 - LEGAL_OPTIMIZATION_GUIDE.json
 - MASTER_INDEX.html
 - MASTER_TIMELINE_2018-2025.csv
 - MAXIMUM_DAMAGES_BY_STATUTE.md
+- MEINDL-Affidavit of Complainant-02-14-2025-R1.txt
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- MOTION_FOR_SUMMARY_JUDGMENT.md
+- Merge Result.txt
+- New EEO Poster 2024.txt
+- PDFen.txt
+- PROJECT_COMPLETION_REPORT.md
+- PROJECT_DEEP_DIVE_ANALYSIS.md
+- PROJECT_SUMMARY.md
+- ParaDocs Programing Guidelinnes.txt
+- RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html
+- README.md
+- Revision 2 of scan.eml[1] (2).txt
+- Revision 2 of scan.eml[1].txt
+- SETTLEMENT_DEMAND_PACKAGE.md
+- TONY IN SNIP OF PHONE CALLS-TIMES-DURATIONS.txt
+- TRULY_COMPREHENSIVE_EMAIL_INDEX.html
+- UNIFIED_PARADOCS_DASHBOARD.html
+- VISUAL_TIMELINE_EXHIBIT.html
+- actual_timeline_from_roi.json
 - analysis_dashboard.json
+- comprehensive_case_analysis_HS-FEMA-02430-2024.md
+- comprehensive_timeline_HS-FEMA-02430-2024.json
+- corrected_verified_timeline.json
+- critical_terms.csv
+- cursor.rules.json
 - cursor_current_processing_status_update-052525.md
+- damage_calculations_1340_day.json
 - damages_calculation_report.json
+- damages_index_HS-FEMA-02430-2024.csv
 - document_scan_results.json
 - eeo_comprehensive_investigation.json
 - eeo_comprehensive_timeline.csv
 - eeo_timeline_comprehensive_report.json
 - eeo_timeline_enhanced.json
 - eeo_timeline_events.csv
+- eeoc-rules.json
 - email_detailed_index.json
+- email_index_HS-FEMA-02430-2024.csv
 - email_index_HS-FEMA-02430-2024.html
+- email_statistics_HS-FEMA-02430-2024.txt
+- email_tracking_instructions.md
 - evidence_index_HS-FEMA-02430-2024.csv
+- fema-directive-123-0-2-1.txt
+- fema-rules.json
+- github_pages_setup_guide.md
+- index_stats.json
+- keyword_index.json
+- keyword_search.html
+- l4060---fema-contract.txt
+- master_case_index_HS-FEMA-02430-2024.json
+- md-110.txt
+- metadata_schema.json
 - paradocs_case_analysis_complete.json
 - paradocs_comprehensive_eeo_investigation.html
 - paradocs_legal_strategy_dashboard.html
 - paradocs_master_dashboard.html
 - paradocs_master_timeline_enhanced.html
+- roi_comprehensive_analysis_HS-FEMA-02430-2024.json
+- roi_comprehensive_analysis_HS-FEMA-02430-2024.md
+- roi_contradictions_interactive_HS-FEMA-02430-2024.json
+- roi_specific_contradictions_HS-FEMA-02430-2024.md
+- search_index.json
+- summary_metrics.json
+- termination_impact_analysis.md
+- test_json.html
+- timeline_exhibit_HS-FEMA-02430-2024.html
+- timeline_index_HS-FEMA-02430-2024.csv
+- verification_report.json
+- violations_index_HS-FEMA-02430-2024.csv
+- violations_summary.json
+- weighted_harm_analysis.md
 
-### termination (Found in 37 files)
+### termination (Found in 226 files)
+- 01-22-RA POLICY.txt
+- 06-22-RA POLICY.txt
+- 07 25 2022 MEINDL-FF-403-FY-22-112.txt
+- 08-06-2024.txt
+- 123-9-0-1.txt
+- 1430_1.txt
+- 2017-dhs-affirmative-action-plan.txt
+- 21C09C58-969E-71AA-B95D-C9FA67C8BAD9.txt
+- 24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508-APRIL 2024.txt
+- 24_0401_crcl_dhs-hq-reasonable-accommodation-procedures-instruction-manual-508.txt
+- 3 - Cadre of On-Call Response_Recovery Employee (CORE) Program_FM252-11-1.txt
+- 806726.txt
+- ACTION_LOG.md
 - ADMINISTRATIVE_HEARING_PORTAL.html
 - ADR_MEDIATION_PORTAL.html
 - AGGRESSIVE_DAMAGES_CALCULATION.md
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
 - Attorney_Portal.html
+- Binder2.txt
 - CASE_VIOLATIONS_SUMMARY.html
+- COMPLETE_EMAIL_INDEX.html
+- COMPLETE_TIMELINE_INTERACTIVE.html
+- COMPREHENSIVE_COMMUNICATION_TIMELINE.html
+- COMPREHENSIVE_VIOLATIONS_ANALYSIS.md
+- CORE CONDITIONS OF EMPLOYMENT.txt
+- CORRECT_FILES_TO_USE.md
+- CRITICAL_TERMS_REPORT.md
+- CRITICAL_USAGE_GUIDE.md
 - CURSOR_AI_RECOMMENDATIONS_ANALYSIS.md
+- Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events.txt
 - DAMAGES_CALCULATION_LEGAL_BASIS.md
+- DHS Reasonable Accommodation.txt
+- DISCOVERY_REQUESTS_SECOND_SET.md
+- Detailed Table of Events.txt
+- EEO FILES 1.txt
+- EEO Process HS-FEMA-03389-2024 Meindl, M.txt
+- EEOC_SEARCH_VOCABULARY.md
+- EMAIL DOCUMENTATION.txt
+- EMAILS-3.txt
+- ENHANCED_MASTER_INDEX.html
 - EXHIBIT_LIST_PRIORITY.csv
+- FD-256-22-0003- RA Program Policy Directive - FINAL Jan 2022.txt
 - FEDERAL_LAWSUIT_PORTAL.html
+- FEMA_Cadre_Management_Guide1-10282014.txt
+- FI-256-22-0001-RA Instruction 2024 Final Signature- 06-28-2024.txt
+- FINAL_CASE_COMPLETION_SUMMARY.md
+- FIXED_ENHANCED_MASTER_INDEX.html
+- FM 123-9-1.txt
+- FMLA Determination (2).json
+- FMLA Determination(1).json
+- FMLA Determination.json
+- FMLA.eml[1][1](2).txt
+- FMLA.eml[1][1].txt
+- FMLA.eml[2][1] (2).txt
+- FMLA.eml[2][1](1).txt
+- FMLA.eml[2][1].txt
+- FW_ Consideration.txt
+- FW_ FMLA Determination (2).json
+- FW_ FMLA Determination (2).txt
+- FW_ FMLA Determination(1).json
+- FW_ FMLA Determination(1).txt
+- FW_ FMLA Determination.eml[1] (2).json
+- FW_ FMLA Determination.eml[1] (2).txt
+- FW_ FMLA Determination.eml[1](1).json
+- FW_ FMLA Determination.eml[1](1).txt
+- FW_ FMLA Determination.eml[1].json
+- FW_ FMLA Determination.eml[1].txt
+- FW_ FMLA Determination.json
+- FW_ FMLA Determination.txt
+- FW_ FMLA Determination[1] (2).json
+- FW_ FMLA Determination[1] (2).txt
+- FW_ FMLA Determination[1](1).json
+- FW_ FMLA Determination[1](1).txt
+- FW_ FMLA Determination[1].json
+- FW_ FMLA Determination[1].txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2-1.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL-2.txt
+- Final Agency Denial Letter _Meindl Max (RAR0046767)- FINAL.txt
+- Final Response 2025-FEFO-01396.txt
+- GAMMA_APP_COMPACT.html
+- GAMMA_APP_PRESENTATION.html
+- GAMMA_SLIDES_CONTENT.md
+- GITHUB_PAGES_AND_EMAIL_INDEX_SUMMARY.md
+- Guide_to_Brief_Writing_for_Pro_Se_Complainants.txt
+- HEARING_PREPARATION_OUTLINE.md
+- INDEX_INSTRUCTIONS.md
+- KEY_EXHIBITS_AND_EVIDENCE.md
+- LEGAL STUFF.txt
+- MASTER_INDEX.html
 - MASTER_TIMELINE_2018-2025.csv
 - MAXIMUM_DAMAGES_BY_STATUTE.md
+- MEINDL-Affidavit of Complainant-02-14-2025-R1.txt
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- MEINDL-FEMA Informal Intake Form-09-03-24 (002).txt
+- MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info (2).txt
+- MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info (3).txt
+- MEINDL-FEMA Informal Intake Form-09-03-24-V1-add rep info.txt
+- MEINDL-FEMA Informal Intake Form-09-03-24.txt
+- MOTION_FOR_SUMMARY_JUDGMENT.md
+- Meindel III Max J. (FINAL Notice of Termination of Appointment)-1.json
+- Meindel III Max J. (FINAL Notice of Termination of Appointment)-1.txt
+- Meindl-Max_Telework Agreement_Date -2023-2024-10-24-23.txt
+- Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452 -V1-2.txt
+- Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452 -V1.txt
+- Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452-TONY IN-COMPRESSED TELEWORK.txt
+- Meindl-Max_Telework Application & Agreement-12-11-23-RA-RAR0042452.txt
+- Merge Result-V3-FINAL PAGE NUMBERS.txt
+- Merge Result.txt
+- OPM telework agency2a-guide.txt
+- OSC Case No. MA-20-1288.eml[2] (2).txt
+- OSC Case No. MA-20-1288.eml[2](1).txt
+- OSC Case No. MA-20-1288.eml[2](2).txt
+- OSC Case No. MA-20-1288.eml[2].txt
+- OSC Case No. MA-20-1288.txt
 - PARADOCS_COMPLETE_INDEX.md
+- PART 752-ADVERSE ACTIONS.txt
+- PDFen.txt
+- PDTFL Position Assist.txt
+- PROJECT_COMPLETION_REPORT.md
+- PROJECT_DEEP_DIVE_ANALYSIS.md
+- PROJECT_SUMMARY.md
+- RAR0023278_CRITICAL_EVIDENCE_EXTRACT.html
+- README.md
+- REMOTE WORK APPEAL-signed-2.txt
+- REMOTE WORK APPEAL-signed.txt
+- RE_ Case #460.2016.01937.eml[1] (2).txt
+- RE_ Case #460.2016.01937.eml[1](1).txt
+- RE_ Case #460.2016.01937.eml[1].txt
+- RE_ Consideration.eml.txt
+- RE_ Consideration.eml[1] (2).txt
+- RE_ Consideration.eml[1](1).txt
+- RE_ Consideration.eml[1](2).txt
+- RE_ Consideration.eml[1](3).txt
+- RE_ Consideration.eml[1].txt
+- RE_ Non-Responsive Employees in Vaccine Status ...(1).txt
+- RE_ Non-Responsive Employees in Vaccine Status ....txt
+- Revision 2 of scan.eml[1] (2).txt
+- Revision 2 of scan.eml[1].txt
+- SETTLEMENT_DEMAND_PACKAGE.md
+- SETUP_GUIDE.md
 - SHARING_PARADOCS_WITH_ATTORNEY.md
+- TELEWORK REQUEST FOR 07242018-PLUS 4 HOURS SICK DAY.txt
+- TRULY_COMPREHENSIVE_EMAIL_INDEX.html
+- Tab F-5 Affidavit of RMO template_Simko Final.txt
+- Tab F-9 Affidavit of Witness Anna Myers signed.txt
+- UNIFIED_PARADOCS_DASHBOARD.html
+- Update on your Employee Rights claim..eml[1] (2).txt
+- Update on your Employee Rights claim..eml[1].txt
+- VERIFICATION_REPORT.md
+- VISUAL_TIMELINE_EXHIBIT.html
+- What is your age.txt
+- [Compare Report] 06-22-RA POLICY.txt
+- actual_timeline_from_roi.json
+- case_support_report_HS-FEMA-02430-2024.md
+- comprehensive_case_analysis_HS-FEMA-02430-2024.md
+- comprehensive_timeline_HS-FEMA-02430-2024.json
+- corrected_verified_timeline.json
+- critical_terms.csv
+- cursor.rules.json
 - cursor_current_processing_status_update-052525.md
+- damage_calculations_1340_day.json
+- damage_calculations_report.md
+- damages_index_HS-FEMA-02430-2024.csv
+- data_extract_HS-FEMA-02430-2024.md
+- date_index.json
 - document_scan_results.json
+- duplicates.json
 - eeo_comprehensive_investigation.json
 - eeo_comprehensive_timeline.csv
 - eeo_investigation_questions.csv
 - eeo_timeline_comprehensive_report.json
 - eeo_timeline_enhanced.json
 - eeo_timeline_events.csv
+- eeoc-rules.json
 - email_analysis_report.json
 - email_detailed_index.json
 - email_index.csv
 - email_index.json
 - email_index.md
+- email_index_HS-FEMA-02430-2024.csv
 - email_index_HS-FEMA-02430-2024.html
 - evidence_index_HS-FEMA-02430-2024.csv
+- fd_123_14_hiring_people_with_disabilities.txt
+- fema-directive-123-0-2-1.txt
+- fema-rules.json
+- fema_manual_1430_1_reasonable_accommodations.txt
+- fema_manual_1430_1_reasonable_accommodations[1].txt
+- fema_reasonable-accommodation-policy.txt
+- fi-256-22-0001-ra_instruction_final-signature-06-28-2024.txt
+- github_pages_setup_guide.md
+- guide-to-telework-in-the-federal-government.txt
+- implementing_accommodation.txt
+- index_stats.json
+- keyword_index.json
+- keyword_search.html
+- l4060---fema-contract.txt
+- master_case_index_HS-FEMA-02430-2024.json
+- md-110.txt
+- meindel iii max j. (final notice of termination of appointment) (002).json
+- meindel iii max j. (final notice of termination of appointment) (002).txt
+- metadata_schema.json
+- paradocs-index.html
 - paradocs_all_files.csv
 - paradocs_all_files.json
 - paradocs_case_analysis_complete.json
 - paradocs_comprehensive_eeo_investigation.html
 - paradocs_legal_strategy_dashboard.html
 - paradocs_master_timeline_enhanced.html
+- ra-4.txt
+- roi_comprehensive_analysis_HS-FEMA-02430-2024.json
+- roi_comprehensive_analysis_HS-FEMA-02430-2024.md
+- roi_contradictions_HS-FEMA-02430-2024.json
+- roi_contradictions_HS-FEMA-02430-2024.md
+- roi_contradictions_interactive_HS-FEMA-02430-2024.json
+- roi_specific_contradictions_HS-FEMA-02430-2024.md
+- search_index.json
+- summary_metrics.json
+- termination_impact_analysis.md
 - timeline_analysis_results.json
+- timeline_exhibit_HS-FEMA-02430-2024.html
+- timeline_index_HS-FEMA-02430-2024.csv
+- verification_report.json
+- violations_index_HS-FEMA-02430-2024.csv
+- violations_summary.json
+- weighted_harm_analysis.md
 
-### welfare check (Found in 13 files)
+### welfare check (Found in 19 files)
 - ADMINISTRATIVE_HEARING_PORTAL.html
 - AMENDED_COMPLAINT_DRAFT.md
 - AMENDED_COMPLAINT_FORMATTED.html
-- CASE_VIOLATIONS_SUMMARY.html
+- CRITICAL_TERMS_REPORT.md
+- Case-HS-FEMA-02430-2024-MEINDL-Detailed Table of Events.txt
 - DAMAGES_CALCULATION_LEGAL_BASIS.md
+- Detailed Table of Events.txt
 - EXHIBIT_LIST_PRIORITY.csv
 - FEDERAL_LAWSUIT_PORTAL.html
 - MASTER_TIMELINE_2018-2025.csv
 - MAXIMUM_DAMAGES_BY_STATUTE.md
+- MEINDL-CASE-HS-FEMA-02430-2024-Comprehensive table of violations.txt
+- critical_terms.csv
 - eeo_comprehensive_investigation.json
 - eeo_investigation_questions.csv
 - eeo_timeline_enhanced.json
+- keyword_search.html
 - paradocs_comprehensive_eeo_investigation.html
+- search_index.json

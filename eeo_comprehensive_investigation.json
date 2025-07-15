@@ -917,7 +917,7 @@
   },
   "investigation_questions": {
     "Sandra Maddox Britt": {
-      "role": "RA Analyst",
+      "role": "FEMA EEO/OCR",
       "involvement": "Assigned to RAR001234 (Aug 23, 2018); noted blank form and requested documentation, contributing to initial delay.",
       "questions": [
         "Why was the RAR001234 form deemed blank, and what steps were taken to promptly clarify with Meindl?",
@@ -929,7 +929,7 @@
       "purpose": "Clarify procedural errors and delays in 2018 RA processing, assess compliance with RA timelines, and probe initial mishandling."
     },
     "Luz Fernandez": {
-      "role": "Equal Rights Specialist",
+      "role": "FEMA EEO/OCR",
       "involvement": "Confirmed RAR001234 receipt (Aug 23, 2018) and assigned to Maddox Britt, noting confidentiality breach.",
       "questions": [
         "What steps did you take to ensure RAR001234 was processed within FEMA Manual 1430.1's 15-day timeline after receipt?",
@@ -953,7 +953,7 @@
       "purpose": "Probe inaction and miscommunication in 2019, assess compliance with RA urgency and interactive process."
     },
     "Jamie McAllister": {
-      "role": "Unknown (likely RA decision-maker)",
+      "role": "Leadership",
       "involvement": "Denied RAR001234 (Mar 8, 2019) after 196 days without clear justification.",
       "questions": [
         "What specific reasons led to the denial of RAR001234, and why were they not documented per FEMA Instruction 256-022-01?",
@@ -965,7 +965,7 @@
       "purpose": "Investigate basis for 2019 denial, assess procedural compliance, and probe potential age/disability bias."
     },
     "Detra Terry": {
-      "role": "Task Force Lead (Supervisor)",
+      "role": "Supervisor",
       "involvement": "Meindl's supervisor for RAR001234; received denial notice (Mar 8, 2019) but not engaged in interactive process.",
       "questions": [
         "Were you consulted during the RAR001234 process (Aug 23, 2018–Mar 8, 2019), and if not, why were you excluded?",
@@ -977,7 +977,7 @@
       "purpose": "Clarify supervisor's exclusion from RA process, assess oversight failures, and probe impact on Meindl."
     },
     "Miriam Aybar-Morales": {
-      "role": "RA Staff",
+      "role": "FEMA EEO/OCR",
       "involvement": "Rejected RAR0042452 medical documentation (Aug 5, 2022), demanded redundant forms, ignored Underhill's endorsement.",
       "questions": [
         "Why was Meindl's medical documentation for RAR0042452 deemed insufficient, and what specific deficiencies were identified?",
@@ -989,7 +989,7 @@
       "purpose": "Investigate documentation rejection, assess compliance with RA process, and probe delay accountability."
     },
     "Karina Aguilo": {
-      "role": "Region 6 Staff",
+      "role": "Leadership",
       "involvement": "Acknowledged VSS issues (Oct 27, 2021) and 'procedural disarray' (Aug 15, 2022) but took no action.",
       "questions": [
         "What specific VSS issues did you identify on Oct 27, 2021, and how did they impact RA processing for Meindl?",
@@ -1001,7 +1001,7 @@
       "purpose": "Probe inaction on systemic issues, assess oversight failures, and investigate age bias potential."
     },
     "Traci Brasher": {
-      "role": "Acting Regional Administrator",
+      "role": "Deputy Administrator",
       "involvement": "Failed to act on Meindl's RA complaints (Feb 23, Dec 4, 2024), oversaw termination (Jan 6, 2025), and mischaracterized RA basis in affidavit (Apr 8, 2025).",
       "questions": [
         "Why did you not act on Meindl's Feb 23, 2024, complaint that 'RA requests never get adjudicated'?",
@@ -1013,7 +1013,7 @@
       "purpose": "Investigate leadership inaction, welfare neglect, termination process, and affidavit inaccuracies."
     },
     "Shelia Clemons": {
-      "role": "RA Staff",
+      "role": "FEMA Reasonable Accommodation Specialist",
       "involvement": "Assigned RAR0046767 (Jul 10, 2024) after 190 days, sent unencrypted email exposing PHI, downplayed delay in affidavit (Apr 12, 2025).",
       "questions": [
         "Why was RAR0046767 delayed 190 days before assignment, violating FEMA Instruction 256-022-01?",
@@ -1025,7 +1025,7 @@
       "purpose": "Probe delay causes, HIPAA breach, and affidavit misrepresentations, assess RA process compliance."
     },
     "Anna Myers": {
-      "role": "EEO Specialist, RA",
+      "role": "EEO/OCR Representative",
       "involvement": "Denied RAR0046767 (Aug 16, 2024), pressured reassignment, misrepresented Meindl's engagement in affidavit (Apr 14, 2025).",
       "questions": [
         "Why did you deny RAR0046767 without specifying reasons (e.g., undue hardship) per FEMA Instruction 256-022-01?",
@@ -1037,7 +1037,7 @@
       "purpose": "Investigate denial rationale, interactive process failures, and affidavit inaccuracies, probe bias."
     },
     "Jodi Hunter": {
-      "role": "Second-Line Supervisor",
+      "role": "2nd line supervisor",
       "involvement": "Denied RAR0046767 appeal (Aug 15, 2024), misstated Meindl's inability to leave home, claimed no RA history knowledge in affidavit (Apr 14, 2025).",
       "questions": [
         "Why did you claim Meindl 'cannot leave his house' when he deployed virtually for 38 months and agreed to Houston deployment?",
@@ -1049,7 +1049,7 @@
       "purpose": "Probe denial misrepresentations, supervisory oversight, and affidavit inaccuracies, assess bias."
     },
     "Anthony In": {
-      "role": "Supervisor (SOR)",
+      "role": "First Line supervisor",
       "involvement": "Denied RAR0046767 (Aug 5, 2024), proposed but overruled Houston deployment (May 29, 2024), sent final denial (Dec 2, 2024).",
       "questions": [
         "Why did you deny RAR0046767 without assessing virtual deployment, given Meindl's 38-month success?",
@@ -1061,7 +1061,7 @@
       "purpose": "Investigate denial basis, overruled deployment, and compliance failures."
     },
     "Donald J. Simko": {
-      "role": "Leadership (not supervisor)",
+      "role": "Leadership",
       "involvement": "Involved in ADR mediation (Oct 17, 2024), claimed Meindl refused deployment in affidavit (Apr 14, 2025).",
       "questions": [
         "What was your role in the Oct 17, 2024, ADR mediation, and why did it fail due to FEMA resistance?",

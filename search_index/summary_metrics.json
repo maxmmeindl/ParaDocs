@@ -6,37 +6,43 @@
   "duplicate_groups": 95,
   "violations": [
     {
-      "violation": "FMLA Interference",
+      "violation": "Reasonable Accommodation Delays",
       "docs": 125,
-      "weight": 130
+      "weight": 130,
+      "first_doc": "CASE_VIOLATIONS_SUMMARY.html#reasonable-accommodation"
     },
     {
       "violation": "HIPAA / Privacy Act Breach",
       "docs": 48,
-      "weight": 53
-    },
-    {
-      "violation": "Failure to Accommodate (ADA)",
-      "docs": 46,
-      "weight": 51
+      "weight": 53,
+      "first_doc": "CASE_VIOLATIONS_SUMMARY.html#hipaa-violations"
     },
     {
       "violation": "Retaliatory Termination",
+      "docs": 46,
+      "weight": 51,
+      "first_doc": "CASE_VIOLATIONS_SUMMARY.html#retaliation"
+    },
+    {
+      "violation": "Failure to Accommodate (ADA)",
       "docs": 27,
-      "weight": 32
+      "weight": 32,
+      "first_doc": "paradocs_legal_strategy_dashboard.html#evidence"
     },
     {
       "violation": "Whistleblower Retaliation",
       "docs": 18,
-      "weight": 23
+      "weight": 23,
+      "first_doc": "CASE_VIOLATIONS_SUMMARY.html#retaliation"
     },
     {
       "violation": "Due Process Violation",
       "docs": 2,
-      "weight": 7
+      "weight": 7,
+      "first_doc": "paradocs_legal_strategy_dashboard.html#authorities"
     }
   ],
-  "exposure_low": 1184000,
+  "exposure_low": 1180000,
   "exposure_high": 1776000,
-  "retaliation_days": "N/A"
+  "retaliation_days": 17
 }

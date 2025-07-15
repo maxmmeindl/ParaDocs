@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Tab Test</title>
+    <style>
+        .tab-button {
+            padding: 10px 20px;
+            margin: 5px;
+            background: #ddd;
+            border: none;
+            cursor: pointer;
+        }
+        .tab-button.active {
+            background: #007bff;
+            color: white;
+        }
+        .tab-content {
+            border: 2px solid #007bff;
+            padding: 20px;
+            margin: 20px 0;
+            min-height: 200px;
+        }
+        .tab-pane {
+            display: none;
+        }
+        .tab-pane.active {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <h1>Simple Tab Test</h1>
+    
+    <button class="tab-button active" onclick="showTab('tab1')">Tab 1</button>
+    <button class="tab-button" onclick="showTab('tab2')">Tab 2</button>
+    <button class="tab-button" onclick="showTab('tab3')">Tab 3</button>
+    
+    <div class="tab-content">
+        <div id="tab1" class="tab-pane active" style="background: red; color: white; padding: 20px;">
+            <h2>TAB 1 CONTENT</h2>
+            <p>This is tab 1 with red background</p>
+        </div>
+        
+        <div id="tab2" class="tab-pane" style="background: blue; color: white; padding: 20px;">
+            <h2>TAB 2 CONTENT</h2>
+            <p>This is tab 2 with blue background</p>
+        </div>
+        
+        <div id="tab3" class="tab-pane" style="background: green; color: white; padding: 20px;">
+            <h2>TAB 3 CONTENT</h2>
+            <p>This is tab 3 with green background</p>
+        </div>
+    </div>
+    
+    <script>
+        function showTab(tabId) {
+            console.log('Showing tab:', tabId);
+            
+            // Hide all tabs
+            document.querySelectorAll('.tab-pane').forEach(pane => {
+                pane.classList.remove('active');
+            });
+            
+            // Remove active from all buttons
+            document.querySelectorAll('.tab-button').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            
+            // Show target tab
+            document.getElementById(tabId).classList.add('active');
+            
+            // Activate button
+            event.target.classList.add('active');
+        }
+    </script>
+</body>
+</html> 

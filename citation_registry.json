@@ -1,0 +1,795 @@
+{
+  "metadata": {
+    "generated": "2025-05-28T15:48:53.611871",
+    "total_citations": 9,
+    "authority_types": [
+      "agency_policy",
+      "regulation",
+      "other",
+      "statute"
+    ]
+  },
+  "citations": [
+    {
+      "id": "cite_000",
+      "code": "FEMA Instruction 256-022-01",
+      "title": "Reasonable Accommodation Procedures",
+      "authority_type": "agency_policy",
+      "contexts": [
+        "FEMA Instruction 256-022-01: Initial delay violates 15-day timeline (FEMA Manual 1430.1)",
+        "FEMA Instruction 256-022-01: Delay violates 15-day timeline",
+        "FEMA Instruction 256-022-01: 111-day delay violates 15-day timeline",
+        "FEMA Instruction 256-022-01: 172-day delay violates 15-day timeline",
+        "FEMA Instruction 256-022-01: 1,275-day delay violates 45-day policy",
+        "FEMA Instruction 256-022-01: 1,205-day delay violates 45-day policy",
+        "FEMA Instruction 256-022-01: 995-day delay violates 45-day policy",
+        "FEMA Instruction 256-022-01: 190-day delay violates 45-day policy",
+        "FEMA Instruction 256-022-01: 190-day delay violates 45-day policy",
+        "FEMA Instruction 256-022-01: Failure to specify undue hardship or documentation inadequacy",
+        "FEMA Instruction 256-022-01: Failure to address accommodation effectiveness or undue hardship",
+        "FEMA Instruction 256-022-01: Denial lacks specific reasons (e.g., undue hardship)"
+      ],
+      "violations": [
+        "FEMA Instruction 256-022-01: Initial delay violates 15-day timeline (FEMA Manual 1430.1)",
+        "FEMA Instruction 256-022-01: Delay violates 15-day timeline",
+        "FEMA Instruction 256-022-01: 111-day delay violates 15-day timeline",
+        "FEMA Instruction 256-022-01: 172-day delay violates 15-day timeline",
+        "FEMA Instruction 256-022-01: 1,275-day delay violates 45-day policy",
+        "FEMA Instruction 256-022-01: 1,205-day delay violates 45-day policy",
+        "FEMA Instruction 256-022-01: 995-day delay violates 45-day policy",
+        "FEMA Instruction 256-022-01: 190-day delay violates 45-day policy",
+        "FEMA Instruction 256-022-01: 190-day delay violates 45-day policy",
+        "FEMA Instruction 256-022-01: Failure to specify undue hardship or documentation inadequacy",
+        "FEMA Instruction 256-022-01: Failure to address accommodation effectiveness or undue hardship",
+        "FEMA Instruction 256-022-01: Denial lacks specific reasons (e.g., undue hardship)"
+      ],
+      "events": [
+        {
+          "date": "2018-08-23",
+          "event": "Meindl submits RA (RAR001234, FEMA Form 256-0-1) for schedule flexibility due to heart condition (CAD). Luz Fernandez confirms receipt, assigns case to Sandra Maddox Britt, who notes blank form. Meindl cc'd multiple non-essential recipients, breaching confidentiality.",
+          "category": "Accommodation Request",
+          "severity": "High"
+        },
+        {
+          "date": "2018-09-06",
+          "event": "Sandra Maddox Britt requests completed RA form and medical documentation, confused about Meindl's PA role. Foudiya Henri seeks supervisor (Detra Terry) details. Meindl confirms chain of command (Terry, Albert P. Walters III).",
+          "category": "Accommodation Request",
+          "severity": "High"
+        },
+        {
+          "date": "2018-12-12",
+          "event": "Meindl emails Winston D. Brathwaite, Jamie McAllister, and others, noting no RA response after 111 days, requesting action.",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2019-02-12",
+          "event": "Meindl escalates to Nicole Oke, Brathwaite, and others, citing 172-day RA delay, heart condition, and postponed surgery. Oke promises to research and respond.",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2021-10-28",
+          "event": "RA (RAR0023278) submitted, unresolved for 1,275 days (as of Apr 25, 2025).",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2022-01-06",
+          "event": "RA (RAR0023261) for vaccine exemption submitted; FEMA sends unsigned letter with Meindl's name misspelled. Meindl questions board anonymity. Dr. William Lionberger plans updated medical report. Ignored for 1,205 days (as of Apr 25, 2025).",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2022-08-04",
+          "event": "Meindl submits RA (RAR0042452) for 100% telework. Miriam Aybar-Morales rejects medical documentation on Aug 5, 2022, requiring amended FEMA Form 256 by Aug 11, 2022. Demarque Underhill endorses as 'reasonable.' Ignored for 995 days (as of Apr 25, 2025).",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-01-02",
+          "event": "RA (RAR0046767) for permanent telework submitted via ACMS; not assigned until Jun 12, 2024 (161 days). Action initiated Jul 10, 2024, after 190 days.",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-07-10",
+          "event": "Brasher assigns RAR0046767 to Shelia Clemons after 190 days, admitting FEMA is 'very far behind.' Clemons sends unencrypted email exposing COPD/CAD.",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-08-05",
+          "event": "Anthony In denies RAR0046767, claiming deployment as 'essential function' and inability to limit deployment location, ignoring 38-month remote success and Meindl's willingness to deploy to Houston (overruled May 29, 2024).",
+          "category": "Agency Response",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-08-15",
+          "event": "Jodi Hunter denies RAR0046767 appeal, claiming 100% telework removes deployment (essential function) and misstating Meindl cannot leave home, despite 38-month virtual success and onboarding not specifying 50-week deployment.",
+          "category": "Agency Response",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-08-16",
+          "event": "Anna Myers notifies Meindl of RAR0046767 denial, citing essential functions (deployment) and pressuring reassignment if unable to perform. Meindl responds, rejecting inability, noting 38-month virtual deployment, and criticizing rushed process after 190-day delay.",
+          "category": "Agency Response",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "id": "cite_001",
+      "code": "29 C.F.R.",
+      "title": "29 C.F.R.",
+      "authority_type": "regulation",
+      "contexts": [
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Failure to engage interactively",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Failure to clarify documentation needs promptly",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Forcing unpaid leave due to inaction",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.2(o)(3)): Denial without interactive process or justification",
+        "FMLA (29 C.F.R. \u00c2\u00a7825.202): Misapplication restricts health management options",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Delay risks timely accommodation",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Non-adjudication",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Restrictive medical requirements",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Failure to engage",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Delay risks timely accommodation",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Overruling deployment ignores remote success",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Delay",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.2(n)(3)): Denial without assessment of virtual deployment feasibility",
+        "EEOC Guidance (29 C.F.R. \u00c2\u00a71630.2(o)): Ignoring effective accommodations",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Lack of justification; misrepresentation of inability to leave home",
+        "EEOC Guidance (29 C.F.R. \u00c2\u00a71630.2(o)): Ignoring virtual deployment",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Pressuring inability admission; ignoring virtual deployment success",
+        "EEOC Guidance (29 C.F.R. \u00c2\u00a71630.2(o)): Failure to consider effective accommodations",
+        "None identified; protected EEO activity under 29 C.F.R. \u00c2\u00a71614.105",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Failure to resolve RA",
+        "None identified; protected activity under 29 C.F.R. \u00c2\u00a71614.105"
+      ],
+      "violations": [
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Failure to engage interactively",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Failure to clarify documentation needs promptly",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Forcing unpaid leave due to inaction",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.2(o)(3)): Denial without interactive process or justification",
+        "FMLA (29 C.F.R. \u00c2\u00a7825.202): Misapplication restricts health management options",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Delay risks timely accommodation",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Non-adjudication",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Restrictive medical requirements",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Failure to engage",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Delay risks timely accommodation",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Overruling deployment ignores remote success",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Delay",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.2(n)(3)): Denial without assessment of virtual deployment feasibility",
+        "EEOC Guidance (29 C.F.R. \u00c2\u00a71630.2(o)): Ignoring effective accommodations",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.2(n)(3)): Denial without assessment of virtual deployment feasibility",
+        "EEOC Guidance (29 C.F.R. \u00c2\u00a71630.2(o)): Ignoring effective accommodations",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Lack of justification; misrepresentation of inability to leave home",
+        "EEOC Guidance (29 C.F.R. \u00c2\u00a71630.2(o)): Ignoring virtual deployment",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Lack of justification; misrepresentation of inability to leave home",
+        "EEOC Guidance (29 C.F.R. \u00c2\u00a71630.2(o)): Ignoring virtual deployment",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Pressuring inability admission; ignoring virtual deployment success",
+        "EEOC Guidance (29 C.F.R. \u00c2\u00a71630.2(o)): Failure to consider effective accommodations",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Pressuring inability admission; ignoring virtual deployment success",
+        "EEOC Guidance (29 C.F.R. \u00c2\u00a71630.2(o)): Failure to consider effective accommodations",
+        "None identified; protected EEO activity under 29 C.F.R. \u00c2\u00a71614.105",
+        "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Failure to resolve RA",
+        "None identified; protected activity under 29 C.F.R. \u00c2\u00a71614.105"
+      ],
+      "events": [
+        {
+          "date": "2018-08-23",
+          "event": "Meindl submits RA (RAR001234, FEMA Form 256-0-1) for schedule flexibility due to heart condition (CAD). Luz Fernandez confirms receipt, assigns case to Sandra Maddox Britt, who notes blank form. Meindl cc'd multiple non-essential recipients, breaching confidentiality.",
+          "category": "Accommodation Request",
+          "severity": "High"
+        },
+        {
+          "date": "2018-09-06",
+          "event": "Sandra Maddox Britt requests completed RA form and medical documentation, confused about Meindl's PA role. Foudiya Henri seeks supervisor (Detra Terry) details. Meindl confirms chain of command (Terry, Albert P. Walters III).",
+          "category": "Accommodation Request",
+          "severity": "High"
+        },
+        {
+          "date": "2019-03-06",
+          "event": "Meindl submits FMLA paperwork as a 'no pay option' due to RA inaction, expressing frustration. Oke apologizes for delay, expects response by week's end, and misunderstands request as full-time telework.",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2019-03-08",
+          "event": "Jamie McAllister denies RAR001234, citing unspecified reasons, after 196 days. Meindl forwards response to Detra Terry.",
+          "category": "Agency Response",
+          "severity": "Critical"
+        },
+        {
+          "date": "2019-06-26",
+          "event": "Dennis Alexander denies Meindl's intermittent FMLA leave, misapplying policy.",
+          "category": "FMLA Request",
+          "severity": "High"
+        },
+        {
+          "date": "2020-03-04",
+          "event": "Meindl expresses COVID-19 exposure concerns (COPD, CAD), considering 2\u00e2\u20ac\u201c6 week RA for telework. Keya Jackson requires redundant documentation.",
+          "category": "Accommodation Request",
+          "severity": "High"
+        },
+        {
+          "date": "2021-10-28",
+          "event": "RA (RAR0023278) submitted, unresolved for 1,275 days (as of Apr 25, 2025).",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2022-01-06",
+          "event": "RA (RAR0023261) for vaccine exemption submitted; FEMA sends unsigned letter with Meindl's name misspelled. Meindl questions board anonymity. Dr. William Lionberger plans updated medical report. Ignored for 1,205 days (as of Apr 25, 2025).",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2022-08-04",
+          "event": "Meindl submits RA (RAR0042452) for 100% telework. Miriam Aybar-Morales rejects medical documentation on Aug 5, 2022, requiring amended FEMA Form 256 by Aug 11, 2022. Demarque Underhill endorses as 'reasonable.' Ignored for 995 days (as of Apr 25, 2025).",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-01-02",
+          "event": "RA (RAR0046767) for permanent telework submitted via ACMS; not assigned until Jun 12, 2024 (161 days). Action initiated Jul 10, 2024, after 190 days.",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-05-29",
+          "event": "Anthony In proposes Houston deployment; Meindl agrees, but overruled with 'stand down' order in nine minutes.",
+          "category": "Deployment",
+          "severity": "High"
+        },
+        {
+          "date": "2024-07-10",
+          "event": "Brasher assigns RAR0046767 to Shelia Clemons after 190 days, admitting FEMA is 'very far behind.' Clemons sends unencrypted email exposing COPD/CAD.",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-08-05",
+          "event": "Anthony In denies RAR0046767, claiming deployment as 'essential function' and inability to limit deployment location, ignoring 38-month remote success and Meindl's willingness to deploy to Houston (overruled May 29, 2024).",
+          "category": "Agency Response",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-08-05",
+          "event": "Anthony In denies RAR0046767, claiming deployment as 'essential function' and inability to limit deployment location, ignoring 38-month remote success and Meindl's willingness to deploy to Houston (overruled May 29, 2024).",
+          "category": "Agency Response",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-08-15",
+          "event": "Jodi Hunter denies RAR0046767 appeal, claiming 100% telework removes deployment (essential function) and misstating Meindl cannot leave home, despite 38-month virtual success and onboarding not specifying 50-week deployment.",
+          "category": "Agency Response",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-08-15",
+          "event": "Jodi Hunter denies RAR0046767 appeal, claiming 100% telework removes deployment (essential function) and misstating Meindl cannot leave home, despite 38-month virtual success and onboarding not specifying 50-week deployment.",
+          "category": "Agency Response",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-08-16",
+          "event": "Anna Myers notifies Meindl of RAR0046767 denial, citing essential functions (deployment) and pressuring reassignment if unable to perform. Meindl responds, rejecting inability, noting 38-month virtual deployment, and criticizing rushed process after 190-day delay.",
+          "category": "Agency Response",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-08-16",
+          "event": "Anna Myers notifies Meindl of RAR0046767 denial, citing essential functions (deployment) and pressuring reassignment if unable to perform. Meindl responds, rejecting inability, noting 38-month virtual deployment, and criticizing rushed process after 190-day delay.",
+          "category": "Agency Response",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-09-03",
+          "event": "Meindl contacts EEO counselor (Tara, Office of Civil Rights), alleging discrimination based on age (DOB: 06/21/1951), physical disability (COPD, CAD), and reprisal. Claims issues with assignment of duties, RA, termination, and terms/conditions. Requests virtual deployment and a position matching his experience. Interviewed Sep 18, 2024.",
+          "category": "EEO Activity",
+          "severity": "High"
+        },
+        {
+          "date": "2024-12-04",
+          "event": "Meindl messages Brasher about RA denial and job loss fears; she promises follow-up but takes no action.",
+          "category": "Communication",
+          "severity": "High"
+        },
+        {
+          "date": "2024-12-20",
+          "event": "Meindl files formal EEO complaint (HS-FEMA-02430-2024) alleging disability, age discrimination, and reprisal.",
+          "category": "EEO Activity",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "id": "cite_002",
+      "code": "29 U.S.C.",
+      "title": "29 U.S.C.",
+      "authority_type": "statute",
+      "contexts": [
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Delay disproportionately impacts Meindl (age 74)",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Prolonged inaction impacts older employee",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Denial impacts older employee",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Perception of age-based scrutiny suggests discrimination",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Burden disproportionately impacted older employees",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Delay impacts older employee",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Delays impacted older employees",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Delays impacted older employees",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Delay impacts older employee",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Disparate treatment suggests age bias",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Neglect disproportionately impacts older employee (age 74)",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Disparate treatment suggests age bias",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Disparate treatment suggests age bias",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Delay and denial impact older employee",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Age-based termination likely"
+      ],
+      "violations": [
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Delay disproportionately impacts Meindl (age 74)",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Prolonged inaction impacts older employee",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Denial impacts older employee",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Perception of age-based scrutiny suggests discrimination",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Burden disproportionately impacted older employees",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Delay impacts older employee",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Delays impacted older employees",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Delays impacted older employees",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Delay impacts older employee",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Disparate treatment suggests age bias",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Neglect disproportionately impacts older employee (age 74)",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Disparate treatment suggests age bias",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Disparate treatment suggests age bias",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Delay and denial impact older employee",
+        "ADEA (29 U.S.C. \u00c2\u00a7623): Age-based termination likely"
+      ],
+      "events": [
+        {
+          "date": "2018-12-12",
+          "event": "Meindl emails Winston D. Brathwaite, Jamie McAllister, and others, noting no RA response after 111 days, requesting action.",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2019-02-12",
+          "event": "Meindl escalates to Nicole Oke, Brathwaite, and others, citing 172-day RA delay, heart condition, and postponed surgery. Oke promises to research and respond.",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2019-03-08",
+          "event": "Jamie McAllister denies RAR001234, citing unspecified reasons, after 196 days. Meindl forwards response to Detra Terry.",
+          "category": "Agency Response",
+          "severity": "Critical"
+        },
+        {
+          "date": "2019-10-22",
+          "event": "Meindl requests FMLA recertification, feeling 'singled out' as a senior citizen (age 74).",
+          "category": "FMLA Request",
+          "severity": "Medium"
+        },
+        {
+          "date": "2021-10-27",
+          "event": "Karina Aguilo emails Region 6 staff, acknowledging VSS issues, urging resubmission of vaccination status or exemptions by Nov 9, 2021.",
+          "category": "System Issues",
+          "severity": "Medium"
+        },
+        {
+          "date": "2021-10-28",
+          "event": "RA (RAR0023278) submitted, unresolved for 1,275 days (as of Apr 25, 2025).",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2022-01-06",
+          "event": "RA (RAR0023261) for vaccine exemption submitted; FEMA sends unsigned letter with Meindl's name misspelled. Meindl questions board anonymity. Dr. William Lionberger plans updated medical report. Ignored for 1,205 days (as of Apr 25, 2025).",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2022-08-04",
+          "event": "Meindl submits RA (RAR0042452) for 100% telework. Miriam Aybar-Morales rejects medical documentation on Aug 5, 2022, requiring amended FEMA Form 256 by Aug 11, 2022. Demarque Underhill endorses as 'reasonable.' Ignored for 995 days (as of Apr 25, 2025).",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-01-02",
+          "event": "RA (RAR0046767) for permanent telework submitted via ACMS; not assigned until Jun 12, 2024 (161 days). Action initiated Jul 10, 2024, after 190 days.",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-05-29",
+          "event": "Anthony In proposes Houston deployment; Meindl agrees, but overruled with 'stand down' order in nine minutes.",
+          "category": "Deployment",
+          "severity": "High"
+        },
+        {
+          "date": "2024-07-08",
+          "event": "Hurricane Beryl causes $15,000 in damages to Meindl's property. Meindl requests RA update from Brasher.",
+          "category": "Disaster Response",
+          "severity": "High"
+        },
+        {
+          "date": "2024-08-05",
+          "event": "Anthony In denies RAR0046767, claiming deployment as 'essential function' and inability to limit deployment location, ignoring 38-month remote success and Meindl's willingness to deploy to Houston (overruled May 29, 2024).",
+          "category": "Agency Response",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-08-15",
+          "event": "Jodi Hunter denies RAR0046767 appeal, claiming 100% telework removes deployment (essential function) and misstating Meindl cannot leave home, despite 38-month virtual success and onboarding not specifying 50-week deployment.",
+          "category": "Agency Response",
+          "severity": "Critical"
+        },
+        {
+          "date": "2024-08-16",
+          "event": "Anna Myers notifies Meindl of RAR0046767 denial, citing essential functions (deployment) and pressuring reassignment if unable to perform. Meindl responds, rejecting inability, noting 38-month virtual deployment, and criticizing rushed process after 190-day delay.",
+          "category": "Agency Response",
+          "severity": "Critical"
+        },
+        {
+          "date": "2025-01-06",
+          "event": "FEMA terminates Meindl, citing 'medical inability,' without prior warnings or 30-day notice, during Brasher's tenure.",
+          "category": "Retaliation",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "id": "cite_003",
+      "code": "FEMA Manual 1430.1",
+      "title": "FEMA Manual 1430.1",
+      "authority_type": "agency_policy",
+      "contexts": [
+        "FEMA Manual 1430.1: 196-day delay violates 15-day timeline",
+        "FEMA Manual 1430.1: 196-day delay violates 15-day timeline"
+      ],
+      "violations": [
+        "FEMA Manual 1430.1: 196-day delay violates 15-day timeline",
+        "FEMA Manual 1430.1: 196-day delay violates 15-day timeline"
+      ],
+      "events": [
+        {
+          "date": "2019-03-06",
+          "event": "Meindl submits FMLA paperwork as a 'no pay option' due to RA inaction, expressing frustration. Oke apologizes for delay, expects response by week's end, and misunderstands request as full-time telework.",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        },
+        {
+          "date": "2019-03-08",
+          "event": "Jamie McAllister denies RAR001234, citing unspecified reasons, after 196 days. Meindl forwards response to Detra Terry.",
+          "category": "Agency Response",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "id": "cite_004",
+      "code": "FEMA Directive 123-0-2-1",
+      "title": "FEMA Directive 123-0-2-1",
+      "authority_type": "agency_policy",
+      "contexts": [
+        "FEMA Directive 123-0-2-1: Neglect of welfare post-disaster by failing to initiate call-down"
+      ],
+      "violations": [
+        "FEMA Directive 123-0-2-1: Neglect of welfare post-disaster by failing to initiate call-down"
+      ],
+      "events": [
+        {
+          "date": "2024-07-08",
+          "event": "Hurricane Beryl causes $15,000 in damages to Meindl's property. Meindl requests RA update from Brasher.",
+          "category": "Disaster Response",
+          "severity": "High"
+        }
+      ]
+    },
+    {
+      "id": "cite_005",
+      "code": "HIPAA (45 CFR \u00c2\u00a7164.312)",
+      "title": "HIPAA (45 CFR \u00c2\u00a7164.312)",
+      "authority_type": "other",
+      "contexts": [
+        "HIPAA (45 CFR \u00c2\u00a7164.312): Unencrypted email breaches PHI security"
+      ],
+      "violations": [
+        "HIPAA (45 CFR \u00c2\u00a7164.312): Unencrypted email breaches PHI security"
+      ],
+      "events": [
+        {
+          "date": "2024-07-10",
+          "event": "Brasher assigns RAR0046767 to Shelia Clemons after 190 days, admitting FEMA is 'very far behind.' Clemons sends unencrypted email exposing COPD/CAD.",
+          "category": "Accommodation Request",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "id": "cite_006",
+      "code": "42 U.S.C.",
+      "title": "42 U.S.C.",
+      "authority_type": "statute",
+      "contexts": [
+        "Rehabilitation Act \u00c2\u00a7501 (42 U.S.C. \u00c2\u00a712112(b)(5)(A)): Termination without accommodations"
+      ],
+      "violations": [
+        "Rehabilitation Act \u00c2\u00a7501 (42 U.S.C. \u00c2\u00a712112(b)(5)(A)): Termination without accommodations"
+      ],
+      "events": [
+        {
+          "date": "2025-01-06",
+          "event": "FEMA terminates Meindl, citing 'medical inability,' without prior warnings or 30-day notice, during Brasher's tenure.",
+          "category": "Retaliation",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "id": "cite_007",
+      "code": "5 U.S.C.",
+      "title": "5 U.S.C.",
+      "authority_type": "statute",
+      "contexts": [
+        "5 U.S.C. \u00c2\u00a77513: No 30-day notice"
+      ],
+      "violations": [
+        "5 U.S.C. \u00c2\u00a77513: No 30-day notice"
+      ],
+      "events": [
+        {
+          "date": "2025-01-06",
+          "event": "FEMA terminates Meindl, citing 'medical inability,' without prior warnings or 30-day notice, during Brasher's tenure.",
+          "category": "Retaliation",
+          "severity": "Critical"
+        }
+      ]
+    },
+    {
+      "id": "cite_008",
+      "code": "FEMA Manual 123-13-1",
+      "title": "FEMA Manual 123-13-1",
+      "authority_type": "agency_policy",
+      "contexts": [
+        "FEMA Manual 123-13-1: No progressive discipline or Douglas Factors"
+      ],
+      "violations": [
+        "FEMA Manual 123-13-1: No progressive discipline or Douglas Factors"
+      ],
+      "events": [
+        {
+          "date": "2025-01-06",
+          "event": "FEMA terminates Meindl, citing 'medical inability,' without prior warnings or 30-day notice, during Brasher's tenure.",
+          "category": "Retaliation",
+          "severity": "Critical"
+        }
+      ]
+    }
+  ],
+  "violation_taxonomy": {
+    "procedural_violations": {
+      "timeline_breaches": [
+        {
+          "citation": "FEMA Instruction 256-022-01",
+          "violation": "FEMA Instruction 256-022-01: Initial delay violates 15-day timeline (FEMA Manual 1430.1)",
+          "authority": "Reasonable Accommodation Procedures"
+        },
+        {
+          "citation": "FEMA Instruction 256-022-01",
+          "violation": "FEMA Instruction 256-022-01: Delay violates 15-day timeline",
+          "authority": "Reasonable Accommodation Procedures"
+        },
+        {
+          "citation": "FEMA Instruction 256-022-01",
+          "violation": "FEMA Instruction 256-022-01: 111-day delay violates 15-day timeline",
+          "authority": "Reasonable Accommodation Procedures"
+        },
+        {
+          "citation": "FEMA Instruction 256-022-01",
+          "violation": "FEMA Instruction 256-022-01: 172-day delay violates 15-day timeline",
+          "authority": "Reasonable Accommodation Procedures"
+        },
+        {
+          "citation": "FEMA Instruction 256-022-01",
+          "violation": "FEMA Instruction 256-022-01: 1,275-day delay violates 45-day policy",
+          "authority": "Reasonable Accommodation Procedures"
+        },
+        {
+          "citation": "FEMA Instruction 256-022-01",
+          "violation": "FEMA Instruction 256-022-01: 1,205-day delay violates 45-day policy",
+          "authority": "Reasonable Accommodation Procedures"
+        },
+        {
+          "citation": "FEMA Instruction 256-022-01",
+          "violation": "FEMA Instruction 256-022-01: 995-day delay violates 45-day policy",
+          "authority": "Reasonable Accommodation Procedures"
+        },
+        {
+          "citation": "FEMA Instruction 256-022-01",
+          "violation": "FEMA Instruction 256-022-01: 190-day delay violates 45-day policy",
+          "authority": "Reasonable Accommodation Procedures"
+        },
+        {
+          "citation": "FEMA Instruction 256-022-01",
+          "violation": "FEMA Instruction 256-022-01: 190-day delay violates 45-day policy",
+          "authority": "Reasonable Accommodation Procedures"
+        },
+        {
+          "citation": "29 C.F.R.",
+          "violation": "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Delay risks timely accommodation",
+          "authority": "29 C.F.R."
+        },
+        {
+          "citation": "29 C.F.R.",
+          "violation": "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Delay risks timely accommodation",
+          "authority": "29 C.F.R."
+        },
+        {
+          "citation": "29 C.F.R.",
+          "violation": "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630): Delay",
+          "authority": "29 C.F.R."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Delay disproportionately impacts Meindl (age 74)",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Delay impacts older employee",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Delays impacted older employees",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Delays impacted older employees",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Delay impacts older employee",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Delay and denial impact older employee",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "FEMA Manual 1430.1",
+          "violation": "FEMA Manual 1430.1: 196-day delay violates 15-day timeline",
+          "authority": "FEMA Manual 1430.1"
+        },
+        {
+          "citation": "FEMA Manual 1430.1",
+          "violation": "FEMA Manual 1430.1: 196-day delay violates 15-day timeline",
+          "authority": "FEMA Manual 1430.1"
+        }
+      ],
+      "documentation_errors": [
+        {
+          "citation": "FEMA Instruction 256-022-01",
+          "violation": "FEMA Instruction 256-022-01: Failure to specify undue hardship or documentation inadequacy",
+          "authority": "Reasonable Accommodation Procedures"
+        },
+        {
+          "citation": "29 C.F.R.",
+          "violation": "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Failure to clarify documentation needs promptly",
+          "authority": "29 C.F.R."
+        }
+      ],
+      "process_deviations": []
+    },
+    "substantive_violations": {
+      "disability_discrimination": [
+        {
+          "citation": "FEMA Instruction 256-022-01",
+          "violation": "FEMA Instruction 256-022-01: Failure to address accommodation effectiveness or undue hardship",
+          "authority": "Reasonable Accommodation Procedures"
+        },
+        {
+          "citation": "29 C.F.R.",
+          "violation": "EEOC Guidance (29 C.F.R. \u00c2\u00a71630.2(o)): Ignoring effective accommodations",
+          "authority": "29 C.F.R."
+        },
+        {
+          "citation": "29 C.F.R.",
+          "violation": "EEOC Guidance (29 C.F.R. \u00c2\u00a71630.2(o)): Ignoring effective accommodations",
+          "authority": "29 C.F.R."
+        },
+        {
+          "citation": "29 C.F.R.",
+          "violation": "EEOC Guidance (29 C.F.R. \u00c2\u00a71630.2(o)): Failure to consider effective accommodations",
+          "authority": "29 C.F.R."
+        },
+        {
+          "citation": "29 C.F.R.",
+          "violation": "EEOC Guidance (29 C.F.R. \u00c2\u00a71630.2(o)): Failure to consider effective accommodations",
+          "authority": "29 C.F.R."
+        },
+        {
+          "citation": "42 U.S.C.",
+          "violation": "Rehabilitation Act \u00c2\u00a7501 (42 U.S.C. \u00c2\u00a712112(b)(5)(A)): Termination without accommodations",
+          "authority": "42 U.S.C."
+        }
+      ],
+      "age_discrimination": [
+        {
+          "citation": "29 C.F.R.",
+          "violation": "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Failure to engage interactively",
+          "authority": "29 C.F.R."
+        },
+        {
+          "citation": "29 C.F.R.",
+          "violation": "FMLA (29 C.F.R. \u00c2\u00a7825.202): Misapplication restricts health management options",
+          "authority": "29 C.F.R."
+        },
+        {
+          "citation": "29 C.F.R.",
+          "violation": "Rehabilitation Act \u00c2\u00a7501 (29 C.F.R. \u00c2\u00a71630.9): Failure to engage",
+          "authority": "29 C.F.R."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Prolonged inaction impacts older employee",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Denial impacts older employee",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Perception of age-based scrutiny suggests discrimination",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Burden disproportionately impacted older employees",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Disparate treatment suggests age bias",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Neglect disproportionately impacts older employee (age 74)",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Disparate treatment suggests age bias",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Disparate treatment suggests age bias",
+          "authority": "29 U.S.C."
+        },
+        {
+          "citation": "29 U.S.C.",
+          "violation": "ADEA (29 U.S.C. \u00c2\u00a7623): Age-based termination likely",
+          "authority": "29 U.S.C."
+        }
+      ],
+      "retaliation": []
+    },
+    "administrative_violations": {
+      "hipaa_breaches": [
+        {
+          "citation": "HIPAA (45 CFR \u00c2\u00a7164.312)",
+          "violation": "HIPAA (45 CFR \u00c2\u00a7164.312): Unencrypted email breaches PHI security",
+          "authority": "HIPAA (45 CFR \u00c2\u00a7164.312)"
+        }
+      ],
+      "record_keeping": [],
+      "communication_errors": []
+    }
+  }
+}

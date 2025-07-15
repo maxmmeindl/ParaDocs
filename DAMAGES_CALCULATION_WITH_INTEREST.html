@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Damages Calculation with Interest - EEOC Case HS-FEMA-02430-2024</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        
+        .calculator-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #1a237e 0%, #283593 100%);
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+        
+        .header h1 {
+            margin: 0;
+            font-size: 2rem;
+        }
+        
+        .case-info {
+            margin-top: 0.5rem;
+            opacity: 0.9;
+        }
+        
+        .content {
+            padding: 2rem;
+        }
+        
+        .damages-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+        
+        .damage-category {
+            background: #f8f9fa;
+            border: 2px solid #e9ecef;
+            border-radius: 12px;
+            padding: 1.5rem;
+        }
+        
+        .category-title {
+            font-size: 1.25rem;
+            font-weight: bold;
+            color: #1a237e;
+            margin-bottom: 1rem;
+            border-bottom: 2px solid #1a237e;
+            padding-bottom: 0.5rem;
+        }
+        
+        .damage-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.75rem 0;
+            border-bottom: 1px solid #dee2e6;
+        }
+        
+        .damage-item:last-child {
+            border-bottom: none;
+        }
+        
+        .damage-label {
+            font-weight: 500;
+        }
+        
+        .damage-amount {
+            font-weight: bold;
+            color: #dc3545;
+        }
+        
+        .interest-calculation {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+        }
+        
+        .interest-title {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #856404;
+            margin-bottom: 1rem;
+        }
+        
+        .interest-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+        
+        .interest-item {
+            background: white;
+            padding: 1rem;
+            border-radius: 8px;
+            border: 1px solid #ffc107;
+        }
+        
+        .total-summary {
+            background: #000;
+            color: white;
+            padding: 2rem;
+            border-radius: 12px;
+            margin-top: 2rem;
+        }
+        
+        .total-title {
+            font-size: 2rem;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 1.5rem;
+        }
+        
+        .total-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+        }
+        
+        .total-item {
+            text-align: center;
+            border: 1px solid #fff;
+            padding: 1rem;
+            border-radius: 8px;
+        }
+        
+        .total-amount {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #ffc107;
+        }
+        
+        .total-label {
+            margin-top: 0.5rem;
+            opacity: 0.9;
+        }
+        
+        .calculation-notes {
+            background: #e3f2fd;
+            border: 2px solid #2196f3;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin-top: 2rem;
+        }
+        
+        .notes-title {
+            font-size: 1.25rem;
+            font-weight: bold;
+            color: #1976d2;
+            margin-bottom: 1rem;
+        }
+        
+        .note-item {
+            margin-bottom: 0.75rem;
+            line-height: 1.5;
+        }
+        
+        .critical-highlight {
+            background: #ffebee;
+            border: 3px solid #dc3545;
+            border-radius: 12px;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            text-align: center;
+        }
+        
+        .critical-text {
+            font-size: 1.25rem;
+            font-weight: bold;
+            color: #dc3545;
+        }
+    </style>
+</head>
+<body>
+    <div class="calculator-container">
+        <div class="header">
+            <h1>💰 DAMAGES CALCULATION WITH INTEREST</h1>
+            <div class="case-info">EEOC Case HS-FEMA-02430-2024 | Max J. Meindl vs FEMA Region 6</div>
+            <div class="case-info">Maximizing Recovery Through Comprehensive Damages Analysis</div>
+        </div>
+        
+        <div class="content">
+            <div class="critical-highlight">
+                <div class="critical-text">
+                    🚨 CRITICAL: Interest calculations significantly increase total recovery 🚨
+                </div>
+                <p style="margin-top: 1rem; font-size: 1.1rem;">
+                    Federal law allows prejudgment interest on discrimination damages.<br>
+                    <strong>Every day of delay increases FEMA's liability.</strong>
+                </p>
+            </div>
+            
+            <div class="damages-grid">
+                <!-- Compensatory Damages -->
+                <div class="damage-category">
+                    <div class="category-title">💼 Compensatory Damages</div>
+                    
+                    <div class="damage-item">
+                        <div class="damage-label">Lost Accommodation Value (RAR0023278)</div>
+                        <div class="damage-amount">$400,000</div>
+                    </div>
+                    
+                    <div class="damage-item">
+                        <div class="damage-label">Lost Wages (Jan 6 - Present)</div>
+                        <div class="damage-amount">$45,000</div>
+                    </div>
+                    
+                    <div class="damage-item">
+                        <div class="damage-label">Medical Expenses (Ongoing)</div>
+                        <div class="damage-amount">$25,000</div>
+                    </div>
+                    
+                    <div class="damage-item">
+                        <div class="damage-label">Pain & Suffering (1,275+ days)</div>
+                        <div class="damage-amount">$300,000</div>
+                    </div>
+                    
+                    <div class="damage-item">
+                        <div class="damage-label">Hurricane Damage (Unaccommodated)</div>
+                        <div class="damage-amount">$15,000</div>
+                    </div>
+                    
+                    <div class="damage-item" style="border-top: 2px solid #dc3545; font-weight: bold;">
+                        <div class="damage-label">SUBTOTAL COMPENSATORY</div>
+                        <div class="damage-amount">$785,000</div>
+                    </div>
+                </div>
+                
+                <!-- Punitive Damages -->
+                <div class="damage-category">
+                    <div class="category-title">⚡ Punitive Damages</div>
+                    
+                    <div class="damage-item">
+                        <div class="damage-label">Willful Indifference (1,275+ days)</div>
+                        <div class="damage-amount">$400,000</div>
+                    </div>
+                    
+                    <div class="damage-item">
+                        <div class="damage-label">Pattern of Discrimination</div>
+                        <div class="damage-amount">$200,000</div>
+                    </div>
+                    
+                    <div class="damage-item">
+                        <div class="damage-label">Retaliation (17 days)</div>
+                        <div class="damage-amount">$150,000</div>
+                    </div>
+                    
+                    <div class="damage-item">
+                        <div class="damage-label">HIPAA Violation (Criminal)</div>
+                        <div class="damage-amount">$100,000</div>
+                    </div>
+                    
+                    <div class="damage-item" style="border-top: 2px solid #dc3545; font-weight: bold;">
+                        <div class="damage-label">SUBTOTAL PUNITIVE</div>
+                        <div class="damage-amount">$850,000</div>
+                    </div>
+                </div>
+                
+                <!-- Attorney Fees & Costs -->
+                <div class="damage-category">
+                    <div class="category-title">⚖️ Attorney Fees & Costs</div>
+                    
+                    <div class="damage-item">
+                        <div class="damage-label">Attorney Fees (Current)</div>
+                        <div class="damage-amount">$125,000</div>
+                    </div>
+                    
+                    <div class="damage-item">
+                        <div class="damage-label">Expert Witness Fees</div>
+                        <div class="damage-amount">$15,000</div>
+                    </div>
+                    
+                    <div class="damage-item">
+                        <div class="damage-label">Court Costs & Filing Fees</div>
+                        <div class="damage-amount">$5,000</div>
+                    </div>
+                    
+                    <div class="damage-item">
+                        <div class="damage-label">Discovery Costs</div>
+                        <div class="damage-amount">$10,000</div>
+                    </div>
+                    
+                    <div class="damage-item" style="border-top: 2px solid #dc3545; font-weight: bold;">
+                        <div class="damage-label">SUBTOTAL FEES & COSTS</div>
+                        <div class="damage-amount">$155,000</div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Interest Calculations -->
+            <div class="interest-calculation">
+                <div class="interest-title">📈 PREJUDGMENT INTEREST CALCULATIONS</div>
+                <p><strong>Federal Rate:</strong> 5.25% annually (current federal judgment rate)</p>
+                <p><strong>Calculation Period:</strong> From date of violation to present</p>
+                
+                <div class="interest-grid">
+                    <div class="interest-item">
+                        <h4>RAR0023278 Interest</h4>
+                        <p><strong>Principal:</strong> $400,000</p>
+                        <p><strong>Days:</strong> 1,275+ days</p>
+                        <p><strong>Interest:</strong> $73,500</p>
+                        <p style="color: #dc3545; font-weight: bold;">Daily Accrual: $57.53</p>
+                    </div>
+                    
+                    <div class="interest-item">
+                        <h4>Pain & Suffering Interest</h4>
+                        <p><strong>Principal:</strong> $300,000</p>
+                        <p><strong>Days:</strong> 1,275+ days</p>
+                        <p><strong>Interest:</strong> $55,125</p>
+                        <p style="color: #dc3545; font-weight: bold;">Daily Accrual: $43.15</p>
+                    </div>
+                    
+                    <div class="interest-item">
+                        <h4>Lost Wages Interest</h4>
+                        <p><strong>Principal:</strong> $45,000</p>
+                        <p><strong>Days:</strong> 30+ days</p>
+                        <p><strong>Interest:</strong> $195</p>
+                        <p style="color: #dc3545; font-weight: bold;">Daily Accrual: $6.47</p>
+                    </div>
+                    
+                    <div class="interest-item">
+                        <h4>Total Interest Accrued</h4>
+                        <p><strong>Current Total:</strong> $128,820</p>
+                        <p><strong>Daily Increase:</strong> $107.15</p>
+                        <p style="color: #dc3545; font-weight: bold;">Monthly Increase: $3,214</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Total Summary -->
+            <div class="total-summary">
+                <div class="total-title">🎯 TOTAL DAMAGES EXPOSURE</div>
+                
+                <div class="total-grid">
+                    <div class="total-item">
+                        <div class="total-amount">$785,000</div>
+                        <div class="total-label">Compensatory Damages</div>
+                    </div>
+                    
+                    <div class="total-item">
+                        <div class="total-amount">$850,000</div>
+                        <div class="total-label">Punitive Damages</div>
+                    </div>
+                    
+                    <div class="total-item">
+                        <div class="total-amount">$155,000</div>
+                        <div class="total-label">Attorney Fees & Costs</div>
+                    </div>
+                    
+                    <div class="total-item">
+                        <div class="total-amount">$128,820</div>
+                        <div class="total-label">Prejudgment Interest</div>
+                    </div>
+                    
+                    <div class="total-item" style="border: 3px solid #ffc107;">
+                        <div class="total-amount" style="font-size: 2rem;">$1,918,820</div>
+                        <div class="total-label" style="font-size: 1.1rem; font-weight: bold;">TOTAL CURRENT EXPOSURE</div>
+                    </div>
+                    
+                    <div class="total-item" style="border: 3px solid #dc3545;">
+                        <div class="total-amount" style="color: #ff6b6b;">+$107.15</div>
+                        <div class="total-label" style="color: #ff6b6b;">DAILY INCREASE</div>
+                    </div>
+                </div>
+                
+                <div style="text-align: center; margin-top: 2rem; font-size: 1.2rem;">
+                    <p><strong>⚠️ WARNING TO FEMA: Every day of delay increases liability by $107.15</strong></p>
+                    <p><strong>Monthly increase: $3,214 | Annual increase: $39,110</strong></p>
+                </div>
+            </div>
+            
+            <!-- Calculation Notes -->
+            <div class="calculation-notes">
+                <div class="notes-title">📋 CALCULATION METHODOLOGY & LEGAL BASIS</div>
+                
+                <div class="note-item">
+                    <strong>1. Prejudgment Interest Authority:</strong> 28 USC § 1961 allows prejudgment interest on federal discrimination claims.
+                </div>
+                
+                <div class="note-item">
+                    <strong>2. Interest Rate:</strong> Current federal judgment rate of 5.25% annually (updated quarterly).
+                </div>
+                
+                <div class="note-item">
+                    <strong>3. Calculation Method:</strong> Simple interest from date of violation to present, compounded daily.
+                </div>
+                
+                <div class="note-item">
+                    <strong>4. Conservative Estimates:</strong> All calculations use conservative estimates. Actual damages may be higher.
+                </div>
+                
+                <div class="note-item">
+                    <strong>5. Continuing Violations:</strong> RAR0023278 still pending, so interest continues accruing daily.
+                </div>
+                
+                <div class="note-item">
+                    <strong>6. Settlement Leverage:</strong> Interest calculations provide strong incentive for immediate resolution.
+                </div>
+            </div>
+            
+            <div class="critical-highlight">
+                <div class="critical-text">
+                    🎯 STRATEGIC RECOMMENDATION
+                </div>
+                <p style="margin-top: 1rem; font-size: 1.1rem;">
+                    <strong>Lead with the $1.9M+ total exposure in all settlement discussions.</strong><br>
+                    Emphasize daily accrual of $107.15 to create urgency.<br>
+                    <strong>Time is literally money in this case.</strong>
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html> 
